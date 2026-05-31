@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:57.000Z
+pubDatetime: 2026-05-31T22:31:01.000Z
 title: "Alemaes no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -19,14 +19,14 @@ faq:
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Selina Cerci (90) — 95% de probabilidade de alta, a 60k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 42 cartas em alta contra 86 em queda (média -2.23%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 42 cartas em alta contra 85 em queda (média -1.56%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **42 subiram** e **86 caíram**, com variação média de **-2.23%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **42 subiram** e **85 caíram**, com variação média de **-1.56%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
 > 🟢 **Maior alta:** Giulia Gwinn (89) **+36.4%** · 🔴 **Maior baixa:** Can Bozdoğan (87) **-44%**
 
@@ -64,11 +64,11 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Karim Adeyemi | 86 | Bundesliga | 158k coins | -30.1% | -21% |
 | Klara Bühl | 89 | GPFBL | 21k coins | -28.2% | -4.6% |
 | Selina Vobian | 81 | GPFBL | 27k coins | -25.8% | -2.7% |
-| Toni Kroos | 90 | Icons | 74k coins | -25.5% | +3.5% |
 | Deniz Undav | 91 | Bundesliga | 50k coins | -18.4% | +7.6% |
 | Lennart Karl | 91 | Bundesliga | 497k coins | -14.9% | +1% |
 | Jürgen Kohler | 90 | Bundesliga | 20k coins | -14.9% | -16.7% |
 | Jonathan Tah | 88 | Bundesliga | 22k coins | -13.1% | +22.9% |
+| Toni Kroos | 91 | Icons | 480k coins | -12.4% | +8.8% |
 
 
 ### Análise das baixas
@@ -129,7 +129,7 @@ Can Bozdoğan (87), -44% em 24h, a 24k coins.
 Pelo modelo FutQuant, Selina Cerci (90) — 95% de probabilidade de alta, a 60k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 42 cartas em alta contra 86 em queda (média -2.23%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 42 cartas em alta contra 85 em queda (média -1.56%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:57.000Z
+pubDatetime: 2026-05-31T22:31:01.000Z
 title: "Melhores investimentos em Alemaes no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -38,11 +38,11 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Joshua Kimmich | 89 | Bundesliga | 112k coins | +19.8% | +31% | 27% |
 | Mario Götze | 88 | Bundesliga | 54k coins | +7.5% | +29.7% | 95% |
 | Aleksandar Pavlović | 89 | Bundesliga | 29k coins | +17% | +23.2% | 5% |
+| Toni Kroos | 90 | Icons | 86k coins | +1.2% | +19.6% | 5% |
 | Ann-Katrin Berger | 88 | NWSL | 21k coins | +12% | +18.3% | 43% |
 | Matthias Ginter | 88 | Bundesliga | 27k coins | +16.1% | +16.1% | 95% |
-| Oliver Kahn | 91 | Icons | 83k coins | +14.5% | +16.1% | 35% |
 | Selina Cerci | 90 | GPFBL | 60k coins | +3.5% | +15.5% | 95% |
-| Philipp Lahm | 89 | Icons | 96k coins | +5.5% | +14.3% | 16% |
+| Gerd Müller | 92 | Icons | 88k coins | +11.4% | +14.3% | 38% |
 | Joshua Kimmich | 90 | Bundesliga | 32k coins | +18.4% | +14.2% | 5% |
 | Kevin Schade | 88 | Premier League | 130k coins | +15% | +13% | 84% |
 | Lukas Klostermann | 88 | Bundesliga | 117k coins | +6.4% | +10.4% | 50% |

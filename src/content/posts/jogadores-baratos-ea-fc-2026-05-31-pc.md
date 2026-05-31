@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:58.000Z
+pubDatetime: 2026-05-31T22:31:02.000Z
 title: "Jogadores baratos de Alemaes no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -34,16 +34,16 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | +4.4% |
 | Celia Šašić | 89 | ST | GPFBL | 12k coins | +8.9% |
 | Jamal Musiala | 88 | CAM | Bundesliga | 4k coins | +4.6% |
-| Nadine Keßler | 88 | CM | GPFBL | 11k coins | 0% |
 | Mario Gomez | 88 | ST | Bundesliga | 11k coins | -4.4% |
-| Vanessa Fudalla | 87 | CAM | GPFBL | 11k coins | -10.2% |
-| Ann-Katrin Berger | 87 | GK | NWSL | 11k coins | -10% |
-| Klara Bühl | 87 | LM | GPFBL | 12k coins | -11.1% |
-| Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 2k coins | +7.1% |
-| Loreen Bender | 86 | RM | GPFBL | 11k coins | 0% |
+| Nadine Keßler | 88 | CM | GPFBL | 11k coins | 0% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 15k coins | -18.9% |
+| Vanessa Fudalla | 87 | CAM | GPFBL | 11k coins | -13.7% |
+| Ann-Katrin Berger | 87 | GK | NWSL | 12k coins | -8% |
+| Nico Schlotterbeck | 87 | CB | Bundesliga | 12k coins | -5.9% |
+| Julian Brandt | 87 | CAM | Bundesliga | 13k coins | -48% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
-| Sara Däbritz | 86 | CM | Liga F | 11k coins | -70% |
-| Vanessa Diehm | 86 | CB | GPFBL | 11k coins | -79.4% |
+| Jamie Leweling | 86 | RM | Bundesliga | 11k coins | -80% |
+| Svenja Huth | 86 | CM | GPFBL | 11k coins | -13.5% |
 
 
 ## 📈 Destaques
