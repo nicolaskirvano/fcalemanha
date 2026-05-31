@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:43:53.000Z
+pubDatetime: 2026-05-31T21:28:58.000Z
 title: "Alemaes no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -19,14 +19,14 @@ faq:
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Uli Hoeneß (88) — 80% de probabilidade de alta, a 23k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 38 cartas em alta contra 61 em queda (média 19.92%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 38 cartas em alta contra 61 em queda (média -0.68%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **38 subiram** e **61 caíram**, com variação média de **19.92%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **38 subiram** e **61 caíram**, com variação média de **-0.68%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
 > 🟢 **Maior alta:** Christian Günter (88) **+51.1%** · 🔴 **Maior baixa:** Alexandra Popp (89) **-38.8%**
 
@@ -38,9 +38,9 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 | Deniz Undav | 91 | Bundesliga | 86k coins | +42.5% | +35.7% |
 | Danny da Costa | 84 | Bundesliga | 25k coins | +39.4% | +6.4% |
 | Kai Havertz | 91 | Premier League | 260k coins | +39% | +39% |
+| Toni Kroos | 90 | Icons | 99k coins | +31.1% | +17.9% |
 | Selina Vobian | 81 | GPFBL | 49k coins | +25% | -2% |
 | David Raum | 87 | Bundesliga | 22k coins | +22.5% | +13% |
-| Toni Kroos | 90 | Icons | 90k coins | +17.6% | +7.1% |
 | Nadine Keßler | 89 | GPFBL | 23k coins | +16.5% | -3.2% |
 | Serge Gnabry | 90 | Bundesliga | 400k coins | +15.9% | +11.1% |
 | Nick Woltemade | 90 | Premier League | 115k coins | +15.6% | +15% |
@@ -62,13 +62,13 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 | Alexandra Popp | 89 | GPFBL | 24k coins | -38.8% | -9.3% |
 | Uli Hoeneß | 88 | Bundesliga | 23k coins | -28.5% | +36.8% |
 | Lukas Klostermann | 88 | Bundesliga | 211k coins | -28.2% | -29% |
-| Oliver Kahn | 91 | Icons | 79k coins | -27.5% | +5.3% |
 | Nico Schlotterbeck | 87 | Bundesliga | 30k coins | -27.3% | -40% |
 | Manuel Neuer | 86 | Bundesliga | 57k coins | -18.6% | -5% |
 | Keven Schlotterbeck | 89 | Bundesliga | 20k coins | -16.7% | +8.1% |
 | Selina Cerci | 90 | GPFBL | 80k coins | -15.3% | -30.4% |
 | Nick Woltemade | 87 | Premier League | 50k coins | -15.1% | -32.7% |
 | Karim Adeyemi | 91 | Bundesliga | 214k coins | -14.1% | -16.7% |
+| Joshua Kimmich | 89 | Bundesliga | 233k coins | -13.7% | +6.4% |
 
 
 ### Análise das baixas
@@ -106,11 +106,13 @@ Alexandra Popp (89), -38.8% em 24h, a 24k coins.
 Pelo modelo FutQuant, Uli Hoeneß (88) — 80% de probabilidade de alta, a 23k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 38 cartas em alta contra 61 em queda (média 19.92%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 38 cartas em alta contra 61 em queda (média -0.68%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
+
+> 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
 
 ---
 

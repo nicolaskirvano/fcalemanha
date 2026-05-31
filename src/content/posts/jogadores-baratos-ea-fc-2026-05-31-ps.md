@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:43:52.000Z
+pubDatetime: 2026-05-31T21:28:57.000Z
 title: "Jogadores baratos de Alemaes no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -33,17 +33,17 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Florian Wirtz | 89 | CAM | Premier League | 7k coins | +15.8% |
 | Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | +2% |
 | Celia Šašić | 89 | ST | GPFBL | 14k coins | -6.9% |
+| Kristin Kögel | 89 | LM | GPFBL | 14k coins | -5.2% |
 | Rudi Völler | 89 | ST | Bundesliga | 14k coins | 0% |
 | Jamal Musiala | 88 | CAM | Bundesliga | 4k coins | -5.3% |
 | Nadine Keßler | 88 | CM | GPFBL | 11k coins | +2.3% |
 | Mario Gomez | 88 | ST | Bundesliga | 12k coins | 0% |
+| Franziska Harsch | 88 | CM | GPFBL | 12k coins | -3.8% |
+| Klara Bühl | 88 | LM | GPFBL | 13k coins | -13.3% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 13k coins | +6% |
 | Simone Laudehr | 88 | CM | GPFBL | 14k coins | +22.7% |
-| Klara Bühl | 88 | LM | GPFBL | 14k coins | -3.6% |
-| Franziska Harsch | 88 | CM | GPFBL | 14k coins | +3.8% |
-| Oliver Bierhoff | 88 | ST | Serie A TIM | 14k coins | +1.8% |
+| Uli Hoeneß | 88 | RM | Bundesliga | 14k coins | -3.3% |
 | Jonathan Tah | 87 | CB | Bundesliga | 2k coins | -5.6% |
-| Klara Bühl | 87 | LM | GPFBL | 12k coins | -19% |
-| Vanessa Fudalla | 87 | CAM | GPFBL | 12k coins | -14.3% |
 
 
 ## 📈 Destaques
@@ -56,7 +56,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **14k coins**
 
-- **Rudi Völler (89, ST)** da Bundesliga, a apenas **14k coins**
+- **Kristin Kögel (89, LM)** da GPFBL, a apenas **14k coins**
 
 
 ## Por que estas cartas?
@@ -81,6 +81,8 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 **Esses preços são reais?**  
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
+
+> 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
 
 ---
 

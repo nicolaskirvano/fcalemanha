@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:43:53.000Z
+pubDatetime: 2026-05-31T21:28:58.000Z
 title: "Jogadores baratos de Alemaes no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,32 +29,32 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Florian Wirtz | 89 | CAM | Premier League | 6k coins | +6.7% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 6k coins | +6.6% |
-| Celia Šašić | 89 | ST | GPFBL | 11k coins | -6.2% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 14k coins | +10% |
-| Jamal Musiala | 88 | CAM | Bundesliga | 4k coins | -2.3% |
-| Simone Laudehr | 88 | CM | GPFBL | 11k coins | 0% |
+| Florian Wirtz | 89 | CAM | Premier League | 6k coins | -10.4% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 7k coins | -1.4% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | +4.4% |
+| Celia Šašić | 89 | ST | GPFBL | 12k coins | +8.9% |
+| Jamal Musiala | 88 | CAM | Bundesliga | 4k coins | +4.6% |
 | Nadine Keßler | 88 | CM | GPFBL | 11k coins | 0% |
-| Mario Gomez | 88 | ST | Bundesliga | 12k coins | 0% |
-| Jonathan Tah | 87 | CB | Bundesliga | 3k coins | +107.7% |
+| Mario Gomez | 88 | ST | Bundesliga | 11k coins | -4.4% |
 | Vanessa Fudalla | 87 | CAM | GPFBL | 11k coins | -10.2% |
 | Ann-Katrin Berger | 87 | GK | NWSL | 11k coins | -10% |
 | Klara Bühl | 87 | LM | GPFBL | 12k coins | -11.1% |
 | Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 2k coins | +7.1% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
 | Loreen Bender | 86 | RM | GPFBL | 11k coins | 0% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
+| Sara Däbritz | 86 | CM | Liga F | 11k coins | -70% |
+| Vanessa Diehm | 86 | CB | GPFBL | 11k coins | -79.4% |
 
 
 ## 📈 Destaques
 
-- **Florian Wirtz (89, CAM)** da Premier League, a apenas **6k coins**
+- **Florian Wirtz (89, CAM)** da Premier League, a apenas **6k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **6k coins**
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **7k coins**
 
-- **Celia Šašić (89, ST)** da GPFBL, a apenas **11k coins**
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins**
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **14k coins**
+- **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
 
 - **Jamal Musiala (88, CAM)** da Bundesliga, a apenas **4k coins**
 
@@ -81,6 +81,8 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 **Esses preços são reais?**  
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
+
+> 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
 
 ---
 
