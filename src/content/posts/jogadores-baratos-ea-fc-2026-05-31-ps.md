@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:31:01.000Z
+pubDatetime: 2026-06-01T01:31:02.000Z
 title: "Jogadores baratos de Alemaes no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 31/05/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (31/05/2026)?"
-    a: "Florian Wirtz (89, Premier League) aparece como melhor custo-benefício, a 7k coins no Console (PS)."
+    a: "Joshua Kimmich (89, Bundesliga) aparece como melhor custo-benefício, a 6k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **31/05/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Florian Wirtz (89) por apenas 7k coins.
+> 💰 **Melhor pechincha:** Joshua Kimmich (89) por apenas 6k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 6k coins | 0% |
 | Florian Wirtz | 89 | CAM | Premier League | 7k coins | +15.8% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | +2% |
+| Celia Šašić | 89 | ST | GPFBL | 13k coins | -7.3% |
 | Kristin Kögel | 89 | LM | GPFBL | 14k coins | -5.2% |
-| Jamal Musiala | 88 | CAM | Bundesliga | 4k coins | -5.3% |
-| Simone Laudehr | 88 | CM | GPFBL | 11k coins | 0% |
+| Rudi Völler | 89 | ST | Bundesliga | 14k coins | -5% |
+| Jamal Musiala | 88 | CAM | Bundesliga | 4k coins | +2.6% |
+| Nadine Keßler | 88 | CM | GPFBL | 11k coins | -12% |
 | Mario Gomez | 88 | ST | Bundesliga | 11k coins | -4.3% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | -4.2% |
 | Franziska Harsch | 88 | CM | GPFBL | 12k coins | -3.8% |
+| Simone Laudehr | 88 | CM | GPFBL | 13k coins | +18.2% |
 | Klara Bühl | 88 | LM | GPFBL | 13k coins | -13.3% |
 | Oliver Bierhoff | 88 | ST | Serie A TIM | 13k coins | +6% |
-| Uli Hoeneß | 88 | RM | Bundesliga | 14k coins | -3.3% |
+| Uli Hoeneß | 88 | RM | Bundesliga | 14k coins | -6.7% |
+| Jonathan Tah | 87 | CB | Bundesliga | 2k coins | 0% |
 | Ann-Katrin Berger | 87 | GK | NWSL | 12k coins | -17.9% |
-| Vanessa Fudalla | 87 | CAM | GPFBL | 12k coins | -17.9% |
-| Nico Schlotterbeck | 87 | CB | Bundesliga | 12k coins | -16.1% |
-| Klara Bühl | 87 | LM | GPFBL | 12k coins | -17% |
 
 
 ## 📈 Destaques
 
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **6k coins**
+
 - **Florian Wirtz (89, CAM)** da Premier League, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **13k coins**
+- **Celia Šašić (89, ST)** da GPFBL, a apenas **13k coins**
 
 - **Kristin Kögel (89, LM)** da GPFBL, a apenas **14k coins**
 
-- **Jamal Musiala (88, CAM)** da Bundesliga, a apenas **4k coins**
-
-- **Simone Laudehr (88, CM)** da GPFBL, a apenas **11k coins**
+- **Rudi Völler (89, ST)** da Bundesliga, a apenas **14k coins**
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (31/05/2026)?**  
-Florian Wirtz (89, Premier League) aparece como melhor custo-benefício, a 7k coins no Console (PS).
+Joshua Kimmich (89, Bundesliga) aparece como melhor custo-benefício, a 6k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
