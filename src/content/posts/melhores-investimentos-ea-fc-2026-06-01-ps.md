@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:31:01.000Z
+pubDatetime: 2026-06-01T13:31:02.000Z
 title: "Melhores investimentos em Alemaes no EA FC (01/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -45,7 +45,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Nicole Anyomi | 86 | GPFBL | 99k coins | +16.5% | +19.3% | 50% |
 | Miroslav Klose | 88 | Icons | 90k coins | +7.7% | +19.1% | 50% |
 | Keven Schlotterbeck | 89 | Bundesliga | 18k coins | +21.7% | +14.1% | 5% |
-| Oliver Kahn | 91 | Icons | 86k coins | +15.4% | +13.9% | 35% |
+| Danny da Costa | 84 | Bundesliga | 17k coins | +6.4% | +13.6% | 18% |
 
 
 ## 📈 Análise dos destaques

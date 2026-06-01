@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:31:02.000Z
+pubDatetime: 2026-06-01T13:31:03.000Z
 title: "Melhores investimentos em Alemaes no EA FC (01/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 01/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/06/2026) no EA FC?"
-    a: "Danny da Costa (84, Bundesliga) lidera, com +37.5% em 7 dias a 25k coins no PC, e o modelo dá 32% de chance de seguir subindo."
+    a: "Timo Werner (87, Bundesliga) lidera, com +61.3% em 7 dias a 100k coins no PC, e o modelo dá 36% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,7 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **01/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Danny da Costa (84) acumula **+37.5% em 7 dias** a 25k coins.
+> 🔝 **Destaque:** Timo Werner (87) acumula **+61.3% em 7 dias** a 100k coins.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,26 +31,24 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Danny da Costa | 84 | Bundesliga | 25k coins | +4.2% | +37.5% | 32% |
-| Larissa Mühlhaus | 85 | GPFBL | 56k coins | +5.7% | +16.7% | 32% |
-| Nico Schlotterbeck | 87 | Bundesliga | 38k coins | +31.6% | +11.9% | 30% |
-| Franz Beckenbauer | 92 | Icons | 157k coins | +9% | +9.8% | 41% |
-| Mario Götze | 88 | Bundesliga | 74k coins | +2.8% | +6.4% | 59% |
-| Steffi Jones | 91 | Icons | 48k coins | +12.2% | +6% | 15% |
-| Matthias Ginter | 88 | Bundesliga | 75k coins | +1.4% | +5.6% | 48% |
+| Timo Werner | 87 | Bundesliga | 100k coins | +23.5% | +61.3% | 36% |
+| Sven Ulreich | 87 | Bundesliga | 30k coins | +1.7% | +21.2% | 52% |
+| Larissa Mühlhaus | 85 | GPFBL | 57k coins | +7.6% | +18.8% | 32% |
+| Ann-Katrin Berger | 88 | NWSL | 19k coins | +4.2% | +15.4% | 59% |
+| Mario Götze | 88 | Bundesliga | 75k coins | +3.4% | +7.1% | 59% |
 
 
 ## 📈 Análise dos destaques
 
-- **Danny da Costa (84)** — 25k coins, **+37.5% em 7 dias** (+4.2% em 24h). Preço +17% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Timo Werner (87)** — 100k coins, **+61.3% em 7 dias** (+23.5% em 24h). Preço +22% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Larissa Mühlhaus (85)** — 56k coins, **+16.7% em 7 dias** (+5.7% em 24h). Preço +33% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Sven Ulreich (87)** — 30k coins, **+21.2% em 7 dias** (+1.7% em 24h). Preço -32% abaixo da média de 7 dias (descontada). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Nico Schlotterbeck (87)** — 38k coins, **+11.9% em 7 dias** (+31.6% em 24h). Preço em linha com a média de 7 dias (+7%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Larissa Mühlhaus (85)** — 57k coins, **+18.8% em 7 dias** (+7.6% em 24h). Preço +34% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Franz Beckenbauer (92)** — 157k coins, **+9.8% em 7 dias** (+9% em 24h). Preço em linha com a média de 7 dias (-7%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Ann-Katrin Berger (88)** — 19k coins, **+15.4% em 7 dias** (+4.2% em 24h). Preço +13% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Mario Götze (88)** — 74k coins, **+6.4% em 7 dias** (+2.8% em 24h). Preço em linha com a média de 7 dias (+3%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Mario Götze (88)** — 75k coins, **+7.1% em 7 dias** (+3.4% em 24h). Preço em linha com a média de 7 dias (+4%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -68,7 +66,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/06/2026) no EA FC?**  
-Danny da Costa (84, Bundesliga) lidera, com +37.5% em 7 dias a 25k coins no PC, e o modelo dá 32% de chance de seguir subindo.
+Timo Werner (87, Bundesliga) lidera, com +61.3% em 7 dias a 100k coins no PC, e o modelo dá 36% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

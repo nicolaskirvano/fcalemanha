@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:31:01.000Z
+pubDatetime: 2026-06-01T13:31:01.000Z
 title: "Alemaes no EA FC hoje (01/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -19,14 +19,14 @@ faq:
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Bastian Schweinsteiger (89) — 95% de probabilidade de alta, a 119k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 47 cartas em alta contra 71 em queda (média 1.08%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 47 cartas em alta contra 71 em queda (média 1.13%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **47 subiram** e **71 caíram**, com variação média de **1.08%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **47 subiram** e **71 caíram**, com variação média de **1.13%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Selina Cerci (87) **+27.6%** · 🔴 **Maior baixa:** Felix Nmecha (86) **-37.5%**
 
@@ -37,13 +37,13 @@ Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Selina Cerci | 87 | GPFBL | 24k coins | +27.6% | +79.6% |
 | Nick Woltemade | 90 | Premier League | 195k coins | +25% | +32.6% |
 | Joshua Kimmich | 89 | Bundesliga | 140k coins | +25% | +55.6% |
+| Oliver Kahn | 91 | Icons | 86k coins | +21.8% | -9% |
 | Nico Schlotterbeck | 87 | Bundesliga | 33k coins | +21.3% | +5.6% |
 | Toni Kroos | 90 | Icons | 94k coins | +21.2% | +32.2% |
 | Jonathan Tah | 88 | Bundesliga | 26k coins | +20.4% | +47.2% |
 | Deniz Undav | 91 | Bundesliga | 58k coins | +17% | +4.5% |
 | Steffi Jones | 89 | Icons | 35k coins | +16.7% | +0.7% |
 | Nicole Anyomi | 86 | GPFBL | 99k coins | +16.5% | +19.3% |
-| Oliver Kahn | 91 | Icons | 86k coins | +15.4% | +13.9% |
 
 
 ### Análise das altas
@@ -129,7 +129,7 @@ Felix Nmecha (86), -37.5% em 24h, a 333k coins.
 Pelo modelo FutQuant, Bastian Schweinsteiger (89) — 95% de probabilidade de alta, a 119k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 47 cartas em alta contra 71 em queda (média 1.08%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 47 cartas em alta contra 71 em queda (média 1.13%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
