@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T22:31:02.000Z
+pubDatetime: 2026-06-02T01:31:03.000Z
 title: "Melhores investimentos em Alemaes no EA FC (01/06/2026): análise e previsões — PC"
 draft: false
 featured: true
