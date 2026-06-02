@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-02T10:31:03.000Z
+pubDatetime: 2026-06-02T13:31:02.000Z
 title: "Jogadores baratos de Alemaes no EA FC (02/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false

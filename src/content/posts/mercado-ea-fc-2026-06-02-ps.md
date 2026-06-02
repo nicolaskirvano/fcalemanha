@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-02T10:31:02.000Z
+pubDatetime: 2026-06-02T13:31:01.000Z
 title: "Alemaes no EA FC hoje (02/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
