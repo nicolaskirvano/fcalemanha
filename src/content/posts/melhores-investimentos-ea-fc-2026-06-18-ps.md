@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T22:31:47.000Z
+pubDatetime: 2026-06-18T23:23:44.000Z
 title: "Melhores investimentos em Alemaes no EA FC (18/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 18/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/06/2026) no EA FC?"
-    a: "Nadine Keßler (90, GPFBL) lidera, com +71.4% em 7 dias a 39k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo."
+    a: "Nico Schlotterbeck (87, Bundesliga) lidera, com +82.7% em 7 dias a 45k coins no Console (PS), e o modelo dá 68% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,15 +23,19 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **18/06/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Nadine Keßler (90) acumula **+71.4% em 7 dias** a 39k coins.
+> 🔝 **Destaque:** Nico Schlotterbeck (87) acumula **+82.7% em 7 dias** a 45k coins.
 
 
 ## 🧠 A leitura do dia
-O mercado de cartas alemãs no EA FC Ultimate Team para consoles PlayStation apresenta uma dinâmica interessante em 18 de junho de 2026, impulsionada por uma forte tendência de valorização nos últimos sete dias. Entre as opções mais acessíveis e promissoras, destaca-se Nadine Keßler (90, GPFBL), que registrou um aumento expressivo de 35,7% em apenas 24 horas, posicionando-se a 39 mil coins. Apesar de ter apenas 5% de probabilidade de alta futura, seu movimento recente sugere liquidez imediata. Paralelamente, Keven Schlotterbeck (89, Bundesliga) subiu 19,5% em 24h para 22 mil coins, e Simone Laudehr (91, GPFBL) cresceu 12,5% para 28 mil coins, ambas com a mesma baixa probabilidade de alta, indicando oportunidades de revenda rápida baseadas no momentum atual.
+Ao analisar o mercado de jogadores alemães no EA FC Ultimate Team para consoles PlayStation nesta sexta-feira, 18 de junho de 2026, observamos uma volatilidade interessante que exige uma leitura cuidadosa dos dados. A tendência de valorização nos últimos sete dias aponta para oportunidades específicas, onde a combinação entre o percentual de alta nas últimas 24 horas e a probabilidade estatística de continuação dessa alta define quais cartas merecem atenção imediata. O foco aqui não é apenas em quem subiu, mas em quem tem maior chance de sustentar ou aumentar esse valor, minimizando o risco de inversão rápida de preço.
 
-Para investidores que buscam maior segurança estatística, Larissa Mühlhaus (85, GPFBL) é um destaque crucial. Com 10,5% de alta em 24h a 20 mil coins, ela possui uma impressionante probabilidade de 95% de continuar subindo, oferecendo um risco minimizado. Outro ativo sólido é Jürgen Kohler (90, Bundesliga), que valorizou 15,9% em 24h para 40 mil coins, contando com 50% de probabilidade de alta, equilibrando retorno e segurança. Karim Adeyemi (85, Bundesliga) também merece atenção, com 12,7% de crescimento em 24h a 80 mil coins e 33% de chance de alta, atrativo para quem tem capital mais robusto.
+Entre os destaques masculinos da Bundesliga, Nico Schlotterbeck se apresenta como uma das opções mais seguras para entrada. Com uma alta de 4,1% nas últimas 24 horas e uma probabilidade de alta de 68%, o zagueiro de 87 rating, cotado a 45k coins, demonstra uma estabilidade relativa que atrai investidores cautelosos. Embora o percentual de subida não seja o mais explosivo da lista, a alta probabilidade sugere que a demanda está se consolidando, tornando-o um ativo de médio risco com potencial de retorno consistente. Já Joshua Kimmich, com 89 rating e preço de 157k coins, registrou um salto impressionante de 11,3% em apenas um dia. No entanto, a probabilidade de alta de apenas 27% indica que esse movimento pode ser uma correção momentânea ou uma compra impulsiva, sugerindo cautela extrema antes de realizar qualquer investimento significativo nesta carta de alto custo.
 
-No segmento de alto investimento, Toni Kroos (90, Icons) mostra estabilidade com 6,7% de alta em 24h a 133 mil coins, embora sua probabilidade de alta seja de apenas 18%. Steffi Jones (89, Icons) apresenta um perfil diferente, com 7,4% de alta em 24h a 29 mil coins, mas com uma alta probabilidade de 58% de valorização, tornando-a uma opção atrativa de médio prazo. Por fim, Sven Ulreich (87, Bundesliga) e Lisa Karl (84, GPFBL) completam o cenário com altas recentes, mas baixas probabilidades de continuidade, sugerindo cautela. O foco deve ser nas cartas com maior probabilidade de alta, como Mühlhaus e Jones, para garantir lucros sustentáveis.
+No segmento feminino, a Bundesliga Feminina (GPFBL) oferece oportunidades com perfis de risco distintos. Larissa Mühlhaus é, sem dúvida, a estrela estatística do dia. Sua carta de 85 rating, disponível por apenas 20k coins, apresenta uma probabilidade de alta extraordinária de 95%, impulsionada por uma subida de 9,3% nas últimas 24 horas. Esse cenário é raro e altamente favorável para entrada, pois a chance de o preço se manter ou subir é quase certeza, oferecendo uma relação risco-retorno extremamente atraente para carteiras com menor capital. Em contraste, cartas como Simone Laudehr e Keven Schlotterbeck, apesar de terem subido 14,6% e 22,5% respectivamente, possuem probabilidade de alta de apenas 5%. Isso indica que suas valorizações recentes foram provavelmente picos isolados, tornando-as mais adequadas para venda imediata do que para compra, pois o risco de uma correção brusca é elevado.
+
+Outros nomes merecem menção por equilibrarem moderadamente ganho e probabilidade. Karim Adeyemi, com 85 rating e preço de 80k coins, subiu 12,7% com 33% de chance de continuação, posicionando-se como uma aposta de risco médio para quem busca lucros mais expressivos do que os oferecidos pelas cartas de entrada. Steffi Jones, uma Icon de 89 rating a 31k coins, oferece uma probabilidade de alta de 58% após subir 7,4%, apresentando-se como uma alternativa sólida para quem prefere o status de ícone com uma base de segurança estatística razoável. Jürgen Kohler, com 90 rating e 50% de probabilidade de alta após subir 15,9%, também se destaca como uma opção equilibrada no mercado de jogadores mais antigos e caros.
+
+Por fim, é crucial observar que cartas como Sven Ulreich e Lisa Karl, apesar de suas altas de 13,2% e 5,2%, respectivamente, possuem probabilidades de baixa de 5% e 16%. Esses números reforçam a tese de que a subida recente foi um pico de curto prazo. Portanto, ao considerar a entrada no mercado de alemães hoje, a prioridade deve ser dada a ativos como Larissa Mühlhaus e Nico Schlotterbeck, onde a matemática do mercado favorece o investidor. Evite perseguir altas recentes em jogadores com baixa probabilidade de continuação, como Keven Schlotterbeck, a menos que a estratégia seja de revenda rápida no mesmo dia, aproveitando a euforia momentânea do mercado. A disciplina na análise das probabilidades é a chave para maximizar os lucros neste ciclo de mercado.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -39,32 +43,32 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Nadine Keßler | 90 | GPFBL | 39k coins | +35.7% | +71.4% | 5% |
-| Keven Schlotterbeck | 89 | Bundesliga | 22k coins | +19.5% | +46.3% | 5% |
-| Simone Laudehr | 91 | GPFBL | 28k coins | +12.5% | +44% | 5% |
-| Larissa Mühlhaus | 85 | GPFBL | 20k coins | +10.5% | +42.4% | 95% |
+| Nico Schlotterbeck | 87 | Bundesliga | 45k coins | +4.1% | +82.7% | 68% |
+| Joshua Kimmich | 89 | Bundesliga | 157k coins | +11.3% | +75.6% | 27% |
+| Simone Laudehr | 91 | GPFBL | 28k coins | +14.6% | +44.7% | 5% |
+| Keven Schlotterbeck | 89 | Bundesliga | 20k coins | +22.5% | +44.1% | 5% |
 | Sven Ulreich | 87 | Bundesliga | 54k coins | +13.2% | +40.8% | 5% |
-| Lisa Karl | 84 | GPFBL | 26k coins | +11.3% | +40.3% | 16% |
-| Steffi Jones | 89 | Icons | 29k coins | +7.4% | +34.9% | 58% |
+| Larissa Mühlhaus | 85 | GPFBL | 20k coins | +9.3% | +39% | 95% |
 | Karim Adeyemi | 85 | Bundesliga | 80k coins | +12.7% | +34.5% | 33% |
+| Steffi Jones | 89 | Icons | 31k coins | +7.4% | +33.3% | 58% |
 | Jürgen Kohler | 90 | Bundesliga | 40k coins | +15.9% | +33.3% | 50% |
-| Toni Kroos | 90 | Icons | 133k coins | +6.7% | +31.3% | 18% |
-| Florian Wirtz | 90 | Premier League | 160k coins | +1.9% | +28.5% | 48% |
-| Vanessa Fudalla | 88 | GPFBL | 46k coins | +8.2% | +27.6% | 23% |
-| Deniz Undav | 91 | Bundesliga | 72k coins | +22.8% | +27.3% | 63% |
-| Carolin Simon | 90 | GPFBL | 35k coins | +1.5% | +24.8% | 5% |
-| Karim Adeyemi | 86 | Bundesliga | 131k coins | +10.1% | +24.8% | 95% |
+| Lisa Karl | 84 | GPFBL | 26k coins | +5.2% | +32.5% | 16% |
+| Toni Kroos | 90 | Icons | 130k coins | +7.4% | +30.7% | 18% |
+| Deniz Undav | 91 | Bundesliga | 68k coins | +27.3% | +27.3% | 63% |
+| Rudi Völler | 89 | Bundesliga | 19k coins | +36.4% | +25% | 40% |
+| Luca Marseiler | 90 | Bundesliga 2 | 32k coins | +6.2% | +17.2% | 27% |
+| Nadine Keßler | 89 | GPFBL | 18k coins | +16.1% | +16.1% | 5% |
 
 
 ## 📈 Análise dos destaques
 
-- **Nadine Keßler (90)** — 39k coins, **+71.4% em 7 dias** (+35.7% em 24h). Preço +51% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Nico Schlotterbeck (87)** — 45k coins, **+82.7% em 7 dias** (+4.1% em 24h). Preço +17% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **68% de chance de seguir subindo**.
 
-- **Keven Schlotterbeck (89)** — 22k coins, **+46.3% em 7 dias** (+19.5% em 24h). Preço +15% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Joshua Kimmich (89)** — 157k coins, **+75.6% em 7 dias** (+11.3% em 24h). Preço +21% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Simone Laudehr (91)** — 28k coins, **+44% em 7 dias** (+12.5% em 24h). Preço +19% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Simone Laudehr (91)** — 28k coins, **+44.7% em 7 dias** (+14.6% em 24h). Preço +19% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Larissa Mühlhaus (85)** — 20k coins, **+42.4% em 7 dias** (+10.5% em 24h). Preço +9% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Keven Schlotterbeck (89)** — 20k coins, **+44.1% em 7 dias** (+22.5% em 24h). Preço em linha com a média de 7 dias (+7%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 - **Sven Ulreich (87)** — 54k coins, **+40.8% em 7 dias** (+13.2% em 24h). Preço +20% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
@@ -84,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/06/2026) no EA FC?**  
-Nadine Keßler (90, GPFBL) lidera, com +71.4% em 7 dias a 39k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo.
+Nico Schlotterbeck (87, Bundesliga) lidera, com +82.7% em 7 dias a 45k coins no Console (PS), e o modelo dá 68% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
