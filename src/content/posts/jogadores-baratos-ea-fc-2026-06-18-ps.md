@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:31:11.000Z
+pubDatetime: 2026-06-18T20:10:17.000Z
 title: "Jogadores baratos de Alemaes no EA FC (18/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,22 +29,22 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Florian Wirtz | 89 | CAM | Bundesliga | 7k coins | +80.5% |
-| Celia Šašić | 89 | ST | GPFBL | 14k coins | +2% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 7k coins | +73.8% |
+| Celia Šašić | 89 | ST | GPFBL | 13k coins | +8.2% |
 | Mario Gomez | 88 | ST | Bundesliga | 12k coins | +4.3% |
 | Simone Laudehr | 88 | CM | GPFBL | 13k coins | +10.6% |
-| Oliver Bierhoff | 88 | ST | Serie A TIM | 14k coins | +14.3% |
-| Lea Schüller | 86 | ST | GPFBL | 2k coins | -4.2% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 14k coins | +12.2% |
 | Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 4k coins | +51.9% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -8.6% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | +2.2% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 13k coins | -8.6% |
+| Alexandra Popp | 85 | ST | GPFBL | 2k coins | -6.7% |
 
 
 ## 📈 Destaques
 
 - **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Celia Šašić (89, ST)** da GPFBL, a apenas **14k coins**
+- **Celia Šašić (89, ST)** da GPFBL, a apenas **13k coins**
 
 - **Mario Gomez (88, ST)** da Bundesliga, a apenas **12k coins**
 
@@ -60,8 +60,8 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 - Filtramos preços anômalos para você não cair em cotação irreal.
 
 
-## 📐 Como o FutQuant gera estes dados
-Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC Ultimate Team, coletados de múltiplas fontes e atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias** (cotações irreais de cartas extintas ou erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. É por isso que aqui você vê dado tratado — não número solto.
+## 🧪 De onde vêm estes números
+Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** coletadas em múltiplas fontes do mercado, limpamos **ruído e anomalias** e calculamos tendência com **médias móveis de 24h e 7 dias** mais suporte/resistência. O resultado é leitura de mercado, não palpite.
 
 
 ## ❓ Perguntas frequentes
