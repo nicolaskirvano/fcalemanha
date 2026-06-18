@@ -1,25 +1,25 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T22:31:48.000Z
-title: "Jogadores baratos de Alemaes no EA FC (18/06/2026) — joias por menos de 15k — Console (PS)"
+pubDatetime: 2026-06-18T22:32:32.000Z
+title: "Jogadores baratos de Alemaes no EA FC (18/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
 tags:
   - baratos
   - custo-beneficio
   - budget
-  - ps
-description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 18/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
+  - pc
+description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 18/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (18/06/2026)?"
-    a: "Florian Wirtz (89, Bundesliga) aparece como melhor custo-benefício, a 7k coins no Console (PS)."
+    a: "Florian Wirtz (89, Bundesliga) aparece como melhor custo-benefício, a 7k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
     a: "Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias."
 ---
 
-Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **18/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
+Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **18/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
 > 💰 **Melhor pechincha:** Florian Wirtz (89) por apenas 7k coins.
 
@@ -29,34 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Florian Wirtz | 89 | CAM | Bundesliga | 7k coins | +57.8% |
-| Celia Šašić | 89 | ST | GPFBL | 12k coins | 0% |
-| Kristin Kögel | 89 | LM | GPFBL | 14k coins | +8% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 15k coins | +6.2% |
-| Simone Laudehr | 88 | CM | GPFBL | 11k coins | -2.1% |
-| Mario Gomez | 88 | ST | Bundesliga | 12k coins | +4.3% |
-| Oliver Bierhoff | 88 | ST | Serie A TIM | 13k coins | +8.2% |
-| Nadine Keßler | 88 | CM | GPFBL | 15k coins | +30.4% |
-| Benedict Hollerbach | 87 | ST | Bundesliga | 12k coins | -7.4% |
-| Lea Schüller | 86 | ST | GPFBL | 3k coins | +4% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | -19% |
-| Lisanne Gräwe | 86 | CM | GPFBL | 13k coins | +8.3% |
-| Loreen Bender | 86 | RM | GPFBL | 13k coins | +12.5% |
-| Angelo Stiller | 85 | CDM | Bundesliga | 14k coins | +18.4% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 7k coins | +51.1% |
+| Celia Šašić | 89 | ST | GPFBL | 13k coins | -7.7% |
+| Simone Laudehr | 88 | CM | GPFBL | 14k coins | +18.8% |
+| Lea Schüller | 86 | ST | GPFBL | 4k coins | 0% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | -13% |
 
 
 ## 📈 Destaques
 
 - **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
+- **Celia Šašić (89, ST)** da GPFBL, a apenas **13k coins**
 
-- **Kristin Kögel (89, LM)** da GPFBL, a apenas **14k coins**
+- **Simone Laudehr (88, CM)** da GPFBL, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **15k coins**
+- **Lea Schüller (86, ST)** da GPFBL, a apenas **4k coins**
 
-- **Simone Laudehr (88, CM)** da GPFBL, a apenas **11k coins**
+- **Oliver Bierhoff (86, ST)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -73,7 +63,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (18/06/2026)?**  
-Florian Wirtz (89, Bundesliga) aparece como melhor custo-benefício, a 7k coins no Console (PS).
+Florian Wirtz (89, Bundesliga) aparece como melhor custo-benefício, a 7k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
@@ -86,4 +76,4 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 
 ---
 
-*Preços de Console (PS), referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+*Preços de PC, referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
