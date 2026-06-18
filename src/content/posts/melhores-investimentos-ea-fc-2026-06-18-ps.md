@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:24:35.000Z
+pubDatetime: 2026-06-18T19:31:09.000Z
 title: "Melhores investimentos em Alemaes no EA FC (18/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -33,19 +33,19 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | --- | --- | --- | --- | --- | --- | --- |
 | Joshua Kimmich | 89 | Bundesliga | 166k coins | +16.9% | +84.4% | 27% |
 | Nick Woltemade | 87 | Premier League | 92k coins | +2.8% | +49.2% | 8% |
-| Simone Laudehr | 90 | GPFBL | 35k coins | +25% | +48.9% | 5% |
-| Lisa Karl | 84 | GPFBL | 28k coins | +17% | +46.7% | 16% |
-| Bastian Schweinsteiger | 89 | Icons | 129k coins | +6.6% | +46.6% | 95% |
-| Joelle Wedemeyer | 89 | GPFBL | 22k coins | +16.5% | +45.2% | 68% |
+| Simone Laudehr | 90 | GPFBL | 35k coins | +1.4% | +48.9% | 5% |
+| Bastian Schweinsteiger | 89 | Icons | 128k coins | +6.6% | +46.6% | 95% |
+| Joelle Wedemeyer | 89 | GPFBL | 25k coins | +16.5% | +45.2% | 68% |
+| Lisa Karl | 84 | GPFBL | 28k coins | +17% | +42.9% | 16% |
 | Steffi Jones | 89 | Icons | 30k coins | +6.2% | +38.4% | 58% |
-| Luca Marseiler | 90 | Bundesliga 2 | 34k coins | +26.6% | +37.7% | 27% |
-| Toni Kroos | 90 | Icons | 130k coins | +9.2% | +35.4% | 18% |
+| Luca Marseiler | 90 | Bundesliga 2 | 42k coins | +23.6% | +36.5% | 27% |
+| Toni Kroos | 90 | Icons | 128k coins | +9.2% | +35.4% | 18% |
 | Karim Adeyemi | 85 | Bundesliga | 80k coins | +15.1% | +34.5% | 33% |
-| Deniz Undav | 91 | Bundesliga | 76k coins | +12.2% | +33.6% | 63% |
-| Jürgen Kohler | 90 | Bundesliga | 38k coins | +37.9% | +33.3% | 50% |
-| Selina Cerci | 90 | GPFBL | 40k coins | +11.1% | +33.3% | 95% |
-| Vanessa Fudalla | 88 | GPFBL | 50k coins | +5.3% | +28.2% | 23% |
-| Nicole Anyomi | 86 | GPFBL | 128k coins | +4.1% | +25.5% | 50% |
+| Deniz Undav | 91 | Bundesliga | 76k coins | +10.5% | +33.6% | 63% |
+| Selina Cerci | 90 | GPFBL | 46k coins | +11.1% | +33.3% | 95% |
+| Toni Kroos | 90 | Icons | 98k coins | +4.5% | +27.2% | 5% |
+| Vanessa Fudalla | 88 | GPFBL | 49k coins | +7.6% | +26.9% | 23% |
+| Jürgen Kohler | 90 | Bundesliga | 38k coins | +31% | +26.7% | 50% |
 
 
 ## 📈 Análise dos destaques
@@ -54,11 +54,11 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **Nick Woltemade (87)** — 92k coins, **+49.2% em 7 dias** (+2.8% em 24h). Preço +17% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Simone Laudehr (90)** — 35k coins, **+48.9% em 7 dias** (+25% em 24h). Preço +30% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Simone Laudehr (90)** — 35k coins, **+48.9% em 7 dias** (+1.4% em 24h). Preço +30% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Lisa Karl (84)** — 28k coins, **+46.7% em 7 dias** (+17% em 24h). Preço +30% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Bastian Schweinsteiger (89)** — 128k coins, **+46.6% em 7 dias** (+6.6% em 24h). Preço em linha com a média de 7 dias (-1%). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
-- **Bastian Schweinsteiger (89)** — 129k coins, **+46.6% em 7 dias** (+6.6% em 24h). Preço em linha com a média de 7 dias (-1%). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
+- **Joelle Wedemeyer (89)** — 25k coins, **+45.2% em 7 dias** (+16.5% em 24h). Preço +9% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **68% de chance de seguir subindo**.
 
 
 ## Como usar esta lista
