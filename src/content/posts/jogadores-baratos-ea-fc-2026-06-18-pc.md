@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T23:24:52.000Z
+pubDatetime: 2026-06-19T01:33:22.000Z
 title: "Jogadores baratos de Alemaes no EA FC (18/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 18/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (18/06/2026)?"
-    a: "Celia Šašić (89, GPFBL) aparece como melhor custo-benefício, a 13k coins no PC."
+    a: "Marc-André ter Stegen (89, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 8k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **18/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Celia Šašić (89) por apenas 13k coins.
+> 💰 **Melhor pechincha:** Marc-André ter Stegen (89) por apenas 8k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,22 +29,22 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Celia Šašić | 89 | ST | GPFBL | 13k coins | -7.7% |
+| Marc-André ter Stegen | 89 | GK | LALIGA EA SPORTS | 8k coins | -9.6% |
+| Celia Šašić | 89 | ST | GPFBL | 13k coins | -1.9% |
 | Florian Wirtz | 88 | CAM | Bundesliga | 7k coins | +51.1% |
-| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +18.8% |
-| Lea Schüller | 86 | ST | GPFBL | 3k coins | 0% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | -13% |
+| Mario Gomez | 88 | ST | Bundesliga | 15k coins | +43.2% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | -16.7% |
 
 
 ## 📈 Destaques
+
+- **Marc-André ter Stegen (89, GK)** da LALIGA EA SPORTS, a apenas **8k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **13k coins**
 
 - **Florian Wirtz (88, CAM)** da Bundesliga, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Simone Laudehr (88, CM)** da GPFBL, a apenas **12k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Lea Schüller (86, ST)** da GPFBL, a apenas **3k coins**
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Oliver Bierhoff (86, ST)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
@@ -63,7 +63,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (18/06/2026)?**  
-Celia Šašić (89, GPFBL) aparece como melhor custo-benefício, a 13k coins no PC.
+Marc-André ter Stegen (89, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 8k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

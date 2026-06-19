@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T23:23:45.000Z
+pubDatetime: 2026-06-19T01:32:12.000Z
 title: "Jogadores baratos de Alemaes no EA FC (18/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,29 +30,29 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Celia Šašić | 89 | ST | GPFBL | 12k coins | 0% |
-| Florian Wirtz | 88 | CAM | Bundesliga | 7k coins | +54.3% |
-| Simone Laudehr | 88 | CM | GPFBL | 11k coins | -4.3% |
-| Mario Gomez | 88 | ST | Bundesliga | 12k coins | 0% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +28.3% |
-| Oliver Bierhoff | 88 | ST | Serie A TIM | 14k coins | +8.2% |
-| Benedict Hollerbach | 87 | ST | Bundesliga | 12k coins | -9.3% |
-| Lea Schüller | 86 | ST | GPFBL | 2k coins | +4% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | -2.2% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | -19% |
-| Angelo Stiller | 85 | CDM | Bundesliga | 14k coins | +20.8% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | +16.7% |
+| Florian Wirtz | 88 | CAM | Bundesliga | 7k coins | +56.5% |
+| Mario Gomez | 88 | ST | Bundesliga | 12k coins | -4.3% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +4.3% |
+| Nadine Keßler | 88 | CM | GPFBL | 14k coins | +23.9% |
+| Lea Schüller | 86 | ST | GPFBL | 2k coins | -8% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | -2.2% |
+| Loreen Bender | 86 | RM | GPFBL | 12k coins | -2.1% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | -23.2% |
+| Sara Doorsoun | 84 | CB | GPFBL | 2k coins | +14.3% |
 
 
 ## 📈 Destaques
 
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
 
-- **Florian Wirtz (88, CAM)** da Bundesliga, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Simone Laudehr (88, CM)** da GPFBL, a apenas **11k coins**
+- **Florian Wirtz (88, CAM)** da Bundesliga, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Mario Gomez (88, ST)** da Bundesliga, a apenas **12k coins**
 
-- **Nadine Keßler (88, CM)** da GPFBL, a apenas **12k coins** — já **valorizando**, sinal de procura crescente.
+- **Simone Laudehr (88, CM)** da GPFBL, a apenas **12k coins**
 
 
 ## Por que estas cartas?
