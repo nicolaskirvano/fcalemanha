@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T19:31:52.000Z
+pubDatetime: 2026-06-19T22:32:12.000Z
 title: "Alemaes no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,59 +13,59 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Timo Werner (87, Bundesliga), com +15.2% em 24h, a 47k coins no Console (PS)."
+    a: "Matthias Ginter (88, Bundesliga), com +21% em 24h, a 28k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Aleksandar Pavlović (89), -30.2% em 24h, a 30k coins."
+    a: "Karim Adeyemi (86), -41.5% em 24h, a 70k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Jamie Leweling (86) — 95% de probabilidade de alta, a 32k coins."
+    a: "Pelo modelo FutQuant, Marco Reus (89) — 95% de probabilidade de alta, a 250k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 22 cartas em alta contra 51 em queda (média -4.53%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 20 cartas em alta contra 55 em queda (média -6.3%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado de cartas alemãs no console PlayStation apresenta um cenário de extrema volatilidade e predomínio de quedas neste dia 19 de junho de 2026, refletindo um sentimento geral de desinvestimento onde apenas 22 ativos registraram altas contra um impressionante total de 51 quedas. A média de variação negativa de -4.53% nas últimas 24 horas serve como um alerta claro para traders que buscam estabilidade, indicando que a maioria dos ativos está sob pressão vendedora significativa devido à falta de liquidez ou finalização de metas de pacotes específicos. Este ambiente hostil exige uma leitura atenta das probabilidades de alta, pois mesmo em um mercado em queda, existem oportunidades isoladas de compra em ativos com alta probabilidade de recuperação, enquanto outros sofrem colapsos de valor sem perspectivas imediatas de retorno. O trader experiente deve navegar entre o pânico das vendas em massa e a oportunidade de acumulação estratégica, focando exclusivamente nos dados que indicam sustentabilidade de preço, ignorando ruídos de mercado que não possuem fundamentos de oferta e demanda consolidados. A análise detalhada dos movimentos extremos revela que a dinâmica não é homogênea, com certos segmentos como Icons e Bundesliga reagindo de formas distintas aos fluxos de entrada e saída de moedas da comunidade.
+O mercado alemão de hoje em console apresenta um cenário de extrema volatilidade e desconfiança, caracterizado por uma predominância esmagadora de quedas que sinaliza uma fase de desinvestimento massivo por parte dos traders experientes. Com um balanço de 55 quedas contra apenas 20 altas, o sentimento geral é de cautela, refletido na média negativa de -6.3% nos preços ao longo das últimas 24 horas, o que indica que a liquidez está sendo retirada rapidamente dos ativos mais especulativos. Este ambiente hostil para os investidores de curto prazo exige uma leitura apurada, pois mesmo jogadores com alta probabilidade de alta enfrentam resistência de venda, enquanto ícones e estrelas da Bundesliga sofem correções abruptas que desafiaram as expectativas iniciais do dia. A dinâmica atual sugere que o mercado está reagindo a eventos externos ou a uma saturação de inventário, fazendo com que apenas os ativos com fundamentos muito fortes consigam se manter ou subir, enquanto a maioria dos títulos entra em espiral descendente. Para o trader brasileiro, o dia de hoje é marcado pela necessidade de paciência e seletividade, já que comprar no fundo de uma queda pode ser perigoso sem sinais claros de estabilização, e segurar ativos em queda livre sem um plano de saída definido é a receita mais comum para perdas significativas de moedas.
 
-> 🟢 **Maior alta:** Timo Werner (87) **+15.2%** · 🔴 **Maior baixa:** Aleksandar Pavlović (89) **-30.2%**
+> 🟢 **Maior alta:** Matthias Ginter (88) **+21%** · 🔴 **Maior baixa:** Karim Adeyemi (86) **-41.5%**
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Timo Werner | 87 | Bundesliga | 47k coins | +15.2% | +5% |
-| Bastian Schweinsteiger | 88 | Icons | 80k coins | +11.9% | +6% |
-| Idrissa Touré | 83 | Serie A TIM | 102k coins | +8.2% | +112.9% |
-| Mario Götze | 88 | Bundesliga | 69k coins | +7.1% | -10.7% |
-| Verena Wieder | 85 | GPFBL | 21k coins | +5.3% | -2.5% |
-| Leroy Sané | 84 | Trendyol Süper Lig | 36k coins | +5% | -14.3% |
-| Maximilian Beier | 85 | Bundesliga | 38k coins | +4.8% | -22.2% |
-| Ann-Katrin Berger | 88 | NWSL | 36k coins | +3.6% | +5.9% |
-| Lennart Karl | 91 | Bundesliga | 590k coins | +3.4% | -15.5% |
-| Deniz Undav | 84 | Bundesliga | 43k coins | +3% | -0.6% |
+| Matthias Ginter | 88 | Bundesliga | 28k coins | +21% | -38.8% |
+| Keven Schlotterbeck | 89 | Bundesliga | 21k coins | +17.5% | +49.2% |
+| Verena Wieder | 85 | GPFBL | 22k coins | +17.1% | +9.9% |
+| Lewis Holtby | 86 | Eredivisie | 30k coins | +16.7% | +77.6% |
+| Florian Wirtz | 89 | Premier League | 198k coins | +16.1% | +30% |
+| Bastian Schweinsteiger | 88 | Icons | 88k coins | +12.7% | +11.9% |
+| Philipp Sander | 83 | Bundesliga | 45k coins | +12.5% | +7.1% |
+| Pascal Groß | 87 | Premier League | 20k coins | +11.7% | +32.3% |
+| Nicklas Shipnoski | 80 | 3. Liga | 48k coins | +10.5% | +3.3% |
+| Paul Wanner | 84 | Eredivisie | 45k coins | +6.3% | -2.3% |
 
 
-Entre as poucas luzes no cenário predominantemente negativo, Timo Werner se destaca com uma alta robusta de 15.2% em 24 horas, atingindo 47k coins, impulsionado por uma probabilidade de alta de 95% que sugere forte demanda de mercado para seu ativo. Bastian Schweinsteiger, na categoria Icons, também registra um desempenho notável com 11.9% de crescimento, posicionando-se em 80k coins e contando com uma probabilidade de alta de 81%, o que indica sustentabilidade no interesse dos colecionadores e formadores de times de alto nível. Idrissa Touré, embora com menor magnitude de 8.2% e probabilidade de alta de apenas 50%, alcança 102k coins, demonstrando que ativos de médio custo podem ter movimentos especulativos isolados baseados em necessidades específicas de meta ou pacotes temporários. Mario Götze consolida sua posição com 7.1% de alta e probabilidade de 95%, estabelecendo-se em 69k coins como uma das apostas mais seguras para traders que buscam ativos com fundamento estatístico forte de continuidade na tendência de valorização. Verena Wieder completa o quinteto de destaque com 5.3% de alta e probabilidade de 84%, valendo 21k coins, o que a torna uma opção acessível para diversificação de portfólio em um momento onde ativos de baixo custo oferecem menor risco de perda absoluta. Leroy Sané, com 5% de alta e probabilidade de 50% a 36k coins, e Maximilian Beier, com 4.8% e probabilidade de apenas 16% a 38k coins, mostram que nem todos os ganhos são sustentáveis, exigindo cautela na interpretação de pequenos aumentos de preço que podem ser apenas flutuações momentâneas sem suporte de compra real.
+Entre as poucas luzes nesse mar de vermelhos, destacam-se movimentos de compra focados em ativos de menor risco ou com utilidade imediata em esquemas específicos, liderados por Matthias Ginter, que registrou um impressionante alta de 21% em 24 horas, atingindo a marca de 28k coins com uma probabilidade de alta de 95%, o que sugere uma demanda sustentada por sua eficiência em defesas baratas. Keven Schlotterbeck também chamou atenção com uma subida de 17.5%, chegando a 21k coins, embora sua probabilidade de alta seja de apenas 5%, indicando que este movimento pode ser uma correção técnica de curto prazo ou resultado de compras algorítmicas específicas, exigindo cautela para entradas. Verena Wieder, da GPFBL, subiu 17.1% para 22k coins com uma robusta probabilidade de alta de 84%, mostrando que o segmento feminino alemão está atraindo compradores que buscam valor em meio à instabilidade do mercado geral. Lewis Holtby, atuando na Eredivisie, apresentou uma alta de 16.7% para 30k coins com 95% de probabilidade de alta, consolidando-se como um ativo seguro para quem busca exposição em meio-campistas alemães com boa relação custo-benefício. Florian Wirtz, apesar de estar na Premier League, manteve sua relevância alemã com alta de 16.1% para 198k coins e 93% de probabilidade de alta, demonstrando que os ativos premium de elite ainda conseguem atrair capital de traders ricos que fogem da volatilidade dos itens de baixo custo.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Aleksandar Pavlović | 89 | Bundesliga | 30k coins | -30.2% | -17% |
-| Marco Reus | 89 | MLS | 290k coins | -29.5% | -9.2% |
-| Nadine Keßler | 90 | GPFBL | 27k coins | -26.5% | +22.7% |
-| Karim Adeyemi | 85 | Bundesliga | 61k coins | -22.5% | +1.6% |
-| Thomas Müller | 83 | MLS | 47k coins | -21.6% | -14.9% |
-| Lothar Matthäus | 90 | Icons | 277k coins | -21.3% | +15.9% |
-| Marc-André ter Stegen | 89 | LALIGA EA SPORTS | 100k coins | -21.3% | -29.6% |
-| Felix Nmecha | 86 | Bundesliga | 180k coins | -21% | +3.8% |
-| Antonio Rüdiger | 91 | LALIGA EA SPORTS | 105k coins | -19.6% | -3.6% |
-| Leroy Sané | 91 | Trendyol Süper Lig | 28k coins | -18.4% | -17.3% |
+| Karim Adeyemi | 86 | Bundesliga | 70k coins | -41.5% | -37.6% |
+| Selina Cerci | 90 | GPFBL | 27k coins | -40.4% | -4.2% |
+| Alexandra Popp | 89 | GPFBL | 25k coins | -36.5% | +62.3% |
+| Lothar Matthäus | 90 | Icons | 260k coins | -34.2% | -3.1% |
+| Lothar Matthäus | 91 | Icons | 741k coins | -34.2% | -16.3% |
+| Vanessa Fudalla | 88 | GPFBL | 47k coins | -30.6% | -18.8% |
+| Marc-André ter Stegen | 89 | LALIGA EA SPORTS | 98k coins | -27.5% | -30.1% |
+| Leroy Sané | 91 | Trendyol Süper Lig | 28k coins | -27.3% | -20% |
+| Yann Aurel Bisseck | 84 | Serie A TIM | 33k coins | -27.2% | -20.1% |
+| Joshua Kimmich | 89 | Bundesliga | 114k coins | -26.8% | +4.5% |
 
 
-O lado das quedas é dominado por perdas severas, sendo Aleksandar Pavlović o mais afetado com uma queda de 30.2% em 24 horas, caindo para 30k coins e apresentando uma probabilidade de alta de apenas 5%, o que sinaliza um colapso total de confiança no ativo a curto prazo. Marco Reus, apesar de ser um ativo premium a 290k coins, sofreu uma queda de 29.5%, mas paradoxalmente mantém uma probabilidade de alta de 95%, sugerindo que a queda pode ser uma oportunidade de compra agressiva para traders com capital suficiente que acreditam na recuperação de longo prazo. Nadine Keßler registra uma queda de 26.5% para 27k coins com probabilidade de alta de 5%, indicando que ativos de alto rating mas baixa liquidez estão sendo abandonados rapidamente pelos usuários sem perspectiva de retorno imediato. Karim Adeyemi perde 22.5% de seu valor, estabilizando-se em 61k coins com probabilidade de alta de 33%, o que aponta para um mercado indeciso sobre seu futuro, onde a venda é predominante mas sem convicção total de que o preço final foi atingido. Thomas Müller, em 47k coins, cai 21.6% com probabilidade de alta de 42%, refletindo a instabilidade de ativos de legado que não encontram novas motivações de uso em times competitivos ou pacotes de meta. Lothar Matthäus, um ícone a 277k coins, perde 21.3% mas mantém probabilidade de alta de 68%, sugerindo que a volatilidade em ativos de alta gama é comum e que quedas acentuadas podem ser corrigidas se houver demanda de colecionadores. Marc-André ter Stegen, a 100k coins, cai 21.3% com probabilidade de alta de 80%, indicando que a queda pode ser temporária e que há forte potencial de recuperação, enquanto Felix Nmecha, a 180k coins, perde 21% mas possui probabilidade de alta de 95%, caracterizando-se como um dos ativos mais promissores para compra na baixa devido à sua alta probabilidade de valorização futura.
+As quedas, no entanto, são o destaque absoluto do dia, com Karim Adeyemi liderando a sangria ao despencar 41.5% para 70k coins, uma queda brutal para um ativo com 95% de probabilidade de alta, o que indica uma venda em pânico ou uma mudança drástica na meta de preço dos grandes investidores. Selina Cerci sofreu queda semelhante de 40.4% para 27k coins, também com 95% de probabilidade de alta, sugerindo que o mercado feminino está sofendo uma correção agressiva que pode ser uma oportunidade de compra de longo prazo, mas com riscos imediatos elevados. Alexandra Popp caiu 36.5% para 25k coins, e embora sua probabilidade de alta seja de 60%, a magnitude da queda exige análise cuidadosa para evitar comprar na faca caindo. Os ícones não estiveram imunes, com Lothar Matthäus (90) caindo 34.2% para 260k coins e a versão 91 despencando o mesmo percentual para 741k coins, mostrando que até os ativos mais seguros estão sendo liquidados para cobertura de perdas em outras áreas do mercado. Leroy Sané, na Trendyol Süper Lig, caiu 27.3% para 28k coins com 81% de probabilidade de alta, enquanto Marc-André ter Stegen baixou 27.5% para 98k coins, indicando que a liquidez está saindo dos goleiros e laterais alemães de forma acelerada.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -74,17 +74,17 @@ Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alt
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Jamie Leweling | 86 | 32k coins | 37k coins | 95% |
-| Marco Reus | 89 | 290k coins | 334k coins | 95% |
-| Bastian Schweinsteiger | 89 | 122k coins | 150k coins | 95% |
-| Felix Nmecha | 86 | 180k coins | 213k coins | 95% |
-| Mario Götze | 88 | 69k coins | 87k coins | 95% |
+| Marco Reus | 89 | 250k coins | 288k coins | 95% |
+| Matthias Ginter | 88 | 28k coins | 35k coins | 95% |
 | Timo Werner | 87 | 47k coins | 59k coins | 95% |
-| Malick Thiaw | 86 | 36k coins | 49k coins | 95% |
-| Jürgen Kohler | 89 | 16k coins | 18k coins | 95% |
+| Selina Cerci | 90 | 27k coins | 31k coins | 95% |
+| Jamie Leweling | 86 | 32k coins | 37k coins | 95% |
+| Felix Nmecha | 86 | 170k coins | 201k coins | 95% |
+| Bastian Schweinsteiger | 89 | 104k coins | 128k coins | 95% |
+| Karim Adeyemi | 86 | 70k coins | 87k coins | 95% |
 
 
-O modelo preditivo identifica Jamie Leweling como um ativo promissor com probabilidade de alta de 95% e preço atual de 32k coins, sugerindo uma entrada segura para traders que buscam diversificação em ativos de custo moderado. Marco Reus, apesar da queda recente, é projetado para alta com probabilidade de 95% a 290k coins, confirmando que a queda de 29.5% foi uma oportunidade de compra estratégica e não um sinal de fraqueza estrutural. Bastian Schweinsteiger, agora listado com probabilidade de alta de 95% a 122k coins, reforça sua posição de ativo premium com tendência de valorização sustentada, sendo um alvo prioritário para holdings de longo prazo. Felix Nmecha, com probabilidade de alta de 95% a 180k coins, valida a tese de compra na baixa, indicando que a queda de 21% foi um evento temporário e que o ativo deve se recuperar fortemente. Mario Götze e Timo Werner, ambos com probabilidade de alta de 95% a 69k e 47k coins respectivamente, consolidam-se como os ativos mais confiáveis do mercado alemão para operações de swing trading, oferecendo risco ajustado ao retorno. Malick Thiaw, a 36k coins, e Jürgen Kohler, a 16k coins, completam a lista com probabilidade de alta de 95%, indicando que o modelo vê potencial de valorização em ativos de baixo custo que podem servir como alavancagem rápida para traders com portfólios menores.
+O modelo projeta uma recuperação seletiva para ativos que foram vendidos em excesso, destacando Marco Reus com 95% de probabilidade de alta para 250k coins, um ativo de elite que deve atrair compradores de volta. Matthias Ginter, Timo Werner, Selina Cerci, Jamie Leweling, Felix Nmecha, Bastian Schweinsteiger e Karim Adeyemi também compõem a lista de probabilidade máxima de 95%, sugerindo que o mercado está reavaliando rapidamente esses ativos após as quedas iniciais.
 
 
 ## ⚠️ Alerta de queda projetada
@@ -93,18 +93,18 @@ Onde o sinal aponta **tendência de baixa** no curto prazo — atenção antes d
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Aleksandar Pavlović | 89 | 30k coins | -15.6% |
-| Nico Schlotterbeck | 87 | 32k coins | -17.3% |
 | Sara Däbritz | 86 | 30k coins | -17.3% |
-| Kai Havertz | 91 | 274k coins | -29.2% |
 | Niklas Süle | 85 | 32k coins | -21.3% |
-| Nadine Keßler | 90 | 27k coins | -29.1% |
-| Joshua Kimmich | 90 | 46k coins | -29.2% |
-| Birgit Prinz | 93 | 52k coins | -29.1% |
+| Nico Schlotterbeck | 87 | 32k coins | -17.3% |
+| Simone Laudehr | 90 | 35k coins | -17.4% |
+| Angelo Stiller | 91 | 26k coins | -15.6% |
+| Kevin Schade | 84 | 38k coins | -16.8% |
+| Steffi Jones | 89 | 68k coins | -15.7% |
+| Toni Kroos | 90 | 90k coins | -17.4% |
 
 
 ## 🎯 A estratégia do dia
-A estratégia do dia deve focar na compra agressiva de ativos com alta probabilidade de recuperação que sofreram quedas significativas, como Felix Nmecha e Marco Reus, aproveitando o pânico do mercado para acumular ativos de alta probabilidade de valorização. Simultaneamente, é recomendado segurar ativos em alta sustentada como Timo Werner e Mario Götze, pois suas probabilidades de alta de 95% indicam que a tendência de valorização deve continuar no curto prazo. Traders devem evitar completamente ativos como Aleksandar Pavlović e Nadine Keßler, cujas probabilidades de alta de 5% e quedas acentuadas indicam ausência de suporte de mercado e risco elevado de perda contínua. A diversificação entre ativos de baixo custo como Jürgen Kohler e ativos premium como Bastian Schweinsteiger permite equilibrar o portfólio, mitigando riscos enquanto se busca retornos exponenciais em ativos de alta liquidez. O timing de compra deve ser executado imediatamente após a confirmação das quedas de 24 horas, aproveitando a inércia vendedora para adquirir ativos a preços descontados antes da correção projetada pelo modelo. Monitorar a liquidez diária é essencial, pois em um mercado com média de -4.53%, a velocidade de execução das operações pode ser a diferença entre lucro e prejuízo, exigindo disciplina e adesão estrita aos dados de probabilidade apresentados.
+A estratégia para hoje deve ser extremamente conservadora, focando na compra apenas de ativos com probabilidade de alta de 95% que já apresentaram correções significativas, como Selina Cerci e Karim Adeyemi, mas aguardando confirmação de estabilização de preço antes de entrar em volume. Segure os ativos premium como Florian Wirtz e Bastian Schweinsteiger, pois sua alta probabilidade de alta e natureza de ícone ou estrela os torna refúgios seguros em tempos de turbulência. Evite totalmente comprar na queda de Lothar Matthäus ou Leroy Sané até que haja sinais claros de suporte, pois a velocidade da saída de capital pode prolongar a desvalorização. Oportunidades de arbitragem podem surgir com Matthias Ginter e Lewis Holtby, dada sua alta probabilidade e preço acessível, mas o volume deve ser pequeno para mitigar riscos. Priorize a preservação de capital e a acumulação de moedas para oportunidades futuras, já que o mercado em baixa tende a se aprofundar antes de reverter, tornando a paciência a virtude mais valiosa do dia.
 
 
 ## 📊 Nossa metodologia em 30 segundos
@@ -114,16 +114,16 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
-Timo Werner (87, Bundesliga), com +15.2% em 24h, a 47k coins no Console (PS).
+Matthias Ginter (88, Bundesliga), com +21% em 24h, a 28k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Aleksandar Pavlović (89), -30.2% em 24h, a 30k coins.
+Karim Adeyemi (86), -41.5% em 24h, a 70k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Jamie Leweling (86) — 95% de probabilidade de alta, a 32k coins.
+Pelo modelo FutQuant, Marco Reus (89) — 95% de probabilidade de alta, a 250k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 22 cartas em alta contra 51 em queda (média -4.53%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 20 cartas em alta contra 55 em queda (média -6.3%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
