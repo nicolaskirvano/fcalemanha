@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T16:32:57.000Z
+pubDatetime: 2026-06-19T19:32:17.000Z
 title: "Melhores investimentos em Alemaes no EA FC (19/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Nadine Keßler (90, GPFBL) lidera, com +70.5% em 7 dias a 28k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo."
+    a: "Joshua Kimmich (89, Bundesliga) lidera, com +41.6% em 7 dias a 119k coins no Console (PS), e o modelo dá 27% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Nadine Keßler (90) acumula **+70.5% em 7 dias** a 28k coins.
+> 🔝 **Destaque:** Joshua Kimmich (89) acumula **+41.6% em 7 dias** a 119k coins.
 
 
 ## 🔎 Análise do mercado hoje
-No cenário atual do EA FC Ultimate Team para consoles PlayStation, analisando a data de 19 de junho de 2026, o mercado de jogadores alemães apresenta volatilidade interessante, com oportunidades claras para investidores atentos às tendências de valorização de curto prazo. Ao examinar os dados dos últimos sete dias, identificamos um grupo seleto de cartas que não apenas registraram aumentos significativos em suas cotações nas últimas 24 horas, mas que também possuem alta probabilidade estatística de continuar subindo, tornando-as alvos prioritários para entrada imediata.
+No cenário atual do mercado de Ultimate Team no console PlayStation, datado de 19 de junho de 2026, a análise dos jogadores alemães revela oportunidades distintas baseadas na volatilidade recente e na probabilidade estatística de valorização. Ao observar os dados de tendência de alta nos últimos sete dias, destaca-se imediatamente a performance de Timo Werner (87, Bundesliga). Com uma impressionante alta de 15,2% em apenas 24 horas, Werner atingiu os 47k coins, apresentando a probabilidade mais elevada do grupo analisado, com 95% de chance de continuar subindo. Essa combinação de momentum agressivo e alta probabilidade sugere que a carta está em um ponto de inflexão crítica, tornando-a uma das apostas mais sólidas para entrada imediata, especialmente para squads focados em velocidade e ataque rápido na liga.
 
-Dentre todas as opções disponíveis, Selina Cerci se destaca como a oportunidade mais robusta do momento. Com uma valorização impressionante de 31,2% em apenas 24 horas e uma probabilidade de alta de 95%, esta carta de 90 rating da GPFBL está cotada a 56 mil moedas. A combinação de um salto de preço tão expressivo com uma certeza quase absoluta de continuidade positiva sugere forte demanda no mercado, possivelmente impulsionada por eventos in-game ou escassez de oferta, consolidando-a como a carta com melhor risco-retorno para investimento de curto prazo.
+Outro ativo que merece atenção prioritária é Jürgen Kohler (89, Bundesliga). O goleiro registrou uma valorização de 9,8% em 24 horas, cotado a 16k coins, e compartilha com Werner a probabilidade de 95% de alta contínua. A sinergia entre o aumento recente do preço e a alta confiança estatística indica uma forte demanda no mercado, possivelmente impulsionada por promoções de equipe ou melhorias em meta. Para investidores que buscam segurança com retorno potencial, Kohler oferece um perfil de risco ajustado muito favorável, já que a baixa base de preço combinada com a alta probabilidade de alta reduz a exposição a quedas bruscas.
 
-Outro nome que merece atenção absoluta é Lewis Holtby. Embora seja uma carta de Eredivisie com rating de 86, seu desempenho no mercado tem sido excepcional. Holtby registrou um aumento de 17,4% em 24 horas e compartilha com Selina Cerci a probabilidade de alta de 95%. Cotada a 25 mil moedas, esta jogadora oferece uma entrada de capital mais acessível com segurança estatística máxima, ideal para portfólios que buscam diversificação sem comprometer a liquidez imediata.
+No segmento de ícones, Bastian Schweinsteiger (88, Icons) apresenta um comportamento robusto, com alta de 11,9% em 24 horas e valorização a 80k coins. Sua probabilidade de alta é de 81%, igual à de Uli Hoeneß, o que posiciona ambas as cartas como investimentos de médio prazo com boa fundamentação. Schweinsteiger, sendo um ícone, tende a ter uma base de preço mais estável, mas o movimento recente sugere que o mercado está reavaliando seu custo-benefício em relação a outras opções de meio-campo. A entrada aqui é recomendada para quem deseja diversificar com ativos de maior valor nominal, aproveitando a tendência estabelecida.
 
-Para os investidores dispostos a assumir riscos moderados em troca de potencial de retorno sólido, Nico Schlotterbeck e Deniz Undav apresentam perfis atrativos. Schlotterbeck, com 87 rating da Bundesliga, subiu 4,9% em 24 horas e possui 68% de probabilidade de alta, estando a 34 mil moedas. Já Undav, uma carta mais cara de 91 rating a 75 mil moedas, cresceu 6,4% e mantém 63% de probabilidade de valorização. Ambos indicam uma tendência de alta sustentada, sendo Undav uma opção para quem busca ativos de maior valor agregado com boa perspectiva de crescimento.
+Uli Hoeneß (88, Bundesliga), cotado a 18k coins, mostra uma alta de 5,6% em 24 horas com a mesma probabilidade de 81% de continuar subindo. Embora o percentual de alta seja menor que o de Werner ou Kohler, a consistência estatística sugere uma valorização mais gradual, porém sustentada. Essa carta pode ser ideal para estratégias de acumulação lenta, onde o investidor busca evitar volatilidade extrema enquanto captura ganhos consistentes no mercado de jogadores lendários ou antigos da Bundesliga.
 
-Defensivamente, Christian Günter surge como uma joia escondida no mercado. Com apenas 84 rating, esta carta da Bundesliga surpreendeu com um salto de 33,8% em 24 horas, a maior variação percentual entre as cartas analisadas. Com 80% de probabilidade de alta e cotada a apenas 16 mil moedas, Günter representa uma oportunidade de "low cap" com alto potencial de multiplicação rápida, aproveitando a escassez ou necessidades específicas de meta squads.
+Por outro lado, cartas como Joshua Kimmich (89, Bundesliga) e Manuel Neuer (86, Bundesliga) exigem cautela. Kimmich, a 119k coins, subiu 1,3% com apenas 27% de probabilidade de alta, indicando possível saturação ou resistência de vendedores. Neuer, a 54k coins, com 2,8% de alta e 54% de probabilidade, apresenta um cenário de incerteza. Entrar nessas posições agora envolve maior risco, pois a probabilidade estatística não sustenta fortemente uma tendência de alta imediata, sugerindo que o mercado pode estar consolidando preços antes de qualquer nova movimentação significativa.
 
-Por outro lado, é crucial evitar entradas em cartas como Nadine Keßler, Keven Schlotterbeck e Jürgen Kohler neste momento. Apesar de Keßler ter subido 10,3%, sua probabilidade de alta é de apenas 5%, indicando possível pico ou correção iminente. Da mesma forma, Keven Schlotterbeck (5% de probabilidade) e Kohler (50% de probabilidade) não oferecem a segurança estatística necessária para uma compra segura hoje. O foco deve permanecer estritamente nas cartas com alta probabilidade de continuidade, como Cerci, Holtby e Günter, para maximizar lucros neste ciclo de mercado.
+Finalmente, Kristin Kögel (89, GPFBL) e Ann-Katrin Berger (88, NWSL) apresentam perfis distintos. Kögel teve alta de 17,9% a 16k coins, mas com apenas 23% de probabilidade de alta, sugerindo um pico momentâneo de preço. Berger, com 3,6% de alta a 36k coins e 43% de probabilidade, mostra um crescimento moderado. Para o investidor cauteloso, a recomendação é evitar entradas agressivas nessas cartas até que haja confirmação de tendência mais sólida, priorizando Werner, Kohler e Schweinsteiger como os principais focos de investimento hoje.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,34 +45,27 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Nadine Keßler | 90 | GPFBL | 28k coins | +10.3% | +70.5% | 5% |
-| Nico Schlotterbeck | 87 | Bundesliga | 34k coins | +4.9% | +48.3% | 68% |
-| Selina Cerci | 90 | GPFBL | 56k coins | +31.2% | +44.8% | 95% |
-| Jürgen Kohler | 90 | Bundesliga | 38k coins | +2.6% | +44.4% | 50% |
-| Lewis Holtby | 86 | Eredivisie | 25k coins | +17.4% | +40.3% | 95% |
-| Keven Schlotterbeck | 89 | Bundesliga | 20k coins | +4.7% | +38.5% | 5% |
-| Deniz Undav | 91 | Bundesliga | 75k coins | +6.4% | +37.6% | 63% |
-| Oliver Bierhoff | 88 | Serie A TIM | 16k coins | +10.3% | +33.3% | 55% |
-| Steffi Jones | 89 | Icons | 30k coins | +1.7% | +32.6% | 58% |
-| Christian Günter | 84 | Bundesliga | 16k coins | +33.8% | +29.9% | 80% |
-| Angelo Stiller | 91 | Bundesliga | 38k coins | +10.1% | +26.7% | 5% |
-| Kevin Schade | 88 | Premier League | 56k coins | +3.1% | +25.9% | 84% |
-| Uli Hoeneß | 88 | Bundesliga | 21k coins | +14.3% | +25% | 81% |
-| David Raum | 87 | Bundesliga | 25k coins | +7.1% | +20% | 45% |
-| Ann-Katrin Berger | 88 | NWSL | 37k coins | +8.7% | +14.5% | 43% |
+| Joshua Kimmich | 89 | Bundesliga | 119k coins | +1.3% | +41.6% | 27% |
+| Uli Hoeneß | 88 | Bundesliga | 18k coins | +5.6% | +20.6% | 81% |
+| Jürgen Kohler | 89 | Bundesliga | 16k coins | +9.8% | +16.7% | 95% |
+| Kristin Kögel | 89 | GPFBL | 16k coins | +17.9% | +15.8% | 23% |
+| Manuel Neuer | 86 | Bundesliga | 54k coins | +2.8% | +9.5% | 54% |
+| Bastian Schweinsteiger | 88 | Icons | 80k coins | +11.9% | +6% | 81% |
+| Ann-Katrin Berger | 88 | NWSL | 36k coins | +3.6% | +5.9% | 43% |
+| Timo Werner | 87 | Bundesliga | 47k coins | +15.2% | +5% | 95% |
 
 
 ## 📈 Análise dos destaques
 
-- **Nadine Keßler (90)** — 28k coins, **+70.5% em 7 dias** (+10.3% em 24h). Preço em linha com a média de 7 dias (-1%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Joshua Kimmich (89)** — 119k coins, **+41.6% em 7 dias** (+1.3% em 24h). Preço -12% abaixo da média de 7 dias (descontada). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Nico Schlotterbeck (87)** — 34k coins, **+48.3% em 7 dias** (+4.9% em 24h). Preço -16% abaixo da média de 7 dias (descontada). 🔮 O modelo reforça a tese: **68% de chance de seguir subindo**.
+- **Uli Hoeneß (88)** — 18k coins, **+20.6% em 7 dias** (+5.6% em 24h). Preço em linha com a média de 7 dias (+3%). 🔮 O modelo reforça a tese: **81% de chance de seguir subindo**.
 
-- **Selina Cerci (90)** — 56k coins, **+44.8% em 7 dias** (+31.2% em 24h). Preço +60% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
+- **Jürgen Kohler (89)** — 16k coins, **+16.7% em 7 dias** (+9.8% em 24h). Preço +20% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
-- **Jürgen Kohler (90)** — 38k coins, **+44.4% em 7 dias** (+2.6% em 24h). Preço +24% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Kristin Kögel (89)** — 16k coins, **+15.8% em 7 dias** (+17.9% em 24h). Preço em linha com a média de 7 dias (-0%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Lewis Holtby (86)** — 25k coins, **+40.3% em 7 dias** (+17.4% em 24h). Preço em linha com a média de 7 dias (+3%). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
+- **Manuel Neuer (86)** — 54k coins, **+9.5% em 7 dias** (+2.8% em 24h). Preço +9% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -90,7 +83,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Nadine Keßler (90, GPFBL) lidera, com +70.5% em 7 dias a 28k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo.
+Joshua Kimmich (89, Bundesliga) lidera, com +41.6% em 7 dias a 119k coins no Console (PS), e o modelo dá 27% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
