@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T13:32:08.000Z
+pubDatetime: 2026-06-20T16:32:07.000Z
 title: "Jogadores baratos de Alemaes no EA FC (20/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,32 +29,31 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Celia Šašić | 89 | ST | GPFBL | 12k coins | +4.3% |
+| Celia Šašić | 89 | ST | GPFBL | 12k coins | 0% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | 0% |
 | Mario Gomez | 88 | ST | Bundesliga | 12k coins | 0% |
-| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +2.2% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +6.5% |
-| Franziska Harsch | 88 | CM | GPFBL | 15k coins | +18% |
-| Pascal Groß | 87 | CAM | Premier League | 15k coins | -20.3% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +2.1% |
+| Franziska Harsch | 88 | CM | GPFBL | 14k coins | +12% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 14k coins | +3.4% |
 | Lea Schüller | 86 | ST | GPFBL | 2k coins | -4.2% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | -2.1% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | +2.2% |
-| Loreen Bender | 86 | RM | GPFBL | 12k coins | +2.1% |
-| Lisanne Gräwe | 86 | CM | GPFBL | 14k coins | +16.7% |
-| Lisa Baum | 85 | RM | GPFBL | 13k coins | -19.7% |
-| Sara Doorsoun | 84 | CB | GPFBL | 3k coins | 0% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | -6.1% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | 0% |
+| Loreen Bender | 86 | RM | GPFBL | 12k coins | -4.1% |
+| Lisanne Gräwe | 86 | CM | GPFBL | 13k coins | +8.3% |
+| Angelo Stiller | 85 | CDM | Bundesliga | 13k coins | +29.4% |
 
 
 ## 📈 Destaques
 
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
 
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **12k coins**
-
 - **Simone Laudehr (88, CM)** da GPFBL, a apenas **12k coins**
+
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **12k coins**
 
 - **Nadine Keßler (88, CM)** da GPFBL, a apenas **12k coins**
 
-- **Franziska Harsch (88, CM)** da GPFBL, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Franziska Harsch (88, CM)** da GPFBL, a apenas **14k coins**
 
 
 ## Por que estas cartas?
