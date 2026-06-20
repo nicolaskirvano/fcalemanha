@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T16:32:07.000Z
+pubDatetime: 2026-06-20T19:32:06.000Z
 title: "Jogadores baratos de Alemaes no EA FC (20/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,30 +30,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Celia Šašić | 89 | ST | GPFBL | 12k coins | 0% |
-| Simone Laudehr | 88 | CM | GPFBL | 12k coins | 0% |
-| Mario Gomez | 88 | ST | Bundesliga | 12k coins | 0% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +2.1% |
-| Franziska Harsch | 88 | CM | GPFBL | 14k coins | +12% |
-| Oliver Bierhoff | 88 | ST | Serie A TIM | 14k coins | +3.4% |
-| Lea Schüller | 86 | ST | GPFBL | 2k coins | -4.2% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | -6.1% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | 0% |
-| Loreen Bender | 86 | RM | GPFBL | 12k coins | -4.1% |
+| Nadine Keßler | 88 | CM | GPFBL | 11k coins | -6.4% |
+| Mario Gomez | 88 | ST | Bundesliga | 12k coins | +6.4% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +4.2% |
+| Franziska Harsch | 88 | CM | GPFBL | 12k coins | +2% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 13k coins | -11.9% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | -4.3% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | -2.1% |
+| Loreen Bender | 86 | RM | GPFBL | 12k coins | -12.2% |
 | Lisanne Gräwe | 86 | CM | GPFBL | 13k coins | +8.3% |
-| Angelo Stiller | 85 | CDM | Bundesliga | 13k coins | +29.4% |
+| Larissa Mühlhaus | 85 | ST | GPFBL | 15k coins | -39.4% |
+| Merle Frohms | 84 | GK | GPFBL | 2k coins | +18.2% |
+| Sjoeke Nüsken | 84 | CDM | Barclays WSL | 2k coins | +30% |
+| Sara Doorsoun | 84 | CB | GPFBL | 2k coins | -7.4% |
+| Danny da Costa | 84 | RB | Bundesliga | 15k coins | -23% |
 
 
 ## 📈 Destaques
 
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
 
-- **Simone Laudehr (88, CM)** da GPFBL, a apenas **12k coins**
+- **Nadine Keßler (88, CM)** da GPFBL, a apenas **11k coins**
 
 - **Mario Gomez (88, ST)** da Bundesliga, a apenas **12k coins**
 
-- **Nadine Keßler (88, CM)** da GPFBL, a apenas **12k coins**
+- **Simone Laudehr (88, CM)** da GPFBL, a apenas **12k coins**
 
-- **Franziska Harsch (88, CM)** da GPFBL, a apenas **14k coins**
+- **Franziska Harsch (88, CM)** da GPFBL, a apenas **12k coins**
 
 
 ## Por que estas cartas?

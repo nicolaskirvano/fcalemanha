@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T16:32:46.000Z
+pubDatetime: 2026-06-20T19:32:44.000Z
 title: "Alemaes no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,75 +13,61 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Thomas Müller (83, MLS), com +56.8% em 24h, a 74k coins no PC."
+    a: "Thomas Müller (83, MLS), com +46.5% em 24h, a 67k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Florian Wirtz (92), -48.9% em 24h, a 700k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Uli Hoeneß (88) — 80% de probabilidade de alta, a 16k coins."
+    a: "Ragnar Ache (84), -36.2% em 24h, a 30k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 36 cartas em alta contra 56 em queda (média -3.34%)."
+    a: "Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 38 cartas em alta contra 53 em queda (média -1.32%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado de cartas alemãs em PC apresenta hoje, 20 de junho de 2026, um cenário dominado por uma forte pressão vendedora, caracterizando um dia de extrema cautela para traders que buscam valorização imediata. Com um saldo negativo expressivo, onde 56 jogadores sofreram quedas de preço contra apenas 36 que registraram altas, o sentimento geral é de desinvestimento, refletido na média de variação negativa de -3.34% ao longo das últimas 24 horas. Este ambiente hostil sugere que a maioria dos ativos perdeu força de compra, possivelmente devido a uma saturação de ofertas ou à antecipação de eventos futuros que não foram ainda concretizados no meta do jogo. Para o trader experiente, este é o momento de observar as exceções ao padrão de baixa, pois poucos ativos conseguiram resistir à gravidade do mercado e até mesmo se valorizar significativamente. A volatilidade atual exige uma leitura atenta dos fundamentos por trás de cada movimento, separando ruído de oportunidades reais de arbitragem ou swing trade.
+O mercado de cartas alemãs em PC apresenta hoje um cenário de lateralização complexa, onde a força de compra e venda se encontra em um equilíbrio delicado que exige leitura atenta dos traders experientes. Com 38 altas contra 53 quedas nos últimos 24 horas, a predominância das vendas cria uma pressão de venda média de -1.32%, indicando que o medo de perdas está ligeiramente acima da euforia de compra. Este contexto de incerteza sugere que apenas cartas com fundamentos sólidos ou narrativas específicas conseguem romper a resistência do mercado, enquanto a maioria dos ativos comuns sofre com a falta de volume comprador consistente. A volatilidade pontual é evidente, mas a tendência geral de leve desvalorização impõe cautela nas entradas, especialmente em ativos de alto valor que não possuem suporte imediato de eventos ou promoções do jogo. O trader deve observar como as probabilidades de alta interagem com os preços atuais, pois muitas cartas com alta probabilidade de subida ainda estão em queda, criando oportunidades de compra em fundo de vale para quem tem paciência e capital para segurar.
 
-> 🟢 **Maior alta:** Thomas Müller (83) **+56.8%** · 🔴 **Maior baixa:** Florian Wirtz (92) **-48.9%**
+> 🟢 **Maior alta:** Thomas Müller (83) **+46.5%** · 🔴 **Maior baixa:** Ragnar Ache (84) **-36.2%**
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Thomas Müller | 83 | MLS | 74k coins | +56.8% | +84% |
-| Nick Woltemade | 90 | Premier League | 120k coins | +42% | +13.2% |
-| Marek Janssen | 84 | 3. Liga | 41k coins | +36.7% | +2.5% |
-| Bastian Schweinsteiger | 89 | Icons | 120k coins | +33.3% | +23.7% |
-| Alexandra Popp | 89 | GPFBL | 42k coins | +26.9% | +26.9% |
-| Selina Cerci | 87 | GPFBL | 27k coins | +25.6% | +45.9% |
+| Thomas Müller | 83 | MLS | 67k coins | +46.5% | +63.1% |
+| Nick Woltemade | 90 | Premier League | 120k coins | +42% | +9.1% |
+| Selina Cerci | 87 | GPFBL | 30k coins | +36% | +69.6% |
+| Pascal Groß | 87 | Premier League | 25k coins | +35.1% | -2.9% |
+| Bastian Schweinsteiger | 89 | Icons | 120k coins | +33.3% | +12.1% |
+| Lisa Karl | 84 | GPFBL | 22k coins | +33.3% | -27.3% |
+| Kevin Schade | 84 | Premier League | 42k coins | +26.5% | -7% |
+| Simone Laudehr | 90 | GPFBL | 33k coins | +25.7% | -5% |
+| Gerd Müller | 93 | Icons | 70k coins | +23.6% | +7.1% |
 | Selina Vobian | 81 | GPFBL | 48k coins | +23.4% | -4.5% |
-| Lewis Holtby | 86 | Eredivisie | 28k coins | +21.3% | +39% |
-| Lukas Klostermann | 88 | Bundesliga | 153k coins | +20.5% | 0% |
-| Celia Šašić | 92 | GPFBL | 30k coins | +15.7% | -16.4% |
 
 
-Entre as poucas luzes no mercado, Thomas Müller se destaca como a principal oportunidade, com uma alta explosiva de 56.8% em 24 horas, atingindo a marca de 74 mil coins, impulsionado por uma probabilidade de alta de 59% que sugere sustentação no movimento. Nick Woltemade também chama a atenção dos investidores de maior capital, subindo 42% para 120 mil coins, com uma probabilidade de alta de 50%, indicando que sua demanda está superando a oferta disponível nesta faixa de preço. Em uma surpresa mais econômica, Marek Janssen, da 3. Liga, registrou um aumento de 36.7% para 41 mil coins, embora sua probabilidade de alta seja mais modesta de 35%, o que pode indicar um movimento especulativo de curto prazo. Bastian Schweinsteiger, com sua carta de Icon de 89, apresentou uma alta sólida de 33.3% para 120 mil coins, respaldado por uma alta probabilidade de 60%, tornando-o um ativo de segurança relativa em meio ao caos vendedor. Alexandra Popp completou o grupo de valorização significativa com 26.9% de alta, chegando a 42 mil coins, com uma probabilidade de 39%, mostrando que até mesmo cartas femininas estão sendo alvos de compra seletiva neste dia.
+Thomas Müller lidera o movimento de alta com um impressionante salto de 46.5% em 24 horas, posicionando-se a 67k coins, impulsionado por uma probabilidade de alta de 59% que atrai traders de curto prazo buscando ganhos rápidos em ativos de médio porte. Nick Woltemade acompanha a narrativa de valorização, subindo 42% para atingir 120k coins, com uma probabilidade de alta de 50% que sugere equilíbrio entre oferta e demanda em um ativo premium da Premier League, embora o preço elevado exija monitoramento constante para evitar reversões. Selina Cerci se destaca no segmento feminino com alta de 36% para 30k coins, apesar de uma probabilidade de alta mais modesta de 29%, o que indica que o movimento pode ser mais volátil e menos sustentado a longo prazo, sendo ideal para trades de entrada e saída rápida. Pascal Groß apresenta uma alta robusta de 35.1% para 25k coins, com probabilidade de 26%, sugerindo que o preço baixo atrai compradores de orçamentos restritos que veem valor imediato na carta, mesmo sem forte indicação estatística de continuidade. Bastian Schweinsteiger, como Ícone, sobe 33.3% para 120k coins com alta probabilidade de 60%, consolidando-se como um ativo de refúgio e status, onde a demanda por cartas de elite permanece resiliente mesmo em mercados de lado, atraindo investidores de longo prazo que priorizam a segurança do ativo sobre a liquidez imediata.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Florian Wirtz | 92 | Premier League | 700k coins | -48.9% | -28% |
-| Philipp Lahm | 89 | Icons | 95k coins | -44.6% | -37.5% |
-| Oliver Kahn | 91 | Icons | 92k coins | -44.1% | -9.5% |
-| Steffi Jones | 89 | Icons | 22k coins | -42.4% | -50% |
-| Deniz Undav | 91 | Bundesliga | 40k coins | -36.4% | -3.9% |
-| Franz Beckenbauer | 92 | Icons | 120k coins | -34.8% | -33.3% |
-| Antonio Rüdiger | 91 | LALIGA EA SPORTS | 181k coins | -34.1% | -33.9% |
-| Mario Götze | 88 | Bundesliga | 49k coins | -30.4% | -30.4% |
-| Toni Kroos | 91 | Icons | 630k coins | -26% | -15% |
-| Nadine Keßler | 89 | GPFBL | 21k coins | -25% | +12% |
+| Ragnar Ache | 84 | Bundesliga | 30k coins | -36.2% | -25.3% |
+| Deniz Undav | 91 | Bundesliga | 38k coins | -35.7% | -12.8% |
+| Mario Götze | 88 | Bundesliga | 47k coins | -32.2% | -33.2% |
+| Franz Beckenbauer | 92 | Icons | 105k coins | -29.4% | -24.7% |
+| Toni Kroos | 90 | Icons | 73k coins | -27% | -17.5% |
+| Nadine Keßler | 90 | GPFBL | 35k coins | -26.7% | +19.6% |
+| Jürgen Kohler | 90 | Bundesliga | 34k coins | -25.6% | +20.7% |
+| Maximilian Mittelstädt | 88 | Bundesliga | 23k coins | -24.4% | -24.4% |
+| Antonio Rüdiger | 91 | LALIGA EA SPORTS | 178k coins | -21.9% | -36% |
+| Fatih Kaya | 84 | 3. Liga | 35k coins | -20.8% | -29.9% |
 
 
-No lado oposto do espectro, a destruição de valor foi brutal, liderada por Florian Wirtz, que despencou 48.9% em 24 horas, caindo para 700 mil coins, apesar de sua probabilidade de alta de 25%, o que indica uma venda massiva de lucros ou pânico no topo. Philipp Lahm e Oliver Kahn, ambos ícones, sofreram quedas acentuadas de 44.6% e 44.1% respectivamente, estabilizando em 95 mil e 92 mil coins, com probabilidades de alta de 60% e 37%, sugerindo que o preço atual pode ser um fundo temporário para esses ativos de longo prazo. Steffi Jones caiu 42.4% para 22 mil coins, com uma probabilidade de alta de 56%, enquanto Deniz Undav perdeu 36.4% para 40 mil coins, com apenas 27% de chance de recuperação imediata, indicando fraqueza fundamental. Franz Beckenbauer e Antonio Rüdiger também não foram poupados, caindo 34.8% e 34.1% para 120 mil e 181 mil coins respectivamente, com probabilidades de alta de 41% para ambos, refletindo uma desconexão entre o valor percebido e a realidade de mercado. Mario Götze fechou o rol das maiores baixas com uma queda de 30.4% para 49 mil coins, mas sua probabilidade de alta de 59% sugere que o pânico pode estar sendo exagerado para este ativo específico.
-
-
-## 🔮 Projeções do modelo para 24h
-
-Os nomes com **melhor leitura de valorização** segundo o modelo (confiança alta):
-
-| Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
-| --- | --- | --- | --- | --- |
-| Uli Hoeneß | 88 | 16k coins | 17k coins | 80% |
-
-
-O modelo preditivo identifica Uli Hoeneß como o único ativo com forte potencial de valorização imediata, apresentando uma probabilidade de alta de 80% enquanto cotado a apenas 16 mil coins, o que representa uma assimetria de risco-reward extremamente favorável para entradas de baixo custo.
+Ragnar Ache sofre a maior queda com redução de 36.2% para 30k coins, apesar de ter probabilidade de alta de 52%, o que revela uma divergência clara entre o modelo estatístico e a ação do mercado, possivelmente devido a uma saturação de ofertas ou falta de interesse em times da Bundesliga neste momento. Deniz Undav despencou 35.7% para 38k coins, com probabilidade de alta de apenas 27%, indicando que a baixa é fundamentalmente justificada pela falta de demanda e que a carta pode continuar em tendência de baixa se não houver catalisadores externos para reverter a percepção de valor. Mario Götze caiu 32.2% para 47k coins, mas mantém probabilidade de alta de 59%, sugerindo que a queda pode ser uma oportunidade de compra para traders que acreditam na correção técnica, pois o modelo indica forte potencial de recuperação nos próximos ciclos de mercado. Franz Beckenbauer, o Ícone mais valioso da lista, recuou 29.4% para 105k coins com probabilidade de 41%, mostrando que até os ativos mais icônicos não estão imunes à pressão de vendas generalizada, e traders devem evitar compras impulsivas esperando uma queda maior antes de entrar. Toni Kroos também desvalorizou 27% para 73k coins com probabilidade de 31%, reforçando a tese de que o segmento de Ícones está passando por uma correção de preço que pode ser estratégica para acumulação de longo prazo, desde que o trader tenha tolerância à volatilidade de curto prazo e não precise liquidar posições imediatamente.
 
 
 ## 🎯 Conclusão do dia
-A estratégia para hoje deve ser predominantemente defensiva, evitando compras em ativos que estão em tendência de queda acentuada, como Wirtz e os ícones que perderam mais de 40%, a menos que se busque acumulação de longo prazo com margem de segurança. Recomenda-se focar nas altas estruturadas, como Thomas Müller e Bastian Schweinsteiger, onde a probabilidade de continuação do movimento é superior a 50%, permitindo entradas em pullbacks para lucros rápidos. O destaque absoluto deve ser Uli Hoeneß, cuja alta probabilidade de 80% e preço baixo de 16 mil coins oferecem a melhor relação de risco, servindo como uma aposta segura em um dia de mercado fraco. Jogadores como Marek Janssen e Selina Cerci podem ser considerados para trades de curto prazo devido às suas altas percentuais, mas devem ser vigiados de perto devido às probabilidades de alta mais baixas, que indicam volatilidade potencial. Evite vender ativos que caíram drasticamente mas têm alta probabilidade de recuperação, como Lahm e Götze, pois o mercado tende a corrigir esses excessos de venda nos próximos ciclos, permitindo uma venda com lucro ou menor prejuízo no futuro próximo.
+A estratégia recomendada para hoje é focar na compra seletiva de ativos com alta probabilidade de valorização que estão temporariamente em queda, como Mario Götze e Bastian Schweinsteiger, aproveitando a desconexção entre o preço atual e o potencial estatístico de alta. Traders devem evitar entrar em ativos com quedas acentuadas e baixa probabilidade de alta, como Deniz Undav e Toni Kroos, pois o risco de continuidade da desvalorização é significativo sem sinais claros de suporte de demanda. Para operações de curto prazo, Thomas Müller e Nick Woltemade oferecem oportunidades de lucratividade rápida devido ao momentum positivo e probabilidades equilibradas, mas exigem saída rápida assim que o impulso se esgotar para evitar reversões. É crucial monitorar Selina Cerci e Pascal Groß como indicadores de liquidez em faixas de preço mais baixas, onde pequenas variações podem gerar retornos percentuais significativos para portfólios menores. A recomendação final é manter uma posição neutra a levemente comprada em ativos de alto valor como Schweinsteiger, enquanto se aguarda estabilização no mercado de Bundesliga antes de aumentar a exposição em cartas como Ragnar Ache, que ainda mostram sinais de fraqueza estrutural apesar da probabilidade estatística favorável.
 
 
 ## 🔍 Como apuramos os preços
@@ -91,16 +77,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
-Thomas Müller (83, MLS), com +56.8% em 24h, a 74k coins no PC.
+Thomas Müller (83, MLS), com +46.5% em 24h, a 67k coins no PC.
 
 **E a maior queda do dia?**  
-Florian Wirtz (92), -48.9% em 24h, a 700k coins.
-
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Uli Hoeneß (88) — 80% de probabilidade de alta, a 16k coins.
+Ragnar Ache (84), -36.2% em 24h, a 30k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 36 cartas em alta contra 56 em queda (média -3.34%).
+Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 38 cartas em alta contra 53 em queda (média -1.32%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
