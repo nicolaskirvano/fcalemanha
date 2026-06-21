@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-21T10:31:09.000Z
+pubDatetime: 2026-06-21T13:31:09.000Z
 title: "Jogadores baratos de Alemaes no EA FC (21/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,31 +29,27 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | -32.6% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | -50.8% |
-| Celia Šašić | 89 | ST | GPFBL | 12k coins | -2% |
-| Nadine Keßler | 88 | CM | GPFBL | 11k coins | 0% |
-| Simone Laudehr | 88 | CM | GPFBL | 12k coins | -12% |
-| Mario Gomez | 88 | ST | Bundesliga | 13k coins | +4.5% |
-| Lea Schüller | 86 | ST | GPFBL | 3k coins | -30.2% |
-| Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 7k coins | -2.9% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 14k coins | +17.4% |
-| Sara Doorsoun | 84 | CB | GPFBL | 4k coins | +31.2% |
-| Christian Günter | 84 | LB | Bundesliga | 14k coins | -45.5% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | -35.4% |
+| Celia Šašić | 89 | ST | GPFBL | 12k coins | -8.2% |
+| Jamal Musiala | 88 | CAM | Bundesliga | 2k coins | -13.6% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +6.5% |
+| Loreen Bender | 86 | RM | GPFBL | 11k coins | -22.6% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | +7% |
+| Sara Doorsoun | 84 | CB | GPFBL | 4k coins | +37.5% |
+| Christian Günter | 84 | LB | Bundesliga | 14k coins | -42.6% |
 
 
 ## 📈 Destaques
 
 - **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
+- **Jamal Musiala (88, CAM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Nadine Keßler (88, CM)** da GPFBL, a apenas **11k coins**
+- **Nadine Keßler (88, CM)** da GPFBL, a apenas **12k coins**
 
-- **Simone Laudehr (88, CM)** da GPFBL, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Loreen Bender (86, RM)** da GPFBL, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
