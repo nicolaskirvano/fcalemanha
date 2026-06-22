@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-22T13:31:09.000Z
+pubDatetime: 2026-06-22T16:31:10.000Z
 title: "Jogadores baratos de Alemaes no EA FC (22/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,14 +30,14 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | -45% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | -54.1% |
-| Celia Šašić | 89 | ST | GPFBL | 11k coins | -16.7% |
-| Mario Gomez | 88 | ST | Bundesliga | 11k coins | -21.4% |
-| Nadine Keßler | 88 | CM | GPFBL | 11k coins | -15.1% |
-| Lea Schüller | 86 | ST | GPFBL | 3k coins | -17.9% |
-| Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 6k coins | -14.3% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -4.4% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | 0% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | -55.4% |
+| Celia Šašić | 89 | ST | GPFBL | 11k coins | -13.5% |
+| Jamal Musiala | 88 | CAM | Bundesliga | 2k coins | -45.5% |
+| Mario Gomez | 88 | ST | Bundesliga | 11k coins | -22.8% |
+| Nadine Keßler | 88 | CM | GPFBL | 11k coins | -17% |
+| Lea Schüller | 86 | ST | GPFBL | 3k coins | -25% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
+| Lisanne Gräwe | 86 | CM | GPFBL | 14k coins | -10.6% |
 
 
 ## 📈 Destaques
@@ -48,9 +48,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jamal Musiala (88, CAM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Nadine Keßler (88, CM)** da GPFBL, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
