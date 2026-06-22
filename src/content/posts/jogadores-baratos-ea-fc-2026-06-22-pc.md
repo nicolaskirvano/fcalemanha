@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-22T16:31:10.000Z
+pubDatetime: 2026-06-22T19:31:10.000Z
 title: "Jogadores baratos de Alemaes no EA FC (22/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,15 +29,17 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | -45% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | -55.4% |
-| Celia Šašić | 89 | ST | GPFBL | 11k coins | -13.5% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | -41.4% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | -53.4% |
+| Celia Šašić | 89 | ST | GPFBL | 14k coins | -2% |
 | Jamal Musiala | 88 | CAM | Bundesliga | 2k coins | -45.5% |
 | Mario Gomez | 88 | ST | Bundesliga | 11k coins | -22.8% |
-| Nadine Keßler | 88 | CM | GPFBL | 11k coins | -17% |
-| Lea Schüller | 86 | ST | GPFBL | 3k coins | -25% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
-| Lisanne Gräwe | 86 | CM | GPFBL | 14k coins | -10.6% |
+| Simone Laudehr | 88 | CM | GPFBL | 11k coins | -25.4% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | -13.2% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 14k coins | -15.7% |
+| Lea Schüller | 86 | ST | GPFBL | 3k coins | -17.9% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | -2.2% |
+| Lisanne Gräwe | 86 | CM | GPFBL | 12k coins | -19.7% |
 
 
 ## 📈 Destaques
@@ -46,7 +48,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Celia Šašić (89, ST)** da GPFBL, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Celia Šašić (89, ST)** da GPFBL, a apenas **14k coins**
 
 - **Jamal Musiala (88, CAM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
