@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-23T16:31:09.000Z
+pubDatetime: 2026-06-23T19:31:09.000Z
 title: "Jogadores baratos de Alemaes no EA FC (23/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,18 +29,17 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 4k coins | -34.5% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 4k coins | -31% |
 | Florian Wirtz | 89 | CAM | Bundesliga | 4k coins | -38% |
-| Celia Šašić | 89 | ST | GPFBL | 14k coins | +5.9% |
+| Celia Šašić | 89 | ST | GPFBL | 14k coins | -2% |
+| Rudi Völler | 89 | ST | Bundesliga | 15k coins | -22.4% |
 | Jamal Musiala | 88 | CAM | Bundesliga | 2k coins | -40.6% |
-| Mario Gomez | 88 | ST | Bundesliga | 11k coins | -13.7% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | -23.8% |
-| Lea Schüller | 86 | ST | GPFBL | 3k coins | -13.5% |
-| Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 8k coins | +3.9% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | +2.3% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | +4.7% |
-| Lisanne Gräwe | 86 | CM | GPFBL | 14k coins | -20.8% |
-| Sara Doorsoun | 84 | CB | GPFBL | 4k coins | +10.5% |
+| Mario Gomez | 88 | ST | Bundesliga | 11k coins | -14.8% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | -23% |
+| Simone Laudehr | 88 | CM | GPFBL | 14k coins | -23.8% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
+| Lisanne Gräwe | 86 | CM | GPFBL | 12k coins | -30.6% |
+| Christian Günter | 84 | LB | Bundesliga | 13k coins | -28% |
 
 
 ## 📈 Destaques
@@ -51,9 +50,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **14k coins**
 
-- **Jamal Musiala (88, CAM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Rudi Völler (89, ST)** da Bundesliga, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jamal Musiala (88, CAM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
