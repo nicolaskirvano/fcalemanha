@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-24T19:31:05.000Z
+pubDatetime: 2026-06-24T22:31:05.000Z
 title: "Jogadores baratos de Alemaes no EA FC (24/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,19 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | -38.5% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | -35.3% |
 | Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | -50% |
-| Celia Šašić | 89 | ST | GPFBL | 12k coins | -8% |
-| Rudi Völler | 89 | ST | Bundesliga | 14k coins | -18.8% |
-| Mario Gomez | 88 | ST | Bundesliga | 11k coins | -6.4% |
-| Simone Laudehr | 88 | CM | GPFBL | 12k coins | -4% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | 0% |
-| Oliver Bierhoff | 88 | ST | Serie A TIM | 15k coins | +12.3% |
-| David Raum | 87 | LB | Bundesliga | 12k coins | -50% |
-| Julian Brandt | 87 | CAM | Bundesliga | 13k coins | -30.8% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | -6.5% |
+| Celia Šašić | 89 | ST | GPFBL | 11k coins | -10% |
+| Nadine Keßler | 88 | CM | GPFBL | 11k coins | -6.4% |
+| Mario Gomez | 88 | ST | Bundesliga | 12k coins | -2.1% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | -8% |
+| Franziska Harsch | 88 | CM | GPFBL | 14k coins | +9.1% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 14k coins | 0% |
+| David Raum | 87 | LB | Bundesliga | 12k coins | -47.9% |
+| Julian Brandt | 87 | CAM | Bundesliga | 12k coins | -42.9% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | -4.4% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | 0% |
 | Loreen Bender | 86 | RM | GPFBL | 12k coins | -4% |
-| Christian Günter | 84 | LB | Bundesliga | 12k coins | -41.7% |
+| Lisanne Gräwe | 86 | CM | GPFBL | 15k coins | +15.7% |
+| Christian Günter | 84 | LB | Bundesliga | 12k coins | -40.5% |
 
 
 ## 📈 Destaques
@@ -50,11 +52,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Celia Šašić (89, ST)** da GPFBL, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rudi Völler (89, ST)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Nadine Keßler (88, CM)** da GPFBL, a apenas **11k coins**
 
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **11k coins**
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **12k coins**
 
 
 ## Por que estas cartas?
