@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-24T10:31:05.000Z
+pubDatetime: 2026-06-24T13:31:05.000Z
 title: "Jogadores baratos de Alemaes no EA FC (24/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -32,16 +32,16 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | -38.8% |
 | Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | -50.8% |
 | Celia Šašić | 89 | ST | GPFBL | 12k coins | -6% |
-| Rudi Völler | 89 | ST | Bundesliga | 13k coins | -39.8% |
+| Rudi Völler | 89 | ST | Bundesliga | 15k coins | -35.6% |
 | Mario Gomez | 88 | ST | Bundesliga | 12k coins | -2.1% |
-| Simone Laudehr | 88 | CM | GPFBL | 12k coins | -13.5% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +2.1% |
-| Benedict Hollerbach | 87 | ST | Bundesliga | 11k coins | -16.7% |
-| David Raum | 87 | LB | Bundesliga | 14k coins | -42.6% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | -4.2% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | +2.2% |
-| Loreen Bender | 86 | RM | GPFBL | 12k coins | -4% |
-| Christian Günter | 84 | LB | Bundesliga | 14k coins | -30.4% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | -9.6% |
+| Nadine Keßler | 88 | CM | GPFBL | 13k coins | +8.3% |
+| David Raum | 87 | LB | Bundesliga | 13k coins | -42.9% |
+| Julian Brandt | 87 | CAM | Bundesliga | 15k coins | -29.4% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | 0% |
+| Loreen Bender | 86 | RM | GPFBL | 12k coins | -8% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | 0% |
+| Christian Günter | 84 | LB | Bundesliga | 12k coins | -35.9% |
 
 
 ## 📈 Destaques
@@ -52,7 +52,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
 
-- **Rudi Völler (89, ST)** da Bundesliga, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Rudi Völler (89, ST)** da Bundesliga, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Mario Gomez (88, ST)** da Bundesliga, a apenas **12k coins**
 
