@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-25T13:31:05.000Z
+pubDatetime: 2026-06-25T16:31:05.000Z
 title: "Jogadores baratos de Alemaes no EA FC (25/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | -34.1% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | -57.1% |
-| Celia Šašić | 89 | ST | GPFBL | 12k coins | -2% |
-| Rudi Völler | 89 | ST | Bundesliga | 15k coins | -29% |
-| Mario Gomez | 88 | ST | Bundesliga | 12k coins | -6.4% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | -20.5% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | -52.9% |
+| Celia Šašić | 89 | ST | GPFBL | 12k coins | -4.1% |
+| Mario Gomez | 88 | ST | Bundesliga | 12k coins | 0% |
 | Simone Laudehr | 88 | CM | GPFBL | 12k coins | -6% |
 | Nadine Keßler | 88 | CM | GPFBL | 12k coins | 0% |
-| Franziska Harsch | 88 | CM | GPFBL | 14k coins | +1.9% |
-| Maximilian Mittelstädt | 88 | LB | Bundesliga | 14k coins | -42.6% |
-| Benedict Hollerbach | 87 | ST | Bundesliga | 12k coins | +1.9% |
-| David Raum | 87 | LB | Bundesliga | 14k coins | -41% |
-| Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 2k coins | -38.7% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | -2.2% |
-| Loreen Bender | 86 | RM | GPFBL | 12k coins | -4% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | -4.1% |
+| Maximilian Mittelstädt | 88 | LB | Bundesliga | 15k coins | -43% |
+| Julian Brandt | 87 | CAM | Bundesliga | 12k coins | -27.9% |
+| Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 2k coins | -33.3% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | -9.8% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | +2.2% |
+| Lisanne Gräwe | 86 | CM | GPFBL | 15k coins | +13.2% |
+| Sara Doorsoun | 84 | CB | GPFBL | 2k coins | -41.4% |
+| Lisa Karl | 84 | LB | GPFBL | 13k coins | -46.8% |
+| Christian Günter | 84 | LB | Bundesliga | 14k coins | -19.4% |
 
 
 ## 📈 Destaques
@@ -54,9 +54,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
 
-- **Rudi Völler (89, ST)** da Bundesliga, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Mario Gomez (88, ST)** da Bundesliga, a apenas **12k coins**
+
+- **Simone Laudehr (88, CM)** da GPFBL, a apenas **12k coins**
 
 
 ## Por que estas cartas?
