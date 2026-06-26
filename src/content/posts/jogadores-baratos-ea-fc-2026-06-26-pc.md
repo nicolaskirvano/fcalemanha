@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-26T19:31:09.000Z
+pubDatetime: 2026-06-26T22:31:09.000Z
 title: "Jogadores baratos de Alemaes no EA FC (26/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,12 +29,12 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Celia Šašić | 89 | ST | GPFBL | 12k coins | -4% |
-| Mario Gomez | 88 | ST | Bundesliga | 12k coins | +4.5% |
-| Nadine Keßler | 88 | CM | GPFBL | 13k coins | -4.1% |
-| David Raum | 87 | LB | Bundesliga | 14k coins | -27.5% |
-| Lea Schüller | 86 | ST | GPFBL | 3k coins | -3% |
-| Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 7k coins | -12.5% |
+| Celia Šašić | 89 | ST | GPFBL | 12k coins | +2.1% |
+| Jamal Musiala | 88 | CAM | Bundesliga | 2k coins | +30.8% |
+| Mario Gomez | 88 | ST | Bundesliga | 11k coins | +4.5% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | -2% |
+| David Raum | 87 | LB | Bundesliga | 14k coins | -39.1% |
+| Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 8k coins | -12.5% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | -2.3% |
 | Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | +4.7% |
 
@@ -43,13 +43,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
 
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **12k coins**
+- **Jamal Musiala (88, CAM)** da Bundesliga, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Nadine Keßler (88, CM)** da GPFBL, a apenas **13k coins**
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **11k coins**
+
+- **Nadine Keßler (88, CM)** da GPFBL, a apenas **12k coins**
 
 - **David Raum (87, LB)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Lea Schüller (86, ST)** da GPFBL, a apenas **3k coins**
 
 
 ## Por que estas cartas?
