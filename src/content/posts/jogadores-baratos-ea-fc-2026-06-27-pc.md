@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-27T10:31:09.000Z
+pubDatetime: 2026-06-27T13:31:09.000Z
 title: "Jogadores baratos de Alemaes no EA FC (27/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,26 +30,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Celia Šašić | 89 | ST | GPFBL | 11k coins | 0% |
-| Simone Laudehr | 88 | CM | GPFBL | 11k coins | +4.5% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | -2% |
-| David Raum | 87 | LB | Bundesliga | 14k coins | -18.8% |
-| Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 8k coins | -6.2% |
+| Mario Gomez | 88 | ST | Bundesliga | 11k coins | -4.3% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | -3.9% |
+| David Raum | 87 | LB | Bundesliga | 14k coins | -22.2% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | +11.6% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | +9.3% |
-| Sara Doorsoun | 84 | CB | GPFBL | 3k coins | +10% |
+| Lewis Holtby | 86 | CAM | Eredivisie | 15k coins | -44.2% |
 
 
 ## 📈 Destaques
 
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **11k coins**
 
-- **Simone Laudehr (88, CM)** da GPFBL, a apenas **11k coins**
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **11k coins**
 
 - **Nadine Keßler (88, CM)** da GPFBL, a apenas **12k coins**
 
 - **David Raum (87, LB)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Marc-André ter Stegen (86, GK)** da LALIGA EA SPORTS, a apenas **8k coins**
+- **Uli Hoeneß (86, RM)** da Bundesliga, a apenas **11k coins**
 
 
 ## Por que estas cartas?
