@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-26T22:31:05.000Z
+pubDatetime: 2026-06-27T01:31:05.000Z
 title: "Jogadores baratos de Alemaes no EA FC (26/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,32 +29,29 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Celia Šašić | 89 | ST | GPFBL | 12k coins | +2.1% |
-| Simone Laudehr | 88 | CM | GPFBL | 11k coins | -4.2% |
-| Nadine Keßler | 88 | CM | GPFBL | 11k coins | -8.3% |
-| Mario Gomez | 88 | ST | Bundesliga | 12k coins | -2.2% |
-| Maximilian Mittelstädt | 88 | LB | Bundesliga | 14k coins | -19.4% |
-| Oliver Bierhoff | 88 | ST | Serie A TIM | 15k coins | +13.2% |
-| Franziska Harsch | 88 | CM | GPFBL | 15k coins | +1.6% |
-| David Raum | 87 | LB | Bundesliga | 12k coins | -37.5% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -6.5% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
-| Lisanne Gräwe | 86 | CM | GPFBL | 12k coins | -3.9% |
-| Sara Doorsoun | 84 | CB | GPFBL | 2k coins | -40% |
-| Lisa Karl | 84 | LB | GPFBL | 13k coins | -39.5% |
+| Celia Šašić | 89 | ST | GPFBL | 12k coins | 0% |
+| Mario Gomez | 88 | ST | Bundesliga | 11k coins | -2.2% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 12k coins | -11.1% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | 0% |
+| Benedict Hollerbach | 87 | ST | Bundesliga | 13k coins | -11.7% |
+| Julian Brandt | 87 | CAM | Bundesliga | 14k coins | -14.3% |
+| Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 3k coins | 0% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | +4.5% |
+| Lisanne Gräwe | 86 | CM | GPFBL | 15k coins | +8.9% |
+| Lisa Karl | 84 | LB | GPFBL | 12k coins | -40% |
 
 
 ## 📈 Destaques
 
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
 
-- **Simone Laudehr (88, CM)** da GPFBL, a apenas **11k coins**
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **11k coins**
 
-- **Nadine Keßler (88, CM)** da GPFBL, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Oliver Bierhoff (88, ST)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **12k coins**
+- **Nadine Keßler (88, CM)** da GPFBL, a apenas **12k coins**
 
-- **Maximilian Mittelstädt (88, LB)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Benedict Hollerbach (87, ST)** da Bundesliga, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
