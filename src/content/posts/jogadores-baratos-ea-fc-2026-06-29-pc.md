@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-29T16:31:09.000Z
+pubDatetime: 2026-06-29T19:31:09.000Z
 title: "Jogadores baratos de Alemaes no EA FC (29/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,26 +30,28 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -35.3% |
-| Celia Šašić | 89 | ST | GPFBL | 11k coins | 0% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 14k coins | -21.4% |
+| Celia Šašić | 89 | ST | GPFBL | 12k coins | +4.4% |
 | Nadine Keßler | 88 | CM | GPFBL | 11k coins | 0% |
-| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +6.5% |
-| Oliver Bierhoff | 88 | ST | Serie A TIM | 13k coins | -26.3% |
-| David Raum | 87 | LB | Bundesliga | 14k coins | -21.5% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +20.5% |
+| Franziska Harsch | 88 | CM | GPFBL | 14k coins | +13.2% |
+| Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 5k coins | -28.4% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | 0% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
+| Sara Doorsoun | 84 | CB | GPFBL | 5k coins | +9.5% |
+| Christian Günter | 84 | LB | Bundesliga | 13k coins | -6.8% |
 
 
 ## 📈 Destaques
 
 - **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Celia Šašić (89, ST)** da GPFBL, a apenas **11k coins**
-
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
 
 - **Nadine Keßler (88, CM)** da GPFBL, a apenas **11k coins**
 
-- **Simone Laudehr (88, CM)** da GPFBL, a apenas **12k coins**
+- **Simone Laudehr (88, CM)** da GPFBL, a apenas **12k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Franziska Harsch (88, CM)** da GPFBL, a apenas **14k coins**
 
 
 ## Por que estas cartas?
