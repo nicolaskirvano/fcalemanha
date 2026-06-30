@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T10:31:09.000Z
+pubDatetime: 2026-06-30T13:31:09.000Z
 title: "Jogadores baratos de Alemaes no EA FC (30/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,30 +29,30 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -55.6% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -57.9% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -51.2% |
 | Celia Šašić | 89 | ST | GPFBL | 11k coins | -4.3% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 14k coins | -16.7% |
-| Rudi Völler | 89 | ST | Bundesliga | 15k coins | +3.5% |
-| Mario Gomez | 88 | ST | Bundesliga | 11k coins | 0% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 14k coins | -17.9% |
 | Nadine Keßler | 88 | CM | GPFBL | 11k coins | +2.3% |
-| Simone Laudehr | 88 | CM | GPFBL | 12k coins | -9.1% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +2% |
 | Lea Schüller | 86 | ST | GPFBL | 2k coins | -41.9% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | 0% |
+| Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 5k coins | -28.4% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -2.3% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | -4.4% |
-| Sara Doorsoun | 84 | CB | GPFBL | 5k coins | +9.5% |
+| Sara Doorsoun | 84 | CB | GPFBL | 5k coins | +4.5% |
 
 
 ## 📈 Destaques
 
 - **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **11k coins**
 
 - **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rudi Völler (89, ST)** da Bundesliga, a apenas **15k coins**
-
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **11k coins**
+- **Nadine Keßler (88, CM)** da GPFBL, a apenas **11k coins**
 
 
 ## Por que estas cartas?

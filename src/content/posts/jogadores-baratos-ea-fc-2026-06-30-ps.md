@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T10:31:05.000Z
+pubDatetime: 2026-06-30T13:31:05.000Z
 title: "Jogadores baratos de Alemaes no EA FC (30/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -32,15 +32,16 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Celia Šašić | 89 | ST | GPFBL | 12k coins | 0% |
 | Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | -17.7% |
 | Rudi Völler | 89 | ST | Bundesliga | 14k coins | -6.9% |
-| Kristin Kögel | 89 | LM | GPFBL | 15k coins | -30.6% |
-| Nadine Keßler | 88 | CM | GPFBL | 11k coins | +2.3% |
-| Mario Gomez | 88 | ST | Bundesliga | 12k coins | +2.1% |
+| Kristin Kögel | 89 | LM | GPFBL | 15k coins | -33.7% |
+| Nadine Keßler | 88 | CM | GPFBL | 11k coins | -2.2% |
+| Mario Gomez | 88 | ST | Bundesliga | 12k coins | +4.3% |
 | Simone Laudehr | 88 | CM | GPFBL | 12k coins | +8.7% |
 | David Raum | 87 | LB | Bundesliga | 13k coins | -3.7% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | -4.3% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | -2.2% |
 | Loreen Bender | 86 | RM | GPFBL | 12k coins | +4.3% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | +4.3% |
-| Verena Wieder | 85 | ST | GPFBL | 13k coins | -45.3% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | +6.5% |
+| Lisanne Gräwe | 86 | CM | GPFBL | 13k coins | -13.1% |
+| Verena Wieder | 85 | ST | GPFBL | 13k coins | -45.8% |
 | Angelo Stiller | 85 | CDM | Bundesliga | 14k coins | -26.3% |
 | Sara Doorsoun | 84 | CB | GPFBL | 2k coins | -30% |
 
