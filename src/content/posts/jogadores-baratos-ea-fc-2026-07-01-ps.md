@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-01T19:31:05.000Z
+pubDatetime: 2026-07-01T22:31:05.000Z
 title: "Jogadores baratos de Alemaes no EA FC (01/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,32 +29,32 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -39.4% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -45.5% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -23.4% |
 | Celia Šašić | 89 | ST | GPFBL | 12k coins | +2.2% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -23.8% |
-| Kristin Kögel | 89 | LM | GPFBL | 13k coins | -37.5% |
-| Rudi Völler | 89 | ST | Bundesliga | 14k coins | -7.4% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | 0% |
+| Kristin Kögel | 89 | LM | GPFBL | 14k coins | -38.9% |
+| Rudi Völler | 89 | ST | Bundesliga | 14k coins | +9.3% |
+| Nadine Keßler | 88 | CM | GPFBL | 11k coins | -8.3% |
+| Simone Laudehr | 88 | CM | GPFBL | 11k coins | -4.3% |
 | Mario Gomez | 88 | ST | Bundesliga | 12k coins | 0% |
-| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +2.2% |
-| Oliver Bierhoff | 88 | ST | Serie A TIM | 13k coins | -7.3% |
-| Uli Hoeneß | 88 | RM | Bundesliga | 13k coins | -21.9% |
-| Maximilian Mittelstädt | 88 | LB | Bundesliga | 14k coins | -5% |
-| David Raum | 87 | LB | Bundesliga | 14k coins | 0% |
-| Julian Brandt | 87 | CAM | Bundesliga | 15k coins | +15.4% |
-| Loreen Bender | 86 | RM | GPFBL | 12k coins | -4.2% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | +11.4% |
+| Uli Hoeneß | 88 | RM | Bundesliga | 13k coins | -18.8% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 14k coins | +9.8% |
+| Franziska Harsch | 88 | CM | GPFBL | 15k coins | +11.1% |
+| Jonathan Tah | 88 | CB | Bundesliga | 15k coins | -46.4% |
+| David Raum | 87 | LB | Bundesliga | 14k coins | +1.9% |
+| Julian Brandt | 87 | CAM | Bundesliga | 14k coins | +11.5% |
+| Can Bozdoğan | 87 | CM | Eredivisie | 15k coins | -28% |
 
 
 ## 📈 Destaques
 
 - **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
-
 - **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Kristin Kögel (89, LM)** da GPFBL, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
+
+- **Kristin Kögel (89, LM)** da GPFBL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Rudi Völler (89, ST)** da Bundesliga, a apenas **14k coins**
 
