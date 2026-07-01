@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-01T13:31:09.000Z
+pubDatetime: 2026-07-01T16:31:09.000Z
 title: "Jogadores baratos de Alemaes no EA FC (01/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,16 +29,14 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | -34.1% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | -35.7% |
 | Celia Šašić | 89 | ST | GPFBL | 11k coins | -2.1% |
-| Keven Schlotterbeck | 89 | CB | Bundesliga | 12k coins | -59.7% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | -14.1% |
 | Mario Gomez | 88 | ST | Bundesliga | 11k coins | 0% |
-| Simone Laudehr | 88 | CM | GPFBL | 11k coins | -6.4% |
 | Nadine Keßler | 88 | CM | GPFBL | 11k coins | -6.4% |
-| Benedict Hollerbach | 87 | ST | Bundesliga | 14k coins | -34.9% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | -2.1% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -6.2% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | -6.2% |
+| Sara Doorsoun | 84 | CB | GPFBL | 5k coins | +4.5% |
 
 
 ## 📈 Destaques
@@ -47,11 +45,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **11k coins**
 
-- **Keven Schlotterbeck (89, CB)** da Bundesliga, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Mario Gomez (88, ST)** da Bundesliga, a apenas **11k coins**
+
+- **Nadine Keßler (88, CM)** da GPFBL, a apenas **11k coins**
+
+- **Simone Laudehr (88, CM)** da GPFBL, a apenas **12k coins**
 
 
 ## Por que estas cartas?
