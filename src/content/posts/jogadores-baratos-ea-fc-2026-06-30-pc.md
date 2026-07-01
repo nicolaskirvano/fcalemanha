@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T22:31:09.000Z
+pubDatetime: 2026-07-01T01:31:09.000Z
 title: "Jogadores baratos de Alemaes no EA FC (30/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -31,18 +31,19 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | --- | --- | --- | --- | --- | --- |
 | Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -59% |
 | Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -51.2% |
-| Celia Šašić | 89 | ST | GPFBL | 11k coins | -4.3% |
-| Keven Schlotterbeck | 89 | CB | Bundesliga | 12k coins | -64% |
+| Celia Šašić | 89 | ST | GPFBL | 11k coins | -6.2% |
+| Keven Schlotterbeck | 89 | CB | Bundesliga | 12k coins | -65.5% |
+| Kristin Kögel | 89 | LM | GPFBL | 14k coins | -41.3% |
+| Joelle Wedemeyer | 89 | RB | GPFBL | 14k coins | +3.8% |
 | Jürgen Kohler | 89 | CB | Bundesliga | 14k coins | -17.9% |
+| Rudi Völler | 89 | ST | Bundesliga | 15k coins | 0% |
 | Mario Gomez | 88 | ST | Bundesliga | 11k coins | 0% |
 | Nadine Keßler | 88 | CM | GPFBL | 11k coins | -4.3% |
 | Simone Laudehr | 88 | CM | GPFBL | 12k coins | +4.2% |
 | Lea Schüller | 86 | ST | GPFBL | 2k coins | -40% |
 | Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 5k coins | -30.3% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -56.1% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
-| Sara Doorsoun | 84 | CB | GPFBL | 5k coins | +4.5% |
-| Christian Günter | 84 | LB | Bundesliga | 15k coins | -9.1% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -56.1% |
 
 
 ## 📈 Destaques
@@ -55,7 +56,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Keven Schlotterbeck (89, CB)** da Bundesliga, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Kristin Kögel (89, LM)** da GPFBL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
