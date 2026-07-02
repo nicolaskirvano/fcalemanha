@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-01T22:31:09.000Z
+pubDatetime: 2026-07-02T01:31:09.000Z
 title: "Jogadores baratos de Alemaes no EA FC (01/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,18 +29,16 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -55% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -54.8% |
-| Celia Šašić | 89 | ST | GPFBL | 11k coins | -6.2% |
-| Keven Schlotterbeck | 89 | CB | Bundesliga | 12k coins | -60.3% |
-| Kristin Kögel | 89 | LM | GPFBL | 12k coins | -53% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -60% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -59.5% |
+| Celia Šašić | 89 | ST | GPFBL | 12k coins | -4.2% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -36.7% |
+| Keven Schlotterbeck | 89 | CB | Bundesliga | 12k coins | -60.6% |
 | Mario Gomez | 88 | ST | Bundesliga | 11k coins | 0% |
-| Simone Laudehr | 88 | CM | GPFBL | 11k coins | -6.4% |
-| Nadine Keßler | 88 | CM | GPFBL | 11k coins | 0% |
-| David Raum | 87 | LB | Bundesliga | 14k coins | -21.4% |
+| Nadine Keßler | 88 | CM | GPFBL | 11k coins | -6.4% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | -6.4% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | +2.2% |
-| Sara Doorsoun | 84 | CB | GPFBL | 5k coins | +4.5% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -2.2% |
 
 
 ## 📈 Destaques
@@ -49,11 +47,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Celia Šašić (89, ST)** da GPFBL, a apenas **11k coins**
+- **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
+
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Keven Schlotterbeck (89, CB)** da Bundesliga, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Kristin Kögel (89, LM)** da GPFBL, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
