@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T13:31:05.000Z
+pubDatetime: 2026-07-03T16:31:05.000Z
 title: "Jogadores baratos de Alemaes no EA FC (03/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -4% |
-| Rudi Völler | 89 | ST | Bundesliga | 12k coins | -29.7% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -8.2% |
 | Celia Šašić | 89 | ST | GPFBL | 12k coins | 0% |
-| Nadine Keßler | 89 | CM | GPFBL | 14k coins | -12.3% |
-| Simone Laudehr | 88 | CM | GPFBL | 11k coins | 0% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | 0% |
-| Mario Gomez | 88 | ST | Bundesliga | 12k coins | 0% |
-| Oliver Bierhoff | 88 | ST | Serie A TIM | 14k coins | 0% |
-| Benedict Hollerbach | 87 | ST | Bundesliga | 12k coins | -34.2% |
-| David Raum | 87 | LB | Bundesliga | 14k coins | +11.5% |
-| Julian Brandt | 87 | CAM | Bundesliga | 14k coins | -26.3% |
-| Pascal Groß | 87 | CAM | Premier League | 15k coins | -34.8% |
-| Lea Schüller | 86 | ST | GPFBL | 2k coins | +36.4% |
+| Rudi Völler | 89 | ST | Bundesliga | 12k coins | -18.6% |
+| Nadine Keßler | 89 | CM | GPFBL | 14k coins | -3.4% |
+| Kristin Kögel | 89 | LM | GPFBL | 14k coins | -28.7% |
+| Nadine Keßler | 88 | CM | GPFBL | 11k coins | -6.4% |
+| Mario Gomez | 88 | ST | Bundesliga | 11k coins | -2.2% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +2.2% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 15k coins | +13% |
+| Can Bozdoğan | 87 | CM | Eredivisie | 13k coins | -28% |
+| David Raum | 87 | LB | Bundesliga | 15k coins | +17.6% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -4.3% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | 0% |
+| Lisanne Gräwe | 86 | CM | GPFBL | 14k coins | +5.5% |
+| Loreen Bender | 86 | RM | GPFBL | 14k coins | +5.5% |
 
 
 ## 📈 Destaques
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins**
-
-- **Rudi Völler (89, ST)** da Bundesliga, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
 
-- **Nadine Keßler (89, CM)** da GPFBL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Rudi Völler (89, ST)** da Bundesliga, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Simone Laudehr (88, CM)** da GPFBL, a apenas **11k coins**
+- **Nadine Keßler (89, CM)** da GPFBL, a apenas **14k coins**
+
+- **Kristin Kögel (89, LM)** da GPFBL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
