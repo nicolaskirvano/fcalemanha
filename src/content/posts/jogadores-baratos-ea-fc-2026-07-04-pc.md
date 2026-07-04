@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-04T19:31:09.000Z
+pubDatetime: 2026-07-04T22:31:09.000Z
 title: "Jogadores baratos de Alemaes no EA FC (04/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,29 +29,32 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | +13% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | -6.7% |
-| Celia Šašić | 89 | ST | GPFBL | 12k coins | +6.7% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 14k coins | +22.2% |
-| Mario Gomez | 88 | ST | Bundesliga | 11k coins | -2.2% |
-| Nadine Keßler | 88 | CM | GPFBL | 11k coins | -10.2% |
-| Simone Laudehr | 88 | CM | GPFBL | 12k coins | -10.9% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | -2.3% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -4.3% |
-| Angelo Stiller | 85 | CDM | Bundesliga | 15k coins | -24.7% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | +30% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -16.7% |
+| Rudi Völler | 89 | ST | Bundesliga | 11k coins | -36.6% |
+| Celia Šašić | 89 | ST | GPFBL | 12k coins | 0% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | +15.6% |
+| Jamal Musiala | 88 | CAM | Bundesliga | 2k coins | +87.5% |
+| Mario Gomez | 88 | ST | Bundesliga | 11k coins | 0% |
+| Simone Laudehr | 88 | CM | GPFBL | 11k coins | -23.7% |
+| Nadine Keßler | 88 | CM | GPFBL | 11k coins | -6.2% |
+| Uli Hoeneß | 88 | RM | Bundesliga | 15k coins | -14.3% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -8.3% |
+| Angelo Stiller | 85 | CDM | Bundesliga | 15k coins | -37.5% |
 
 
 ## 📈 Destaques
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2k coins**
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **3k coins**
+- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Rudi Völler (89, ST)** da Bundesliga, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **11k coins**
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
