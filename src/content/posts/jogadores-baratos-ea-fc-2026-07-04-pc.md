@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-04T10:31:09.000Z
+pubDatetime: 2026-07-04T13:31:09.000Z
 title: "Jogadores baratos de Alemaes no EA FC (04/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,16 +29,17 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -18.5% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -11.1% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | +2.2% |
-| Celia Šašić | 89 | ST | GPFBL | 12k coins | 0% |
-| Kristin Kögel | 89 | LM | GPFBL | 13k coins | -50.9% |
-| Mario Gomez | 88 | ST | Bundesliga | 11k coins | -2.2% |
-| Simone Laudehr | 88 | CM | GPFBL | 11k coins | -37.1% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | 0% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | -4.4% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -6.4% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -11.5% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -11.5% |
+| Celia Šašić | 89 | ST | GPFBL | 12k coins | +6.7% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | 0% |
+| Mario Gomez | 88 | ST | Bundesliga | 12k coins | +2.2% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | -34.3% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | -4.2% |
+| Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 7k coins | +28.6% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -4.3% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
+| Christian Günter | 84 | LB | Bundesliga | 15k coins | +8.5% |
 
 
 ## 📈 Destaques
@@ -47,11 +48,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins**
-
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
 
-- **Kristin Kögel (89, LM)** da GPFBL, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins**
+
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **12k coins**
 
 
 ## Por que estas cartas?
