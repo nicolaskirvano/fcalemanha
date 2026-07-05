@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-05T10:31:05.000Z
+pubDatetime: 2026-07-05T13:31:05.000Z
 title: "Jogadores baratos de Alemaes no EA FC (05/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -31,19 +31,19 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | --- | --- | --- | --- | --- | --- |
 | Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | +64.3% |
 | Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | +53.3% |
-| Celia Šašić | 89 | ST | GPFBL | 12k coins | +4.3% |
+| Celia Šašić | 89 | ST | GPFBL | 12k coins | 0% |
+| Rudi Völler | 89 | ST | Bundesliga | 12k coins | -4% |
 | Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | +8.7% |
-| Rudi Völler | 89 | ST | Bundesliga | 12k coins | -2% |
-| Mario Gomez | 88 | ST | Bundesliga | 11k coins | 0% |
+| Kristin Kögel | 89 | LM | GPFBL | 14k coins | +7.7% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +6.5% |
 | Nadine Keßler | 88 | CM | GPFBL | 12k coins | +2.2% |
-| Simone Laudehr | 88 | CM | GPFBL | 13k coins | +15.2% |
-| Franziska Harsch | 88 | CM | GPFBL | 14k coins | -3.3% |
-| Oliver Bierhoff | 88 | ST | Serie A TIM | 15k coins | +25% |
-| Benedict Hollerbach | 87 | ST | Bundesliga | 14k coins | +14.3% |
-| Can Bozdoğan | 87 | CM | Eredivisie | 15k coins | -10.4% |
-| Julian Brandt | 87 | CAM | Bundesliga | 15k coins | +3.4% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | -6.5% |
-| Loreen Bender | 86 | RM | GPFBL | 14k coins | +12.5% |
+| Mario Gomez | 88 | ST | Bundesliga | 12k coins | +4.4% |
+| Franziska Harsch | 88 | CM | GPFBL | 14k coins | -5% |
+| Uli Hoeneß | 88 | RM | Bundesliga | 14k coins | +19.2% |
+| David Raum | 87 | LB | Bundesliga | 14k coins | +3.7% |
+| Benedict Hollerbach | 87 | ST | Bundesliga | 14k coins | +12.2% |
+| Can Bozdoğan | 87 | CM | Eredivisie | 15k coins | -7.7% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | +2.2% |
 
 
 ## 📈 Destaques
@@ -54,9 +54,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins**
-
 - **Rudi Völler (89, ST)** da Bundesliga, a apenas **12k coins**
+
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins**
 
 
 ## Por que estas cartas?
