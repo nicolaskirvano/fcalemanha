@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-05T19:31:09.000Z
+pubDatetime: 2026-07-05T22:31:09.000Z
 title: "Jogadores baratos de Alemaes no EA FC (05/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,18 +29,16 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | +123.1% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | +107.1% |
-| Rudi Völler | 89 | ST | Bundesliga | 11k coins | 0% |
-| Celia Šašić | 89 | ST | GPFBL | 12k coins | +6.7% |
-| Jamal Musiala | 88 | CAM | Bundesliga | 2k coins | +100% |
-| Mario Gomez | 88 | ST | Bundesliga | 11k coins | -2.2% |
-| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +6.5% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +6.5% |
-| David Raum | 87 | LB | Bundesliga | 14k coins | +9.1% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | +92.3% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | +100% |
+| Celia Šašić | 89 | ST | GPFBL | 12k coins | 0% |
+| Mario Gomez | 88 | ST | Bundesliga | 11k coins | 0% |
+| Simone Laudehr | 88 | CM | GPFBL | 11k coins | +4.3% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +8.9% |
+| David Raum | 87 | LB | Bundesliga | 14k coins | +9.8% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | +2.3% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | +4.5% |
-| Sara Doorsoun | 84 | CB | GPFBL | 4k coins | -10.9% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | +2.3% |
+| Sara Doorsoun | 84 | CB | GPFBL | 4k coins | -8.7% |
 
 
 ## 📈 Destaques
@@ -49,11 +47,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Rudi Völler (89, ST)** da Bundesliga, a apenas **11k coins**
-
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
 
-- **Jamal Musiala (88, CAM)** da Bundesliga, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **11k coins**
+
+- **Simone Laudehr (88, CM)** da GPFBL, a apenas **11k coins**
 
 
 ## Por que estas cartas?
