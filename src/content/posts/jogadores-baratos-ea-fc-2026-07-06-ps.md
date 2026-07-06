@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-06T16:31:05.000Z
+pubDatetime: 2026-07-06T19:31:05.000Z
 title: "Jogadores baratos de Alemaes no EA FC (06/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,16 +30,20 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | +155.6% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | +64.3% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 14k coins | +7.8% |
-| Kristin Kögel | 89 | LM | GPFBL | 15k coins | +1.7% |
-| Franziska Harsch | 88 | CM | GPFBL | 14k coins | -14.7% |
-| David Raum | 87 | LB | Bundesliga | 14k coins | +9.6% |
-| Benedict Hollerbach | 87 | ST | Bundesliga | 15k coins | -6.2% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | +71.4% |
+| Celia Šašić | 89 | ST | GPFBL | 12k coins | +6.4% |
+| Rudi Völler | 89 | ST | Bundesliga | 13k coins | -1.9% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 14k coins | +5.9% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +10% |
+| Franziska Harsch | 88 | CM | GPFBL | 13k coins | -22.1% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 14k coins | +14.3% |
+| Benedict Hollerbach | 87 | ST | Bundesliga | 14k coins | -15.6% |
+| David Raum | 87 | LB | Bundesliga | 14k coins | +5.8% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 14k coins | +16.3% |
 | Loreen Bender | 86 | RM | GPFBL | 14k coins | +20.8% |
-| Maximilian Beier | 85 | ST | Bundesliga | 13k coins | -77.1% |
+| Maximilian Beier | 85 | ST | Bundesliga | 13k coins | -75.7% |
 | Angelo Stiller | 85 | CDM | Bundesliga | 14k coins | +3.6% |
-| Danny da Costa | 84 | RB | Bundesliga | 15k coins | -29.8% |
+| Christian Günter | 84 | LB | Bundesliga | 14k coins | -22.5% |
 
 
 ## 📈 Destaques
@@ -48,11 +52,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
+- **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
+
+- **Rudi Völler (89, ST)** da Bundesliga, a apenas **13k coins**
+
 - **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **14k coins**
-
-- **Kristin Kögel (89, LM)** da GPFBL, a apenas **15k coins**
-
-- **Franziska Harsch (88, CM)** da GPFBL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
