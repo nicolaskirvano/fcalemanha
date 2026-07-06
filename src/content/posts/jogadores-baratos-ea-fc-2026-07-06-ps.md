@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-06T19:31:05.000Z
+pubDatetime: 2026-07-06T22:31:05.000Z
 title: "Jogadores baratos de Alemaes no EA FC (06/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | +155.6% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | +71.4% |
-| Celia Šašić | 89 | ST | GPFBL | 12k coins | +6.4% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | +144.4% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | +78.6% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | +3.9% |
 | Rudi Völler | 89 | ST | Bundesliga | 13k coins | -1.9% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 14k coins | +5.9% |
-| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +10% |
-| Franziska Harsch | 88 | CM | GPFBL | 13k coins | -22.1% |
-| Oliver Bierhoff | 88 | ST | Serie A TIM | 14k coins | +14.3% |
-| Benedict Hollerbach | 87 | ST | Bundesliga | 14k coins | -15.6% |
-| David Raum | 87 | LB | Bundesliga | 14k coins | +5.8% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 14k coins | +16.3% |
-| Loreen Bender | 86 | RM | GPFBL | 14k coins | +20.8% |
-| Maximilian Beier | 85 | ST | Bundesliga | 13k coins | -75.7% |
-| Angelo Stiller | 85 | CDM | Bundesliga | 14k coins | +3.6% |
-| Christian Günter | 84 | LB | Bundesliga | 14k coins | -22.5% |
+| Celia Šašić | 89 | ST | GPFBL | 13k coins | +2.1% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | 0% |
+| Mario Gomez | 88 | ST | Bundesliga | 13k coins | +22.9% |
+| Franziska Harsch | 88 | CM | GPFBL | 13k coins | -20.6% |
+| Nadine Keßler | 88 | CM | GPFBL | 13k coins | +17.8% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 15k coins | +10.2% |
+| Maximilian Mittelstädt | 88 | LB | Bundesliga | 15k coins | -4.8% |
+| Mario Götze | 88 | CAM | Bundesliga | 15k coins | -78.6% |
+| David Raum | 87 | LB | Bundesliga | 15k coins | +21.2% |
+| Lea Schüller | 86 | ST | GPFBL | 2k coins | +36.4% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | +9.1% |
 
 
 ## 📈 Destaques
@@ -52,11 +52,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins**
 
 - **Rudi Völler (89, ST)** da Bundesliga, a apenas **13k coins**
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **14k coins**
+- **Celia Šašić (89, ST)** da GPFBL, a apenas **13k coins**
 
 
 ## Por que estas cartas?
