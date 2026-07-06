@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-05T22:31:05.000Z
+pubDatetime: 2026-07-06T01:31:05.000Z
 title: "Jogadores baratos de Alemaes no EA FC (05/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | +29.4% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | +21.1% |
-| Rudi Völler | 89 | ST | Bundesliga | 12k coins | +6.1% |
-| Celia Šašić | 89 | ST | GPFBL | 12k coins | 0% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | +8.5% |
-| Simone Laudehr | 88 | CM | GPFBL | 11k coins | 0% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +2.2% |
-| Mario Gomez | 88 | ST | Bundesliga | 12k coins | +6.5% |
-| Franziska Harsch | 88 | CM | GPFBL | 13k coins | -11.7% |
-| Maximilian Mittelstädt | 88 | LB | Bundesliga | 14k coins | +3.6% |
-| Oliver Bierhoff | 88 | ST | Serie A TIM | 14k coins | +7.3% |
-| Benedict Hollerbach | 87 | ST | Bundesliga | 14k coins | +7.8% |
-| Can Bozdoğan | 87 | CM | Eredivisie | 14k coins | -4.9% |
-| Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 3k coins | +12.5% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | +2.2% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | +27.8% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | +10% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | +6.4% |
+| Celia Šašić | 89 | ST | GPFBL | 12k coins | +6.4% |
+| Rudi Völler | 89 | ST | Bundesliga | 14k coins | +14.3% |
+| Nadine Keßler | 88 | CM | GPFBL | 11k coins | +2.2% |
+| Simone Laudehr | 88 | CM | GPFBL | 11k coins | -4.3% |
+| Franziska Harsch | 88 | CM | GPFBL | 12k coins | -21.2% |
+| Mario Gomez | 88 | ST | Bundesliga | 12k coins | 0% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 15k coins | +5.1% |
+| Uli Hoeneß | 88 | RM | Bundesliga | 15k coins | +9.6% |
+| Benedict Hollerbach | 87 | ST | Bundesliga | 12k coins | 0% |
+| Lea Schüller | 86 | ST | GPFBL | 2k coins | +36.4% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | -4.3% |
+| Loreen Bender | 86 | RM | GPFBL | 14k coins | +21.7% |
 
 
 ## 📈 Destaques
 
 - **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **2k coins**
 
-- **Rudi Völler (89, ST)** da Bundesliga, a apenas **12k coins**
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins**
 
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **13k coins**
+- **Rudi Völler (89, ST)** da Bundesliga, a apenas **14k coins**
 
 
 ## Por que estas cartas?
