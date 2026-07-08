@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-08T10:31:05.000Z
+pubDatetime: 2026-07-08T13:31:05.000Z
 title: "Jogadores baratos de Alemaes no EA FC (08/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | +10% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | +21.1% |
 | Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | +20% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | +2% |
-| Celia Šašić | 89 | ST | GPFBL | 13k coins | +10.6% |
-| Keven Schlotterbeck | 89 | CB | Bundesliga | 15k coins | +7.1% |
-| Simone Laudehr | 88 | CM | GPFBL | 11k coins | -6.4% |
-| Mario Gomez | 88 | ST | Bundesliga | 11k coins | -6.4% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +6.4% |
+| Celia Šašić | 89 | ST | GPFBL | 12k coins | +4.3% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | +4.2% |
+| Kristin Kögel | 89 | LM | GPFBL | 15k coins | +23.6% |
+| Keven Schlotterbeck | 89 | CB | Bundesliga | 15k coins | +10.7% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | -2.1% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +2.1% |
 | Franziska Harsch | 88 | CM | GPFBL | 14k coins | 0% |
-| Maximilian Mittelstädt | 88 | LB | Bundesliga | 15k coins | +8.6% |
-| Oliver Bierhoff | 88 | ST | Serie A TIM | 15k coins | +11.3% |
-| Benedict Hollerbach | 87 | ST | Bundesliga | 14k coins | -42% |
-| Lea Schüller | 86 | ST | GPFBL | 2k coins | +7.7% |
-| Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 3k coins | +29.2% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -12.2% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 15k coins | +13.2% |
+| Benedict Hollerbach | 87 | ST | Bundesliga | 12k coins | -33.3% |
+| Can Bozdoğan | 87 | CM | Eredivisie | 13k coins | -11.9% |
+| Pascal Groß | 87 | CAM | Premier League | 15k coins | -6.2% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | -2.2% |
+| Loreen Bender | 86 | RM | GPFBL | 12k coins | +4.2% |
 
 
 ## 📈 Destaques
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2k coins**
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **13k coins**
+- **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
 
-- **Celia Šašić (89, ST)** da GPFBL, a apenas **13k coins**
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins**
 
-- **Keven Schlotterbeck (89, CB)** da Bundesliga, a apenas **15k coins**
+- **Kristin Kögel (89, LM)** da GPFBL, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
