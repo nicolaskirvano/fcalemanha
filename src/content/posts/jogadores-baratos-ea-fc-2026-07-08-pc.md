@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-08T13:31:09.000Z
+pubDatetime: 2026-07-08T16:31:09.000Z
 title: "Jogadores baratos de Alemaes no EA FC (08/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,16 +29,16 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | +21.7% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | +30.4% |
-| Celia Šašić | 89 | ST | GPFBL | 12k coins | +4.4% |
-| Jamal Musiala | 88 | CAM | Bundesliga | 2k coins | +88.9% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | +31.8% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | +34.8% |
+| Celia Šašić | 89 | ST | GPFBL | 12k coins | +6.7% |
+| Jamal Musiala | 88 | CAM | Bundesliga | 2k coins | +111.1% |
 | Mario Gomez | 88 | ST | Bundesliga | 11k coins | 0% |
 | Simone Laudehr | 88 | CM | GPFBL | 11k coins | 0% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +4.5% |
-| Benedict Hollerbach | 87 | ST | Bundesliga | 14k coins | -29.4% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
+| Nadine Keßler | 88 | CM | GPFBL | 13k coins | +29.5% |
+| Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 4k coins | -2.9% |
 | Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -2.2% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
 
 
 ## 📈 Destaques
