@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-07T22:31:09.000Z
+pubDatetime: 2026-07-08T01:31:09.000Z
 title: "Jogadores baratos de Alemaes no EA FC (07/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,14 +29,16 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | +34.8% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | +47.8% |
-| Celia Šašić | 89 | ST | GPFBL | 12k coins | -2.1% |
-| Rudi Völler | 89 | ST | Bundesliga | 14k coins | -8.3% |
-| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +19.6% |
-| Nadine Keßler | 88 | CM | GPFBL | 13k coins | +15.9% |
-| Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 7k coins | -5.6% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | +21.7% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | +20% |
+| Celia Šašić | 89 | ST | GPFBL | 12k coins | +2.1% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +4.5% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +13.6% |
+| Benedict Hollerbach | 87 | ST | Bundesliga | 13k coins | -7.1% |
+| Lea Schüller | 86 | ST | GPFBL | 2k coins | -32.4% |
+| Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 6k coins | -10.6% |
 | Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | 0% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
 
 
 ## 📈 Destaques
@@ -47,9 +49,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
 
-- **Rudi Völler (89, ST)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Simone Laudehr (88, CM)** da GPFBL, a apenas **12k coins**
 
-- **Simone Laudehr (88, CM)** da GPFBL, a apenas **12k coins** — já **valorizando**, sinal de procura crescente.
+- **Nadine Keßler (88, CM)** da GPFBL, a apenas **12k coins**
 
 
 ## Por que estas cartas?
