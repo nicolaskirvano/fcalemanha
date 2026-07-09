@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-08T22:31:09.000Z
+pubDatetime: 2026-07-09T01:31:10.000Z
 title: "Jogadores baratos de Alemaes no EA FC (08/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 08/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (08/07/2026)?"
-    a: "Joshua Kimmich (89, Bundesliga) aparece como melhor custo-benefício, a 3k coins no PC."
+    a: "Florian Wirtz (89, Bundesliga) aparece como melhor custo-benefício, a 3k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **08/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Joshua Kimmich (89) por apenas 3k coins.
+> 💰 **Melhor pechincha:** Florian Wirtz (89) por apenas 3k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,28 +29,30 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | +58.8% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | +72.2% |
-| Celia Šašić | 89 | ST | GPFBL | 12k coins | +6.7% |
-| Jamal Musiala | 88 | CAM | Bundesliga | 2k coins | +100% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +4.5% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | +66.7% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | +76.5% |
+| Celia Šašić | 89 | ST | GPFBL | 12k coins | +2.2% |
+| Rudi Völler | 89 | ST | Bundesliga | 13k coins | +17.8% |
+| Mario Gomez | 88 | ST | Bundesliga | 11k coins | 0% |
+| Simone Laudehr | 88 | CM | GPFBL | 11k coins | 0% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +15.9% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 13k coins | -13.6% |
 | Benedict Hollerbach | 87 | ST | Bundesliga | 13k coins | -43.6% |
-| Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 7k coins | 0% |
 | Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -4.4% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
-
 - **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
 
-- **Jamal Musiala (88, CAM)** da Bundesliga, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Rudi Völler (89, ST)** da Bundesliga, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Nadine Keßler (88, CM)** da GPFBL, a apenas **12k coins**
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **11k coins**
 
 
 ## Por que estas cartas?
@@ -67,7 +69,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (08/07/2026)?**  
-Joshua Kimmich (89, Bundesliga) aparece como melhor custo-benefício, a 3k coins no PC.
+Florian Wirtz (89, Bundesliga) aparece como melhor custo-benefício, a 3k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
