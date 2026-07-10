@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-09T22:31:05.000Z
+pubDatetime: 2026-07-10T01:31:05.000Z
 title: "Jogadores baratos de Alemaes no EA FC (09/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 09/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (09/07/2026)?"
-    a: "Jürgen Kohler (89, Bundesliga) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
+    a: "Celia Šašić (89, GPFBL) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **09/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Jürgen Kohler (89) por apenas 12k coins.
+> 💰 **Melhor pechincha:** Celia Šašić (89) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | 0% |
-| Rudi Völler | 89 | ST | Bundesliga | 12k coins | 0% |
-| Celia Šašić | 89 | ST | GPFBL | 12k coins | +8.9% |
-| Nadine Keßler | 89 | CM | GPFBL | 14k coins | +1.8% |
-| Kristin Kögel | 89 | LM | GPFBL | 15k coins | +1.7% |
+| Celia Šašić | 89 | ST | GPFBL | 12k coins | +6.7% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | +2.1% |
+| Nadine Keßler | 89 | CM | GPFBL | 14k coins | +5.3% |
 | Mario Gomez | 88 | ST | Bundesliga | 12k coins | +4.4% |
-| Oliver Bierhoff | 88 | ST | Serie A TIM | 14k coins | +3.5% |
-| Franziska Harsch | 88 | CM | GPFBL | 14k coins | +5.5% |
-| Nadiem Amiri | 88 | CM | Bundesliga | 14k coins | -40% |
-| Jonathan Tah | 88 | CB | Bundesliga | 15k coins | -4.8% |
-| Julian Brandt | 87 | CAM | Bundesliga | 13k coins | -6.9% |
-| David Raum | 87 | LB | Bundesliga | 15k coins | +3.7% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +8.7% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 13k coins | -3.6% |
+| Maximilian Mittelstädt | 88 | LB | Bundesliga | 14k coins | -15.6% |
+| Jonathan Tah | 88 | CB | Bundesliga | 14k coins | -13.6% |
+| Can Bozdoğan | 87 | CM | Eredivisie | 13k coins | -3.6% |
+| Benedict Hollerbach | 87 | ST | Bundesliga | 14k coins | +7.7% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | +2.3% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | +4.3% |
-| Angelo Stiller | 85 | CDM | Bundesliga | 14k coins | +1.8% |
+| Loreen Bender | 86 | RM | GPFBL | 15k coins | +5.4% |
+| Angelo Stiller | 85 | CDM | Bundesliga | 14k coins | -1.8% |
+| Maximilian Beier | 85 | ST | Bundesliga | 14k coins | -78.9% |
 
 
 ## 📈 Destaques
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins**
-
-- **Rudi Völler (89, ST)** da Bundesliga, a apenas **12k coins**
-
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
+
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins**
 
 - **Nadine Keßler (89, CM)** da GPFBL, a apenas **14k coins**
 
-- **Kristin Kögel (89, LM)** da GPFBL, a apenas **15k coins**
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **12k coins**
+
+- **Nadine Keßler (88, CM)** da GPFBL, a apenas **12k coins**
 
 
 ## Por que estas cartas?
@@ -73,7 +72,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (09/07/2026)?**  
-Jürgen Kohler (89, Bundesliga) aparece como melhor custo-benefício, a 12k coins no Console (PS).
+Celia Šašić (89, GPFBL) aparece como melhor custo-benefício, a 12k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
