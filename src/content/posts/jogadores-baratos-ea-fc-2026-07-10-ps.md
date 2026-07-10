@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-10T13:31:05.000Z
+pubDatetime: 2026-07-10T16:31:05.000Z
 title: "Jogadores baratos de Alemaes no EA FC (10/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -11.1% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -9.5% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | 0% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -10.5% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -13.6% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -4.3% |
 | Celia Šašić | 89 | ST | GPFBL | 12k coins | +6.4% |
 | Rudi Völler | 89 | ST | Bundesliga | 13k coins | +10.4% |
-| Simone Laudehr | 88 | CM | GPFBL | 12k coins | 0% |
-| Mario Gomez | 88 | ST | Bundesliga | 12k coins | +6.5% |
-| Nadine Keßler | 88 | CM | GPFBL | 13k coins | +13.3% |
-| Franziska Harsch | 88 | CM | GPFBL | 15k coins | +1.7% |
-| Lea Schüller | 86 | ST | GPFBL | 2k coins | +23.1% |
-| Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 4k coins | +40% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | +2.2% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | +8.9% |
-| Lisanne Gräwe | 86 | CM | GPFBL | 15k coins | 0% |
-| Maximilian Beier | 85 | ST | Bundesliga | 15k coins | -77.7% |
+| Keven Schlotterbeck | 89 | CB | Bundesliga | 14k coins | +1.8% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +6.4% |
+| Mario Gomez | 88 | ST | Bundesliga | 12k coins | +4.3% |
+| Nadine Keßler | 88 | CM | GPFBL | 13k coins | +15.6% |
+| Franziska Harsch | 88 | CM | GPFBL | 14k coins | 0% |
+| Benedict Hollerbach | 87 | ST | Bundesliga | 15k coins | +17.6% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | +2.2% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | +11.1% |
+| Loreen Bender | 86 | RM | GPFBL | 15k coins | +8.9% |
+| Maximilian Beier | 85 | ST | Bundesliga | 13k coins | -78.8% |
 
 
 ## 📈 Destaques
