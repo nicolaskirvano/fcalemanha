@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-11T13:31:09.000Z
+pubDatetime: 2026-07-11T16:31:09.000Z
 title: "Jogadores baratos de Alemaes no EA FC (11/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 11/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (11/07/2026)?"
-    a: "Simone Laudehr (88, GPFBL) aparece como melhor custo-benefício, a 13k coins no PC."
+    a: "Celia Šašić (89, GPFBL) aparece como melhor custo-benefício, a 12k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **11/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Simone Laudehr (88) por apenas 13k coins.
+> 💰 **Melhor pechincha:** Celia Šašić (89) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,25 +29,26 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Simone Laudehr | 88 | CM | GPFBL | 13k coins | +4.4% |
-| Mario Gomez | 88 | ST | Bundesliga | 14k coins | +31.8% |
-| Lea Schüller | 86 | ST | GPFBL | 3k coins | -13.9% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | 0% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | +2.3% |
-| Sara Doorsoun | 84 | CB | GPFBL | 2k coins | -11.1% |
+| Celia Šašić | 89 | ST | GPFBL | 12k coins | +20% |
+| Simone Laudehr | 88 | CM | GPFBL | 11k coins | -2.2% |
+| Nadine Keßler | 88 | CM | GPFBL | 11k coins | 0% |
+| Mario Gomez | 88 | ST | Bundesliga | 13k coins | +22.7% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -4.4% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
+| Christian Günter | 84 | LB | Bundesliga | 15k coins | -18.9% |
 
 
 ## 📈 Destaques
 
-- **Simone Laudehr (88, CM)** da GPFBL, a apenas **13k coins**
+- **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Simone Laudehr (88, CM)** da GPFBL, a apenas **11k coins**
 
-- **Lea Schüller (86, ST)** da GPFBL, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Nadine Keßler (88, CM)** da GPFBL, a apenas **11k coins**
+
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Uli Hoeneß (86, RM)** da Bundesliga, a apenas **11k coins**
-
-- **Oliver Bierhoff (86, ST)** da Serie A TIM, a apenas **11k coins**
 
 
 ## Por que estas cartas?
@@ -64,7 +65,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (11/07/2026)?**  
-Simone Laudehr (88, GPFBL) aparece como melhor custo-benefício, a 13k coins no PC.
+Celia Šašić (89, GPFBL) aparece como melhor custo-benefício, a 12k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
