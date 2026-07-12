@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-12T16:31:05.000Z
+pubDatetime: 2026-07-12T19:31:05.000Z
 title: "Jogadores baratos de Alemaes no EA FC (12/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,20 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -4% |
-| Rudi Völler | 89 | ST | Bundesliga | 13k coins | -3.8% |
-| Celia Šašić | 89 | ST | GPFBL | 13k coins | +6.2% |
-| Nadine Keßler | 88 | CM | GPFBL | 11k coins | -4.3% |
-| Mario Gomez | 88 | ST | Bundesliga | 12k coins | 0% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -2% |
+| Rudi Völler | 89 | ST | Bundesliga | 13k coins | -5.6% |
+| Celia Šašić | 89 | ST | GPFBL | 14k coins | +10.4% |
+| Keven Schlotterbeck | 89 | CB | Bundesliga | 14k coins | -21.1% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | 0% |
 | Simone Laudehr | 88 | CM | GPFBL | 12k coins | -4.1% |
-| Oliver Bierhoff | 88 | ST | Serie A TIM | 13k coins | -19% |
-| Franziska Harsch | 88 | CM | GPFBL | 13k coins | -5.4% |
-| David Raum | 87 | LB | Bundesliga | 14k coins | 0% |
-| Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 3k coins | +14.8% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | -11.3% |
+| Mario Gomez | 88 | ST | Bundesliga | 12k coins | 0% |
+| Franziska Harsch | 88 | CM | GPFBL | 13k coins | -5.3% |
+| Jonathan Tah | 88 | CB | Bundesliga | 15k coins | -2.9% |
+| Marina Hegering | 87 | CB | GPFBL | 14k coins | -15.5% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | +2.2% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | -5.9% |
 | Loreen Bender | 86 | RM | GPFBL | 14k coins | +3.6% |
-| Maximilian Beier | 85 | ST | Bundesliga | 14k coins | +12% |
-| Danny da Costa | 84 | RB | Bundesliga | 14k coins | +7.5% |
+| Christian Günter | 84 | LB | Bundesliga | 15k coins | -3.3% |
 
 
 ## 📈 Destaques
@@ -52,11 +51,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Rudi Völler (89, ST)** da Bundesliga, a apenas **13k coins**
 
-- **Celia Šašić (89, ST)** da GPFBL, a apenas **13k coins**
+- **Celia Šašić (89, ST)** da GPFBL, a apenas **14k coins**
 
-- **Nadine Keßler (88, CM)** da GPFBL, a apenas **11k coins**
+- **Keven Schlotterbeck (89, CB)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **12k coins**
+- **Nadine Keßler (88, CM)** da GPFBL, a apenas **12k coins**
 
 
 ## Por que estas cartas?
