@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-12T13:31:05.000Z
+pubDatetime: 2026-07-12T16:31:05.000Z
 title: "Jogadores baratos de Alemaes no EA FC (12/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,30 +29,32 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -2% |
-| Celia Šašić | 89 | ST | GPFBL | 13k coins | +10.4% |
-| Rudi Völler | 89 | ST | Bundesliga | 13k coins | -2% |
-| Simone Laudehr | 88 | CM | GPFBL | 12k coins | -6% |
-| Mario Gomez | 88 | ST | Bundesliga | 12k coins | -2.1% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | -2.1% |
-| Franziska Harsch | 88 | CM | GPFBL | 14k coins | +5.4% |
-| Marina Hegering | 87 | CB | GPFBL | 15k coins | -15.3% |
-| Benedict Hollerbach | 87 | ST | Bundesliga | 15k coins | +9.1% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | 0% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | -12.7% |
-| Loreen Bender | 86 | RM | GPFBL | 14k coins | +9.3% |
-| Maximilian Beier | 85 | ST | Bundesliga | 13k coins | +4% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -4% |
+| Rudi Völler | 89 | ST | Bundesliga | 13k coins | -3.8% |
+| Celia Šašić | 89 | ST | GPFBL | 13k coins | +6.2% |
+| Nadine Keßler | 88 | CM | GPFBL | 11k coins | -4.3% |
+| Mario Gomez | 88 | ST | Bundesliga | 12k coins | 0% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | -4.1% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 13k coins | -19% |
+| Franziska Harsch | 88 | CM | GPFBL | 13k coins | -5.4% |
+| David Raum | 87 | LB | Bundesliga | 14k coins | 0% |
+| Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 3k coins | +14.8% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | -11.3% |
+| Loreen Bender | 86 | RM | GPFBL | 14k coins | +3.6% |
+| Maximilian Beier | 85 | ST | Bundesliga | 14k coins | +12% |
+| Danny da Costa | 84 | RB | Bundesliga | 14k coins | +7.5% |
 
 
 ## 📈 Destaques
 
 - **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins**
 
-- **Celia Šašić (89, ST)** da GPFBL, a apenas **13k coins**
-
 - **Rudi Völler (89, ST)** da Bundesliga, a apenas **13k coins**
 
-- **Simone Laudehr (88, CM)** da GPFBL, a apenas **12k coins**
+- **Celia Šašić (89, ST)** da GPFBL, a apenas **13k coins**
+
+- **Nadine Keßler (88, CM)** da GPFBL, a apenas **11k coins**
 
 - **Mario Gomez (88, ST)** da Bundesliga, a apenas **12k coins**
 
