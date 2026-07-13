@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-12T22:31:09.000Z
+pubDatetime: 2026-07-13T01:31:09.000Z
 title: "Jogadores baratos de Alemaes no EA FC (12/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,15 +29,15 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -37.5% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -44.4% |
-| Celia Šašić | 89 | ST | GPFBL | 11k coins | -6.2% |
-| Rudi Völler | 89 | ST | Bundesliga | 12k coins | +15.6% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | +20.7% |
-| Nadine Keßler | 88 | CM | GPFBL | 11k coins | -10.2% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -41.7% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -40.7% |
+| Celia Šašić | 89 | ST | GPFBL | 11k coins | -4.3% |
+| Rudi Völler | 89 | ST | Bundesliga | 12k coins | +2.1% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | -12.1% |
 | Mario Gomez | 88 | ST | Bundesliga | 13k coins | +13% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -4.4% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 14k coins | -10% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | +11.1% |
 
 
 ## 📈 Destaques
@@ -48,9 +48,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **11k coins**
 
-- **Rudi Völler (89, ST)** da Bundesliga, a apenas **12k coins** — já **valorizando**, sinal de procura crescente.
+- **Rudi Völler (89, ST)** da Bundesliga, a apenas **12k coins**
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
