@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-13T19:31:05.000Z
+pubDatetime: 2026-07-13T22:31:05.000Z
 title: "Jogadores baratos de Alemaes no EA FC (13/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,32 +29,31 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Celia Šašić | 89 | ST | GPFBL | 12k coins | -8% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -4% |
-| Keven Schlotterbeck | 89 | CB | Bundesliga | 14k coins | -26.2% |
-| Rudi Völler | 89 | ST | Bundesliga | 14k coins | +3.8% |
-| Simone Laudehr | 88 | CM | GPFBL | 12k coins | -7.8% |
-| Mario Gomez | 88 | ST | Bundesliga | 12k coins | -2% |
-| Oliver Bierhoff | 88 | ST | Serie A TIM | 13k coins | -7.1% |
-| Nadine Keßler | 88 | CM | GPFBL | 13k coins | +2% |
-| Christian Günter | 88 | LB | Bundesliga | 14k coins | -10% |
-| David Raum | 87 | LB | Bundesliga | 14k coins | 0% |
+| Celia Šašić | 89 | ST | GPFBL | 12k coins | 0% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | +2% |
+| Rudi Völler | 89 | ST | Bundesliga | 14k coins | -1.9% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | 0% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | -2% |
+| Mario Gomez | 88 | ST | Bundesliga | 13k coins | +4% |
+| Uli Hoeneß | 88 | RM | Bundesliga | 14k coins | -11.8% |
 | Benedict Hollerbach | 87 | ST | Bundesliga | 14k coins | +3.7% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | -9.6% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | -2.1% |
-| Lisanne Gräwe | 86 | CM | GPFBL | 14k coins | -10.9% |
-| Sara Doorsoun | 84 | CB | GPFBL | 2k coins | -33.3% |
+| Julian Brandt | 87 | CAM | Bundesliga | 14k coins | +1.6% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 13k coins | -5.8% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 13k coins | +10.4% |
+| Larissa Mühlhaus | 85 | ST | GPFBL | 15k coins | +2.1% |
+| Sara Doorsoun | 84 | CB | GPFBL | 2k coins | -36.7% |
+| Christian Günter | 84 | LB | Bundesliga | 13k coins | -14.8% |
 
 
 ## 📈 Destaques
 
-- **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins**
-
-- **Keven Schlotterbeck (89, CB)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **13k coins**
 
 - **Rudi Völler (89, ST)** da Bundesliga, a apenas **14k coins**
+
+- **Nadine Keßler (88, CM)** da GPFBL, a apenas **12k coins**
 
 - **Simone Laudehr (88, CM)** da GPFBL, a apenas **12k coins**
 
