@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-14T16:31:09.000Z
+pubDatetime: 2026-07-14T19:31:09.000Z
 title: "Jogadores baratos de Alemaes no EA FC (14/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 14/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (14/07/2026)?"
-    a: "Joshua Kimmich (89, Bundesliga) aparece como melhor custo-benefício, a 2k coins no PC."
+    a: "Joshua Kimmich (89, Bundesliga) aparece como melhor custo-benefício, a 3k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **14/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Joshua Kimmich (89) por apenas 2k coins.
+> 💰 **Melhor pechincha:** Joshua Kimmich (89) por apenas 3k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,28 +29,27 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | 0% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -14.8% |
-| Celia Šašić | 89 | ST | GPFBL | 12k coins | +10.9% |
-| Rudi Völler | 89 | ST | Bundesliga | 12k coins | 0% |
-| Simone Laudehr | 88 | CM | GPFBL | 11k coins | +8.7% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | +12% |
+| Celia Šašić | 89 | ST | GPFBL | 12k coins | +6.4% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 15k coins | -7.1% |
 | Mario Gomez | 88 | ST | Bundesliga | 12k coins | +4.5% |
-| Nadine Keßler | 88 | CM | GPFBL | 14k coins | +14.9% |
-| Lea Schüller | 86 | ST | GPFBL | 5k coins | +76.7% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 14k coins | +25.6% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +19.6% |
+| Nadine Keßler | 88 | CM | GPFBL | 13k coins | +6.1% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | 0% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | +27.9% |
 
 
 ## 📈 Destaques
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2k coins**
-
-- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **3k coins**
 
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
 
-- **Rudi Völler (89, ST)** da Bundesliga, a apenas **12k coins**
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **15k coins**
 
-- **Simone Laudehr (88, CM)** da GPFBL, a apenas **11k coins**
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **12k coins**
+
+- **Simone Laudehr (88, CM)** da GPFBL, a apenas **12k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
@@ -67,7 +66,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (14/07/2026)?**  
-Joshua Kimmich (89, Bundesliga) aparece como melhor custo-benefício, a 2k coins no PC.
+Joshua Kimmich (89, Bundesliga) aparece como melhor custo-benefício, a 3k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
