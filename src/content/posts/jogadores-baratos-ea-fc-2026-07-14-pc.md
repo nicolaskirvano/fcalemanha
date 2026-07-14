@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-14T19:31:09.000Z
+pubDatetime: 2026-07-14T22:31:09.000Z
 title: "Jogadores baratos de Alemaes no EA FC (14/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,27 +29,27 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | +12% |
-| Celia Šašić | 89 | ST | GPFBL | 12k coins | +6.4% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 15k coins | -7.1% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | +7.7% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | +18.5% |
+| Celia Šašić | 89 | ST | GPFBL | 12k coins | 0% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 15k coins | -21.4% |
 | Mario Gomez | 88 | ST | Bundesliga | 12k coins | +4.5% |
-| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +19.6% |
-| Nadine Keßler | 88 | CM | GPFBL | 13k coins | +6.1% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | 0% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | +27.9% |
+| Nadine Keßler | 88 | CM | GPFBL | 13k coins | +10.2% |
+| Simone Laudehr | 88 | CM | GPFBL | 15k coins | +39.1% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | +11.6% |
 
 
 ## 📈 Destaques
 
 - **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **3k coins**
 
+- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **15k coins**
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Mario Gomez (88, ST)** da Bundesliga, a apenas **12k coins**
-
-- **Simone Laudehr (88, CM)** da GPFBL, a apenas **12k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
