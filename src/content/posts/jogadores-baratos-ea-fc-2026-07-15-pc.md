@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-15T16:31:09.000Z
+pubDatetime: 2026-07-15T19:31:09.000Z
 title: "Jogadores baratos de Alemaes no EA FC (15/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,26 +29,28 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | +11.1% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | +6.9% |
-| Celia Šašić | 89 | ST | GPFBL | 12k coins | 0% |
-| Nadine Keßler | 88 | CM | GPFBL | 13k coins | +5.9% |
-| Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 7k coins | +8.3% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | +11.6% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | +22.2% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 4k coins | +3.4% |
+| Celia Šašić | 89 | ST | GPFBL | 12k coins | +12.5% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +18.2% |
+| Mario Gomez | 88 | ST | Bundesliga | 13k coins | +20.5% |
+| Nadine Keßler | 88 | CM | GPFBL | 15k coins | +17.6% |
+| Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 7k coins | +20.7% |
 | Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | +11.4% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | +16.3% |
 
 
 ## 📈 Destaques
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **3k coins**
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **3k coins**
+- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **4k coins**
 
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
 
-- **Nadine Keßler (88, CM)** da GPFBL, a apenas **13k coins**
+- **Simone Laudehr (88, CM)** da GPFBL, a apenas **12k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Marc-André ter Stegen (86, GK)** da LALIGA EA SPORTS, a apenas **7k coins**
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
