@@ -5,9 +5,9 @@ export default defineAstroPaperConfig({
     url: "https://fcalemanha.pages.dev/",
     title: "Alemanha FUT Market",
     description:
-      "Precos e mercado dos jogadores alemaes no EA FC Ultimate Team, todos os dias.",
+      "preços e mercado dos jogadores alemaes no EA FC Ultimate Team, todos os dias.",
     author: "Alemanha FUT Market",
-    profile: "https://fcalemanha.pages.dev/",
+    profile: "https://fcalemanha.pages.dev/about/",
     publisher: {
       type: "Organization",
       name: "Alemanha FUT Market",
