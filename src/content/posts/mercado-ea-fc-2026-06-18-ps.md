@@ -27,13 +27,11 @@ A mediana de 24h do recorte ficou em **+0,1%**: 10 destaques subiam e 10 caíam.
 *Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
 <!-- /historical-review:v1 -->
 
-## 📊 Como está o mercado agora
+## Dados preservados do snapshot
 
-O mercado de alemães no console PS para o dia 18 de junho de 2026 apresenta uma dinâmica de extrema volatilidade e falta de direcionamento claro, caracterizando um ambiente indefinido onde a cautela deve ser a principal ferramenta do trader experiente. Com um saldo negativo médio de -0.15% nas últimas 24 horas, distribuído entre 45 altas e 56 quedas, percebemos que não há uma narrativa dominante capaz de sustentar uma tendência de alta generalizada ou uma correção profunda simultânea. Essa fragmentação sugere que os movimentos pontuais são impulsionados por fatores específicos de cada jogador, como promoções de última hora ou ajustes de liquidez, em vez de uma força de mercado sistêmica que afetaria todo o segmento nacional. O trader deve, portanto, evitar a compra em massa baseada em sentimento nacionalista e focar estritamente na análise individual de cada ativo, pois a probabilidade de erro aumenta exponencialmente em dias sem tendência clara. A neutralidade do mercado exige uma leitura fria dos dados, onde apenas os ativos com justificativas técnicas sólidas ou probabilidades de alta extremamente altas merecem atenção, enquanto a maioria dos nomes deve ser observada de longe até que uma direção mais consistente se estabeleça.
+As 4 tabelas abaixo preservam **36 registros** de **32 jogadores** observados em 18/06/2026 no Console (PS). Valores repetidos permanecem no arquivo quando a mesma carta apareceu em recortes diferentes.
 
-> 🟢 **Maior alta:** Rudi Völler (89) **+38.9%** · 🔴 **Maior baixa:** Larissa Mühlhaus (87) **-45.3%**
-
-## 🟢 Maiores altas (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -48,11 +46,7 @@ O mercado de alemães no console PS para o dia 18 de junho de 2026 apresenta uma
 | Ann-Katrin Berger | 88 | NWSL | 38k coins | +16% | -0.7% |
 | Leroy Sané | 84 | Trendyol Süper Lig | 48k coins | +15.5% | +9% |
 
-
-Entre os destaques positivos, Rudi Völler (89, Bundesliga) lidera com uma impressionante alta de 38.9% em 24 horas, atingindo a marca de 20k coins, movido por uma probabilidade de alta de 40% que indica interesse sustentado em sua curva de valorização. Nadine Keßler (90, GPFBL) também se destaca com 33.9% de crescimento, subindo para 38k coins, embora sua probabilidade de alta futura seja baixa em apenas 5%, sugerindo que este movimento pode ser uma correção técnica isolada sem continuidade imediata. Selina Cerci (90, GPFBL) apresenta um cenário mais promissor com 33.1% de alta, cotada a 48k coins, apoiada por uma robusta probabilidade de alta de 95%, o que a torna um ativo de alta confiança para traders que buscam segurança em meio à incerteza do dia. Christian Günter (88, Bundesliga) segue a tendência com 30.8% de valorização, atingindo 29k coins, e conta com uma probabilidade de alta de 80%, reforçando a ideia de que defensores de ligas secundárias estão sendo valorizados estrategicamente. Deniz Undav (91, Bundesliga) completa o top 5 com 22.2% de alta, posicionando-se em 66k coins, com uma probabilidade de alta de 63% que indica um equilíbrio saudável entre risco e recompensa, atraindo compradores que buscam ativos de maior valor com potencial de crescimento moderado.
-
-
-## 🔴 Quem mais caiu (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -67,13 +61,7 @@ Entre os destaques positivos, Rudi Völler (89, Bundesliga) lidera com uma impre
 | Nadiem Amiri | 88 | Bundesliga | 35k coins | -15.6% | +2.7% |
 | Toni Kroos | 90 | Icons | 106k coins | -15.3% | +7.7% |
 
-
-No lado oposto, Larissa Mühlhaus (87, GPFBL) sofre a maior queda do dia com -45.3%, despencando para 40k coins, apesar de manter uma probabilidade de alta de 50%, o que sugere um ajuste de preço excessivo que pode atrair compradores de oportunidade em busca de fundos. Florian Wirtz (89, Premier League) recua 33%, sendo cotado a 148k coins, e sua alta probabilidade de alta de 93% indica que esta queda é provavelmente uma correção temporária em um ativo forte, criando uma janela de compra atrativa para traders de longo prazo. Vanessa Fudalla (88, GPFBL) cai 22.1%, atingindo 44k coins, com uma probabilidade de alta de apenas 23%, o que alerta para a possibilidade de continuidade da queda ou estagnação, tornando-a um ativo de risco elevado para compra imediata. Oliver Kahn (91, Icons) perde 21.4%, cotado a 99k coins, e sua probabilidade de alta de 35% sugere que a liquidez de ícones está enfraquecida, exigindo paciência antes de qualquer intervenção no mercado. Ragnar Ache (84, Bundesliga) registra uma queda de 18.8%, atingindo 38k coins, com uma probabilidade de alta de 42% que indica um mercado indeciso, onde a falta de volume de compra pode manter os preços pressionados para baixo nos próximos ciclos.
-
-
-## 🔮 Radar de valorização (24h)
-
-Na publicação original, estas cartas receberam as maiores probabilidades de valorização. Os valores expiraram após 24 horas e não representam um sinal atual:
+### Probabilidades registradas no snapshot
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
@@ -86,13 +74,7 @@ Na publicação original, estas cartas receberam as maiores probabilidades de va
 | Timo Werner | 87 | 60k coins | 76k coins | 95% |
 | Bastian Schweinsteiger | 89 | 147k coins | 181k coins | 95% |
 
-
-Naquele snapshot, o modelo projetava altas significativas para Paul Wanner (84, Eredivisie) a 47k coins e Jamie Leweling (86, Bundesliga) a 32k coins, ambos com probabilidade de alta de 95%, indicando forte potencial de valorização. Malick Thiaw (86, Premier League) a 38k coins e Selina Cerci (90, GPFBL) a 48k coins também possuem 95% de chance de alta, confirmando a força desses ativos. Mario Götze (88, Bundesliga) a 66k coins e Marco Reus (89, MLS) a 287k coins são indicados como oportunidades de alto valor, ambos com 95% de probabilidade de alta. Timo Werner (87, Bundesliga) a 60k coins e Bastian Schweinsteiger (89, Icons) a 147k coins completam a lista com 95% de chance de alta, sugerindo um momento favorável para entrada nesses ativos específicos.
-
-
-## ⚠️ Cuidado: o modelo projeta queda
-
-Naquele snapshot, o modelo indicava **risco de queda** nestas nas próximas 24h — segure a compra:
+### Tabela preservada 4
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
@@ -105,38 +87,14 @@ Naquele snapshot, o modelo indicava **risco de queda** nestas nas próximas 24h 
 | Joshua Kimmich | 90 | 50k coins | -29.2% |
 | Kai Havertz | 91 | 329k coins | -29.2% |
 
+## Como interpretar este arquivo
 
-## 🎯 O que fazer hoje
-A estratégia ideal para hoje é focar na compra seletiva de ativos com alta probabilidade de valorização, como Selina Cerci e Florian Wirtz, aproveitando as quedas recentes para entrar em posições de baixo risco. Deve-se evitar compras impulsivas em ativos com queda acentuada e baixa probabilidade de alta, como Vanessa Fudalla, pois o mercado indefinido tende a punir a especulação sem fundamentos. Segurar ativos de alta probabilidade de alta, como Paul Wanner e Jamie Leweling, é recomendável, pois o modelo indica continuidade positiva para esses nomes. Traders devem monitorar de perto Rudi Völler e Christian Günter, pois suas altas recentes podem se sustentar dada a probabilidade moderada a alta de continuidade. A prudência é fundamental em um dia sem tendência clara, priorizando a proteção do capital e a acumulação estratégica de ativos de alta confiança em vez de perseguição a movimentos de curto prazo.
-
-
-## 🧪 De onde vêm estes números
-Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** coletadas em múltiplas fontes do mercado, limpamos **ruído e anomalias** e calculamos tendência com **médias móveis de 24h e 7 dias** mais suporte/resistência. O resultado é leitura de mercado, não palpite.
-
-
-## ❓ Perguntas frequentes
-
-**Qual foi a maior alta do EA FC hoje (18/06/2026)?**
-Rudi Völler (89, Bundesliga), com +38.9% em 24h, a 20k coins no Console (PS).
-
-**E a maior queda do dia?**
-Larissa Mühlhaus (87), -45.3% em 24h, a 40k coins.
-
-**Qual carta tinha maior probabilidade registrada nesse snapshot?**
-No snapshot histórico, Paul Wanner (84) — 95% de probabilidade de alta, a 47k coins.
-
-**Como estava o mercado do EA FC nesse dia?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 45 cartas em alta contra 56 em queda (média -0.15%).
-
-**Posso confiar nos preços e previsões do FutQuant?**
-Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
-
-
-> 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
-
----
-
-*Preços de Console (PS), referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+- Os preços registrados iam de **20k coins** a **165k coins**, com mediana de **45k coins**.
+- A mediana das variações de 24h presentes nas tabelas foi **+0,1%**.
+- A mediana das variações de 7d presentes nas tabelas foi **+10,8%**.
+- Cada linha descreve o snapshot daquela publicação; ela não representa preço, liquidez ou tendência atual.
+- Probabilidades registradas pertencem ao modelo da data e expiram com a janela prevista; não são recomendação de compra.
+- Para uma decisão atual, confirme preço, volume, taxação, calendário de conteúdo e utilidade da carta no jogo.
 
 <!-- content-links:v2 -->
 ## Continue a análise
@@ -146,3 +104,7 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 - [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
 - [Ver as análises mais recentes](/posts/)
 - [Entenda a metodologia e os limites dos dados](/about/)
+
+## Fonte e metodologia
+
+As tabelas são as evidências publicadas no artigo original. Esta revisão editorial mantém os valores observados, calcula apenas estatísticas descritivas sobre essas linhas e elimina instruções temporais que perderam a validade. Nenhuma cotação foi substituída por dado atual.

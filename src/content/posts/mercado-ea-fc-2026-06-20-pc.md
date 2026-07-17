@@ -27,13 +27,11 @@ A mediana de 24h do recorte ficou em **+0,8%**: 10 destaques subiam e 10 caíam.
 *Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
 <!-- /historical-review:v1 -->
 
-## 📈 O mercado hoje, em resumo
+## Dados preservados do snapshot
 
-O mercado de jogadores alemães no PC apresenta um cenário fascinante e contraditório nesta terça-feira, 20 de junho de 2026, caracterizado por um sentimento majoritariamente comprador que esconde volatilidades extremas em ativos específicos. Embora a média geral de variação em 24 horas seja modesta, com apenas 1,59% de alta, a distribuição das movimentações revela uma dicotomia clara entre 48 cartas em alta e 44 em queda, indicando uma rotação agressiva de capitais entre diferentes camadas de preços. O analista experiente deve observar que essa dinâmica não é aleatória, mas sim reflexo de ajustes pós-eventos de fim de semana e especulação focada em ícones e talentos emergentes da Bundesliga e da Frauen-Bundesliga. A presença de altas duplamente digitais em jogadores de menor expressão, como Deniz Undav e Lisa Karl, sugere uma busca por ativos de baixo custo com alta alavancagem, enquanto as quedas severas em nomes estabelecidos indicam uma correção de preços inflacionados durante as negociações anteriores. Este é um dia para agir com precisão cirúrgica, identificando onde o hype se esgotou e onde a demanda institucional está apenas começando a se formar.
+As 3 tabelas abaixo preservam **21 registros** de **20 jogadores** observados em 20/06/2026 no PC. Valores repetidos permanecem no arquivo quando a mesma carta apareceu em recortes diferentes.
 
-> 🟢 **Maior alta:** Deniz Undav (84) **+54.4%** · 🔴 **Maior baixa:** Carolin Simon (90) **-49.7%**
-
-## 🟢 Destaques de alta (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -48,11 +46,7 @@ O mercado de jogadores alemães no PC apresenta um cenário fascinante e contrad
 | Franz Beckenbauer | 93 | Icons | 580k coins | +23.4% | -14.6% |
 | Deniz Undav | 91 | Bundesliga | 58k coins | +23.4% | +11.5% |
 
-
-Deniz Undav lidera o ranking de altas com uma impressionante subida de 54,4% em 24 horas, atingindo a cotação de 44 mil moedas, um movimento impulsionado pela sua probabilidade de alta de 51% e pela necessidade de squads competitivos da Bundesliga que buscam atacantes acessíveis.紧随其后的是Lisa Karl, da GPFBL, que registrou alta de 52% para 28 mil moedas, demonstrando o interesse crescente no mercado feminino, onde a probabilidade de alta de 28% parece ter sido superestimada pelo volume de compras rápidas de traders alavancados. Birgit Prinz, a lenda dos Ícones com 93 de overall, subiu 37,8% para 88 mil moedas, beneficiando-se de uma probabilidade de alta robusta de 63%, o que atraiu investidores de longo prazo que enxergam segurança no ativo histórico. Can Bozdoğan, da Eredivisie, surpreendeu com alta de 36,4% para 26 mil moedas, aproveitando a baixa probabilidade de alta de 42% para atrair compradores de última hora antes de uma possível correção, enquanto Simone Laudehr, com 90 de overall, subiu 33,3% para 35 mil moedas, ancorada em uma probabilidade de alta de 63% que valida seu status como reserva de valor no segmento feminino. Kevin Schade e Lukas Klostermann também registraram altas significativas de 31,6%, alcançando 38 mil e 150 mil moedas respectivamente, mostrando que a demanda por defensores e meio-campistas alemães de elite permanece inalterada mesmo com probabilidades de alta moderadas de 28% e 25%.
-
-
-## 🔴 Maiores baixas (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -67,53 +61,20 @@ Deniz Undav lidera o ranking de altas com uma impressionante subida de 54,4% em 
 | Maximilian Beier | 85 | Bundesliga | 47k coins | -22.8% | -1.6% |
 | Vivien Endemann | 83 | GPFBL | 30k coins | -21.9% | -28.4% |
 
-
-Carolin Simon sofreu a queda mais devastadora, despencando 49,7% em 24 horas para 22 mil moedas, um colapso que reflete a baixa probabilidade de alta de 28% e a saída rápida de especuladores que perderam a fé no ativo. Jonathan Tah e Manuel Neuer, ambos da Bundesliga, caíram respectivamente 40,8% e 40,6%, estabilizando-se em 38 mil e 47 mil moedas, o que indica uma saturação do mercado por centrais de defesa alemães, apesar das probabilidades de alta de 32% e 60% que deveriam ter sustentado os preços. Oliver Kahn, o ícone com 91 de overall, perdeu 39,5% para 69 mil moedas, demonstrando que mesmo legados históricos não estão imunes à volatilidade quando a probabilidade de alta de 37% não consegue atrair compradores institucionais suficientes. Nick Woltemade, da Premier League, caiu 32,1% para 48 mil moedas, um movimento particularmente preocupante dado que sua probabilidade de alta é de 74%, sugerindo que pode tratar-se de uma oportunidade de compra descontada para traders de visão de longo prazo. Joelle Wedemeyer e Karim Adeyemi completam o quadro de perdas com quedas de 30,6% e 29,7%, caindo para 20 mil e 79 mil moedas respectivamente, enquanto Antonio Rüdiger, com 91 de overall, recuou 24,7% para 189 mil moedas, mostrando que ativos de alto custo estão enfrentando resistência de venda significativa.
-
-
-## 🔮 Projeções do modelo para 24h
-
-Os nomes com **melhor leitura de valorização** segundo o modelo (confiança alta):
+### Probabilidades registradas no snapshot
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
 | Uli Hoeneß | 88 | 19k coins | 20k coins | 80% |
 
+## Como interpretar este arquivo
 
-O modelo preditivo identifica Uli Hoeneß, com 88 de overall na Bundesliga, como a principal oportunidade de alta, com uma probabilidade de 80% de apreciação, estando atualmente cotado a apenas 19 mil moedas.
-
-
-## 🎯 Conclusão do dia
-A estratégia para o dia deve focar na acumulação agressiva de Uli Hoeneß, cuja alta probabilidade de 80% e preço acessível de 19 mil moedas oferecem o melhor risco-benefício do mercado atual. Simultaneamente, traders oportunistas devem considerar a compra de Nick Woltemade a 48 mil moedas, aproveitando a discrepância entre a queda de 32,1% e a alta probabilidade de recuperação de 74%, o que sugere uma correção temporária. É crucial evitar a compra imediata de Deniz Undav e Lisa Karl após as altas duplamente digitais, pois a sustentabilidade desses movimentos sem suporte fundamental forte é questionável a curto prazo. Por outro lado, ativos como Birgit Prinz e Simone Laudehr devem ser segurados ou adicionados em pequenas quantidades, dado que suas probabilidades de alta de 63% indicam uma tendência de alta estrutural e segura. Finalmente, recomenda-se evitar completamente Carolin Simon e Jonathan Tah até que haja sinais de estabilização, pois as quedas de quase 50% e 40% respectivamente indicam uma pressão vendedora que ainda não esgotou seu potencial de baixa.
-
-
-## 🔍 Como apuramos os preços
-Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultimate Team, atualizada ao longo do dia. Descartamos **anomalias** e erros de coleta, e cruzamos preço, **médias de 24h/7d** e níveis técnicos antes de publicar. É dado curado — não cotação solta da web.
-
-
-## ❓ Perguntas frequentes
-
-**Qual foi a maior alta do EA FC hoje (20/06/2026)?**
-Deniz Undav (84, Bundesliga), com +54.4% em 24h, a 44k coins no PC.
-
-**E a maior queda do dia?**
-Carolin Simon (90), -49.7% em 24h, a 22k coins.
-
-**Qual carta tinha maior probabilidade registrada nesse snapshot?**
-No snapshot histórico, Uli Hoeneß (88) — 80% de probabilidade de alta, a 19k coins.
-
-**O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 48 cartas em alta contra 44 em queda (média 1.59%).
-
-**Os dados de preço do FutQuant são confiáveis?**
-Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
-
-
-> 📊 Esta análise usa os dados do <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>: preços de múltiplas fontes, previsões e radar de mercado do EA FC Ultimate Team.
-
----
-
-*Preços de PC, referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+- Os preços registrados iam de **20k coins** a **580k coins**, com mediana de **46k coins**.
+- A mediana das variações de 24h presentes nas tabelas foi **+0,8%**.
+- A mediana das variações de 7d presentes nas tabelas foi **-7,1%**.
+- Cada linha descreve o snapshot daquela publicação; ela não representa preço, liquidez ou tendência atual.
+- Probabilidades registradas pertencem ao modelo da data e expiram com a janela prevista; não são recomendação de compra.
+- Para uma decisão atual, confirme preço, volume, taxação, calendário de conteúdo e utilidade da carta no jogo.
 
 <!-- content-links:v2 -->
 ## Continue a análise
@@ -123,3 +84,7 @@ Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e l
 - [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
 - [Ver as análises mais recentes](/posts/)
 - [Entenda a metodologia e os limites dos dados](/about/)
+
+## Fonte e metodologia
+
+As tabelas são as evidências publicadas no artigo original. Esta revisão editorial mantém os valores observados, calcula apenas estatísticas descritivas sobre essas linhas e elimina instruções temporais que perderam a validade. Nenhuma cotação foi substituída por dado atual.
