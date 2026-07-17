@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T17:18:02.000Z
+pubDatetime: 2026-07-17T19:31:09.000Z
 title: "Investimentos EA FC: Alemaes em 17/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Steffi Jones (91, Icons) lidera, com +64.8% em 7 dias a 74k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Leroy Sané (91, Trendyol Süper Lig) lidera, com +81.8% em 7 dias a 40k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Steffi Jones (91) acumula **+64.8% em 7 dias** a 74k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Leroy Sané (91) acumula **+81.8% em 7 dias** a 40k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Alemaes em 17/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-17-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.2% em 24h** e **+29.4% em 7 dias**.
-- **4 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Bundesliga** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+11.5% em 24h** e **+25.2% em 7 dias**.
+- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,31 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Steffi Jones | 91 | Icons | 74k coins | +15.4% | +64.8% | Esticada |
-| Felix Nmecha | 86 | Bundesliga | 198k coins | +10% | +61% | Esticada |
-| Celia Šašić | 92 | GPFBL | 50k coins | +10.6% | +49.6% | Momentum moderado |
-| Christian Günter | 88 | Bundesliga | 25k coins | +36.8% | +45.1% | Esticada |
-| Florian Wirtz | 90 | Premier League | 166k coins | +9.9% | +39.5% | Momentum moderado |
-| Toni Kroos | 90 | Icons | 90k coins | +9.7% | +31% | Momentum moderado |
-| Franz Beckenbauer | 92 | Icons | 189k coins | +10.5% | +27.7% | Momentum moderado |
-| Nico Schlotterbeck | 87 | Bundesliga | 44k coins | +15.4% | +22.8% | Momentum moderado |
-| Lewis Holtby | 86 | Eredivisie | 28k coins | +13.7% | +19.6% | Momentum moderado |
-| Pascal Groß | 87 | Premier League | 21k coins | +6.2% | +18.1% | Momentum moderado |
-| Jamie Leweling | 86 | Bundesliga | 44k coins | +11.8% | +14.6% | Momentum moderado |
-| Christian Günter | 84 | Bundesliga | 21k coins | +20% | +6.3% | Esticada |
+| Leroy Sané | 91 | Trendyol Süper Lig | 40k coins | +21.2% | +81.8% | Esticada |
+| Steffi Jones | 91 | Icons | 80k coins | +20.5% | +74.7% | Esticada |
+| Nick Woltemade | 87 | Premier League | 47k coins | +18.1% | +71.8% | Esticada |
+| Felix Nmecha | 86 | Bundesliga | 180k coins | +14.6% | +53.8% | Momentum moderado |
+| Kai Havertz | 91 | Premier League | 223k coins | +11.5% | +39.4% | Momentum moderado |
+| Matthias Ginter | 88 | Bundesliga | 38k coins | +7.5% | +31.7% | Momentum moderado |
+| Ragnar Ache | 84 | Bundesliga | 46k coins | +10.8% | +30.3% | Momentum moderado |
+| Toni Kroos | 90 | Icons | 80k coins | +5.8% | +25.2% | Momentum moderado |
+| Steffi Jones | 89 | Icons | 30k coins | +19.3% | +22.5% | Momentum moderado |
+| David Raum | 87 | Bundesliga | 17.500 coins | +10.9% | +20.3% | Momentum moderado |
+| Franz Beckenbauer | 92 | Icons | 178k coins | +2.9% | +20.3% | Entrada a observar |
+| Pascal Groß | 87 | Premier League | 21k coins | +5% | +18.3% | Entrada a observar |
+| Lewis Holtby | 86 | Eredivisie | 28k coins | +16.3% | +17.5% | Momentum moderado |
+| Kristin Kögel | 89 | GPFBL | 18.250 coins | +31.7% | +14.5% | Esticada |
+| Gerd Müller | 92 | Icons | 79k coins | +4.4% | +13.6% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Steffi Jones (91)** — 74k coins, **+64.8% em 7 dias** (+15.4% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Leroy Sané (91)** — 40k coins, **+81.8% em 7 dias** (+21.2% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Felix Nmecha (86)** — 198k coins, **+61% em 7 dias** (+10% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steffi Jones (91)** — 80k coins, **+74.7% em 7 dias** (+20.5% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Celia Šašić (92)** — 50k coins, **+49.6% em 7 dias** (+10.6% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nick Woltemade (87)** — 47k coins, **+71.8% em 7 dias** (+18.1% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Christian Günter (88)** — 25k coins, **+45.1% em 7 dias** (+36.8% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Felix Nmecha (86)** — 180k coins, **+53.8% em 7 dias** (+14.6% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Florian Wirtz (90)** — 166k coins, **+39.5% em 7 dias** (+9.9% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kai Havertz (91)** — 223k coins, **+39.4% em 7 dias** (+11.5% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -85,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Steffi Jones (91, Icons) lidera, com +64.8% em 7 dias a 74k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Leroy Sané (91, Trendyol Süper Lig) lidera, com +81.8% em 7 dias a 40k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
