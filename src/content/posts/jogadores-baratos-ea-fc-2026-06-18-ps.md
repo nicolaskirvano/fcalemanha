@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Alemanha FUT Market"
 pubDatetime: 2026-06-19T01:32:12.000Z
-title: "Jogadores baratos de Alemaes no EA FC (18/06/2026) — joias por menos de 15k — Console (PS)"
+title: "Alemaes baratos no EA FC em 18/06 — PS"
 draft: false
 featured: false
 tags:
@@ -9,15 +9,22 @@ tags:
   - custo-beneficio
   - budget
   - ps
-description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 18/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
-faq:
-  - q: "Qual o melhor jogador barato do EA FC hoje (18/06/2026)?"
-    a: "Celia Šašić (89, GPFBL) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
-  - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
-    a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
-  - q: "Esses preços são reais?"
-    a: "Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias."
+description: "Em 18/06/2026 no PS, Celia Šašić liderou a seleção de Alemaes por 12.000 coins. Compare 11 cartas, OVR, preço, 7d e gráfico."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 18/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Entre 11 opções, **Lea Schüller** tinha o menor preço (2.000 coins). O maior OVR era de **Celia Šašić** (89), por 12.000 coins.
+
+O preço mediano do recorte foi **12.000 coins** e 5 cartas vinham de queda em 7d. Todas estavam estritamente abaixo de 15.000 coins. OVR é só um filtro inicial; função, atributos, PlayStyles e química precisam ser conferidos antes de montar o time.
+
+![Gráfico de preço em coins para os destaques de Alemaes baratos no EA FC em 18/06 — PS](/charts/jogadores-baratos-ea-fc-2026-06-18-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **18/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
@@ -46,9 +53,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins** — já **valorizando**, sinal de procura crescente.
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins** — já **valorizando**, o que indicava procura crescente naquele recorte.
 
-- **Florian Wirtz (88, CAM)** da Bundesliga, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
+- **Florian Wirtz (88, CAM)** da Bundesliga, a apenas **7k coins** — já **valorizando**, o que indicava procura crescente naquele recorte.
 
 - **Mario Gomez (88, ST)** da Bundesliga, a apenas **12k coins**
 
@@ -57,7 +64,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 ## Por que estas cartas?
 
-- **Rating 83+** garante atributos competitivos para a maioria dos modos.
+- **OVR 83+** ajuda a filtrar, mas não garante desempenho: compare atributos, PlayStyles, função tática e química.
 - **Abaixo de 15k** cabe em qualquer banca, ideal para início de temporada ou times secundários.
 - Filtramos preços anômalos para você não cair em cotação irreal.
 
@@ -68,13 +75,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 
 ## ❓ Perguntas frequentes
 
-**Qual o melhor jogador barato do EA FC hoje (18/06/2026)?**  
+**Qual era o destaque barato do EA FC em 18/06/2026?**
 Celia Šašić (89, GPFBL) aparece como melhor custo-benefício, a 12k coins no Console (PS).
 
-**Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
-Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
+**Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**
+Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. Este arquivo preserva o recorte daquela data; consulte as análises recentes para preços atuais.
 
-**Esses preços são reais?**  
+**Esses preços são reais?**
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
 
@@ -83,3 +90,12 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Momentum de Alemaes no EA FC em 18/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-18-ps/)
+- [Alemaes no EA FC em 18/06: altas e baixas — PS](/posts/mercado-ea-fc-2026-06-18-ps/)
+- [Alemaes baratos no EA FC em 16/07 — PS](/posts/jogadores-baratos-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

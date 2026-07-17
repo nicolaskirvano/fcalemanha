@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Alemanha FUT Market"
 pubDatetime: 2026-06-20T01:31:50.000Z
-title: "Alemaes no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Alemaes no EA FC em 19/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Matthias Ginter (88, Bundesliga), com +24.1% em 24h, a 24k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Jamal Musiala (89), -50% em 24h, a 176k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Marco Reus (89) — 95% de probabilidade de alta, a 284k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 17 cartas em alta contra 63 em queda (média -10.33%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 19/06/2026 no PS: Matthias Ginter liderou as altas e Jamal Musiala as baixas em Alemaes. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 19/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Matthias Ginter** registrou o maior movimento de 24h (+24,1%), enquanto **Jamal Musiala** marcou o menor (-50,0%). A distância entre os extremos foi de **74,1 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-13,8%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Alemaes no EA FC em 19/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-19-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado alemão no console PS para o dia 19 de junho de 2026 apresenta um cenário de extrema cautela e desvalorização generalizada, caracterizado por uma predominância esmagadora das quedas sobre as altas, com um balanço de 17 altas contra impressionantes 63 quedas registradas nas últimas 24 horas. A média de variação negativa de -10,33% serve como um alerta vermelho para traders que buscam operações de curto prazo, indicando que a liquidez está sendo drenada de carteiras de jogadores de elite e intermediários, possivelmente devido à falta de demanda orgânica ou à antecipação de eventos futuros que ainda não foram lançados. Neste ambiente hostil, apenas nomes muito específicos conseguiram resistir à gravidade do mercado, enquanto a grande maioria dos ativos alemães sofreu erosão significativa de valor, exigindo uma análise cirúrgica para identificar oportunidades de compra em fundo de poço ou ativos defensivos seguros. A volatilidade observada sugere que o mercado está em um período de consolidação ou correção profunda, onde a paciência é mais valiosa que a impulsividade, e traders devem evitar expor capital excessivo a carteiras que não apresentem fundamentos claros de sustentação de preço ou alta probabilidade estatística de recuperação imediata.
 
@@ -68,7 +71,7 @@ Entre os poucos bracos verdes em um mar de vermelho, Matthias Ginter se destaca 
 O lado das baixas é onde a dor do trader alemão se materializa, liderada por Jamal Musiala, que despencou 50% em 24 horas para 176 mil coins, uma queda brutal que reflete a perda de confiança dos investidores em ativos de alto preço sem suporte imediato, apesar de ter 28% de probabilidade de alta, o que é insuficiente para reverter a percepção de risco. Alexandra Popp sofreu uma queda de 42,3% para 22 mil coins, mas sua probabilidade de alta de 60% sugere que esta pode ser uma oportunidade de compra agressiva para quem acredita na recuperação do setor feminino, embora o momento atual seja de pura especulação de fundo. Idrissa Touré caiu 41,5% para 58 mil coins com 50% de probabilidade de alta, posicionando-se em uma zona de incerteza total onde qualquer notícia pode direcionar o preço drasticamente, tornando-o um ativo perigoso para segurar sem stop-loss rigoroso. Joshua Kimmich, com queda de 39,5% para 95 mil coins e apenas 27% de probabilidade de alta, confirma a tese de que os defensores de elite alemães estão sendo abandonados pelos traders em favor de outras nacionalidades ou posições, criando um fundo de poço potencial a longo prazo, mas sem sinais imediatos de reversão. Marc-André ter Stegen, apesar de cair 36,7% para 95 mil coins, mantém 80% de probabilidade de alta, o que indica que a venda pode ser exagerada e que o ativo está sendo mal precificado pelo medo do mercado, oferecendo uma janela de compra para traders de risco calculado que entendem a dinâmica de goleiros premium.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
 Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
 
@@ -113,19 +116,19 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (19/06/2026)?**
 Matthias Ginter (88, Bundesliga), com +24.1% em 24h, a 24k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Jamal Musiala (89), -50% em 24h, a 176k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Marco Reus (89) — 95% de probabilidade de alta, a 284k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Marco Reus (89) — 95% de probabilidade de alta, a 284k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 17 cartas em alta contra 63 em queda (média -10.33%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em baixa — predominam as quedas, com 17 cartas em alta contra 63 em queda (média -10.33%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -134,3 +137,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Alemaes baratos no EA FC em 19/06 — PS](/posts/jogadores-baratos-ea-fc-2026-06-19-ps/)
+- [Momentum de Alemaes no EA FC em 19/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-19-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

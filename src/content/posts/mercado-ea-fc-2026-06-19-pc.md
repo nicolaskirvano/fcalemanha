@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Alemanha FUT Market"
 pubDatetime: 2026-06-20T01:32:56.000Z
-title: "Alemaes no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Alemaes no EA FC em 19/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Marc-André ter Stegen (89, LALIGA EA SPORTS), com +50.9% em 24h, a 120k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Deniz Undav (91), -47.1% em 24h, a 44k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 48 cartas em alta contra 56 em queda (média -1.97%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 19/06/2026 no PC: Marc-André ter Stegen liderou as altas e Deniz Undav as baixas em Alemaes. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 19/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Marc-André ter Stegen** registrou o maior movimento de 24h (+50,9%), enquanto **Deniz Undav** marcou o menor (-47,1%). A distância entre os extremos foi de **98,0 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-5,0%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Alemaes no EA FC em 19/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-19-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado de cartas alemãs para PC em 19 de junho de 2026 apresenta um cenário de extrema volatilidade e desânimo geral, marcado por uma predominância clara de vendas sobre compras, com 56 quedas registradas contra apenas 48 altas nas últimas 24 horas. A média de variação negativa de -1.97% no período indica que a maioria dos traders está buscando liquidez rápida ou realizando lucros em posições específicas, evitando acumular inventário em um ambiente de incerteza. Este contexto de 'mercado em baixa' exige uma análise criteriosa das exceções, pois os movimentos de alta são isolados e muitas vezes impulsionados por probabilidades de renovação de mercado ou eventos específicos, como veremos nos destaques do dia. Traders iniciantes devem observar que, embora a tendência seja descendente, existem oportunidades de arbitragem em ativos que estão sendo subvalorizados devido ao pânico do mercado, enquanto os investidores mais experientes precisam estar atentos aos sinais de exaustão nas altas. A chave para operar hoje não é seguir a manada nas quedas, mas sim identificar quais jogadores possuem fundamentos técnicos, como alta probabilidade de alta futura, que sustentam seus preços apesar da pressão vendedora geral.
 
@@ -76,16 +81,16 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (19/06/2026)?**
 Marc-André ter Stegen (89, LALIGA EA SPORTS), com +50.9% em 24h, a 120k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Deniz Undav (91), -47.1% em 24h, a 44k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 48 cartas em alta contra 56 em queda (média -1.97%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em baixa — predominam as quedas, com 48 cartas em alta contra 56 em queda (média -1.97%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -94,3 +99,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Alemaes baratos no EA FC em 19/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-19-pc/)
+- [Momentum de Alemaes no EA FC em 19/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-19-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Alemanha FUT Market"
 pubDatetime: 2026-06-02T13:31:02.000Z
-title: "Alemaes no EA FC hoje (02/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Alemaes no EA FC em 02/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,26 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 02/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (02/06/2026)?"
-    a: "Birgit Prinz (93, Icons), com +57.5% em 24h, a 115k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Alexandra Popp (89), -22.5% em 24h, a 31k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 27 cartas em alta contra 76 em queda (média 5.13%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 02/06/2026 no PC: Birgit Prinz liderou as altas e Alexandra Popp as baixas em Alemaes. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 02/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
 
-Em **02/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **27 subiram** e **76 caíram**, com variação média de **5.13%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Birgit Prinz** registrou o maior movimento de 24h (+57,5%), enquanto **Alexandra Popp** marcou o menor (-22,5%). A distância entre os extremos foi de **80,0 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-0,8%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Alemaes no EA FC em 02/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-02-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
+
+Em **02/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** teve um recorte **misto** — as quedas foram mais numerosas, embora as altas tenham sido mais intensas: das cartas relevantes (80+ acima de 5k coins), **27 subiram** e **76 caíram**, com variação média de **5.13%** nas últimas 24 horas. O recorte mostrava viés comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Birgit Prinz (93) **+57.5%** · 🔴 **Maior baixa:** Alexandra Popp (89) **-22.5%**
 
@@ -46,11 +51,11 @@ Em **02/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das altas
 
-- **Birgit Prinz (93)** subiu **+57.5%** em 24h, a **115k coins** (faixa do dia: 84k–120k). Está +46% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Birgit Prinz (93)** subiu **+57.5%** em 24h, a **115k coins** (faixa do dia: 84k–120k). Está +46% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Selina Cerci (90)** subiu **+50.6%** em 24h, a **116k coins** (faixa do dia: 77k–120k). Está +13% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Selina Cerci (90)** subiu **+50.6%** em 24h, a **116k coins** (faixa do dia: 77k–120k). Está +13% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Lukas Klostermann (88)** subiu **+35.3%** em 24h, a **299k coins** (faixa do dia: 195k–299k). Está +9% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Lukas Klostermann (88)** subiu **+35.3%** em 24h, a **299k coins** (faixa do dia: 195k–299k). Está +9% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
@@ -71,11 +76,11 @@ Em **02/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das baixas
 
-- **Alexandra Popp (89)** caiu **-22.5%** em 24h, a **31k coins** (faixa do dia: 27k–40k). Está -17% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Alexandra Popp (89)** caiu **-22.5%** em 24h, a **31k coins** (faixa do dia: 27k–40k). Está -17% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Philipp Lahm (90)** caiu **-22.4%** em 24h, a **660k coins** (faixa do dia: 660k–891k). Está -14% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Philipp Lahm (90)** caiu **-22.4%** em 24h, a **660k coins** (faixa do dia: 660k–891k). Está -14% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Carolin Simon (90)** caiu **-17.1%** em 24h, a **29k coins** (faixa do dia: 19k–35k). Está -13% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Carolin Simon (90)** caiu **-17.1%** em 24h, a **29k coins** (faixa do dia: 19k–35k). Está -13% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -85,16 +90,16 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (02/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (02/06/2026)?**
 Birgit Prinz (93, Icons), com +57.5% em 24h, a 115k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Alexandra Popp (89), -22.5% em 24h, a 31k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 27 cartas em alta contra 76 em queda (média 5.13%).
+**Como estava o mercado do EA FC nesse dia?**
+Naquele dia, o mercado estava em alta — predominam as valorizações, com 27 cartas em alta contra 76 em queda (média 5.13%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -103,3 +108,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 02/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Alemaes baratos no EA FC em 02/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-02-pc/)
+- [Momentum de Alemaes no EA FC em 02/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-02-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Alemanha FUT Market"
 pubDatetime: 2026-06-19T01:31:47.000Z
-title: "Alemaes no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Alemaes no EA FC em 18/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,22 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Rudi Völler (89, Bundesliga), com +38.9% em 24h, a 20k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Larissa Mühlhaus (87), -45.3% em 24h, a 40k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Paul Wanner (84) — 95% de probabilidade de alta, a 47k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 45 cartas em alta contra 56 em queda (média -0.15%)."
-  - q: "Posso confiar nos preços e previsões do FutQuant?"
-    a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
+description: "Snapshot histórico de 18/06/2026 no PS: Rudi Völler liderou as altas e Larissa Mühlhaus as baixas em Alemaes. Compare preços, variações, gráfico e riscos."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 18/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Rudi Völler** registrou o maior movimento de 24h (+38,9%), enquanto **Larissa Mühlhaus** marcou o menor (-45,3%). A distância entre os extremos foi de **84,2 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+0,1%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Alemaes no EA FC em 18/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-18-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## 📊 Como está o mercado agora
 
@@ -70,7 +73,7 @@ No lado oposto, Larissa Mühlhaus (87, GPFBL) sofre a maior queda do dia com -45
 
 ## 🔮 Radar de valorização (24h)
 
-As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** (sinal de alta, confiança alta):
+Na publicação original, estas cartas receberam as maiores probabilidades de valorização. Os valores expiraram após 24 horas e não representam um sinal atual:
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
@@ -84,12 +87,12 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 | Bastian Schweinsteiger | 89 | 147k coins | 181k coins | 95% |
 
 
-O modelo projeta altas significativas para Paul Wanner (84, Eredivisie) a 47k coins e Jamie Leweling (86, Bundesliga) a 32k coins, ambos com probabilidade de alta de 95%, indicando forte potencial de valorização. Malick Thiaw (86, Premier League) a 38k coins e Selina Cerci (90, GPFBL) a 48k coins também possuem 95% de chance de alta, confirmando a força desses ativos. Mario Götze (88, Bundesliga) a 66k coins e Marco Reus (89, MLS) a 287k coins são indicados como oportunidades de alto valor, ambos com 95% de probabilidade de alta. Timo Werner (87, Bundesliga) a 60k coins e Bastian Schweinsteiger (89, Icons) a 147k coins completam a lista com 95% de chance de alta, sugerindo um momento favorável para entrada nesses ativos específicos.
+Naquele snapshot, o modelo projetava altas significativas para Paul Wanner (84, Eredivisie) a 47k coins e Jamie Leweling (86, Bundesliga) a 32k coins, ambos com probabilidade de alta de 95%, indicando forte potencial de valorização. Malick Thiaw (86, Premier League) a 38k coins e Selina Cerci (90, GPFBL) a 48k coins também possuem 95% de chance de alta, confirmando a força desses ativos. Mario Götze (88, Bundesliga) a 66k coins e Marco Reus (89, MLS) a 287k coins são indicados como oportunidades de alto valor, ambos com 95% de probabilidade de alta. Timo Werner (87, Bundesliga) a 60k coins e Bastian Schweinsteiger (89, Icons) a 147k coins completam a lista com 95% de chance de alta, sugerindo um momento favorável para entrada nesses ativos específicos.
 
 
 ## ⚠️ Cuidado: o modelo projeta queda
 
-O modelo vê **risco de queda** nestas nas próximas 24h — segure a compra:
+Naquele snapshot, o modelo indicava **risco de queda** nestas nas próximas 24h — segure a compra:
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
@@ -113,19 +116,19 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (18/06/2026)?**
 Rudi Völler (89, Bundesliga), com +38.9% em 24h, a 20k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Larissa Mühlhaus (87), -45.3% em 24h, a 40k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Paul Wanner (84) — 95% de probabilidade de alta, a 47k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Paul Wanner (84) — 95% de probabilidade de alta, a 47k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
+**Como estava o mercado do EA FC nesse dia?**
 Hoje o mercado está em dia indefinido — sem tendência dominante, com 45 cartas em alta contra 56 em queda (média -0.15%).
 
-**Posso confiar nos preços e previsões do FutQuant?**  
+**Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
 
 
@@ -134,3 +137,12 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 ---
 
 *Preços de Console (PS), referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Alemaes baratos no EA FC em 18/06 — PS](/posts/jogadores-baratos-ea-fc-2026-06-18-ps/)
+- [Momentum de Alemaes no EA FC em 18/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-18-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
