@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:31:19.000Z
-title: "Jogadores baratos de Alemaes no EA FC (16/07/2026) — joias por menos de 15k — PC"
+pubDatetime: 2026-07-17T00:05:04.000Z
+title: "Jogadores baratos EA FC: Alemaes em 16/07 — PC"
 draft: false
 featured: false
 tags:
@@ -9,10 +9,10 @@ tags:
   - custo-beneficio
   - budget
   - pc
-description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 16/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
+description: "Cartas 83+ abaixo de 15 mil coins em 16/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (16/07/2026)?"
-    a: "Florian Wirtz (89, Bundesliga) aparece como melhor custo-benefício, a 3k coins no PC."
+    a: "Joshua Kimmich (89, Bundesliga) aparece como melhor custo-benefício, a 2.900 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,41 +21,63 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **16/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Florian Wirtz (89) por apenas 3k coins.
+> 💰 **Melhor pechincha:** Joshua Kimmich (89) por apenas 2.900 coins.
+
+![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Alemaes em 16/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-16-pc.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## Retrato do recorte de hoje
+
+- **Preço médio das 7 opções:** 7.093 coins.
+- **Posição mais frequente:** CAM, com 2 cartas.
+- **Faixa real:** 1.600 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
-Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no fundo' a carta está):
+Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma alta forte:
 
-| Jogador | OVR | Pos | Liga | Preço | 7d |
+| Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | +25% |
-| Celia Šašić | 89 | ST | GPFBL | 12k coins | +4.2% |
-| Rudi Völler | 89 | ST | Bundesliga | 15k coins | +11.7% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 15k coins | -10% |
-| Simone Laudehr | 88 | CM | GPFBL | 14k coins | +31.1% |
-| Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 7k coins | +160.5% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 15k coins | +48.8% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 2.900 coins | -12.1% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 3.000 coins | -11.8% |
+| Celia Šašić | 89 | ST | GPFBL | 12.500 coins | -13.8% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 13.250 coins | -3.4% |
+| Rudi Völler | 89 | ST | Bundesliga | 14.500 coins | -10.6% |
+| Jamal Musiala | 88 | CAM | Bundesliga | 1.600 coins | +7.7% |
+| Antonio Rüdiger | 86 | CB | LALIGA EA SPORTS | 1.900 coins | +58.3% |
 
 
 ## 📈 Destaques
 
-- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2.900 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
+- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **3.000 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Rudi Völler (89, ST)** da Bundesliga, a apenas **15k coins**
+- **Celia Šašić (89, ST)** da GPFBL, a apenas **12.500 coins**
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **13.250 coins**
 
-- **Simone Laudehr (88, CM)** da GPFBL, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Rudi Völler (89, ST)** da Bundesliga, a apenas **14.500 coins**
+
+
+## Como distribuir a banca
+
+- **Defesa:** Jürgen Kohler (89, CB) por 13.250 coins é a referência de rating deste recorte.
+
+- **Meio:** Joshua Kimmich (89, CDM) por 2.900 coins é a referência de rating deste recorte.
+
+- **Ataque:** Celia Šašić (89, ST) por 12.500 coins é a referência de rating deste recorte.
+
+- Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
 
 ## Por que estas cartas?
 
-- **Rating 83+** garante atributos competitivos para a maioria dos modos.
+- **Rating 83+** é um filtro inicial; confira atributos, função tática e química.
 - **Abaixo de 15k** cabe em qualquer banca, ideal para início de temporada ou times secundários.
-- Filtramos preços anômalos para você não cair em cotação irreal.
+- Preços anômalos são excluídos, mas a cotação pode mudar depois da publicação.
 
 
 ## ⚙️ A engine por tras deste post
@@ -65,7 +87,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (16/07/2026)?**  
-Florian Wirtz (89, Bundesliga) aparece como melhor custo-benefício, a 3k coins no PC.
+Joshua Kimmich (89, Bundesliga) aparece como melhor custo-benefício, a 2.900 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
@@ -79,3 +101,11 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 16/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Investimentos EA FC: Alemaes em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
+- [Mercado EA FC em 16/07: Alemaes — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)

@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:31:17.000Z
-title: "Alemaes no EA FC hoje (16/07/2026): mercado, altas, baixas e previsões — PC"
+pubDatetime: 2026-07-17T00:05:02.000Z
+title: "Mercado EA FC em 16/07: Alemaes — PC"
 draft: false
 featured: true
 tags:
@@ -10,81 +10,92 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 16/07/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
+description: "Dados de 16/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (16/07/2026)?"
-    a: "Vanessa Diehm (86, GPFBL), com +48.8% em 24h, a 46k coins no PC."
+    a: "Lena Oberdorf (86, GPFBL), com +57.6% em 24h, a 52k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Nico Schlotterbeck (87), -44% em 24h, a 27k coins."
+    a: "Vanessa Fudalla (88), -42.3% em 24h, a 72k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 44 cartas em alta contra 52 em queda (média -1.25%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 36 cartas em alta contra 56 em queda (média -2.93%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Hoje (**16/07/2026**, PC) o Ultimate Team está em mercado **lateral** — sem direção clara — **44 subiram**, **52 caíram** (80+ e 5k+ coins), média de **-1.25%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**16/07/2026**, PC) o Ultimate Team está em mercado **em baixa** — predominam as quedas — **36 subiram**, **56 caíram** (80+ e 5k+ coins), média de **-2.93%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Vanessa Diehm (86) **+48.8%** · 🔴 **Maior baixa:** Nico Schlotterbeck (87) **-44%**
+> 🟢 **Maior alta:** Lena Oberdorf (86) **+57.6%** · 🔴 **Maior baixa:** Vanessa Fudalla (88) **-42.3%**
+
+![Gráfico de variação em 24h para os destaques de Mercado EA FC em 16/07: Alemaes — PC](/charts/mercado-ea-fc-2026-07-16-pc.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## Leitura específica deste recorte
+
+- **Amplitude do dia:** 99.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 39.1% entre as cartas que se moveram; o universo observado reúne 125 cartas.
+- **Concentração:** Bundesliga aparece em 7 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vanessa Diehm | 86 | GPFBL | 46k coins | +48.8% | -5.1% |
-| Lena Oberdorf | 86 | GPFBL | 52k coins | +47% | +5.4% |
-| Kevin Schade | 84 | Premier League | 50k coins | +45.3% | -12.9% |
-| Yann Aurel Bisseck | 84 | Serie A TIM | 49k coins | +35.9% | +14.5% |
-| Gerd Müller | 93 | Icons | 148k coins | +33.3% | +22.3% |
-| Maximilian Mittelstädt | 88 | Bundesliga | 26k coins | +32.1% | +17.6% |
-| Loreen Bender | 86 | GPFBL | 24k coins | +30.1% | +18.8% |
+| Lena Oberdorf | 86 | GPFBL | 52k coins | +57.6% | +13% |
+| Selina Cerci | 90 | GPFBL | 75k coins | +50% | +72.4% |
+| Felix Nmecha | 86 | Bundesliga | 450k coins | +41.1% | +31.6% |
+| Lewis Holtby | 86 | Eredivisie | 28k coins | +36.5% | +1.8% |
+| Yann Aurel Bisseck | 84 | Serie A TIM | 48k coins | +35.4% | +10.2% |
+| Gerd Müller | 93 | Icons | 147k coins | +33.3% | +22.3% |
 | Florian Wirtz | 89 | Premier League | 400k coins | +28.6% | +28.6% |
-| Franziska Harsch | 88 | GPFBL | 21k coins | +27% | +28.8% |
-| Leroy Sané | 91 | Trendyol Süper Lig | 48k coins | +25% | +13.4% |
+| Maximilian Mittelstädt | 88 | Bundesliga | 23k coins | +27.6% | +6.6% |
+| Leroy Sané | 91 | Trendyol Süper Lig | 44k coins | +23.1% | +9.1% |
+| Angelo Stiller | 91 | Bundesliga | 40k coins | +21.2% | +7.4% |
 
 
 ### Análise das altas
 
-- **Vanessa Diehm (86)** subiu **+48.8%** em 24h, a **46k coins** (faixa do dia: 32k–50k). Está em linha com a média de 7 dias (+1%). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
+- **Lena Oberdorf (86)** subiu **+57.6%** em 24h, a **52k coins** (faixa do dia: 33k–54k). Está +8% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Lena Oberdorf (86)** subiu **+47%** em 24h, a **52k coins** (faixa do dia: 33k–54k). Está +8% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Selina Cerci (90)** subiu **+50%** em 24h, a **75k coins** (faixa do dia: 40k–75k). Está +49% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Kevin Schade (84)** subiu **+45.3%** em 24h, a **50k coins** (faixa do dia: 36k–59k). Está em linha com a média de 7 dias (-2%). O modelo vê **estabilização** no curto prazo.
+- **Felix Nmecha (86)** subiu **+41.1%** em 24h, a **450k coins** (faixa do dia: 319k–548k). Está em linha com a média de 7 dias (-1%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nico Schlotterbeck | 87 | Bundesliga | 27k coins | -44% | -30% |
-| Ragnar Ache | 84 | Bundesliga | 34k coins | -41.6% | -16.3% |
-| Vanessa Fudalla | 88 | GPFBL | 72k coins | -39.4% | -4.7% |
-| Kevin Schade | 88 | Premier League | 32k coins | -36.4% | -15% |
-| Manuel Neuer | 86 | Bundesliga | 70k coins | -34.8% | -3.8% |
-| Giulia Gwinn | 89 | GPFBL | 20k coins | -34.6% | -37.4% |
-| Toni Kroos | 90 | Icons | 50k coins | -32% | -20.6% |
-| Celia Šašić | 92 | GPFBL | 56k coins | -30.1% | +14.9% |
-| Timo Werner | 87 | Bundesliga | 47k coins | -28.1% | +4.2% |
-| Maximilian Beier | 85 | Bundesliga | 29k coins | -25.4% | -0.9% |
+| Vanessa Fudalla | 88 | GPFBL | 72k coins | -42.3% | -4.7% |
+| Nick Woltemade | 87 | Premier League | 48k coins | -39.2% | -50.8% |
+| Manuel Neuer | 86 | Bundesliga | 50k coins | -36.1% | -5.7% |
+| Joshua Kimmich | 89 | Bundesliga | 90k coins | -29.8% | +25.7% |
+| Birgit Prinz | 93 | Icons | 34k coins | -24.5% | -30.2% |
+| Nico Schlotterbeck | 87 | Bundesliga | 29k coins | -24.1% | -33.1% |
+| Nick Woltemade | 90 | Premier League | 112k coins | -23.6% | +22.8% |
+| Steffi Jones | 91 | Icons | 59k coins | -23.4% | +22.3% |
+| Aleksandar Pavlović | 89 | Bundesliga | 34k coins | -22% | -37.8% |
+| Giulia Gwinn | 89 | GPFBL | 24k coins | -22% | -29.4% |
 
 
 ### Análise das baixas
 
-- **Nico Schlotterbeck (87)** caiu **-44%** em 24h, a **27k coins** (faixa do dia: 27k–60k). Está -46% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Vanessa Fudalla (88)** caiu **-42.3%** em 24h, a **72k coins** (faixa do dia: 35k–130k). Está -9% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Ragnar Ache (84)** caiu **-41.6%** em 24h, a **34k coins** (faixa do dia: 35k–59k). Está -24% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Nick Woltemade (87)** caiu **-39.2%** em 24h, a **48k coins** (faixa do dia: 48k–79k). Está -19% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Vanessa Fudalla (88)** caiu **-39.4%** em 24h, a **72k coins** (faixa do dia: 35k–130k). Está -9% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Manuel Neuer (86)** caiu **-36.1%** em 24h, a **50k coins** (faixa do dia: 45k–82k). Está -22% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
-## ⚠️ Alerta de queda projetada
+## Decisão prática para hoje
 
-Onde o sinal aponta **tendência de baixa** no curto prazo — atenção antes de comprar:
+- **Evite perseguir topo:** Lena Oberdorf já avançou 57.6% em 24h; espere nova cotação antes de entrar.
 
-| Jogador | OVR | Preço atual | Variação prevista |
-| --- | --- | --- | --- |
-| Manuel Neuer | 86 | 70k coins | -2.4% |
+- **Queda não é compra automática:** Vanessa Fudalla recuou -42.3%; confirme estabilização e liquidez.
+
+- Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
 
 ## ⚙️ A engine por tras deste post
@@ -94,13 +105,13 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (16/07/2026)?**  
-Vanessa Diehm (86, GPFBL), com +48.8% em 24h, a 46k coins no PC.
+Lena Oberdorf (86, GPFBL), com +57.6% em 24h, a 52k coins no PC.
 
 **E a maior queda do dia?**  
-Nico Schlotterbeck (87), -44% em 24h, a 27k coins.
+Vanessa Fudalla (88), -42.3% em 24h, a 72k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 44 cartas em alta contra 52 em queda (média -1.25%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 36 cartas em alta contra 56 em queda (média -2.93%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
@@ -111,3 +122,11 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 16/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Jogadores baratos EA FC: Alemaes em 16/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-16-pc/)
+- [Investimentos EA FC: Alemaes em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)

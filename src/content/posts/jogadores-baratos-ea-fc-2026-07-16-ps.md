@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:31:10.000Z
-title: "Jogadores baratos de Alemaes no EA FC (16/07/2026) — joias por menos de 15k — Console (PS)"
+pubDatetime: 2026-07-17T00:04:55.000Z
+title: "Jogadores baratos EA FC: Alemaes em 16/07 — Console (PS)"
 draft: false
 featured: false
 tags:
@@ -9,10 +9,10 @@ tags:
   - custo-beneficio
   - budget
   - ps
-description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 16/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
+description: "Cartas 83+ abaixo de 15 mil coins em 16/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (16/07/2026)?"
-    a: "Kristin Kögel (89, GPFBL) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
+    a: "Jürgen Kohler (89, Bundesliga) aparece como melhor custo-benefício, a 11.750 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,46 +21,66 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **16/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Kristin Kögel (89) por apenas 12k coins.
+> 💰 **Melhor pechincha:** Jürgen Kohler (89) por apenas 11.750 coins.
+
+![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Alemaes em 16/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-16-ps.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## Retrato do recorte de hoje
+
+- **Preço médio das 10 opções:** 13.050 coins.
+- **Posição mais frequente:** CM, com 4 cartas.
+- **Faixa real:** 11.750 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
-Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no fundo' a carta está):
+Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma alta forte:
 
-| Jogador | OVR | Pos | Liga | Preço | 7d |
+| Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Kristin Kögel | 89 | LM | GPFBL | 12k coins | -1.6% |
-| Celia Šašić | 89 | ST | GPFBL | 12k coins | 0% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | +10.6% |
-| Keven Schlotterbeck | 89 | CB | Bundesliga | 15k coins | -7.7% |
-| Mario Gomez | 88 | ST | Bundesliga | 12k coins | +6.7% |
-| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +4.3% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +6.5% |
-| Franziska Harsch | 88 | CM | GPFBL | 14k coins | -6.6% |
-| Antonio Rüdiger | 86 | CB | LALIGA EA SPORTS | 2k coins | +87.5% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | +8.9% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | -2% |
-| Sara Doorsoun | 84 | CB | GPFBL | 2k coins | -24.1% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 11.750 coins | -1.9% |
+| Celia Šašić | 89 | ST | GPFBL | 12.000 coins | +2.1% |
+| Kristin Kögel | 89 | LM | GPFBL | 14.000 coins | -3.3% |
+| Mario Gomez | 88 | ST | Bundesliga | 12.750 coins | 0% |
+| Simone Laudehr | 88 | CM | GPFBL | 12.750 coins | -2% |
+| Nadine Keßler | 88 | CM | GPFBL | 12.750 coins | +2% |
+| Franziska Harsch | 88 | CM | GPFBL | 14.500 coins | -9.4% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 12.500 coins | -9.6% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 13.250 coins | -5.9% |
+| Lisanne Gräwe | 86 | CM | GPFBL | 14.250 coins | +3.5% |
 
 
 ## 📈 Destaques
 
-- **Kristin Kögel (89, LM)** da GPFBL, a apenas **12k coins**
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **11.750 coins**
 
-- **Celia Šašić (89, ST)** da GPFBL, a apenas **12k coins**
+- **Celia Šašić (89, ST)** da GPFBL, a apenas **12.000 coins**
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **13k coins**
+- **Kristin Kögel (89, LM)** da GPFBL, a apenas **14.000 coins**
 
-- **Keven Schlotterbeck (89, CB)** da Bundesliga, a apenas **15k coins**
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **12.750 coins**
 
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **12k coins**
+- **Simone Laudehr (88, CM)** da GPFBL, a apenas **12.750 coins**
+
+
+## Como distribuir a banca
+
+- **Defesa:** Jürgen Kohler (89, CB) por 11.750 coins é a referência de rating deste recorte.
+
+- **Meio:** Kristin Kögel (89, LM) por 14.000 coins é a referência de rating deste recorte.
+
+- **Ataque:** Celia Šašić (89, ST) por 12.000 coins é a referência de rating deste recorte.
+
+- Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
 
 ## Por que estas cartas?
 
-- **Rating 83+** garante atributos competitivos para a maioria dos modos.
+- **Rating 83+** é um filtro inicial; confira atributos, função tática e química.
 - **Abaixo de 15k** cabe em qualquer banca, ideal para início de temporada ou times secundários.
-- Filtramos preços anômalos para você não cair em cotação irreal.
+- Preços anômalos são excluídos, mas a cotação pode mudar depois da publicação.
 
 
 ## ⚙️ A engine por tras deste post
@@ -70,7 +90,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (16/07/2026)?**  
-Kristin Kögel (89, GPFBL) aparece como melhor custo-benefício, a 12k coins no Console (PS).
+Jürgen Kohler (89, Bundesliga) aparece como melhor custo-benefício, a 11.750 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
@@ -84,3 +104,11 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 16/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Investimentos EA FC: Alemaes em 16/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
+- [Mercado EA FC em 16/07: Alemaes — Console (PS)](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)

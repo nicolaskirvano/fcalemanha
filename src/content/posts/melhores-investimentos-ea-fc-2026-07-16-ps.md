@@ -1,72 +1,84 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:31:09.000Z
-title: "Melhores investimentos em Alemaes no EA FC (16/07/2026): análise e previsões — Console (PS)"
+pubDatetime: 2026-07-17T00:04:54.000Z
+title: "Investimentos EA FC: Alemaes em 16/07 — Console (PS)"
 draft: false
 featured: true
 tags:
   - investimentos
   - trading
-  - previsoes
+  - momentum
+  - risco
   - ps
-description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 16/07/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
+description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 16/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (16/07/2026) no EA FC?"
-    a: "Luca Marseiler (90, Bundesliga 2) lidera, com +63% em 7 dias a 55k coins no Console (PS), e o modelo dá 12% de chance de seguir subindo."
+    a: "Luca Marseiler (90, Bundesliga 2) lidera, com +63% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
     a: "Várias vezes ao dia, junto com os preços do mercado do EA FC."
 ---
 
-## Por que estas cartas
+## Critério deste radar
 
-Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **16/07/2026** no **Console (PS)**:
+Esta lista de **16/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Luca Marseiler (90) acumula **+63% em 7 dias** a 55k coins.
+> 🔝 **Destaque:** Luca Marseiler (90) acumula **+63% em 7 dias** a 55k coins; leitura atual: **esticada**.
+
+![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Alemaes em 16/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-16-ps.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## O que os números desta lista mostram
+
+- A mediana é de **+9.4% em 24h** e **+29.9% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
-Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:
+Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de perseguir o movimento:
 
-| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
+| Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Luca Marseiler | 90 | Bundesliga 2 | 55k coins | +17% | +63% | 12% |
-| Florian Wirtz | 90 | Premier League | 174k coins | +13.8% | +37.5% | 26% |
-| Antonio Rüdiger | 91 | LALIGA EA SPORTS | 100k coins | +19% | +35.1% | 14% |
-| Nadine Keßler | 90 | GPFBL | 40k coins | +22.1% | +33.3% | 51% |
-| Julian Brandt | 87 | Bundesliga | 20k coins | +28.4% | +32.3% | 74% |
-| Timo Werner | 87 | Bundesliga | 50k coins | +4.5% | +31.4% | 19% |
-| Deniz Undav | 91 | Bundesliga | 135k coins | +12% | +29.6% | 51% |
-| Bastian Schweinsteiger | 88 | Icons | 90k coins | +20% | +26.3% | 26% |
-| Ann-Katrin Berger | 87 | NWSL | 49k coins | +5.9% | +25% | 0% |
-| Toni Kroos | 90 | Icons | 89k coins | +15% | +24.8% | 14% |
-| Oliver Kahn | 91 | Icons | 98k coins | +6.1% | +23.8% | 33% |
-| Felix Nmecha | 86 | Bundesliga | 173k coins | +1.8% | +21% | 0% |
-| Gerd Müller | 92 | Icons | 92k coins | +27% | +20.9% | 33% |
-| Jonathan Tah | 88 | Bundesliga | 20k coins | +14.1% | +20.9% | 22% |
-| Kai Havertz | 91 | Premier League | 215k coins | +2.1% | +19.9% | 0% |
+| Luca Marseiler | 90 | Bundesliga 2 | 55k coins | +15.8% | +63% | Esticada |
+| Nadine Keßler | 90 | GPFBL | 40k coins | +22.1% | +60% | Esticada |
+| Bastian Schweinsteiger | 89 | Icons | 138k coins | +5.3% | +38% | Momentum moderado |
+| Bastian Schweinsteiger | 88 | Icons | 88k coins | +14.7% | +34.6% | Momentum moderado |
+| Timo Werner | 87 | Bundesliga | 47k coins | +3.9% | +34.3% | Momentum moderado |
+| Antonio Rüdiger | 91 | LALIGA EA SPORTS | 100k coins | +20.5% | +33.3% | Esticada |
+| Kevin Schade | 84 | Premier League | 50k coins | +8.4% | +30.2% | Momentum moderado |
+| Rani Khedira | 84 | Bundesliga | 43k coins | +25.5% | +29.9% | Esticada |
+| Julian Brandt | 87 | Bundesliga | 22k coins | +27.3% | +29.2% | Esticada |
+| Toni Kroos | 90 | Icons | 74k coins | +8.2% | +23.4% | Momentum moderado |
+| Ann-Katrin Berger | 87 | NWSL | 46k coins | +9.4% | +23.2% | Momentum moderado |
+| Kai Havertz | 91 | Premier League | 179k coins | +6.2% | +22.9% | Momentum moderado |
+| Gerd Müller | 92 | Icons | 85k coins | +28.4% | +22.3% | Esticada |
+| Felix Nmecha | 86 | Bundesliga | 172k coins | +1.8% | +21% | Entrada a observar |
+| Lena Oberdorf | 86 | GPFBL | 44k coins | +3.5% | +20.9% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Luca Marseiler (90)** — 55k coins, **+63% em 7 dias** (+17% em 24h). Preço +71% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Luca Marseiler (90)** — 55k coins, **+63% em 7 dias** (+15.8% em 24h). Preço +70% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Florian Wirtz (90)** — 174k coins, **+37.5% em 7 dias** (+13.8% em 24h). Preço +33% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Nadine Keßler (90)** — 40k coins, **+60% em 7 dias** (+22.1% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Antonio Rüdiger (91)** — 100k coins, **+35.1% em 7 dias** (+19% em 24h). Preço +18% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Bastian Schweinsteiger (89)** — 138k coins, **+38% em 7 dias** (+5.3% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nadine Keßler (90)** — 40k coins, **+33.3% em 7 dias** (+22.1% em 24h). Preço +49% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Bastian Schweinsteiger (88)** — 88k coins, **+34.6% em 7 dias** (+14.7% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julian Brandt (87)** — 20k coins, **+32.3% em 7 dias** (+28.4% em 24h). Preço +18% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **74% de chance de seguir subindo**.
+- **Timo Werner (87)** — 47k coins, **+34.3% em 7 dias** (+3.9% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
 
 - **24h e 7d positivos juntos** = tendência sustentada, o sinal mais confiável.
 - Prefira entrar em **correções** (quedas curtas dentro da alta) para reduzir risco.
-- **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.
-- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
+- **Liquidez importa**: cartas de ligas e ratings populares tendem a vender mais rápido.
+- Em cartas *esticadas*, espere uma nova cotação ou correção; não trate alta passada como promessa futura.
 
 
 ## ⚙️ A engine por tras deste post
@@ -76,7 +88,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (16/07/2026) no EA FC?**  
-Luca Marseiler (90, Bundesliga 2) lidera, com +63% em 7 dias a 55k coins no Console (PS), e o modelo dá 12% de chance de seguir subindo.
+Luca Marseiler (90, Bundesliga 2) lidera, com +63% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -90,3 +102,11 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 ---
 
 *Preços de Console (PS), referência de 16/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Jogadores baratos EA FC: Alemaes em 16/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-16-ps/)
+- [Mercado EA FC em 16/07: Alemaes — Console (PS)](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)
