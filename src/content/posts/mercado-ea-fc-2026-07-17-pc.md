@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T10:31:17.000Z
+pubDatetime: 2026-07-17T13:31:17.000Z
 title: "Mercado EA FC em 17/07: Alemaes — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 17/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (17/07/2026)?"
-    a: "Sara Däbritz (86, Liga F), com +51.7% em 24h, a 55k coins no PC."
+    a: "Can Bozdoğan (87, Eredivisie), com +52.7% em 24h, a 28k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Deniz Undav (91), -34.9% em 24h, a 129k coins."
+    a: "Jamie Leweling (86), -40% em 24h, a 35k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 54 cartas em alta contra 50 em queda (média 5.63%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 51 cartas em alta contra 44 em queda (média 2.57%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **comprador** — a maioria das cartas subiu: das cartas relevantes (80+ acima de 5k coins), **54 subiram** e **50 caíram**, com variação média de **5.63%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **comprador** — a maioria das cartas subiu: das cartas relevantes (80+ acima de 5k coins), **51 subiram** e **44 caíram**, com variação média de **2.57%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Sara Däbritz (86) **+51.7%** · 🔴 **Maior baixa:** Deniz Undav (91) **-34.9%**
+> 🟢 **Maior alta:** Can Bozdoğan (87) **+52.7%** · 🔴 **Maior baixa:** Jamie Leweling (86) **-40%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 17/07: Alemaes — PC](/charts/mercado-ea-fc-2026-07-17-pc.svg)
 
@@ -35,65 +35,65 @@ Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 86.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 51.9% entre as cartas que se moveram; o universo observado reúne 133 cartas.
-- **Concentração:** GPFBL aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 92.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 53.7% entre as cartas que se moveram; o universo observado reúne 134 cartas.
+- **Concentração:** Bundesliga aparece em 7 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sara Däbritz | 86 | Liga F | 55k coins | +51.7% | +4.8% |
+| Can Bozdoğan | 87 | Eredivisie | 28k coins | +52.7% | +13% |
+| Sara Däbritz | 86 | Liga F | 55k coins | +51.7% | 0% |
 | Selina Cerci | 90 | GPFBL | 75k coins | +50% | +97.4% |
 | Steffi Jones | 91 | Icons | 62k coins | +46.4% | +27.5% |
-| Deniz Undav | 84 | Bundesliga | 46k coins | +45.3% | -6.5% |
-| Selina Vobian | 81 | GPFBL | 50k coins | +33.3% | 0% |
-| Miroslav Klose | 88 | Icons | 88k coins | +29% | +12.7% |
-| Marc-André ter Stegen | 89 | LALIGA EA SPORTS | 95k coins | +26.7% | 0% |
-| Nico Schlotterbeck | 87 | Bundesliga | 52k coins | +20% | +31.2% |
-| Manuel Neuer | 86 | Bundesliga | 78k coins | +18.9% | +49.5% |
-| Oliver Kahn | 91 | Icons | 70k coins | +18.2% | +43% |
+| Deniz Undav | 84 | Bundesliga | 50k coins | +45.3% | +1.6% |
+| Thomas Müller | 83 | MLS | 100k coins | +40.8% | +2% |
+| Marek Janssen | 84 | 3. Liga | 49k coins | +39.7% | 0% |
+| Marco Reus | 89 | MLS | 418k coins | +28.8% | +13.5% |
+| Manuel Neuer | 86 | Bundesliga | 74k coins | +24.6% | +44.8% |
+| Aleksandar Pavlović | 89 | Bundesliga | 44k coins | +23.1% | -26.7% |
 
 
 ### Análise das altas
 
+- **Can Bozdoğan (87)** subiu **+52.7%** em 24h, a **28k coins** (faixa do dia: 14.500–38k). Está em linha com a média de 7 dias (+6%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+
 - **Sara Däbritz (86)** subiu **+51.7%** em 24h, a **55k coins** (faixa do dia: 32k–55k). Está +12% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Selina Cerci (90)** subiu **+50%** em 24h, a **75k coins** (faixa do dia: 40k–75k). Está +44% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
-
-- **Steffi Jones (91)** subiu **+46.4%** em 24h, a **62k coins** (faixa do dia: 42k–65k). Está +23% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Selina Cerci (90)** subiu **+50%** em 24h, a **75k coins** (faixa do dia: 40k–75k). Está +42% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Deniz Undav | 91 | Bundesliga | 129k coins | -34.9% | -16.8% |
-| Kevin Schade | 88 | Premier League | 29k coins | -32.6% | -22.7% |
-| Lothar Matthäus | 90 | Icons | 172k coins | -30.4% | -11.8% |
-| Joelle Wedemeyer | 89 | GPFBL | 25k coins | -28.6% | -23.1% |
-| Alexandra Popp | 89 | GPFBL | 28k coins | -25.3% | -28.1% |
-| Jamie Leweling | 86 | Bundesliga | 30k coins | -24.5% | -39.1% |
-| Nick Woltemade | 87 | Premier League | 36k coins | -21% | -54.6% |
+| Jamie Leweling | 86 | Bundesliga | 35k coins | -40% | -40% |
+| Lothar Matthäus | 90 | Icons | 157k coins | -34.1% | -26% |
+| Kai Havertz | 91 | Premier League | 243k coins | -28.5% | -30.6% |
+| Toni Kroos | 90 | Icons | 103k coins | -27% | +14.9% |
 | Simone Laudehr | 91 | GPFBL | 40k coins | -19.5% | +3.2% |
-| Marina Hegering | 87 | GPFBL | 25k coins | -15.1% | -19.2% |
-| David Raum | 84 | Bundesliga | 49k coins | -14.3% | -14.3% |
+| Marina Hegering | 87 | GPFBL | 25k coins | -15.1% | -12.2% |
+| David Raum | 84 | Bundesliga | 49k coins | -14.3% | -9.6% |
+| Lennart Karl | 83 | Bundesliga | 70k coins | -14.1% | +49.7% |
+| Nico Schlotterbeck | 87 | Bundesliga | 62k coins | -13.3% | -7.1% |
+| Nicole Anyomi | 86 | GPFBL | 130k coins | -13.3% | -12.8% |
 
 
 ### Análise das baixas
 
-- **Deniz Undav (91)** caiu **-34.9%** em 24h, a **129k coins** (faixa do dia: 84k–129k). Está +18% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Jamie Leweling (86)** caiu **-40%** em 24h, a **35k coins** (faixa do dia: 30k–50k). Está -22% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Kevin Schade (88)** caiu **-32.6%** em 24h, a **29k coins** (faixa do dia: 28k–42k). Está -27% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Lothar Matthäus (90)** caiu **-34.1%** em 24h, a **157k coins** (faixa do dia: 118k–245k). Está -21% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Lothar Matthäus (90)** caiu **-30.4%** em 24h, a **172k coins** (faixa do dia: 118k–247k). Está -14% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Kai Havertz (91)** caiu **-28.5%** em 24h, a **243k coins** (faixa do dia: 243k–340k). Está -26% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Sara Däbritz já avançou 51.7% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Can Bozdoğan já avançou 52.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Deniz Undav recuou -34.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Jamie Leweling recuou -40%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -105,13 +105,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (17/07/2026)?**  
-Sara Däbritz (86, Liga F), com +51.7% em 24h, a 55k coins no PC.
+Can Bozdoğan (87, Eredivisie), com +52.7% em 24h, a 28k coins no PC.
 
 **E a maior queda do dia?**  
-Deniz Undav (91), -34.9% em 24h, a 129k coins.
+Jamie Leweling (86), -40% em 24h, a 35k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 54 cartas em alta contra 50 em queda (média 5.63%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 51 cartas em alta contra 44 em queda (média 2.57%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
