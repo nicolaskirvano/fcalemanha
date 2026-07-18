@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T10:21:24.000Z
+pubDatetime: 2026-07-18T10:31:18.000Z
 title: "Investimentos EA FC: Alemaes em 18/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.1% em 24h** e **+33.7% em 7 dias**.
-- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **GPFBL** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.9% em 24h** e **+37.5% em 7 dias**.
+- **4 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Bundesliga** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,27 +44,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Vanessa Fudalla | 88 | GPFBL | 93k coins | +14.1% | +69.1% | Esticada |
-| Julian Brandt | 87 | Bundesliga | 30k coins | +14.5% | +68% | Esticada |
+| Julian Brandt | 87 | Bundesliga | 30k coins | +9.1% | +60% | Esticada |
 | Oliver Kahn | 91 | Icons | 80k coins | +12.7% | +60% | Esticada |
 | Simone Laudehr | 91 | GPFBL | 48k coins | +18% | +58.3% | Momentum moderado |
 | Selina Cerci | 90 | GPFBL | 78k coins | +4.7% | +57% | Momentum moderado |
-| Mario Götze | 88 | Bundesliga | 35k coins | +16.7% | +52.2% | Momentum moderado |
+| Mario Götze | 88 | Bundesliga | 35k coins | +1.4% | +52.2% | Momentum moderado |
 | Jürgen Kohler | 90 | Bundesliga | 40k coins | +14.3% | +40.4% | Momentum moderado |
-| Rani Khedira | 84 | Bundesliga | 60k coins | +3.5% | +33.7% | Momentum moderado |
-| Giulia Gwinn | 89 | GPFBL | 37k coins | +12.9% | +23.1% | Momentum moderado |
+| Rani Khedira | 84 | Bundesliga | 58k coins | +3.5% | +34.5% | Momentum moderado |
+| Giulia Gwinn | 89 | GPFBL | 40k coins | +12.9% | +23.1% | Momentum moderado |
 | Lisanne Gräwe | 86 | GPFBL | 19.250 coins | +30.5% | +18.5% | Esticada |
-| Christian Günter | 88 | Bundesliga | 47k coins | +25.2% | +17.3% | Esticada |
-| Marina Hegering | 87 | GPFBL | 30k coins | +17.8% | +9.2% | Momentum moderado |
-| Fatih Kaya | 84 | 3. Liga | 43k coins | +3% | +6.9% | Entrada a observar |
+| Fatih Kaya | 84 | 3. Liga | 39k coins | +3% | +6.9% | Entrada a observar |
 | David Raum | 84 | Bundesliga | 54k coins | +10.7% | +6.9% | Momentum moderado |
 | Gerd Müller | 93 | Icons | 135k coins | +5.5% | +6.3% | Momentum moderado |
+| Benedict Hollerbach | 87 | Bundesliga | 17.000 coins | +1.5% | +6.2% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
 - **Vanessa Fudalla (88)** — 93k coins, **+69.1% em 7 dias** (+14.1% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julian Brandt (87)** — 30k coins, **+68% em 7 dias** (+14.5% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Julian Brandt (87)** — 30k coins, **+60% em 7 dias** (+9.1% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Oliver Kahn (91)** — 80k coins, **+60% em 7 dias** (+12.7% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 

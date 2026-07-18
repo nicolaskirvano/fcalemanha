@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T10:21:22.000Z
+pubDatetime: 2026-07-18T10:31:17.000Z
 title: "Mercado EA FC em 18/07: Alemaes — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Klara Bühl (89), -45.5% em 24h, a 30k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 41 cartas em alta contra 47 em queda (média 2.7%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 40 cartas em alta contra 51 em queda (média 2.21%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **18/07/2026** (PC): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **41 em alta** e **47 em queda**, média de **2.7%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **18/07/2026** (PC): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **40 em alta** e **51 em queda**, média de **2.21%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Idrissa Touré (83) **+58.4%** · 🔴 **Maior baixa:** Klara Bühl (89) **-45.5%**
 
@@ -36,8 +36,8 @@ Panorama de **18/07/2026** (PC): mercado **aquecido** — as altas dominam o dia
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 103.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 46.6% entre as cartas que se moveram; o universo observado reúne 123 cartas.
-- **Concentração:** GPFBL aparece em 6 dos 20 maiores movimentos listados.
+- **Participação das altas:** 44.0% entre as cartas que se moveram; o universo observado reúne 127 cartas.
+- **Concentração:** GPFBL aparece em 7 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
@@ -45,14 +45,14 @@ Panorama de **18/07/2026** (PC): mercado **aquecido** — as altas dominam o dia
 | --- | --- | --- | --- | --- | --- |
 | Idrissa Touré | 83 | Serie A TIM | 117k coins | +58.4% | +87.3% |
 | Larissa Mühlhaus | 85 | GPFBL | 31k coins | +50.6% | +47.1% |
+| Timo Werner | 87 | Bundesliga | 70k coins | +45.1% | +21.7% |
 | Jamie Leweling | 86 | Bundesliga | 42k coins | +40.8% | +3% |
 | Alexandra Popp | 89 | GPFBL | 38k coins | +38.2% | -1.3% |
-| Lewis Holtby | 86 | Eredivisie | 23k coins | +35.8% | -18.8% |
+| Lewis Holtby | 86 | Eredivisie | 25k coins | +35.8% | -18.8% |
 | Kai Havertz | 91 | Premier League | 327k coins | +34.6% | +0.6% |
 | Ann-Katrin Berger | 88 | NWSL | 48k coins | +31.5% | +92.2% |
-| Christian Günter | 88 | Bundesliga | 47k coins | +25.2% | +17.3% |
 | Klara Bühl | 87 | GPFBL | 45k coins | +25% | -4.8% |
-| Felix Nmecha | 86 | Bundesliga | 399k coins | +22.2% | +15.3% |
+| Simone Laudehr | 91 | GPFBL | 48k coins | +18% | +58.3% |
 
 
 ### Análise das altas
@@ -63,34 +63,34 @@ Panorama de **18/07/2026** (PC): mercado **aquecido** — as altas dominam o dia
 
 - **Idrissa Touré (83)** subiu **+58.4%** em 24h, a **117k coins** (faixa do dia: 40k–119k). Está +30% acima da média de 7 dias (aquecida).
 
-- **Larissa Mühlhaus (85)** subiu **+50.6%** em 24h, a **31k coins** (faixa do dia: 18.750–32k). Está +14% acima da média de 7 dias (aquecida).
+- **Larissa Mühlhaus (85)** subiu **+50.6%** em 24h, a **31k coins** (faixa do dia: 18.750–32k). Está +13% acima da média de 7 dias (aquecida).
 
-- **Jamie Leweling (86)** subiu **+40.8%** em 24h, a **42k coins** (faixa do dia: 30k–44k). Está em linha com a média de 7 dias (-4%).
+- **Timo Werner (87)** subiu **+45.1%** em 24h, a **70k coins** (faixa do dia: 40k–70k). Está +22% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Klara Bühl | 89 | GPFBL | 30k coins | -45.5% | -44.5% |
-| Joelle Wedemeyer | 89 | GPFBL | 22k coins | -42% | -54.3% |
+| Klara Bühl | 89 | GPFBL | 30k coins | -45.5% | -45% |
+| Cora Zicai | 88 | GPFBL | 106k coins | -39.5% | -30% |
+| Oliver Kahn | 91 | Icons | 86k coins | -38.2% | -4.3% |
+| Matthias Ginter | 88 | Bundesliga | 36k coins | -37.6% | -44.1% |
 | Pascal Groß | 87 | Premier League | 27k coins | -36.1% | -36.7% |
-| Leroy Sané | 84 | Trendyol Süper Lig | 36k coins | -35% | -21% |
-| Lena Oberdorf | 86 | GPFBL | 31k coins | -33.2% | -40.3% |
+| Leroy Sané | 84 | Trendyol Süper Lig | 36k coins | -35.5% | -21.5% |
+| Sven Ulreich | 87 | Bundesliga | 28k coins | -32.9% | -31.2% |
 | Steffi Jones | 91 | Icons | 42k coins | -32.1% | -7.7% |
+| Lena Oberdorf | 86 | GPFBL | 31k coins | -31.3% | -40.3% |
 | Karim Adeyemi | 86 | Bundesliga | 145k coins | -31% | -27.5% |
-| Aleksandar Pavlović | 89 | Bundesliga | 31k coins | -28.7% | -47.1% |
-| Maximilian Mittelstädt | 88 | Bundesliga | 28k coins | -27.5% | +19.4% |
-| Toni Kroos | 90 | Icons | 72k coins | -25.5% | +0.7% |
 
 
 ### Análise das baixas
 
-- **Klara Bühl (89)** caiu **-45.5%** em 24h, a **30k coins** (faixa do dia: 25k–56k). Está -35% abaixo da média de 7 dias (descontada).
+- **Klara Bühl (89)** caiu **-45.5%** em 24h, a **30k coins** (faixa do dia: 25k–50k). Está -34% abaixo da média de 7 dias (descontada).
 
-- **Joelle Wedemeyer (89)** caiu **-42%** em 24h, a **22k coins** (faixa do dia: 13.500–34k). Está em linha com a média de 7 dias (+5%).
+- **Cora Zicai (88)** caiu **-39.5%** em 24h, a **106k coins** (faixa do dia: 106k–185k). Está -36% abaixo da média de 7 dias (descontada).
 
-- **Pascal Groß (87)** caiu **-36.1%** em 24h, a **27k coins** (faixa do dia: 15.250–30k). Está +9% acima da média de 7 dias (aquecida).
+- **Oliver Kahn (91)** caiu **-38.2%** em 24h, a **86k coins** (faixa do dia: 86k–144k). Está -29% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
@@ -115,7 +115,7 @@ Idrissa Touré (83, Serie A TIM), com +58.4% em 24h, a 117k coins no PC.
 Klara Bühl (89), -45.5% em 24h, a 30k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 41 cartas em alta contra 47 em queda (média 2.7%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 40 cartas em alta contra 51 em queda (média 2.21%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

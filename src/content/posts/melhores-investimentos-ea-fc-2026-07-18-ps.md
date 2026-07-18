@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T10:21:14.000Z
+pubDatetime: 2026-07-18T10:31:09.000Z
 title: "Investimentos EA FC: Alemaes em 18/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.4% em 24h** e **+41.3% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+18.2% em 24h** e **+41.3% em 7 dias**.
+- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **GPFBL** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,32 +43,32 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Leroy Sané | 91 | Trendyol Süper Lig | 50k coins | +17.4% | +74.2% | Esticada |
+| Leroy Sané | 91 | Trendyol Süper Lig | 50k coins | +25.6% | +74.2% | Esticada |
 | Nadine Keßler | 89 | GPFBL | 26k coins | +18.2% | +62.5% | Esticada |
-| Oliver Kahn | 91 | Icons | 75k coins | +13.6% | +61.3% | Esticada |
+| Oliver Kahn | 91 | Icons | 65k coins | +11.9% | +61.3% | Esticada |
 | Joshua Kimmich | 90 | Bundesliga | 76k coins | +28.6% | +51.5% | Esticada |
 | Vanessa Fudalla | 87 | GPFBL | 55k coins | +22.9% | +48.6% | Esticada |
 | David Raum | 84 | Bundesliga | 50k coins | +2.1% | +45.3% | Momentum moderado |
 | Nico Schlotterbeck | 87 | Bundesliga | 55k coins | +22.6% | +42.5% | Esticada |
 | Joelle Wedemeyer | 89 | GPFBL | 22k coins | +1.1% | +41.3% | Momentum moderado |
-| Marek Janssen | 84 | 3. Liga | 43k coins | +36.3% | +32.7% | Esticada |
-| Franz Beckenbauer | 92 | Icons | 187k coins | +12.9% | +28.9% | Momentum moderado |
+| Marek Janssen | 84 | 3. Liga | 42k coins | +36.3% | +32.7% | Esticada |
+| Franz Beckenbauer | 92 | Icons | 185k coins | +12.9% | +28.9% | Momentum moderado |
 | Bastian Schweinsteiger | 89 | Icons | 143k coins | +3.6% | +27.9% | Momentum moderado |
-| Matthias Ginter | 88 | Bundesliga | 37k coins | +18.2% | +23.8% | Momentum moderado |
 | Franziska Harsch | 88 | GPFBL | 16.250 coins | +4.8% | +22.6% | Entrada a observar |
 | David Raum | 87 | Bundesliga | 16.500 coins | +4.7% | +21.8% | Entrada a observar |
-| Klara Bühl | 88 | GPFBL | 44k coins | +29.4% | +20.1% | Esticada |
+| Klara Bühl | 88 | GPFBL | 44k coins | +28% | +18.8% | Esticada |
+| Paul Wanner | 84 | Eredivisie | 43k coins | +26.5% | +18.6% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Leroy Sané (91)** — 50k coins, **+74.2% em 7 dias** (+17.4% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Leroy Sané (91)** — 50k coins, **+74.2% em 7 dias** (+25.6% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Nadine Keßler (89)** — 26k coins, **+62.5% em 7 dias** (+18.2% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Oliver Kahn (91)** — 75k coins, **+61.3% em 7 dias** (+13.6% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Oliver Kahn (91)** — 65k coins, **+61.3% em 7 dias** (+11.9% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Joshua Kimmich (90)** — 76k coins, **+51.5% em 7 dias** (+28.6% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Joshua Kimmich (90)** — 76k coins, **+51.5% em 7 dias** (+28.6% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Vanessa Fudalla (87)** — 55k coins, **+48.6% em 7 dias** (+22.9% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
