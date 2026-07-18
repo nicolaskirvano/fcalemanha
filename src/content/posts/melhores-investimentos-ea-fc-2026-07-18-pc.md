@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T19:31:18.000Z
+pubDatetime: 2026-07-18T22:31:18.000Z
 title: "Investimentos EA FC: Alemaes em 18/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 18/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/07/2026) no EA FC?"
-    a: "Simone Laudehr (91, GPFBL) lidera, com +58.3% em 7 dias a 48k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Celia Šašić (92, GPFBL) lidera, com +60% em 7 dias a 59k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Simone Laudehr (91) acumula **+58.3% em 7 dias** a 48k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Celia Šašić (92) acumula **+60% em 7 dias** a 59k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Alemaes em 18/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-18-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.7% em 24h** e **+23.8% em 7 dias**.
-- **1 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Bundesliga** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+19.1% em 24h** e **+25.5% em 7 dias**.
+- **4 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Bundesliga** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,28 +43,28 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Simone Laudehr | 91 | GPFBL | 48k coins | +5.6% | +58.3% | Momentum moderado |
-| Jürgen Kohler | 90 | Bundesliga | 44k coins | +8.7% | +45.8% | Momentum moderado |
-| Nick Woltemade | 90 | Premier League | 149k coins | +19.2% | +36.7% | Momentum moderado |
-| Timo Werner | 87 | Bundesliga | 62k coins | +10.7% | +24.6% | Momentum moderado |
-| Oliver Kahn | 91 | Icons | 133k coins | +31.6% | +23.8% | Esticada |
-| Antonio Rüdiger | 91 | LALIGA EA SPORTS | 187k coins | +14% | +22.9% | Momentum moderado |
-| Ann-Katrin Berger | 87 | NWSL | 44k coins | +7.3% | +11.8% | Momentum moderado |
-| Klara Bühl | 87 | GPFBL | 45k coins | +6.5% | +9.8% | Momentum moderado |
-| Benedict Hollerbach | 87 | Bundesliga | 18.000 coins | +16.9% | +7.8% | Momentum moderado |
+| Celia Šašić | 92 | GPFBL | 59k coins | +39.1% | +60% | Esticada |
+| Gerd Müller | 92 | Icons | 103k coins | +32.5% | +52.5% | Esticada |
+| Jürgen Kohler | 90 | Bundesliga | 45k coins | +11.8% | +50% | Momentum moderado |
+| Nick Woltemade | 90 | Premier League | 147k coins | +18.4% | +33.3% | Momentum moderado |
+| Rani Khedira | 84 | Bundesliga | 49k coins | +29.5% | +25.5% | Esticada |
+| Nadine Keßler | 89 | GPFBL | 21k coins | +6.3% | +15.1% | Momentum moderado |
+| Keven Schlotterbeck | 89 | Bundesliga | 19.000 coins | +19.1% | +14.1% | Momentum moderado |
+| Manuel Neuer | 86 | Bundesliga | 58k coins | +35.3% | +8.3% | Esticada |
+| Svenja Huth | 86 | GPFBL | 41k coins | +17.1% | +7.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Simone Laudehr (91)** — 48k coins, **+58.3% em 7 dias** (+5.6% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Celia Šašić (92)** — 59k coins, **+60% em 7 dias** (+39.1% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jürgen Kohler (90)** — 44k coins, **+45.8% em 7 dias** (+8.7% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gerd Müller (92)** — 103k coins, **+52.5% em 7 dias** (+32.5% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nick Woltemade (90)** — 149k coins, **+36.7% em 7 dias** (+19.2% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jürgen Kohler (90)** — 45k coins, **+50% em 7 dias** (+11.8% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Timo Werner (87)** — 62k coins, **+24.6% em 7 dias** (+10.7% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nick Woltemade (90)** — 147k coins, **+33.3% em 7 dias** (+18.4% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Oliver Kahn (91)** — 133k coins, **+23.8% em 7 dias** (+31.6% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rani Khedira (84)** — 49k coins, **+25.5% em 7 dias** (+29.5% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -82,7 +82,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/07/2026) no EA FC?**  
-Simone Laudehr (91, GPFBL) lidera, com +58.3% em 7 dias a 48k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Celia Šašić (92, GPFBL) lidera, com +60% em 7 dias a 59k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -100,6 +100,7 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Alemaes em 18/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-18-pc/)
 - [Mercado EA FC em 18/07: Alemaes — PC](/posts/mercado-ea-fc-2026-07-18-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
