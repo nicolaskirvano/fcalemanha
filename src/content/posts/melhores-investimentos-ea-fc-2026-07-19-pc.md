@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:23:27.000Z
+pubDatetime: 2026-07-19T10:31:18.000Z
 title: "Investimentos EA FC: Alemaes em 19/07 — PC"
 draft: false
 featured: true
@@ -52,7 +52,7 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Mario Gomez | 88 | Bundesliga | 15.250 coins | +10.2% | +25% | Momentum moderado |
 | Gerd Müller | 93 | Icons | 150k coins | +11.1% | +25% | Momentum moderado |
 | Nick Woltemade | 90 | Premier League | 131k coins | +4.8% | +24.8% | Entrada a observar |
-| Antonio Rüdiger | 91 | LALIGA EA SPORTS | 210k coins | +4.4% | +19.6% | Entrada a observar |
+| Antonio Rüdiger | 91 | LALIGA EA SPORTS | 210k coins | +7.5% | +19.6% | Momentum moderado |
 | Deniz Undav | 84 | Bundesliga | 44k coins | +19.2% | +14.5% | Momentum moderado |
 | Alexandra Popp | 89 | GPFBL | 43k coins | +13.8% | +13.8% | Momentum moderado |
 | Celia Šašić | 92 | GPFBL | 56k coins | +12.6% | +12% | Momentum moderado |

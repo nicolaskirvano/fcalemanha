@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:23:17.000Z
+pubDatetime: 2026-07-19T10:31:09.000Z
 title: "Investimentos EA FC: Alemaes em 19/07 — Console (PS)"
 draft: false
 featured: true
@@ -51,10 +51,10 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Lisa Baum | 85 | GPFBL | 30k coins | +22.7% | +41.7% | Esticada |
 | Danny da Costa | 84 | Bundesliga | 19.250 coins | +13.9% | +39% | Momentum moderado |
 | Kevin Schade | 84 | Premier League | 41k coins | +22.8% | +38.6% | Esticada |
-| David Raum | 87 | Bundesliga | 19.500 coins | +25.8% | +38.3% | Esticada |
+| David Raum | 87 | Bundesliga | 19.500 coins | +25.8% | +29.7% | Esticada |
 | Svenja Huth | 86 | GPFBL | 48k coins | +19.8% | +29% | Momentum moderado |
 | Julian Brandt | 87 | Bundesliga | 22k coins | +31.8% | +27.9% | Esticada |
-| Gerd Müller | 93 | Icons | 118k coins | +5.3% | +25.7% | Momentum moderado |
+| Gerd Müller | 93 | Icons | 118k coins | +4.3% | +25.7% | Momentum moderado |
 | Nick Woltemade | 90 | Premier League | 104k coins | +14.9% | +21.6% | Momentum moderado |
 | Keven Schlotterbeck | 89 | Bundesliga | 15.000 coins | +18% | +20% | Momentum moderado |
 | Paul Wanner | 84 | Eredivisie | 44k coins | +4.8% | +17.3% | Entrada a observar |
