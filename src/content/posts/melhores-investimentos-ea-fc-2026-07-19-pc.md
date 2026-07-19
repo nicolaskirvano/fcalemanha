@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:31:18.000Z
+pubDatetime: 2026-07-19T13:31:18.000Z
 title: "Investimentos EA FC: Alemaes em 19/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 19/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/07/2026) no EA FC?"
-    a: "Gerd Müller (92, Icons) lidera, com +88.5% em 7 dias a 126k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Selina Cerci (90, GPFBL) lidera, com +86% em 7 dias a 80k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **19/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Gerd Müller (92) acumula **+88.5% em 7 dias** a 126k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Selina Cerci (90) acumula **+86% em 7 dias** a 80k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Alemaes em 19/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-19-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **19/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.1% em 24h** e **+25.0% em 7 dias**.
-- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **GPFBL** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.5% em 24h** e **+33.7% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **GPFBL** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Gerd Müller | 92 | Icons | 126k coins | +29.7% | +88.5% | Esticada |
+| Selina Cerci | 90 | GPFBL | 80k coins | +1.9% | +86% | Esticada |
+| Gerd Müller | 92 | Icons | 121k coins | +29.2% | +78.4% | Esticada |
 | Jürgen Kohler | 90 | Bundesliga | 45k coins | +12.5% | +76.5% | Esticada |
-| Luca Marseiler | 90 | Bundesliga 2 | 55k coins | +12.2% | +70.5% | Esticada |
-| Selina Cerci | 90 | GPFBL | 80k coins | +1.9% | +64.1% | Esticada |
-| Angelo Stiller | 91 | Bundesliga | 48k coins | +10.6% | +43.2% | Momentum moderado |
-| Larissa Mühlhaus | 85 | GPFBL | 34k coins | +8% | +40.6% | Momentum moderado |
-| Mario Gomez | 88 | Bundesliga | 15.250 coins | +10.2% | +25% | Momentum moderado |
-| Gerd Müller | 93 | Icons | 150k coins | +11.1% | +25% | Momentum moderado |
-| Nick Woltemade | 90 | Premier League | 131k coins | +4.8% | +24.8% | Entrada a observar |
-| Antonio Rüdiger | 91 | LALIGA EA SPORTS | 210k coins | +7.5% | +19.6% | Momentum moderado |
-| Deniz Undav | 84 | Bundesliga | 44k coins | +19.2% | +14.5% | Momentum moderado |
-| Alexandra Popp | 89 | GPFBL | 43k coins | +13.8% | +13.8% | Momentum moderado |
-| Celia Šašić | 92 | GPFBL | 56k coins | +12.6% | +12% | Momentum moderado |
-| Svenja Huth | 86 | GPFBL | 50k coins | +21.3% | +11.8% | Esticada |
-| Toni Kroos | 90 | Icons | 78k coins | +9.4% | +8.7% | Momentum moderado |
+| Luca Marseiler | 90 | Bundesliga 2 | 52k coins | +8.2% | +68.3% | Esticada |
+| Uli Hoeneß | 86 | Bundesliga | 16.000 coins | +10.8% | +67.4% | Esticada |
+| Nadine Keßler | 90 | GPFBL | 38k coins | +5.6% | +57.9% | Momentum moderado |
+| Celia Šašić | 89 | GPFBL | 15.500 coins | +29.2% | +37.8% | Esticada |
+| Larissa Mühlhaus | 85 | GPFBL | 33k coins | +8% | +33.7% | Momentum moderado |
+| Angelo Stiller | 91 | Bundesliga | 65k coins | +7.8% | +31.1% | Momentum moderado |
+| Simone Laudehr | 90 | GPFBL | 49k coins | +15.3% | +28.1% | Momentum moderado |
+| Lewis Holtby | 86 | Eredivisie | 26k coins | +29.4% | +20.9% | Esticada |
+| Alexandra Popp | 89 | GPFBL | 42k coins | +25.9% | +19.7% | Esticada |
+| Gerd Müller | 93 | Icons | 139k coins | +13.6% | +18.3% | Momentum moderado |
+| Antonio Rüdiger | 91 | LALIGA EA SPORTS | 220k coins | +6.6% | +17.3% | Momentum moderado |
+| Deniz Undav | 84 | Bundesliga | 44k coins | +19.2% | +15.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Gerd Müller (92)** — 126k coins, **+88.5% em 7 dias** (+29.7% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Selina Cerci (90)** — 80k coins, **+86% em 7 dias** (+1.9% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jürgen Kohler (90)** — 45k coins, **+76.5% em 7 dias** (+12.5% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gerd Müller (92)** — 121k coins, **+78.4% em 7 dias** (+29.2% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Luca Marseiler (90)** — 55k coins, **+70.5% em 7 dias** (+12.2% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jürgen Kohler (90)** — 45k coins, **+76.5% em 7 dias** (+12.5% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Selina Cerci (90)** — 80k coins, **+64.1% em 7 dias** (+1.9% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Luca Marseiler (90)** — 52k coins, **+68.3% em 7 dias** (+8.2% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Angelo Stiller (91)** — 48k coins, **+43.2% em 7 dias** (+10.6% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Uli Hoeneß (86)** — 16.000 coins, **+67.4% em 7 dias** (+10.8% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -86,6 +86,7 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Alemaes em 19/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-19-pc/)
 - [Mercado EA FC em 19/07: Alemaes — PC](/posts/mercado-ea-fc-2026-07-19-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
@@ -97,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/07/2026) no EA FC?**  
-Gerd Müller (92, Icons) lidera, com +88.5% em 7 dias a 126k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Selina Cerci (90, GPFBL) lidera, com +86% em 7 dias a 80k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
