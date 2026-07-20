@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:23:46.000Z
+pubDatetime: 2026-07-20T10:31:10.000Z
 title: "Jogadores baratos EA FC: Alemaes em 20/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 12 opções:** 11.033 coins.
+- **Preço médio das 13 opções:** 9.392 coins.
 - **Posição mais frequente:** ST, com 5 cartas.
-- **Faixa real:** 1.900 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.600 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,16 +42,17 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Joshua Kimmich | 89 | CDM | Bundesliga | 1.900 coins | +46.2% |
 | Florian Wirtz | 89 | CAM | Bundesliga | 2.000 coins | +53.8% |
-| Celia Šašić | 89 | ST | GPFBL | 12.500 coins | -7.3% |
+| Celia Šašić | 89 | ST | GPFBL | 12.250 coins | -9.1% |
 | Rudi Völler | 89 | ST | Bundesliga | 13.000 coins | -13.6% |
 | Mario Gomez | 88 | ST | Bundesliga | 12.000 coins | -7.7% |
-| Simone Laudehr | 88 | CM | GPFBL | 13.000 coins | +8.3% |
-| Nadine Keßler | 88 | CM | GPFBL | 13.000 coins | -14.3% |
+| Simone Laudehr | 88 | CM | GPFBL | 13.000 coins | +6.1% |
+| Nadine Keßler | 88 | CM | GPFBL | 13.250 coins | -14.3% |
 | Oliver Bierhoff | 88 | ST | Serie A TIM | 14.500 coins | -9.4% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 11.500 coins | -2.1% |
 | Uli Hoeneß | 86 | RM | Bundesliga | 11.750 coins | -2.1% |
-| Lisanne Gräwe | 86 | CM | GPFBL | 13.500 coins | -8.5% |
 | Loreen Bender | 86 | RM | GPFBL | 13.750 coins | +15.4% |
+| Oliver Baumann | 83 | GK | Bundesliga | 1.600 coins | 0% |
+| Linda Dallmann | 83 | RM | GPFBL | 1.600 coins | +12.5% |
 
 
 ## 📈 Destaques
@@ -60,7 +61,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **2.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Celia Šašić (89, ST)** da GPFBL, a apenas **12.500 coins**
+- **Celia Šašić (89, ST)** da GPFBL, a apenas **12.250 coins**
 
 - **Rudi Völler (89, ST)** da Bundesliga, a apenas **13.000 coins**
 
@@ -69,9 +70,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 ## Como distribuir a banca
 
+- **Defesa:** Oliver Baumann (83, GK) por 1.600 coins é a referência de rating deste recorte.
+
 - **Meio:** Joshua Kimmich (89, CDM) por 1.900 coins é a referência de rating deste recorte.
 
-- **Ataque:** Celia Šašić (89, ST) por 12.500 coins é a referência de rating deste recorte.
+- **Ataque:** Celia Šašić (89, ST) por 12.250 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:23:54.000Z
+pubDatetime: 2026-07-20T10:31:18.000Z
 title: "Investimentos EA FC: Alemaes em 20/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.3% em 24h** e **+28.2% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Bundesliga** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+16.5% em 24h** e **+26.2% em 7 dias**.
+- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **GPFBL** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -46,31 +46,31 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Simone Laudehr | 91 | GPFBL | 48k coins | +3.3% | +84.5% | Esticada |
 | Carolin Simon | 90 | GPFBL | 60k coins | +3.4% | +77.8% | Esticada |
 | Oliver Kahn | 91 | Icons | 80k coins | +21.2% | +74.9% | Esticada |
-| Oliver Bierhoff | 88 | Serie A TIM | 22k coins | +11.3% | +71.4% | Esticada |
 | Lewis Holtby | 86 | Eredivisie | 26k coins | +16.5% | +45.2% | Momentum moderado |
 | Nadine Keßler | 89 | GPFBL | 25k coins | +22% | +44.9% | Esticada |
+| Selina Cerci | 87 | GPFBL | 26k coins | +27.5% | +39.7% | Esticada |
 | Mario Gomez | 88 | Bundesliga | 17.500 coins | +26.8% | +36.5% | Esticada |
-| Deniz Undav | 84 | Bundesliga | 32k coins | +14.9% | +28.2% | Momentum moderado |
 | Julian Brandt | 87 | Bundesliga | 32k coins | +30% | +26.2% | Esticada |
+| Celia Šašić | 92 | GPFBL | 62k coins | +12.6% | +23.8% | Momentum moderado |
 | Lukas Klostermann | 88 | Bundesliga | 121k coins | +22.2% | +22.2% | Esticada |
-| Celia Šašić | 92 | GPFBL | 63k coins | +9.9% | +20.8% | Momentum moderado |
+| Yann Aurel Bisseck | 84 | Serie A TIM | 48k coins | +21.2% | +21.9% | Esticada |
 | Deniz Undav | 91 | Bundesliga | 116k coins | +6.4% | +16.6% | Momentum moderado |
-| Nadiem Amiri | 88 | Bundesliga | 32k coins | +4% | +16.1% | Entrada a observar |
+| Toni Kroos | 90 | Icons | 84k coins | +13.3% | +16.2% | Momentum moderado |
+| Nadiem Amiri | 88 | Bundesliga | 29k coins | +4% | +16.1% | Entrada a observar |
 | Fatih Kaya | 84 | 3. Liga | 40k coins | +14.3% | +14.3% | Momentum moderado |
-| Giulia Gwinn | 89 | GPFBL | 34k coins | +6.2% | +12.4% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Simone Laudehr (91)** — 48k coins, **+84.5% em 7 dias** (+3.3% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Simone Laudehr (91)** — 48k coins, **+84.5% em 7 dias** (+3.3% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Carolin Simon (90)** — 60k coins, **+77.8% em 7 dias** (+3.4% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Oliver Kahn (91)** — 80k coins, **+74.9% em 7 dias** (+21.2% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Oliver Bierhoff (88)** — 22k coins, **+71.4% em 7 dias** (+11.3% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
 - **Lewis Holtby (86)** — 26k coins, **+45.2% em 7 dias** (+16.5% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Nadine Keßler (89)** — 25k coins, **+44.9% em 7 dias** (+22% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

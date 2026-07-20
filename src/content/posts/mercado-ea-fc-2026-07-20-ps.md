@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:23:43.000Z
+pubDatetime: 2026-07-20T10:31:07.000Z
 title: "Mercado EA FC em 20/07: Alemaes — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 20/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/07/2026)?"
-    a: "Nadiem Amiri (88, Bundesliga), com +59.5% em 24h, a 25k coins no Console (PS)."
+    a: "Cora Zicai (88, GPFBL), com +41.3% em 24h, a 126k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Jamal Musiala (89), -33.1% em 24h, a 200k coins."
+    a: "Jamal Musiala (89), -32.1% em 24h, a 200k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 49 cartas em alta contra 55 em queda (média 1.61%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 48 cartas em alta contra 56 em queda (média 1.34%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **20/07/2026** no Console (PS): clima **comprador** — a maioria das cartas subiu. **49 valorizações** contra **55 quedas** entre as cartas relevantes, com média de **1.61%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **20/07/2026** no Console (PS): mercado **de lado** — altas e quedas se equilibram. **48 valorizações** contra **56 quedas** entre as cartas relevantes, com média de **1.34%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Nadiem Amiri (88) **+59.5%** · 🔴 **Maior baixa:** Jamal Musiala (89) **-33.1%**
+> 🟢 **Maior alta:** Cora Zicai (88) **+41.3%** · 🔴 **Maior baixa:** Jamal Musiala (89) **-32.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 20/07: Alemaes — Console (PS)](/charts/mercado-ea-fc-2026-07-20-ps.svg)
 
@@ -35,24 +35,24 @@ Resumo de **20/07/2026** no Console (PS): clima **comprador** — a maioria das 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 92.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 47.1% entre as cartas que se moveram; o universo observado reúne 120 cartas.
+- **Amplitude do dia:** 73.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 46.2% entre as cartas que se moveram; o universo observado reúne 120 cartas.
 - **Concentração:** Bundesliga aparece em 9 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nadiem Amiri | 88 | Bundesliga | 25k coins | +59.5% | +47.5% |
-| Joelle Wedemeyer | 89 | GPFBL | 20k coins | +47.6% | +19.2% |
 | Cora Zicai | 88 | GPFBL | 126k coins | +41.3% | +65.6% |
+| Nadiem Amiri | 88 | Bundesliga | 25k coins | +35.1% | +26.6% |
 | Giulia Gwinn | 89 | GPFBL | 30k coins | +30% | +38.3% |
 | Serge Gnabry | 90 | Bundesliga | 320k coins | +29.6% | +20.8% |
 | Sven Ulreich | 87 | Bundesliga | 21k coins | +29.3% | -4.8% |
-| Gerd Müller | 92 | Icons | 100k coins | +28.2% | +5.5% |
+| Christian Günter | 88 | Bundesliga | 34k coins | +28.7% | +93.1% |
+| Gerd Müller | 92 | Icons | 96k coins | +28.2% | +5.5% |
 | Rani Khedira | 84 | Bundesliga | 52k coins | +26.5% | +18.6% |
-| Christian Günter | 88 | Bundesliga | 34k coins | +26.4% | +93.1% |
-| Karim Adeyemi | 91 | Bundesliga | 260k coins | +23.7% | -6% |
+| Karim Adeyemi | 91 | Bundesliga | 256k coins | +23.7% | -6% |
+| Younes Ebnoutalib | 80 | Bundesliga 2 | 48k coins | +21% | +0.5% |
 
 
 ### Análise das altas
@@ -61,36 +61,36 @@ Resumo de **20/07/2026** no Console (PS): clima **comprador** — a maioria das 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Nadiem Amiri (88)** subiu **+59.5%** em 24h, a **25k coins** (faixa do dia: 13.500–39k). Está +28% acima da média de 7 dias (aquecida).
-
-- **Joelle Wedemeyer (89)** subiu **+47.6%** em 24h, a **20k coins** (faixa do dia: 14.500–37k). Está -10% abaixo da média de 7 dias (descontada).
-
 - **Cora Zicai (88)** subiu **+41.3%** em 24h, a **126k coins** (faixa do dia: 67k–146k). Está +78% acima da média de 7 dias (aquecida).
+
+- **Nadiem Amiri (88)** subiu **+35.1%** em 24h, a **25k coins** (faixa do dia: 13.500–39k). Está +28% acima da média de 7 dias (aquecida).
+
+- **Giulia Gwinn (89)** subiu **+30%** em 24h, a **30k coins** (faixa do dia: 19.500–35k). Está +13% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jamal Musiala | 89 | Bundesliga | 200k coins | -33.1% | -23.7% |
-| Thomas Müller | 86 | MLS | 75k coins | -28.2% | -18.1% |
+| Jamal Musiala | 89 | Bundesliga | 200k coins | -32.1% | -23.7% |
+| Thomas Müller | 86 | MLS | 75k coins | -28.2% | -17.5% |
+| Joshua Kimmich | 90 | Bundesliga | 49k coins | -28% | +8.4% |
 | Alexandra Popp | 89 | GPFBL | 60k coins | -27.3% | +80.5% |
 | Steffi Jones | 91 | Icons | 60k coins | -26.2% | +23.5% |
-| Vanessa Fudalla | 87 | GPFBL | 41k coins | -25.7% | -1.8% |
-| Nadine Keßler | 90 | GPFBL | 30k coins | -25% | +41.2% |
-| Matthias Ginter | 88 | Bundesliga | 32k coins | -24.7% | -17.9% |
-| Marco Reus | 89 | MLS | 308k coins | -22.6% | -7.1% |
-| Joshua Kimmich | 90 | Bundesliga | 49k coins | -21.7% | +18.5% |
-| Lothar Matthäus | 90 | Icons | 160k coins | -19.3% | -24.9% |
+| Nadine Keßler | 90 | GPFBL | 30k coins | -25% | +42.9% |
+| Vanessa Fudalla | 87 | GPFBL | 35k coins | -24.3% | -1.8% |
+| Matthias Ginter | 88 | Bundesliga | 32k coins | -23.6% | -17.9% |
+| Marco Reus | 89 | MLS | 395k coins | -22.6% | -7.1% |
+| Lothar Matthäus | 90 | Icons | 151k coins | -19.3% | -24.9% |
 
 
 ### Análise das baixas
 
-- **Jamal Musiala (89)** caiu **-33.1%** em 24h, a **200k coins** (faixa do dia: 167k–257k). Está -22% abaixo da média de 7 dias (descontada).
+- **Jamal Musiala (89)** caiu **-32.1%** em 24h, a **200k coins** (faixa do dia: 167k–257k). Está -22% abaixo da média de 7 dias (descontada).
 
 - **Thomas Müller (86)** caiu **-28.2%** em 24h, a **75k coins** (faixa do dia: 62k–92k). Está -9% abaixo da média de 7 dias (descontada).
 
-- **Alexandra Popp (89)** caiu **-27.3%** em 24h, a **60k coins** (faixa do dia: 35k–90k). Está +49% acima da média de 7 dias (aquecida).
+- **Joshua Kimmich (90)** caiu **-28%** em 24h, a **49k coins** (faixa do dia: 44k–82k). Está -15% abaixo da média de 7 dias (descontada).
 
 
 ## ⚠️ Cartas em risco nas próximas 24h
@@ -104,9 +104,9 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Nadiem Amiri já avançou 59.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Cora Zicai já avançou 41.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Jamal Musiala recuou -33.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Jamal Musiala recuou -32.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -118,13 +118,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/07/2026)?**
-Nadiem Amiri (88, Bundesliga), com +59.5% em 24h, a 25k coins no Console (PS).
+Cora Zicai (88, GPFBL), com +41.3% em 24h, a 126k coins no Console (PS).
 
 **E a maior queda do dia?**
-Jamal Musiala (89), -33.1% em 24h, a 200k coins.
+Jamal Musiala (89), -32.1% em 24h, a 200k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 49 cartas em alta contra 55 em queda (média 1.61%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 48 cartas em alta contra 56 em queda (média 1.34%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
