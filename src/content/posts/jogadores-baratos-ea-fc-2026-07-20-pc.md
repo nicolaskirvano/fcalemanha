@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T13:31:19.000Z
+pubDatetime: 2026-07-20T16:31:19.000Z
 title: "Jogadores baratos EA FC: Alemaes em 20/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 20/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (20/07/2026)?"
-    a: "Florian Wirtz (89, Bundesliga) aparece como melhor custo-benefício, a 3.500 coins no PC."
+    a: "Joshua Kimmich (89, Bundesliga) aparece como melhor custo-benefício, a 3.600 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **20/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Florian Wirtz (89) por apenas 3.500 coins.
+> 💰 **Melhor pechincha:** Joshua Kimmich (89) por apenas 3.600 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Alemaes em 20/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-20-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 5.425 coins.
-- **Posição mais frequente:** ST, com 2 cartas.
-- **Faixa real:** 3.200 a 13.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 8 opções:** 8.406 coins.
+- **Posição mais frequente:** ST, com 3 cartas.
+- **Faixa real:** 1.500 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,32 +40,34 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Florian Wirtz | 89 | CAM | Bundesliga | 3.500 coins | +40% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 3.700 coins | +59.1% |
-| Celia Šašić | 89 | ST | GPFBL | 13.250 coins | -14.5% |
-| Lea Schüller | 86 | ST | GPFBL | 3.200 coins | 0% |
-| Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 5.000 coins | +45.8% |
-| Sara Doorsoun | 84 | CB | GPFBL | 3.900 coins | +7.5% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 3.600 coins | +45.8% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 3.600 coins | +40% |
+| Celia Šašić | 89 | ST | GPFBL | 13.250 coins | -5.4% |
+| Jamal Musiala | 88 | CAM | Bundesliga | 1.500 coins | +25% |
+| Nadine Keßler | 88 | CM | GPFBL | 12.000 coins | 0% |
+| Mario Gomez | 88 | ST | Bundesliga | 14.500 coins | +27.7% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 14.500 coins | +17.9% |
+| Sara Doorsoun | 84 | CB | GPFBL | 4.300 coins | +8.1% |
 
 
 ## 📈 Destaques
 
-- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **3.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **3.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **3.700 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **3.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **13.250 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Lea Schüller (86, ST)** da GPFBL, a apenas **3.200 coins**
+- **Jamal Musiala (88, CAM)** da Bundesliga, a apenas **1.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Marc-André ter Stegen (86, GK)** da LALIGA EA SPORTS, a apenas **5.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Nadine Keßler (88, CM)** da GPFBL, a apenas **12.000 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Marc-André ter Stegen (86, GK) por 5.000 coins é a referência de rating deste recorte.
+- **Defesa:** Sara Doorsoun (84, CB) por 4.300 coins é a referência de rating deste recorte.
 
-- **Meio:** Florian Wirtz (89, CAM) por 3.500 coins é a referência de rating deste recorte.
+- **Meio:** Joshua Kimmich (89, CDM) por 3.600 coins é a referência de rating deste recorte.
 
 - **Ataque:** Celia Šašić (89, ST) por 13.250 coins é a referência de rating deste recorte.
 
@@ -86,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (20/07/2026)?**  
-Florian Wirtz (89, Bundesliga) aparece como melhor custo-benefício, a 3.500 coins no PC.
+Joshua Kimmich (89, Bundesliga) aparece como melhor custo-benefício, a 3.600 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

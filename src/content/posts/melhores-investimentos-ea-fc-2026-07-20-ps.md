@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T13:31:09.000Z
+pubDatetime: 2026-07-20T16:31:09.000Z
 title: "Investimentos EA FC: Alemaes em 20/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.9% em 24h** e **+14.0% em 7 dias**.
-- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **GPFBL** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.4% em 24h** e **+34.6% em 7 dias**.
+- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Bundesliga** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Birgit Prinz | 93 | Icons | 80k coins | +35.6% | +73% | Esticada |
-| Cora Zicai | 88 | GPFBL | 112k coins | +20.4% | +48.4% | Esticada |
-| Toni Kroos | 90 | Icons | 92k coins | +19.2% | +38.2% | Momentum moderado |
-| Nadine Keßler | 88 | GPFBL | 15.250 coins | +10.9% | +29.8% | Momentum moderado |
-| Celia Šašić | 89 | GPFBL | 15.500 coins | +1.9% | +17% | Entrada a observar |
-| Philipp Lahm | 89 | Icons | 68k coins | +2.6% | +14.8% | Entrada a observar |
-| Felix Nmecha | 86 | Bundesliga | 194k coins | +8.4% | +14.6% | Momentum moderado |
-| Selina Cerci | 87 | GPFBL | 28k coins | +29.5% | +14% | Esticada |
-| Vanessa Fudalla | 87 | GPFBL | 44k coins | +25% | +12.5% | Esticada |
-| Rani Khedira | 84 | Bundesliga | 48k coins | +17.1% | +9.9% | Momentum moderado |
-| Ann-Katrin Berger | 88 | NWSL | 25k coins | +35.1% | +7.5% | Esticada |
-| Bastian Schweinsteiger | 88 | Icons | 72k coins | +2.9% | +7.5% | Entrada a observar |
-| Nico Schlotterbeck | 87 | Bundesliga | 46k coins | +5.7% | +7.5% | Momentum moderado |
-| Toni Kroos | 91 | Icons | 209k coins | +1.4% | +6.5% | Entrada a observar |
-| Svenja Huth | 86 | GPFBL | 44k coins | +1.7% | +5.9% | Entrada a observar |
+| Birgit Prinz | 93 | Icons | 80k coins | +22.1% | +73% | Esticada |
+| Angelo Stiller | 91 | Bundesliga | 50k coins | +2.5% | +68.3% | Esticada |
+| Cora Zicai | 88 | GPFBL | 103k coins | +11% | +64.3% | Esticada |
+| Nick Woltemade | 90 | Premier League | 96k coins | +2.7% | +63.8% | Esticada |
+| Christian Günter | 88 | Bundesliga | 32k coins | +12.4% | +58.8% | Momentum moderado |
+| Vanessa Fudalla | 88 | GPFBL | 40k coins | +38.8% | +42.5% | Esticada |
+| Verena Wieder | 85 | GPFBL | 22k coins | +11.4% | +39.7% | Momentum moderado |
+| Felix Nmecha | 86 | Bundesliga | 210k coins | +22.1% | +34.6% | Esticada |
+| Philipp Lahm | 89 | Icons | 80k coins | +16.4% | +25.9% | Momentum moderado |
+| Angelo Stiller | 85 | Bundesliga | 21k coins | +15.1% | +23.5% | Momentum moderado |
+| Toni Kroos | 90 | Icons | 70k coins | +4.8% | +20.8% | Entrada a observar |
+| Nico Schlotterbeck | 87 | Bundesliga | 28k coins | +29.9% | +18.9% | Esticada |
+| Bastian Schweinsteiger | 88 | Icons | 71k coins | +13.5% | +13.5% | Momentum moderado |
+| Kai Havertz | 91 | Premier League | 176k coins | +7.3% | +12.4% | Momentum moderado |
+| Matthias Ginter | 88 | Bundesliga | 38k coins | +9.6% | +8.8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Birgit Prinz (93)** — 80k coins, **+73% em 7 dias** (+35.6% em 24h). Preço +66% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Birgit Prinz (93)** — 80k coins, **+73% em 7 dias** (+22.1% em 24h). Preço +64% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Cora Zicai (88)** — 112k coins, **+48.4% em 7 dias** (+20.4% em 24h). Preço +56% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Angelo Stiller (91)** — 50k coins, **+68.3% em 7 dias** (+2.5% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Toni Kroos (90)** — 92k coins, **+38.2% em 7 dias** (+19.2% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Cora Zicai (88)** — 103k coins, **+64.3% em 7 dias** (+11% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nadine Keßler (88)** — 15.250 coins, **+29.8% em 7 dias** (+10.9% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nick Woltemade (90)** — 96k coins, **+63.8% em 7 dias** (+2.7% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Celia Šašić (89)** — 15.500 coins, **+17% em 7 dias** (+1.9% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Christian Günter (88)** — 32k coins, **+58.8% em 7 dias** (+12.4% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
