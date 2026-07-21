@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T22:31:10.000Z
+pubDatetime: 2026-07-21T01:31:10.000Z
 title: "Jogadores baratos EA FC: Alemaes em 20/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 13 opções:** 11.092 coins.
-- **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 2.700 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 11.047 coins.
+- **Posição mais frequente:** ST, com 5 cartas.
+- **Faixa real:** 2.200 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,41 +40,43 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Florian Wirtz | 89 | CAM | Bundesliga | 2.700 coins | +45% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2.900 coins | +45% |
-| Nadine Keßler | 89 | CM | GPFBL | 13.000 coins | -6.3% |
-| Rudi Völler | 89 | ST | Bundesliga | 13.500 coins | 0% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 14.000 coins | 0% |
-| Mario Gomez | 88 | ST | Bundesliga | 12.750 coins | -7.3% |
-| Simone Laudehr | 88 | CM | GPFBL | 13.250 coins | -5.4% |
-| Jonathan Tah | 88 | CB | Bundesliga | 13.500 coins | -4.5% |
-| Oliver Bierhoff | 88 | ST | Serie A TIM | 14.000 coins | 0% |
-| Nadine Keßler | 88 | CM | GPFBL | 14.250 coins | +5.8% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 12.750 coins | -7.3% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 14.000 coins | -1.8% |
-| Sara Doorsoun | 84 | CB | GPFBL | 3.600 coins | +2.9% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 2.700 coins | +50% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 3.000 coins | +50% |
+| Rudi Völler | 89 | ST | Bundesliga | 14.250 coins | +13.2% |
+| Celia Šašić | 89 | ST | GPFBL | 14.250 coins | +16% |
+| Keven Schlotterbeck | 89 | CB | Bundesliga | 14.750 coins | +10.5% |
+| Simone Laudehr | 88 | CM | GPFBL | 13.750 coins | -1.8% |
+| Nadine Keßler | 88 | CM | GPFBL | 13.750 coins | +14% |
+| Mario Gomez | 88 | ST | Bundesliga | 14.000 coins | +12% |
+| Franziska Harsch | 88 | CM | GPFBL | 14.250 coins | +9.5% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 14.500 coins | 0% |
+| Julian Brandt | 87 | CAM | Bundesliga | 14.750 coins | -11.6% |
+| Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 2.200 coins | +17.6% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 12.500 coins | 0% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 13.250 coins | +1.9% |
+| Sara Doorsoun | 84 | CB | GPFBL | 3.800 coins | +5.6% |
 
 
 ## 📈 Destaques
 
 - **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **2.700 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2.900 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **3.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Nadine Keßler (89, CM)** da GPFBL, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Rudi Völler (89, ST)** da Bundesliga, a apenas **14.250 coins**
 
-- **Rudi Völler (89, ST)** da Bundesliga, a apenas **13.500 coins**
+- **Celia Šašić (89, ST)** da GPFBL, a apenas **14.250 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **14.000 coins**
+- **Keven Schlotterbeck (89, CB)** da Bundesliga, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Jürgen Kohler (89, CB) por 14.000 coins é a referência de rating deste recorte.
+- **Defesa:** Keven Schlotterbeck (89, CB) por 14.750 coins é a referência de rating deste recorte.
 
 - **Meio:** Florian Wirtz (89, CAM) por 2.700 coins é a referência de rating deste recorte.
 
-- **Ataque:** Rudi Völler (89, ST) por 13.500 coins é a referência de rating deste recorte.
+- **Ataque:** Rudi Völler (89, ST) por 14.250 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
