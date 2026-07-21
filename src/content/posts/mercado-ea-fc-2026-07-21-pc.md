@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T10:31:16.000Z
+pubDatetime: 2026-07-21T13:31:17.000Z
 title: "Mercado EA FC em 21/07: Alemaes — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 21/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (21/07/2026)?"
-    a: "Phil Harres (83, Bundesliga 2), com +52% em 24h, a 42k coins no PC."
+    a: "Marina Hegering (87, GPFBL), com +56.5% em 24h, a 42k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Deniz Undav (91), -47% em 24h, a 62k coins."
+    a: "Bastian Schweinsteiger (88), -38.1% em 24h, a 109k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 51 cartas em alta contra 45 em queda (média 7.76%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 55 cartas em alta contra 39 em queda (média 10.11%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**21/07/2026**, PC) o Ultimate Team está **aquecido** — as altas dominam o dia — **51 subiram**, **45 caíram** (80+ e 5k+ coins), média de **7.76%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**21/07/2026**, PC) o Ultimate Team está **aquecido** — as altas dominam o dia — **55 subiram**, **39 caíram** (80+ e 5k+ coins), média de **10.11%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Phil Harres (83) **+52%** · 🔴 **Maior baixa:** Deniz Undav (91) **-47%**
+> 🟢 **Maior alta:** Marina Hegering (87) **+56.5%** · 🔴 **Maior baixa:** Bastian Schweinsteiger (88) **-38.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 21/07: Alemaes — PC](/charts/mercado-ea-fc-2026-07-21-pc.svg)
 
@@ -35,23 +35,23 @@ Hoje (**21/07/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 99.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 53.1% entre as cartas que se moveram; o universo observado reúne 125 cartas.
+- **Amplitude do dia:** 94.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 58.5% entre as cartas que se moveram; o universo observado reúne 122 cartas.
 - **Concentração:** GPFBL aparece em 7 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Phil Harres | 83 | Bundesliga 2 | 42k coins | +52% | +2.4% |
-| Angelo Stiller | 91 | Bundesliga | 65k coins | +51.2% | +80.6% |
-| Kai Havertz | 91 | Premier League | 450k coins | +47.1% | +28.6% |
-| Fatih Kaya | 84 | 3. Liga | 46k coins | +37.5% | +6.8% |
-| Uli Hoeneß | 88 | Bundesliga | 22k coins | +32.4% | +5.9% |
-| Steffi Jones | 91 | Icons | 80k coins | +32.2% | +53.8% |
-| Gerd Müller | 92 | Icons | 130k coins | +31.3% | +11.1% |
-| Timo Werner | 87 | Bundesliga | 65k coins | +30.7% | -4.4% |
-| Lisa Baum | 85 | GPFBL | 27k coins | +30.5% | +4.9% |
+| Marina Hegering | 87 | GPFBL | 42k coins | +56.5% | +48.2% |
+| Mario Gomez | 88 | Bundesliga | 24k coins | +54.7% | +115.2% |
+| Danny da Costa | 84 | Bundesliga | 30k coins | +54.5% | +46.9% |
+| Keven Schlotterbeck | 89 | Bundesliga | 34k coins | +53.4% | +53.4% |
+| Selina Cerci | 87 | GPFBL | 37k coins | +47.5% | +3.5% |
+| Kai Havertz | 91 | Premier League | 435k coins | +42.2% | +27.2% |
+| Florian Wirtz | 89 | Premier League | 400k coins | +34.2% | +28.6% |
+| David Raum | 87 | Bundesliga | 20k coins | +33.3% | +2.6% |
+| Steffi Jones | 91 | Icons | 80k coins | +32.2% | +33.3% |
 | Philipp Sander | 83 | Bundesliga | 38k coins | +29.9% | -4.4% |
 
 
@@ -61,43 +61,43 @@ Hoje (**21/07/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Phil Harres (83)** subiu **+52%** em 24h, a **42k coins** (faixa do dia: 42k–65k). Está -25% abaixo da média de 7 dias (descontada).
+- **Marina Hegering (87)** subiu **+56.5%** em 24h, a **42k coins** (faixa do dia: 27k–42k). Está +46% acima da média de 7 dias (aquecida).
 
-- **Angelo Stiller (91)** subiu **+51.2%** em 24h, a **65k coins** (faixa do dia: 44k–65k). Está +40% acima da média de 7 dias (aquecida).
+- **Mario Gomez (88)** subiu **+54.7%** em 24h, a **24k coins** (faixa do dia: 11.000–29k). Está +61% acima da média de 7 dias (aquecida).
 
-- **Kai Havertz (91)** subiu **+47.1%** em 24h, a **450k coins** (faixa do dia: 294k–450k). Está +40% acima da média de 7 dias (aquecida).
+- **Danny da Costa (84)** subiu **+54.5%** em 24h, a **30k coins** (faixa do dia: 18.500–30k). Está +36% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Deniz Undav | 91 | Bundesliga | 62k coins | -47% | -44.1% |
-| Bastian Schweinsteiger | 88 | Icons | 98k coins | -42% | -16.7% |
-| Larissa Mühlhaus | 87 | GPFBL | 60k coins | -41.2% | -1% |
+| Bastian Schweinsteiger | 88 | Icons | 109k coins | -38.1% | -20% |
+| Lothar Matthäus | 90 | Icons | 186k coins | -34.5% | +18.8% |
+| Giulia Gwinn | 89 | GPFBL | 26k coins | -31.8% | +5.9% |
+| Lisa Karl | 84 | GPFBL | 24k coins | -26.4% | +1.1% |
 | Vivien Endemann | 83 | GPFBL | 30k coins | -25% | -25% |
-| Giulia Gwinn | 89 | GPFBL | 28k coins | -24.1% | -5.5% |
-| Marc-André ter Stegen | 89 | LALIGA EA SPORTS | 60k coins | -20.5% | -28.1% |
-| Lisa Karl | 84 | GPFBL | 26k coins | -20.2% | +10.8% |
-| Carolin Simon | 90 | GPFBL | 46k coins | -19.7% | +70.5% |
-| Malick Thiaw | 86 | Premier League | 40k coins | -19.5% | -19.5% |
-| Selina Cerci | 90 | GPFBL | 64k coins | -19.4% | +44.1% |
+| Marc-André ter Stegen | 89 | LALIGA EA SPORTS | 60k coins | -25% | -36.2% |
+| Selina Cerci | 90 | GPFBL | 63k coins | -20.6% | +41.1% |
+| Malick Thiaw | 86 | Premier League | 40k coins | -19.5% | +25.8% |
+| Carolin Simon | 90 | GPFBL | 44k coins | -17.1% | +64.2% |
+| Antonio Rüdiger | 91 | LALIGA EA SPORTS | 155k coins | -16.6% | -25.7% |
 
 
 ### Análise das baixas
 
-- **Deniz Undav (91)** caiu **-47%** em 24h, a **62k coins** (faixa do dia: 57k–170k). Está -48% abaixo da média de 7 dias (descontada).
+- **Bastian Schweinsteiger (88)** caiu **-38.1%** em 24h, a **109k coins** (faixa do dia: 96k–153k). Está -9% abaixo da média de 7 dias (descontada).
 
-- **Bastian Schweinsteiger (88)** caiu **-42%** em 24h, a **98k coins** (faixa do dia: 98k–160k). Está -19% abaixo da média de 7 dias (descontada).
+- **Lothar Matthäus (90)** caiu **-34.5%** em 24h, a **186k coins** (faixa do dia: 140k–300k). Está em linha com a média de 7 dias (-6%).
 
-- **Larissa Mühlhaus (87)** caiu **-41.2%** em 24h, a **60k coins** (faixa do dia: 49k–90k). Está -12% abaixo da média de 7 dias (descontada).
+- **Giulia Gwinn (89)** caiu **-31.8%** em 24h, a **26k coins** (faixa do dia: 25k–39k). Está -18% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Phil Harres já avançou 52% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Marina Hegering já avançou 56.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Deniz Undav recuou -47%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Bastian Schweinsteiger recuou -38.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (21/07/2026)?**
-Phil Harres (83, Bundesliga 2), com +52% em 24h, a 42k coins no PC.
+Marina Hegering (87, GPFBL), com +56.5% em 24h, a 42k coins no PC.
 
 **E a maior queda do dia?**
-Deniz Undav (91), -47% em 24h, a 62k coins.
+Bastian Schweinsteiger (88), -38.1% em 24h, a 109k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 51 cartas em alta contra 45 em queda (média 7.76%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 55 cartas em alta contra 39 em queda (média 10.11%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
