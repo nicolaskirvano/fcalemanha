@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T10:21:39.000Z
+pubDatetime: 2026-07-21T10:31:08.000Z
 title: "Investimentos EA FC: Alemaes em 21/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **21/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.0% em 24h** e **+38.6% em 7 dias**.
-- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **GPFBL** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+16.0% em 24h** e **+26.7% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **GPFBL** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Selina Cerci | 87 | GPFBL | 36k coins | +25% | +81.2% | Esticada |
-| Selina Cerci | 90 | GPFBL | 67k coins | +22.9% | +77.5% | Esticada |
-| Luca Marseiler | 90 | Bundesliga 2 | 51k coins | +1.9% | +74.6% | Esticada |
-| Leroy Sané | 91 | Trendyol Süper Lig | 40k coins | +30% | +73.3% | Esticada |
+| Selina Cerci | 90 | GPFBL | 68k coins | +22.9% | +77.5% | Esticada |
+| Luca Marseiler | 90 | Bundesliga 2 | 47k coins | +1.9% | +74.6% | Esticada |
 | Steffi Jones | 91 | Icons | 68k coins | +14% | +62.4% | Esticada |
 | Lisa Baum | 85 | GPFBL | 29k coins | +16% | +48.7% | Momentum moderado |
-| Antonio Rüdiger | 91 | LALIGA EA SPORTS | 125k coins | +23.3% | +44.2% | Esticada |
-| Kristin Kögel | 89 | GPFBL | 19.750 coins | +23.4% | +38.6% | Esticada |
-| Maximilian Mittelstädt | 88 | Bundesliga | 19.000 coins | +14.7% | +34.5% | Momentum moderado |
+| Antonio Rüdiger | 91 | LALIGA EA SPORTS | 125k coins | +23.3% | +43.4% | Esticada |
+| Maximilian Mittelstädt | 88 | Bundesliga | 20k coins | +14.7% | +34.5% | Momentum moderado |
 | Uli Hoeneß | 88 | Bundesliga | 19.750 coins | +22.6% | +26.7% | Esticada |
-| Franziska Harsch | 88 | GPFBL | 15.000 coins | +1.4% | +25% | Entrada a observar |
-| Ann-Katrin Berger | 87 | NWSL | 54k coins | +26.3% | +23.9% | Esticada |
-| Angelo Stiller | 85 | Bundesliga | 22k coins | +3.5% | +23.6% | Entrada a observar |
-| Gerd Müller | 92 | Icons | 107k coins | +7.9% | +19.8% | Momentum moderado |
-| Oliver Kahn | 91 | Icons | 92k coins | +11.4% | +18.6% | Momentum moderado |
+| Toni Kroos | 91 | Icons | 248k coins | +26.6% | +26.6% | Esticada |
+| Franziska Harsch | 88 | GPFBL | 15.000 coins | +4.5% | +25% | Entrada a observar |
+| Angelo Stiller | 85 | Bundesliga | 28k coins | +3.5% | +23.6% | Entrada a observar |
+| Ann-Katrin Berger | 87 | NWSL | 48k coins | +26.3% | +23.1% | Esticada |
+| Benedict Hollerbach | 87 | Bundesliga | 17.750 coins | +18.6% | +20.7% | Momentum moderado |
+| Gerd Müller | 92 | Icons | 106k coins | +7.9% | +19.8% | Momentum moderado |
+| Oliver Kahn | 91 | Icons | 90k coins | +11.4% | +18.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
 - **Selina Cerci (87)** — 36k coins, **+81.2% em 7 dias** (+25% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Selina Cerci (90)** — 67k coins, **+77.5% em 7 dias** (+22.9% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Selina Cerci (90)** — 68k coins, **+77.5% em 7 dias** (+22.9% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Luca Marseiler (90)** — 51k coins, **+74.6% em 7 dias** (+1.9% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Luca Marseiler (90)** — 47k coins, **+74.6% em 7 dias** (+1.9% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Leroy Sané (91)** — 40k coins, **+73.3% em 7 dias** (+30% em 24h). Preço -13% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steffi Jones (91)** — 68k coins, **+62.4% em 7 dias** (+14% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Steffi Jones (91)** — 68k coins, **+62.4% em 7 dias** (+14% em 24h). Preço em linha com a média de 7 dias (+0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lisa Baum (85)** — 29k coins, **+48.7% em 7 dias** (+16% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

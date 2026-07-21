@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T10:21:40.000Z
+pubDatetime: 2026-07-21T10:31:10.000Z
 title: "Jogadores baratos EA FC: Alemaes em 21/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 21/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (21/07/2026)?"
-    a: "Joshua Kimmich (89, Bundesliga) aparece como melhor custo-benefício, a 2.300 coins no Console (PS)."
+    a: "Joshua Kimmich (89, Bundesliga) aparece como melhor custo-benefício, a 2.400 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **21/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Joshua Kimmich (89) por apenas 2.300 coins.
+> 💰 **Melhor pechincha:** Joshua Kimmich (89) por apenas 2.400 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Alemaes em 21/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-21-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 10 opções:** 11.205 coins.
+- **Preço médio das 12 opções:** 11.658 coins.
 - **Posição mais frequente:** ST, com 5 cartas.
-- **Faixa real:** 2.300 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.400 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,36 +40,38 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2.300 coins | +26.3% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 2.400 coins | +26.3% |
 | Celia Šašić | 89 | ST | GPFBL | 13.000 coins | +2% |
-| Rudi Völler | 89 | ST | Bundesliga | 13.500 coins | +7.7% |
-| Simone Laudehr | 88 | CM | GPFBL | 12.000 coins | -7.7% |
-| Mario Gomez | 88 | ST | Bundesliga | 13.000 coins | +8.3% |
-| Oliver Bierhoff | 88 | ST | Serie A TIM | 14.500 coins | -1.7% |
-| Nadine Keßler | 88 | CM | GPFBL | 14.750 coins | +13.2% |
+| Rudi Völler | 89 | ST | Bundesliga | 13.750 coins | +7.7% |
+| Kristin Kögel | 89 | LM | GPFBL | 14.000 coins | +23.4% |
+| Simone Laudehr | 88 | CM | GPFBL | 12.250 coins | -7.7% |
+| Mario Gomez | 88 | ST | Bundesliga | 12.750 coins | +8.3% |
+| Nadine Keßler | 88 | CM | GPFBL | 13.750 coins | +13.2% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 14.250 coins | -1.7% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 11.250 coins | -4.3% |
 | Uli Hoeneß | 86 | RM | Bundesliga | 14.250 coins | +2.1% |
+| Lisanne Gräwe | 86 | CM | GPFBL | 14.750 coins | -1.7% |
 | Sara Doorsoun | 84 | CB | GPFBL | 3.500 coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2.300 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2.400 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **13.000 coins**
 
-- **Rudi Völler (89, ST)** da Bundesliga, a apenas **13.500 coins**
+- **Rudi Völler (89, ST)** da Bundesliga, a apenas **13.750 coins**
 
-- **Simone Laudehr (88, CM)** da GPFBL, a apenas **12.000 coins**
+- **Kristin Kögel (89, LM)** da GPFBL, a apenas **14.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **13.000 coins**
+- **Simone Laudehr (88, CM)** da GPFBL, a apenas **12.250 coins**
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Sara Doorsoun (84, CB) por 3.500 coins é a referência de rating deste recorte.
 
-- **Meio:** Joshua Kimmich (89, CDM) por 2.300 coins é a referência de rating deste recorte.
+- **Meio:** Joshua Kimmich (89, CDM) por 2.400 coins é a referência de rating deste recorte.
 
 - **Ataque:** Celia Šašić (89, ST) por 13.000 coins é a referência de rating deste recorte.
 
@@ -90,7 +92,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (21/07/2026)?**  
-Joshua Kimmich (89, Bundesliga) aparece como melhor custo-benefício, a 2.300 coins no Console (PS).
+Joshua Kimmich (89, Bundesliga) aparece como melhor custo-benefício, a 2.400 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
