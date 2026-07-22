@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T10:24:14.000Z
+pubDatetime: 2026-07-22T10:31:10.000Z
 title: "Jogadores baratos EA FC: Alemaes em 22/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,7 +30,7 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 7 opções:** 8.500 coins.
+- **Preço médio das 7 opções:** 8.514 coins.
 - **Posição mais frequente:** ST, com 2 cartas.
 - **Faixa real:** 2.600 a 14.000 coins; nenhuma carta custa 15 mil.
 
@@ -41,9 +41,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Joshua Kimmich | 89 | CDM | Bundesliga | 2.600 coins | +8.3% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 2.800 coins | +3.8% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 2.900 coins | +3.8% |
 | Celia Šašić | 89 | ST | GPFBL | 12.250 coins | +1.9% |
-| Mario Gomez | 88 | ST | Bundesliga | 12.000 coins | -3.8% |
+| Mario Gomez | 88 | ST | Bundesliga | 12.000 coins | -2% |
 | Simone Laudehr | 88 | CM | GPFBL | 14.000 coins | +14.3% |
 | Uli Hoeneß | 86 | RM | Bundesliga | 11.750 coins | -4.1% |
 | Sara Doorsoun | 84 | CB | GPFBL | 4.100 coins | +7.9% |
@@ -53,7 +53,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2.600 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **2.800 coins** — já **valorizando**, sinal de procura crescente.
+- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **2.900 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **12.250 coins**
 
