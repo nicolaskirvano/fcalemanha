@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T13:31:17.000Z
+pubDatetime: 2026-07-23T16:31:16.000Z
 title: "Mercado EA FC em 23/07: Alemaes — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 23/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (23/07/2026)?"
-    a: "Loreen Bender (86, GPFBL), com +56.3% em 24h, a 28k coins no PC."
+    a: "Gerd Müller (93, Icons), com +53.3% em 24h, a 98k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Steffi Jones (91), -47.2% em 24h, a 42k coins."
+    a: "Oliver Kahn (91), -49.1% em 24h, a 27k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 46 cartas em alta contra 54 em queda (média 6.37%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 48 cartas em alta contra 48 em queda (média 4.66%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Panorama de **23/07/2026** (PC): clima **comprador** — a maioria das cartas subiu. Entre as cartas relevantes (80+ e acima de 5k coins), foram **46 em alta** e **54 em queda**, média de **6.37%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **23/07/2026** (PC): clima **comprador** — a maioria das cartas subiu. Entre as cartas relevantes (80+ e acima de 5k coins), foram **48 em alta** e **48 em queda**, média de **4.66%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Loreen Bender (86) **+56.3%** · 🔴 **Maior baixa:** Steffi Jones (91) **-47.2%**
+> 🟢 **Maior alta:** Gerd Müller (93) **+53.3%** · 🔴 **Maior baixa:** Oliver Kahn (91) **-49.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 23/07: Alemaes — PC](/charts/mercado-ea-fc-2026-07-23-pc.svg)
 
@@ -35,24 +35,24 @@ Panorama de **23/07/2026** (PC): clima **comprador** — a maioria das cartas su
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 103.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 46.0% entre as cartas que se moveram; o universo observado reúne 132 cartas.
-- **Concentração:** GPFBL aparece em 7 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 102.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 50.0% entre as cartas que se moveram; o universo observado reúne 126 cartas.
+- **Concentração:** Bundesliga aparece em 7 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Loreen Bender | 86 | GPFBL | 28k coins | +56.3% | +20.7% |
-| Carolin Simon | 90 | GPFBL | 70k coins | +54.4% | +35% |
-| Rani Khedira | 84 | Bundesliga | 60k coins | +49.1% | +24.4% |
-| Thomas Müller | 89 | MLS | 600k coins | +48.5% | +36.4% |
-| Nico Schlotterbeck | 87 | Bundesliga | 50k coins | +48.3% | +55.7% |
-| Lothar Matthäus | 90 | Icons | 210k coins | +46.9% | +4.4% |
-| Celia Šašić | 92 | GPFBL | 68k coins | +45.2% | +20.5% |
-| Leroy Sané | 91 | Trendyol Süper Lig | 70k coins | +40.7% | +40% |
-| Simone Laudehr | 91 | GPFBL | 54k coins | +36.2% | +21.1% |
-| Leroy Sané | 84 | Trendyol Süper Lig | 50k coins | +34.2% | -8.3% |
+| Gerd Müller | 93 | Icons | 98k coins | +53.3% | -16.1% |
+| Celia Šašić | 92 | GPFBL | 66k coins | +52.9% | +23.1% |
+| Rani Khedira | 84 | Bundesliga | 58k coins | +49.1% | +8.1% |
+| Carolin Simon | 90 | GPFBL | 70k coins | +28.7% | +28.7% |
+| Lothar Matthäus | 90 | Icons | 188k coins | +26.7% | -15.9% |
+| Thomas Müller | 83 | MLS | 100k coins | +25% | 0% |
+| Jonathan Tah | 88 | Bundesliga | 30k coins | +22.6% | -8.5% |
+| Philipp Lahm | 89 | Icons | 72k coins | +20% | -12.4% |
+| Kristin Kögel | 89 | GPFBL | 22k coins | +16.4% | -2.5% |
+| Leroy Sané | 91 | Trendyol Süper Lig | 70k coins | +15.8% | +39.7% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **23/07/2026** (PC): clima **comprador** — a maioria das cartas su
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Loreen Bender (86)** subiu **+56.3%** em 24h, a **28k coins** (faixa do dia: 11.500–35k). Está +34% acima da média de 7 dias (aquecida).
+- **Gerd Müller (93)** subiu **+53.3%** em 24h, a **98k coins** (faixa do dia: 70k–160k). Está -13% abaixo da média de 7 dias (descontada).
 
-- **Carolin Simon (90)** subiu **+54.4%** em 24h, a **70k coins** (faixa do dia: 44k–70k). Está +30% acima da média de 7 dias (aquecida).
+- **Celia Šašić (92)** subiu **+52.9%** em 24h, a **66k coins** (faixa do dia: 40k–68k). Está +13% acima da média de 7 dias (aquecida).
 
-- **Rani Khedira (84)** subiu **+49.1%** em 24h, a **60k coins** (faixa do dia: 35k–60k). Está +30% acima da média de 7 dias (aquecida).
+- **Rani Khedira (84)** subiu **+49.1%** em 24h, a **58k coins** (faixa do dia: 35k–60k). Está +26% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
+| Oliver Kahn | 91 | Icons | 27k coins | -49.1% | -56.1% |
 | Steffi Jones | 91 | Icons | 42k coins | -47.2% | -22.9% |
-| Jamie Leweling | 83 | Bundesliga | 32k coins | -45.7% | -17% |
-| Oliver Kahn | 91 | Icons | 69k coins | -40.5% | -36.7% |
-| Cora Zicai | 88 | GPFBL | 140k coins | -38.6% | -30% |
-| Gerd Müller | 92 | Icons | 92k coins | -35.8% | -34.7% |
-| Selina Cerci | 87 | GPFBL | 34k coins | -34.4% | -21.3% |
-| Aleksandar Pavlović | 89 | Bundesliga | 28k coins | -27.7% | -19.6% |
-| Klara Bühl | 88 | GPFBL | 44k coins | -25.2% | -20.5% |
-| Ragnar Ache | 84 | Bundesliga | 41k coins | -23.7% | -12.1% |
-| Deniz Undav | 84 | Bundesliga | 30k coins | -21.1% | -6.2% |
+| Jamie Leweling | 83 | Bundesliga | 32k coins | -45.7% | -14.8% |
+| Ragnar Ache | 84 | Bundesliga | 40k coins | -29.1% | -17.7% |
+| Mario Götze | 88 | Bundesliga | 22k coins | -29% | -34.3% |
+| Klara Bühl | 88 | GPFBL | 42k coins | -24.1% | -24.1% |
+| Selina Cerci | 87 | GPFBL | 33k coins | -23.9% | -10.7% |
+| Nadiem Amiri | 88 | Bundesliga | 22k coins | -22.4% | -10.9% |
+| Miroslav Klose | 88 | Icons | 68k coins | -17.2% | -2% |
+| Aleksandar Pavlović | 89 | Bundesliga | 29k coins | -17.1% | -15.9% |
 
 
 ### Análise das baixas
 
+- **Oliver Kahn (91)** caiu **-49.1%** em 24h, a **27k coins** (faixa do dia: 27k–79k). Está -61% abaixo da média de 7 dias (descontada).
+
 - **Steffi Jones (91)** caiu **-47.2%** em 24h, a **42k coins** (faixa do dia: 42k–80k). Está -34% abaixo da média de 7 dias (descontada).
 
-- **Jamie Leweling (83)** caiu **-45.7%** em 24h, a **32k coins** (faixa do dia: 32k–60k). Está -46% abaixo da média de 7 dias (descontada).
-
-- **Oliver Kahn (91)** caiu **-40.5%** em 24h, a **69k coins** (faixa do dia: 69k–118k). Está -36% abaixo da média de 7 dias (descontada).
+- **Jamie Leweling (83)** caiu **-45.7%** em 24h, a **32k coins** (faixa do dia: 32k–58k). Está -46% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Loreen Bender já avançou 56.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Gerd Müller já avançou 53.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Steffi Jones recuou -47.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Oliver Kahn recuou -49.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (23/07/2026)?**
-Loreen Bender (86, GPFBL), com +56.3% em 24h, a 28k coins no PC.
+Gerd Müller (93, Icons), com +53.3% em 24h, a 98k coins no PC.
 
 **E a maior queda do dia?**
-Steffi Jones (91), -47.2% em 24h, a 42k coins.
+Oliver Kahn (91), -49.1% em 24h, a 27k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 46 cartas em alta contra 54 em queda (média 6.37%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 48 cartas em alta contra 48 em queda (média 4.66%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
