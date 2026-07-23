@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T10:21:42.000Z
+pubDatetime: 2026-07-23T10:31:10.000Z
 title: "Jogadores baratos EA FC: Alemaes em 23/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,7 +30,7 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 13 opções:** 10.650 coins.
+- **Preço médio das 12 opções:** 11.321 coins.
 - **Posição mais frequente:** ST, com 4 cartas.
 - **Faixa real:** 2.600 a 14.500 coins; nenhuma carta custa 15 mil.
 
@@ -41,10 +41,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Joshua Kimmich | 89 | CDM | Bundesliga | 2.600 coins | +26.7% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 2.600 coins | +20.7% |
 | Celia Šašić | 89 | ST | GPFBL | 13.000 coins | -1.9% |
 | Jürgen Kohler | 89 | CB | Bundesliga | 13.000 coins | 0% |
-| Rudi Völler | 89 | ST | Bundesliga | 13.500 coins | -12.3% |
+| Rudi Völler | 89 | ST | Bundesliga | 13.500 coins | -10.9% |
 | Nadine Keßler | 88 | CM | GPFBL | 12.250 coins | 0% |
 | Mario Gomez | 88 | ST | Bundesliga | 12.500 coins | +4.2% |
 | Franziska Harsch | 88 | CM | GPFBL | 13.250 coins | -9.7% |
@@ -59,13 +58,13 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **2.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
-
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **13.000 coins**
 
 - **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **13.000 coins**
 
 - **Rudi Völler (89, ST)** da Bundesliga, a apenas **13.500 coins**
+
+- **Nadine Keßler (88, CM)** da GPFBL, a apenas **12.250 coins**
 
 
 ## Como distribuir a banca
