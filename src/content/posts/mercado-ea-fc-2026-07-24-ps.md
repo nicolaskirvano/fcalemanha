@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T10:22:56.000Z
+pubDatetime: 2026-07-24T10:31:07.000Z
 title: "Mercado EA FC em 24/07: Alemaes — Console (PS)"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Larissa Mühlhaus (87), -35.6% em 24h, a 23k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 59 cartas em alta contra 36 em queda (média 21.4%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 63 cartas em alta contra 39 em queda (média 22.48%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **24/07/2026** no Console (PS) com mercado **aquecido** — as altas dominam o dia: **59 cartas subiram** e **36 caíram** (80+ acima de 5k coins), variação média de **21.4%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **24/07/2026** no Console (PS) com mercado **aquecido** — as altas dominam o dia: **63 cartas subiram** e **39 caíram** (80+ acima de 5k coins), variação média de **22.48%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Birgit Prinz (93) **+57.9%** · 🔴 **Maior baixa:** Larissa Mühlhaus (87) **-35.6%**
 
@@ -36,8 +36,8 @@ O mercado do **EA FC** abre **24/07/2026** no Console (PS) com mercado **aquecid
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 93.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 62.1% entre as cartas que se moveram; o universo observado reúne 112 cartas.
-- **Concentração:** GPFBL aparece em 8 dos 20 maiores movimentos listados.
+- **Participação das altas:** 61.8% entre as cartas que se moveram; o universo observado reúne 120 cartas.
+- **Concentração:** GPFBL aparece em 9 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
@@ -47,12 +47,12 @@ O mercado do **EA FC** abre **24/07/2026** no Console (PS) com mercado **aquecid
 | Joelle Wedemeyer | 89 | GPFBL | 34k coins | +46.9% | +60.2% |
 | Lisa Baum | 85 | GPFBL | 25k coins | +43.2% | +23.4% |
 | Marc-André ter Stegen | 89 | LALIGA EA SPORTS | 52k coins | +37.1% | -33.5% |
-| Idrissa Touré | 83 | Serie A TIM | 67k coins | +35.4% | +60.5% |
+| Thomas Müller | 89 | MLS | 477k coins | +37% | -25% |
+| Idrissa Touré | 83 | Serie A TIM | 66k coins | +35.4% | +60.5% |
 | Jamal Musiala | 89 | Bundesliga | 227k coins | +34.3% | -9.2% |
 | Bastian Schweinsteiger | 88 | Icons | 84k coins | +33.1% | +17.4% |
-| Thomas Müller | 86 | MLS | 79k coins | +31.7% | -12.2% |
-| Fatih Kaya | 84 | 3. Liga | 49k coins | +26.7% | +36.9% |
-| Svenja Huth | 86 | GPFBL | 50k coins | +25.8% | +8.1% |
+| Svenja Huth | 86 | GPFBL | 50k coins | +27.4% | +7% |
+| Karim Adeyemi | 91 | Bundesliga | 258k coins | +25% | -15.6% |
 
 
 ### Análise das altas
@@ -72,15 +72,15 @@ O mercado do **EA FC** abre **24/07/2026** no Console (PS) com mercado **aquecid
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Larissa Mühlhaus | 87 | GPFBL | 23k coins | -35.6% | -6.9% |
-| Nick Woltemade | 87 | Premier League | 37k coins | -22.2% | -18.5% |
-| Leroy Sané | 91 | Trendyol Süper Lig | 60k coins | -22.1% | +18.4% |
+| Larissa Mühlhaus | 87 | GPFBL | 23k coins | -35.6% | +1.1% |
+| Selina Cerci | 87 | GPFBL | 22k coins | -29.1% | -10% |
+| Leroy Sané | 91 | Trendyol Süper Lig | 60k coins | -20.1% | +25.3% |
 | Carolin Simon | 90 | GPFBL | 67k coins | -17.3% | +13.6% |
-| Cora Zicai | 88 | GPFBL | 92k coins | -15.9% | +79.2% |
-| Deniz Undav | 84 | Bundesliga | 40k coins | -14.6% | +17% |
+| Younes Ebnoutalib | 80 | Bundesliga 2 | 37k coins | -17% | -13.3% |
+| Simone Laudehr | 91 | GPFBL | 40k coins | -15.3% | -15.3% |
+| Cora Zicai | 88 | GPFBL | 92k coins | -15.2% | +79.2% |
 | Alexandra Popp | 89 | GPFBL | 28k coins | -13.2% | -28.2% |
-| Celia Šašić | 92 | GPFBL | 41k coins | -12.4% | -9.4% |
-| Lothar Matthäus | 90 | Icons | 121k coins | -12.1% | -43.3% |
+| Lothar Matthäus | 90 | Icons | 120k coins | -12.1% | -43.3% |
 | Karim Adeyemi | 85 | Bundesliga | 70k coins | -11.9% | -5.4% |
 
 
@@ -88,9 +88,9 @@ O mercado do **EA FC** abre **24/07/2026** no Console (PS) com mercado **aquecid
 
 - **Larissa Mühlhaus (87)** caiu **-35.6%** em 24h, a **23k coins** (faixa do dia: 17.250–36k). Está -33% abaixo da média de 7 dias (descontada).
 
-- **Nick Woltemade (87)** caiu **-22.2%** em 24h, a **37k coins** (faixa do dia: 32k–102k). Está -28% abaixo da média de 7 dias (descontada).
+- **Selina Cerci (87)** caiu **-29.1%** em 24h, a **22k coins** (faixa do dia: 19.500–47k). Está -23% abaixo da média de 7 dias (descontada).
 
-- **Leroy Sané (91)** caiu **-22.1%** em 24h, a **60k coins** (faixa do dia: 55k–75k). Está +15% acima da média de 7 dias (aquecida).
+- **Leroy Sané (91)** caiu **-20.1%** em 24h, a **60k coins** (faixa do dia: 55k–75k). Está +15% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
@@ -125,7 +125,7 @@ Birgit Prinz (93, Icons), com +57.9% em 24h, a 54k coins no Console (PS).
 Larissa Mühlhaus (87), -35.6% em 24h, a 23k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 59 cartas em alta contra 36 em queda (média 21.4%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 63 cartas em alta contra 39 em queda (média 22.48%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

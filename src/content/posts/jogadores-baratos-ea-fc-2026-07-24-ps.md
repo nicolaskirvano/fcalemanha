@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T10:22:59.000Z
+pubDatetime: 2026-07-24T10:31:10.000Z
 title: "Jogadores baratos EA FC: Alemaes em 24/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,7 +30,7 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 9.058 coins.
+- **Preço médio das 6 opções:** 9.142 coins.
 - **Posição mais frequente:** ST, com 6 cartas.
 - **Faixa real:** 1.500 a 14.750 coins; nenhuma carta custa 15 mil.
 
@@ -41,10 +41,10 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Celia Šašić | 89 | ST | GPFBL | 12.500 coins | -11.5% |
-| Mario Gomez | 88 | ST | Bundesliga | 12.000 coins | 0% |
+| Mario Gomez | 88 | ST | Bundesliga | 12.500 coins | 0% |
 | Oliver Bierhoff | 88 | ST | Serie A TIM | 14.750 coins | 0% |
 | Lea Schüller | 86 | ST | GPFBL | 1.600 coins | +6.7% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 12.000 coins | -4.3% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 12.000 coins | -6.2% |
 | Nicole Anyomi | 83 | ST | GPFBL | 1.500 coins | -6.2% |
 
 
@@ -52,7 +52,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Celia Šašić (89, ST)** da GPFBL, a apenas **12.500 coins**
 
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **12.000 coins**
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **12.500 coins**
 
 - **Oliver Bierhoff (88, ST)** da Serie A TIM, a apenas **14.750 coins**
 

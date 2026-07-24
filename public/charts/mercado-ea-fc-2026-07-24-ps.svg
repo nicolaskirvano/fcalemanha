@@ -16,10 +16,10 @@
 <text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marc-André ter Stegen</text>
 <rect x="285" y="269" width="308" height="28" rx="7" fill="#22c55e"/>
 <text x="603" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.1%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Idrissa Touré</text>
-<rect x="285" y="327" width="293" height="28" rx="7" fill="#22c55e"/>
-<text x="588" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.4%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jamal Musiala</text>
-<rect x="285" y="385" width="284" height="28" rx="7" fill="#22c55e"/>
-<text x="579" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.3%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Thomas Müller</text>
+<rect x="285" y="327" width="307" height="28" rx="7" fill="#22c55e"/>
+<text x="602" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.0%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Idrissa Touré</text>
+<rect x="285" y="385" width="293" height="28" rx="7" fill="#22c55e"/>
+<text x="588" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.4%</text>
 </svg>

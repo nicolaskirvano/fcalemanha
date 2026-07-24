@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T10:23:07.000Z
+pubDatetime: 2026-07-24T10:31:18.000Z
 title: "Investimentos EA FC: Alemaes em 24/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **24/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.3% em 24h** e **+35.6% em 7 dias**.
-- **5 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **GPFBL** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+19.1% em 24h** e **+25.5% em 7 dias**.
+- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Bundesliga** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,30 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Uli Hoeneß | 88 | Bundesliga | 32k coins | +8.3% | +54.8% | Momentum moderado |
-| Nadine Keßler | 88 | GPFBL | 30k coins | +15.5% | +51.6% | Momentum moderado |
-| Pascal Groß | 87 | Premier League | 40k coins | +31.7% | +50.5% | Esticada |
+| Pascal Groß | 87 | Premier League | 40k coins | +31.7% | +51.9% | Esticada |
 | Kristin Kögel | 89 | GPFBL | 22k coins | +1.2% | +50% | Momentum moderado |
 | Alexandra Popp | 89 | GPFBL | 45k coins | +28.6% | +45.2% | Esticada |
 | Jonathan Tah | 88 | Bundesliga | 47k coins | +39.7% | +36.7% | Esticada |
-| Celia Šašić | 92 | GPFBL | 69k coins | +9.6% | +34.5% | Momentum moderado |
 | Deniz Undav | 91 | Bundesliga | 152k coins | +23.6% | +27.7% | Esticada |
-| Giulia Gwinn | 89 | GPFBL | 35k coins | +28.8% | +19.2% | Esticada |
-| Julian Brandt | 87 | Bundesliga | 32k coins | +2.4% | +18.2% | Entrada a observar |
+| Jamie Leweling | 86 | Bundesliga | 44k coins | +5.4% | +26.4% | Momentum moderado |
+| Celia Šašić | 92 | GPFBL | 69k coins | +2.2% | +25.5% | Momentum moderado |
+| Kevin Schade | 88 | Premier League | 36k coins | +6% | +19.3% | Momentum moderado |
+| Julian Brandt | 87 | Bundesliga | 32k coins | +4.8% | +18.2% | Entrada a observar |
+| Lena Oberdorf | 86 | GPFBL | 55k coins | +29% | +15.3% | Esticada |
 | Svenja Huth | 86 | GPFBL | 47k coins | +2.7% | +14% | Entrada a observar |
 | David Raum | 84 | Bundesliga | 54k coins | +19.1% | +10.7% | Momentum moderado |
+| Ragnar Ache | 84 | Bundesliga | 60k coins | +36.8% | +10.2% | Esticada |
+| Giulia Gwinn | 89 | GPFBL | 35k coins | +28.8% | +8.3% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
 - **Uli Hoeneß (88)** — 32k coins, **+54.8% em 7 dias** (+8.3% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nadine Keßler (88)** — 30k coins, **+51.6% em 7 dias** (+15.5% em 24h). Preço +81% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pascal Groß (87)** — 40k coins, **+51.9% em 7 dias** (+31.7% em 24h). Preço +55% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pascal Groß (87)** — 40k coins, **+50.5% em 7 dias** (+31.7% em 24h). Preço +55% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Kristin Kögel (89)** — 22k coins, **+50% em 7 dias** (+1.2% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kristin Kögel (89)** — 22k coins, **+50% em 7 dias** (+1.2% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Alexandra Popp (89)** — 45k coins, **+45.2% em 7 dias** (+28.6% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Jonathan Tah (88)** — 47k coins, **+36.7% em 7 dias** (+39.7% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

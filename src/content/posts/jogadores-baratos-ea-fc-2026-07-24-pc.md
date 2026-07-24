@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T10:23:08.000Z
+pubDatetime: 2026-07-24T10:31:19.000Z
 title: "Jogadores baratos EA FC: Alemaes em 24/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 4 opções:** 2.725 coins.
-- **Posição mais frequente:** ST, com 3 cartas.
-- **Faixa real:** 1.500 a 5.900 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 5 opções:** 4.780 coins.
+- **Posição mais frequente:** ST, com 4 cartas.
+- **Faixa real:** 1.500 a 13.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,6 +41,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Florian Wirtz | 89 | CAM | Bundesliga | 5.900 coins | +15.4% |
+| Celia Šašić | 89 | ST | GPFBL | 13.000 coins | 0% |
 | Alexandra Popp | 85 | ST | GPFBL | 1.900 coins | +46.2% |
 | Selina Cerci | 83 | ST | GPFBL | 1.500 coins | +7.1% |
 | Nicole Anyomi | 83 | ST | GPFBL | 1.600 coins | -11.1% |
@@ -49,6 +50,8 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 ## 📈 Destaques
 
 - **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **5.900 coins** — já **valorizando**, sinal de procura crescente.
+
+- **Celia Šašić (89, ST)** da GPFBL, a apenas **13.000 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Alexandra Popp (85, ST)** da GPFBL, a apenas **1.900 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
@@ -61,7 +64,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Meio:** Florian Wirtz (89, CAM) por 5.900 coins é a referência de rating deste recorte.
 
-- **Ataque:** Alexandra Popp (85, ST) por 1.900 coins é a referência de rating deste recorte.
+- **Ataque:** Celia Šašić (89, ST) por 13.000 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
