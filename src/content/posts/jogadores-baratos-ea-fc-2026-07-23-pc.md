@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T22:31:20.000Z
+pubDatetime: 2026-07-24T01:31:19.000Z
 title: "Jogadores baratos EA FC: Alemaes em 23/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 23/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (23/07/2026)?"
-    a: "Mario Gomez (88, Bundesliga) aparece como melhor custo-benefício, a 12.500 coins no PC."
+    a: "Kristin Kögel (89, GPFBL) aparece como melhor custo-benefício, a 12.000 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **23/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Mario Gomez (88) por apenas 12.500 coins.
+> 💰 **Melhor pechincha:** Kristin Kögel (89) por apenas 12.000 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Alemaes em 23/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-23-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 6.000 coins.
-- **Posição mais frequente:** ST, com 5 cartas.
-- **Faixa real:** 1.500 a 12.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 6 opções:** 7.175 coins.
+- **Posição mais frequente:** ST, com 4 cartas.
+- **Faixa real:** 1.500 a 12.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,29 +40,32 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Mario Gomez | 88 | ST | Bundesliga | 12.500 coins | +22.7% |
-| Lea Schüller | 86 | ST | GPFBL | 3.400 coins | +3.3% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11.000 coins | -2.2% |
+| Kristin Kögel | 89 | LM | GPFBL | 12.000 coins | 0% |
+| Celia Šašić | 89 | ST | GPFBL | 12.250 coins | -12.5% |
+| Jamal Musiala | 88 | CAM | Bundesliga | 3.400 coins | +50% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 12.000 coins | +11.6% |
+| Alexandra Popp | 85 | ST | GPFBL | 1.900 coins | +5.6% |
 | Selina Cerci | 83 | ST | GPFBL | 1.500 coins | 0% |
-| Nicole Anyomi | 83 | ST | GPFBL | 1.600 coins | -5.9% |
 
 
 ## 📈 Destaques
 
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **12.500 coins** A alta de 24h pede uma nova checagem antes da compra.
+- **Kristin Kögel (89, LM)** da GPFBL, a apenas **12.000 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Lea Schüller (86, ST)** da GPFBL, a apenas **3.400 coins**
+- **Celia Šašić (89, ST)** da GPFBL, a apenas **12.250 coins**
 
-- **Oliver Bierhoff (86, ST)** da Serie A TIM, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jamal Musiala (88, CAM)** da Bundesliga, a apenas **3.400 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Selina Cerci (83, ST)** da GPFBL, a apenas **1.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Oliver Bierhoff (86, ST)** da Serie A TIM, a apenas **12.000 coins**
 
-- **Nicole Anyomi (83, ST)** da GPFBL, a apenas **1.600 coins** — já **valorizando**, sinal de procura crescente.
+- **Alexandra Popp (85, ST)** da GPFBL, a apenas **1.900 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
-- **Ataque:** Mario Gomez (88, ST) por 12.500 coins é a referência de rating deste recorte.
+- **Meio:** Kristin Kögel (89, LM) por 12.000 coins é a referência de rating deste recorte.
+
+- **Ataque:** Celia Šašić (89, ST) por 12.250 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -81,7 +84,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (23/07/2026)?**  
-Mario Gomez (88, Bundesliga) aparece como melhor custo-benefício, a 12.500 coins no PC.
+Kristin Kögel (89, GPFBL) aparece como melhor custo-benefício, a 12.000 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
