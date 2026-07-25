@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T19:31:10.000Z
+pubDatetime: 2026-07-25T22:31:10.000Z
 title: "Jogadores baratos EA FC: Alemaes em 25/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.063 coins.
-- **Posição mais frequente:** ST, com 6 cartas.
-- **Faixa real:** 2.400 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 10 opções:** 9.140 coins.
+- **Posição mais frequente:** ST, com 3 cartas.
+- **Faixa real:** 1.600 a 13.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,20 +41,15 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Gerd Müller | 93 | ST | Icons | 13.750 coins | 0% |
-| Steffi Jones | 91 | CB | Icons | 11.500 coins | -6.1% |
-| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 12.250 coins | -11.1% |
+| Steffi Jones | 91 | CB | Icons | 11.500 coins | -4.2% |
+| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 12.500 coins | -8% |
 | Selina Cerci | 90 | ST | GPFBL | 11.250 coins | 0% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 3.300 coins | -10.8% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 4.400 coins | +7.5% |
-| Klara Bühl | 89 | LM | GPFBL | 11.250 coins | 0% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 3.300 coins | +10.8% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 3.500 coins | -6.1% |
 | Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
-| Rudi Völler | 89 | ST | Bundesliga | 14.000 coins | -9.4% |
-| Mario Gomez | 88 | ST | Bundesliga | 12.500 coins | +4% |
-| Antonio Rüdiger | 86 | CB | LALIGA EA SPORTS | 2.400 coins | 0% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 12.500 coins | +4.5% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 13.750 coins | +14.6% |
-| Verena Wieder | 85 | ST | GPFBL | 12.750 coins | -12.5% |
-| Sara Doorsoun | 84 | CB | GPFBL | 4.100 coins | 0% |
+| Klara Bühl | 89 | LM | GPFBL | 11.250 coins | 0% |
+| Alexandra Popp | 85 | ST | GPFBL | 1.600 coins | -5.9% |
+| Angelo Stiller | 85 | CDM | Bundesliga | 11.500 coins | -5.8% |
 
 
 ## 📈 Destaques
@@ -63,18 +58,18 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Steffi Jones (91, CB)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Antonio Rüdiger (91, CB)** da LALIGA EA SPORTS, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Antonio Rüdiger (91, CB)** da LALIGA EA SPORTS, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Selina Cerci (90, ST)** da GPFBL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **3.300 coins** — já **valorizando**, sinal de procura crescente.
+- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **3.300 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Steffi Jones (91, CB) por 11.500 coins é a referência de rating deste recorte.
 
-- **Meio:** Joshua Kimmich (89, CDM) por 3.300 coins é a referência de rating deste recorte.
+- **Meio:** Florian Wirtz (89, CAM) por 3.300 coins é a referência de rating deste recorte.
 
 - **Ataque:** Gerd Müller (93, ST) por 13.750 coins é a referência de rating deste recorte.
 
