@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T22:31:18.000Z
+pubDatetime: 2026-07-25T01:31:18.000Z
 title: "Investimentos EA FC: Alemaes em 24/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 24/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (24/07/2026) no EA FC?"
-    a: "Bastian Schweinsteiger (89, Icons) lidera, com +80% em 7 dias a 180k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Nadine Keßler (90, GPFBL) lidera, com +83.1% em 7 dias a 65k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **24/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Bastian Schweinsteiger (89) acumula **+80% em 7 dias** a 180k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Nadine Keßler (90) acumula **+83.1% em 7 dias** a 65k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Alemaes em 24/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-24-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **24/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+24.1% em 24h** e **+22.7% em 7 dias**.
-- **4 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **GPFBL** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+18.2% em 24h** e **+32.6% em 7 dias**.
+- **6 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Bundesliga** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,26 +43,30 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Bastian Schweinsteiger | 89 | Icons | 180k coins | +24.1% | +80% | Esticada |
-| Nadine Keßler | 89 | GPFBL | 30k coins | +39.5% | +42.9% | Esticada |
-| Lena Oberdorf | 86 | GPFBL | 52k coins | +7.9% | +37.1% | Momentum moderado |
-| Oliver Kahn | 91 | Icons | 135k coins | +11.6% | +22.7% | Momentum moderado |
-| Ann-Katrin Berger | 87 | NWSL | 54k coins | +2.7% | +18.9% | Entrada a observar |
-| Uli Hoeneß | 86 | Bundesliga | 24k coins | +26.6% | +17.6% | Esticada |
-| Joelle Wedemeyer | 89 | GPFBL | 26k coins | +28.7% | +17% | Esticada |
+| Nadine Keßler | 90 | GPFBL | 65k coins | +18.2% | +83.1% | Esticada |
+| David Raum | 87 | Bundesliga | 26k coins | +3.9% | +53.6% | Momentum moderado |
+| Karim Adeyemi | 86 | Bundesliga | 195k coins | +7.7% | +44.8% | Momentum moderado |
+| Nadine Keßler | 89 | GPFBL | 30k coins | +39.5% | +44.6% | Esticada |
+| Lena Oberdorf | 86 | GPFBL | 49k coins | +2.5% | +35.6% | Momentum moderado |
+| Oliver Kahn | 91 | Icons | 121k coins | +4.1% | +32.6% | Momentum moderado |
+| Oliver Kahn | 91 | Icons | 81k coins | +32.5% | +32.5% | Esticada |
+| Fatih Kaya | 84 | 3. Liga | 55k coins | +31.7% | +28.7% | Esticada |
+| Leroy Sané | 84 | Trendyol Süper Lig | 60k coins | +20% | +26.3% | Esticada |
+| Benedict Hollerbach | 87 | Bundesliga | 20k coins | +28.1% | +20.6% | Esticada |
+| Angelo Stiller | 85 | Bundesliga | 19.000 coins | +13.6% | +5.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Bastian Schweinsteiger (89)** — 180k coins, **+80% em 7 dias** (+24.1% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nadine Keßler (90)** — 65k coins, **+83.1% em 7 dias** (+18.2% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nadine Keßler (89)** — 30k coins, **+42.9% em 7 dias** (+39.5% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **David Raum (87)** — 26k coins, **+53.6% em 7 dias** (+3.9% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lena Oberdorf (86)** — 52k coins, **+37.1% em 7 dias** (+7.9% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Karim Adeyemi (86)** — 195k coins, **+44.8% em 7 dias** (+7.7% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Oliver Kahn (91)** — 135k coins, **+22.7% em 7 dias** (+11.6% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nadine Keßler (89)** — 30k coins, **+44.6% em 7 dias** (+39.5% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ann-Katrin Berger (87)** — 54k coins, **+18.9% em 7 dias** (+2.7% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lena Oberdorf (86)** — 49k coins, **+35.6% em 7 dias** (+2.5% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -90,7 +94,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (24/07/2026) no EA FC?**  
-Bastian Schweinsteiger (89, Icons) lidera, com +80% em 7 dias a 180k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Nadine Keßler (90, GPFBL) lidera, com +83.1% em 7 dias a 65k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
