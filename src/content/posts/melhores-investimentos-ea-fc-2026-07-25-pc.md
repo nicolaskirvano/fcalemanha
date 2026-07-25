@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:21:54.000Z
+pubDatetime: 2026-07-25T10:31:18.000Z
 title: "Investimentos EA FC: Alemaes em 25/07 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **25/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.9% em 24h** e **+42.7% em 7 dias**.
-- **3 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+18.0% em 24h** e **+36.8% em 7 dias**.
+- **4 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **GPFBL** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,25 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Nadine Keßler | 90 | GPFBL | 65k coins | +18.2% | +83.1% | Esticada |
-| Loreen Bender | 86 | GPFBL | 27k coins | +17.2% | +60.3% | Esticada |
+| Nadine Keßler | 90 | GPFBL | 65k coins | +8.3% | +83.1% | Esticada |
+| Loreen Bender | 86 | GPFBL | 27k coins | +17.2% | +62.7% | Esticada |
 | Jürgen Kohler | 90 | Bundesliga | 65k coins | +8.3% | +48.6% | Momentum moderado |
 | Simone Laudehr | 91 | GPFBL | 65k coins | +19.3% | +36.8% | Momentum moderado |
-| Angelo Stiller | 91 | Bundesliga | 42k coins | +17.7% | +33.7% | Momentum moderado |
+| Oliver Kahn | 91 | Icons | 118k coins | +24.5% | +36.3% | Esticada |
+| Leroy Sané | 84 | Trendyol Süper Lig | 60k coins | +18% | +29% | Momentum moderado |
 | Fatih Kaya | 84 | 3. Liga | 50k coins | +21% | +26.2% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Nadine Keßler (90)** — 65k coins, **+83.1% em 7 dias** (+18.2% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nadine Keßler (90)** — 65k coins, **+83.1% em 7 dias** (+8.3% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Loreen Bender (86)** — 27k coins, **+60.3% em 7 dias** (+17.2% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Loreen Bender (86)** — 27k coins, **+62.7% em 7 dias** (+17.2% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jürgen Kohler (90)** — 65k coins, **+48.6% em 7 dias** (+8.3% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jürgen Kohler (90)** — 65k coins, **+48.6% em 7 dias** (+8.3% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Simone Laudehr (91)** — 65k coins, **+36.8% em 7 dias** (+19.3% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Simone Laudehr (91)** — 65k coins, **+36.8% em 7 dias** (+19.3% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Angelo Stiller (91)** — 42k coins, **+33.7% em 7 dias** (+17.7% em 24h). Preço -25% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Oliver Kahn (91)** — 118k coins, **+36.3% em 7 dias** (+24.5% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
