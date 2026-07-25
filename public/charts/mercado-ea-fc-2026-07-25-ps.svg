@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lena Oberdorf</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.5%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Toni Kroos</text>
-<rect x="285" y="153" width="463" height="28" rx="7" fill="#22c55e"/>
-<text x="758" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.6%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">David Raum</text>
-<rect x="285" y="211" width="459" height="28" rx="7" fill="#22c55e"/>
-<text x="754" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.1%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Klara Bühl</text>
-<rect x="285" y="269" width="386" height="28" rx="7" fill="#22c55e"/>
-<text x="681" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.8%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ann-Katrin Berger</text>
-<rect x="285" y="327" width="373" height="28" rx="7" fill="#22c55e"/>
-<text x="668" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.4%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Leroy Sané</text>
-<rect x="285" y="385" width="330" height="28" rx="7" fill="#22c55e"/>
-<text x="625" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.5%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.3%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rani Khedira</text>
+<rect x="285" y="153" width="431" height="28" rx="7" fill="#22c55e"/>
+<text x="726" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+49.7%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Toni Kroos</text>
+<rect x="285" y="211" width="388" height="28" rx="7" fill="#22c55e"/>
+<text x="683" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.7%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">David Raum</text>
+<rect x="285" y="269" width="343" height="28" rx="7" fill="#22c55e"/>
+<text x="638" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.5%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kevin Schade</text>
+<rect x="285" y="327" width="325" height="28" rx="7" fill="#22c55e"/>
+<text x="620" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.5%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Cora Zicai</text>
+<rect x="285" y="385" width="287" height="28" rx="7" fill="#22c55e"/>
+<text x="582" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+33.1%</text>
 </svg>

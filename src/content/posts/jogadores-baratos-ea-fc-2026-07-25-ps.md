@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T13:31:11.000Z
+pubDatetime: 2026-07-25T16:31:10.000Z
 title: "Jogadores baratos EA FC: Alemaes em 25/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 25/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (25/07/2026)?"
-    a: "Florian Wirtz (89, Bundesliga) aparece como melhor custo-benefício, a 3.900 coins no Console (PS)."
+    a: "Gerd Müller (93, Icons) aparece como melhor custo-benefício, a 13.750 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **25/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Florian Wirtz (89) por apenas 3.900 coins.
+> 💰 **Melhor pechincha:** Gerd Müller (93) por apenas 13.750 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Alemaes em 25/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-25-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 4 opções:** 11.100 coins.
-- **Posição mais frequente:** ST, com 3 cartas.
-- **Faixa real:** 3.900 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 8 opções:** 9.788 coins.
+- **Posição mais frequente:** ST, com 5 cartas.
+- **Faixa real:** 3.400 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,28 +40,36 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Florian Wirtz | 89 | CAM | Bundesliga | 3.900 coins | +20.6% |
-| Mario Gomez | 88 | ST | Bundesliga | 14.250 coins | -5.9% |
-| Oliver Bierhoff | 88 | ST | Serie A TIM | 14.500 coins | 0% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11.750 coins | +2.2% |
+| Gerd Müller | 93 | ST | Icons | 13.750 coins | 0% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 3.400 coins | +12.9% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 3.800 coins | +11.8% |
+| Celia Šašić | 89 | ST | GPFBL | 13.500 coins | +3.9% |
+| Rudi Völler | 89 | ST | Bundesliga | 14.750 coins | -7.8% |
+| Mario Gomez | 88 | ST | Bundesliga | 12.000 coins | +8.3% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 12.500 coins | -11.9% |
+| Sara Doorsoun | 84 | CB | GPFBL | 4.600 coins | +27.8% |
 
 
 ## 📈 Destaques
 
-- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **3.900 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Gerd Müller (93, ST)** da Icons, a apenas **13.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **14.250 coins**
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **3.400 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Oliver Bierhoff (88, ST)** da Serie A TIM, a apenas **14.500 coins**
+- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **3.800 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Oliver Bierhoff (86, ST)** da Serie A TIM, a apenas **11.750 coins**
+- **Celia Šašić (89, ST)** da GPFBL, a apenas **13.500 coins**
+
+- **Rudi Völler (89, ST)** da Bundesliga, a apenas **14.750 coins**
 
 
 ## Como distribuir a banca
 
-- **Meio:** Florian Wirtz (89, CAM) por 3.900 coins é a referência de rating deste recorte.
+- **Defesa:** Sara Doorsoun (84, CB) por 4.600 coins é a referência de rating deste recorte.
 
-- **Ataque:** Mario Gomez (88, ST) por 14.250 coins é a referência de rating deste recorte.
+- **Meio:** Joshua Kimmich (89, CDM) por 3.400 coins é a referência de rating deste recorte.
+
+- **Ataque:** Gerd Müller (93, ST) por 13.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -80,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (25/07/2026)?**  
-Florian Wirtz (89, Bundesliga) aparece como melhor custo-benefício, a 3.900 coins no Console (PS).
+Gerd Müller (93, Icons) aparece como melhor custo-benefício, a 13.750 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
