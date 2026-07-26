@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T22:31:17.000Z
+pubDatetime: 2026-07-26T01:31:17.000Z
 title: "Mercado EA FC em 25/07: Alemaes — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 25/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (25/07/2026)?"
-    a: "Felix Nmecha (86, Bundesliga), com +56.7% em 24h, a 550k coins no PC."
+    a: "Felix Nmecha (86, Bundesliga), com +56.2% em 24h, a 550k coins no PC."
   - q: "E a maior queda do dia?"
     a: "Nicole Anyomi (86), -49.7% em 24h, a 78k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 38 cartas em alta contra 52 em queda (média -1.36%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 41 cartas em alta contra 56 em queda (média 3.22%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **25/07/2026** no PC: mercado **lateral** — sem direção clara. **38 valorizações** contra **52 quedas** entre as cartas relevantes, com média de **-1.36%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Resumo de **25/07/2026** no PC: mercado **em alta** — predominam as valorizações. **41 valorizações** contra **56 quedas** entre as cartas relevantes, com média de **3.22%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Felix Nmecha (86) **+56.7%** · 🔴 **Maior baixa:** Nicole Anyomi (86) **-49.7%**
+> 🟢 **Maior alta:** Felix Nmecha (86) **+56.2%** · 🔴 **Maior baixa:** Nicole Anyomi (86) **-49.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 25/07: Alemaes — PC](/charts/mercado-ea-fc-2026-07-25-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **25/07/2026** no PC: mercado **lateral** — sem direção clara. **3
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 106.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 42.2% entre as cartas que se moveram; o universo observado reúne 126 cartas.
-- **Concentração:** Bundesliga aparece em 8 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 105.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 42.3% entre as cartas que se moveram; o universo observado reúne 132 cartas.
+- **Concentração:** Bundesliga aparece em 7 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Felix Nmecha | 86 | Bundesliga | 550k coins | +56.7% | +34.1% |
-| Sven Ulreich | 87 | Bundesliga | 46k coins | +54.2% | +66.7% |
-| Gerd Müller | 92 | Icons | 104k coins | +36.8% | +1.9% |
-| Julian Brandt | 87 | Bundesliga | 42k coins | +30.8% | +142.9% |
-| Nico Schlotterbeck | 87 | Bundesliga | 77k coins | +25.4% | +13.7% |
-| Manuel Neuer | 86 | Bundesliga | 45k coins | +25% | -3.5% |
-| Kai Havertz | 91 | Premier League | 360k coins | +24.1% | +10.1% |
-| Fatih Kaya | 84 | 3. Liga | 51k coins | +21.4% | +39.7% |
-| Rani Khedira | 84 | Bundesliga | 55k coins | +21.2% | +16.5% |
-| Ann-Katrin Berger | 87 | NWSL | 64k coins | +19.6% | +34.7% |
+| Felix Nmecha | 86 | Bundesliga | 550k coins | +56.2% | +24.2% |
+| Sven Ulreich | 87 | Bundesliga | 43k coins | +47.5% | +59.5% |
+| Franz Beckenbauer | 92 | Icons | 169k coins | +40.8% | +20.7% |
+| Lisanne Gräwe | 86 | GPFBL | 38k coins | +40.2% | +105.5% |
+| Gerd Müller | 92 | Icons | 95k coins | +39% | -7.5% |
+| Lothar Matthäus | 91 | Icons | 1M coins | +37.4% | -26.5% |
+| Svenja Huth | 86 | GPFBL | 50k coins | +37% | +4.2% |
+| Nico Schlotterbeck | 87 | Bundesliga | 73k coins | +35.2% | +15% |
+| Deniz Undav | 84 | Bundesliga | 50k coins | +35.1% | +37% |
+| Oliver Kahn | 91 | Icons | 145k coins | +33% | +19.2% |
 
 
 ### Análise das altas
@@ -61,41 +61,41 @@ Resumo de **25/07/2026** no PC: mercado **lateral** — sem direção clara. **3
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Felix Nmecha (86)** subiu **+56.7%** em 24h, a **550k coins** (faixa do dia: 329k–550k). Está +30% acima da média de 7 dias (aquecida).
+- **Felix Nmecha (86)** subiu **+56.2%** em 24h, a **550k coins** (faixa do dia: 329k–550k). Está +30% acima da média de 7 dias (aquecida).
 
-- **Sven Ulreich (87)** subiu **+54.2%** em 24h, a **46k coins** (faixa do dia: 18.750–48k). Está +89% acima da média de 7 dias (aquecida).
+- **Sven Ulreich (87)** subiu **+47.5%** em 24h, a **43k coins** (faixa do dia: 18.750–48k). Está +75% acima da média de 7 dias (aquecida).
 
-- **Gerd Müller (92)** subiu **+36.8%** em 24h, a **104k coins** (faixa do dia: 70k–210k). Está em linha com a média de 7 dias (-6%).
+- **Franz Beckenbauer (92)** subiu **+40.8%** em 24h, a **169k coins** (faixa do dia: 99k–192k). Está em linha com a média de 7 dias (+2%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nicole Anyomi | 86 | GPFBL | 78k coins | -49.7% | -54.9% |
-| Alexandra Popp | 89 | GPFBL | 22k coins | -42.9% | -40.9% |
-| Thomas Müller | 86 | MLS | 63k coins | -40.4% | -45% |
-| Celia Šašić | 92 | GPFBL | 32k coins | -40% | -45.9% |
-| Kevin Schade | 84 | Premier League | 40k coins | -26.5% | -21% |
-| Karim Adeyemi | 86 | Bundesliga | 152k coins | -21.5% | -18.6% |
-| Malick Thiaw | 86 | Premier League | 40k coins | -20% | -19.2% |
-| Marina Hegering | 87 | GPFBL | 35k coins | -17.2% | +40% |
-| Nadine Keßler | 88 | GPFBL | 21k coins | -13.3% | -9.7% |
-| Jamal Musiala | 89 | Bundesliga | 372k coins | -12.2% | -37% |
+| Nicole Anyomi | 86 | GPFBL | 78k coins | -49.7% | -54.1% |
+| Toni Kroos | 90 | Icons | 68k coins | -48.9% | -59.9% |
+| Bastian Schweinsteiger | 88 | Icons | 66k coins | -48.4% | -35.4% |
+| Alexandra Popp | 89 | GPFBL | 22k coins | -42.9% | -42.9% |
+| Oliver Kahn | 91 | Icons | 47k coins | -42% | -41.2% |
+| Karim Adeyemi | 86 | Bundesliga | 140k coins | -28.6% | -25.5% |
+| Angelo Stiller | 91 | Bundesliga | 39k coins | -27.1% | -21.6% |
+| Klara Bühl | 88 | GPFBL | 48k coins | -23.8% | -22.6% |
+| Celia Šašić | 92 | GPFBL | 30k coins | -23.7% | -43.9% |
+| Karim Adeyemi | 85 | Bundesliga | 54k coins | -22.3% | -32.5% |
 
 
 ### Análise das baixas
 
-- **Nicole Anyomi (86)** caiu **-49.7%** em 24h, a **78k coins** (faixa do dia: 78k–155k). Está -38% abaixo da média de 7 dias (descontada).
+- **Nicole Anyomi (86)** caiu **-49.7%** em 24h, a **78k coins** (faixa do dia: 78k–155k). Está -37% abaixo da média de 7 dias (descontada).
 
-- **Alexandra Popp (89)** caiu **-42.9%** em 24h, a **22k coins** (faixa do dia: 22k–45k). Está -44% abaixo da média de 7 dias (descontada).
+- **Toni Kroos (90)** caiu **-48.9%** em 24h, a **68k coins** (faixa do dia: 68k–149k). Está -41% abaixo da média de 7 dias (descontada).
 
-- **Thomas Müller (86)** caiu **-40.4%** em 24h, a **63k coins** (faixa do dia: 38k–120k). Está -44% abaixo da média de 7 dias (descontada).
+- **Bastian Schweinsteiger (88)** caiu **-48.4%** em 24h, a **66k coins** (faixa do dia: 66k–240k). Está -47% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Felix Nmecha já avançou 56.7% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Felix Nmecha já avançou 56.2% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Nicole Anyomi recuou -49.7%; confirme estabilização e liquidez.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (25/07/2026)?**
-Felix Nmecha (86, Bundesliga), com +56.7% em 24h, a 550k coins no PC.
+Felix Nmecha (86, Bundesliga), com +56.2% em 24h, a 550k coins no PC.
 
 **E a maior queda do dia?**
 Nicole Anyomi (86), -49.7% em 24h, a 78k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 38 cartas em alta contra 52 em queda (média -1.36%).
+Hoje o mercado está em alta — predominam as valorizações, com 41 cartas em alta contra 56 em queda (média 3.22%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

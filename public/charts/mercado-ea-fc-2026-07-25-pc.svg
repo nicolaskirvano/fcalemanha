@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Felix Nmecha</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.7%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.2%</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sven Ulreich</text>
-<rect x="285" y="153" width="459" height="28" rx="7" fill="#22c55e"/>
-<text x="754" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.2%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gerd Müller</text>
-<rect x="285" y="211" width="312" height="28" rx="7" fill="#22c55e"/>
-<text x="607" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.8%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Julian Brandt</text>
-<rect x="285" y="269" width="261" height="28" rx="7" fill="#22c55e"/>
-<text x="556" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.8%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nico Schlotterbeck</text>
-<rect x="285" y="327" width="215" height="28" rx="7" fill="#22c55e"/>
-<text x="510" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.4%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Manuel Neuer</text>
-<rect x="285" y="385" width="212" height="28" rx="7" fill="#22c55e"/>
-<text x="507" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.0%</text>
+<rect x="285" y="153" width="406" height="28" rx="7" fill="#22c55e"/>
+<text x="701" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.5%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Franz Beckenbauer</text>
+<rect x="285" y="211" width="348" height="28" rx="7" fill="#22c55e"/>
+<text x="643" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.8%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lisanne Gräwe</text>
+<rect x="285" y="269" width="343" height="28" rx="7" fill="#22c55e"/>
+<text x="638" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.2%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gerd Müller</text>
+<rect x="285" y="327" width="333" height="28" rx="7" fill="#22c55e"/>
+<text x="628" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.0%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lothar Matthäus</text>
+<rect x="285" y="385" width="319" height="28" rx="7" fill="#22c55e"/>
+<text x="614" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.4%</text>
 </svg>
