@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:31:10.000Z
+pubDatetime: 2026-07-26T13:31:10.000Z
 title: "Jogadores baratos EA FC: Alemaes em 26/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.203 coins.
-- **Posição mais frequente:** ST, com 7 cartas.
-- **Faixa real:** 1.600 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 10.680 coins.
+- **Posição mais frequente:** ST, com 6 cartas.
+- **Faixa real:** 1.900 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,19 +42,19 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Gerd Müller | 93 | ST | Icons | 13.750 coins | 0% |
 | Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
-| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 11.500 coins | -2.1% |
+| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 12.250 coins | -4.2% |
 | Selina Cerci | 90 | ST | GPFBL | 11.250 coins | 0% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 3.000 coins | -11.8% |
-| Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 3.000 coins | -14.3% |
 | Klara Bühl | 89 | LM | GPFBL | 11.250 coins | 0% |
-| Celia Šašić | 89 | ST | GPFBL | 12.250 coins | -3.9% |
-| Alexandra Popp | 89 | ST | GPFBL | 14.000 coins | 0% |
-| Mario Gomez | 88 | ST | Bundesliga | 12.500 coins | 0% |
-| Lea Schüller | 86 | ST | GPFBL | 1.600 coins | -5.9% |
-| Antonio Rüdiger | 86 | CB | LALIGA EA SPORTS | 2.200 coins | -12% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11.000 coins | 0% |
-| Loreen Bender | 86 | RM | GPFBL | 11.500 coins | -4.2% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 14.500 coins | +28.9% |
+| Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
+| Alexandra Popp | 89 | ST | GPFBL | 13.750 coins | +5.7% |
+| Rudi Völler | 89 | ST | Bundesliga | 14.250 coins | -11.1% |
+| Mario Gomez | 88 | ST | Bundesliga | 14.250 coins | +8% |
+| Antonio Rüdiger | 86 | CB | LALIGA EA SPORTS | 2.300 coins | +4.5% |
+| Loreen Bender | 86 | RM | GPFBL | 13.000 coins | -2.2% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 13.750 coins | +5.8% |
+| Nico Schlotterbeck | 85 | CB | Bundesliga | 1.900 coins | +5.6% |
+| Maximilian Beier | 85 | ST | Bundesliga | 12.750 coins | -3.8% |
 
 
 ## 📈 Destaques
@@ -63,7 +63,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Steffi Jones (91, CB)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Antonio Rüdiger (91, CB)** da LALIGA EA SPORTS, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Antonio Rüdiger (91, CB)** da LALIGA EA SPORTS, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Selina Cerci (90, ST)** da GPFBL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
