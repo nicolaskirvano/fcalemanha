@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Can Bozdoğan</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vanessa Fudalla</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.2%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Keven Schlotterbeck</text>
-<rect x="285" y="153" width="281" height="28" rx="7" fill="#22c55e"/>
-<text x="576" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+22.4%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kevin Schade</text>
-<rect x="285" y="211" width="259" height="28" rx="7" fill="#22c55e"/>
-<text x="554" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.6%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Fatih Kaya</text>
-<rect x="285" y="269" width="248" height="28" rx="7" fill="#22c55e"/>
-<text x="543" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+19.7%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jürgen Kohler</text>
-<rect x="285" y="327" width="194" height="28" rx="7" fill="#22c55e"/>
-<text x="489" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+15.4%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Paul Wanner</text>
-<rect x="285" y="385" width="165" height="28" rx="7" fill="#22c55e"/>
-<text x="460" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+13.1%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+76.7%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lewis Holtby</text>
+<rect x="285" y="153" width="379" height="28" rx="7" fill="#22c55e"/>
+<text x="674" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.6%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Steffi Jones</text>
+<rect x="285" y="211" width="148" height="28" rx="7" fill="#22c55e"/>
+<text x="443" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.6%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sven Ulreich</text>
+<rect x="285" y="269" width="130" height="28" rx="7" fill="#22c55e"/>
+<text x="425" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.7%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mario Gomez</text>
+<rect x="285" y="327" width="113" height="28" rx="7" fill="#22c55e"/>
+<text x="408" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.0%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Malick Thiaw</text>
+<rect x="285" y="385" width="111" height="28" rx="7" fill="#22c55e"/>
+<text x="406" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+17.8%</text>
 </svg>
