@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T13:31:09.000Z
+pubDatetime: 2026-07-26T16:31:09.000Z
 title: "Investimentos EA FC: Alemaes em 26/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 26/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (26/07/2026) no EA FC?"
-    a: "Marc-André ter Stegen (89, LALIGA EA SPORTS) lidera, com +66.9% em 7 dias a 110k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Nick Woltemade (90, Premier League) lidera, com +52% em 7 dias a 126k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Marc-André ter Stegen (89) acumula **+66.9% em 7 dias** a 110k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Nick Woltemade (90) acumula **+52% em 7 dias** a 126k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Alemaes em 26/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-26-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.5% em 24h** e **+14.0% em 7 dias**.
-- **2 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+14.3% em 24h** e **+33.3% em 7 dias**.
+- **1 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,26 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Marc-André ter Stegen | 89 | LALIGA EA SPORTS | 110k coins | +12.1% | +66.9% | Esticada |
-| Marek Janssen | 84 | 3. Liga | 54k coins | +32.1% | +33.8% | Esticada |
-| Yann Aurel Bisseck | 84 | Serie A TIM | 42k coins | +11.5% | +17.6% | Momentum moderado |
-| Bastian Schweinsteiger | 88 | Icons | 69k coins | +16.5% | +14% | Momentum moderado |
-| Ann-Katrin Berger | 87 | NWSL | 47k coins | +2.7% | +12.2% | Entrada a observar |
-| Deniz Undav | 84 | Bundesliga | 48k coins | +8% | +11.1% | Momentum moderado |
-| Simone Laudehr | 91 | GPFBL | 49k coins | +6.5% | +8.3% | Momentum moderado |
+| Nick Woltemade | 90 | Premier League | 126k coins | +32.2% | +52% | Esticada |
+| Can Bozdoğan | 87 | Eredivisie | 17.000 coins | +11.1% | +40.4% | Momentum moderado |
+| Toni Kroos | 91 | Icons | 226k coins | +3.6% | +35.7% | Momentum moderado |
+| Steffi Jones | 89 | Icons | 48k coins | +14.3% | +33.3% | Momentum moderado |
+| Yann Aurel Bisseck | 84 | Serie A TIM | 41k coins | +17.6% | +16% | Momentum moderado |
+| Nicole Anyomi | 86 | GPFBL | 200k coins | +14.9% | +12.4% | Momentum moderado |
+| Sara Däbritz | 86 | Liga F | 40k coins | +2% | +10.5% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Marc-André ter Stegen (89)** — 110k coins, **+66.9% em 7 dias** (+12.1% em 24h). Preço +54% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nick Woltemade (90)** — 126k coins, **+52% em 7 dias** (+32.2% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marek Janssen (84)** — 54k coins, **+33.8% em 7 dias** (+32.1% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Can Bozdoğan (87)** — 17.000 coins, **+40.4% em 7 dias** (+11.1% em 24h). Preço -25% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Yann Aurel Bisseck (84)** — 42k coins, **+17.6% em 7 dias** (+11.5% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Toni Kroos (91)** — 226k coins, **+35.7% em 7 dias** (+3.6% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Bastian Schweinsteiger (88)** — 69k coins, **+14% em 7 dias** (+16.5% em 24h). Preço em linha com a média de 7 dias (-8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steffi Jones (89)** — 48k coins, **+33.3% em 7 dias** (+14.3% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ann-Katrin Berger (87)** — 47k coins, **+12.2% em 7 dias** (+2.7% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Yann Aurel Bisseck (84)** — 41k coins, **+16% em 7 dias** (+17.6% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -80,7 +80,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (26/07/2026) no EA FC?**  
-Marc-André ter Stegen (89, LALIGA EA SPORTS) lidera, com +66.9% em 7 dias a 110k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Nick Woltemade (90, Premier League) lidera, com +52% em 7 dias a 126k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
