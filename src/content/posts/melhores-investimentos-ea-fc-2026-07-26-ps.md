@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:23:03.000Z
+pubDatetime: 2026-07-26T10:31:09.000Z
 title: "Investimentos EA FC: Alemaes em 26/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.6% em 24h** e **+27.7% em 7 dias**.
+- A mediana é de **+16.9% em 24h** e **+34.6% em 7 dias**.
 - **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **GPFBL** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Bundesliga** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,12 +43,14 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Oliver Kahn | 91 | Icons | 159k coins | +22.3% | +74.7% | Esticada |
-| Marc-André ter Stegen | 89 | LALIGA EA SPORTS | 106k coins | +6% | +58.2% | Momentum moderado |
+| Oliver Kahn | 91 | Icons | 159k coins | +23.3% | +74.7% | Esticada |
+| Marc-André ter Stegen | 89 | LALIGA EA SPORTS | 106k coins | +7.1% | +58.2% | Momentum moderado |
+| Christian Günter | 88 | Bundesliga | 42k coins | +7% | +57% | Momentum moderado |
 | Vanessa Fudalla | 87 | GPFBL | 60k coins | +29% | +50% | Esticada |
+| Kevin Schade | 88 | Premier League | 31k coins | +14.7% | +42% | Momentum moderado |
 | Vanessa Diehm | 86 | GPFBL | 55k coins | +29.4% | +41.9% | Esticada |
-| Kevin Schade | 88 | Premier League | 31k coins | +13.6% | +38.9% | Momentum moderado |
 | Fatih Kaya | 84 | 3. Liga | 55k coins | +4.8% | +38.4% | Momentum moderado |
+| Marek Janssen | 84 | 3. Liga | 54k coins | +16.9% | +34.6% | Momentum moderado |
 | Ann-Katrin Berger | 87 | NWSL | 55k coins | +17% | +29.4% | Momentum moderado |
 | Malick Thiaw | 86 | Premier League | 60k coins | +17.6% | +27.7% | Momentum moderado |
 | Ragnar Ache | 84 | Bundesliga | 48k coins | +1.6% | +26.7% | Momentum moderado |
@@ -56,21 +58,19 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Maximilian Mittelstädt | 88 | Bundesliga | 20k coins | +34.4% | +22.4% | Esticada |
 | Kevin Schade | 84 | Premier League | 49k coins | +5.3% | +17.3% | Momentum moderado |
 | Angelo Stiller | 85 | Bundesliga | 22k coins | +23.3% | +16.9% | Esticada |
-| Yann Aurel Bisseck | 84 | Serie A TIM | 44k coins | +8.8% | +16% | Momentum moderado |
-| Svenja Huth | 86 | GPFBL | 55k coins | +10% | +13.4% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Oliver Kahn (91)** — 159k coins, **+74.7% em 7 dias** (+22.3% em 24h). Preço +60% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Oliver Kahn (91)** — 159k coins, **+74.7% em 7 dias** (+23.3% em 24h). Preço +60% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marc-André ter Stegen (89)** — 106k coins, **+58.2% em 7 dias** (+6% em 24h). Preço +50% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marc-André ter Stegen (89)** — 106k coins, **+58.2% em 7 dias** (+7.1% em 24h). Preço +50% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Christian Günter (88)** — 42k coins, **+57% em 7 dias** (+7% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Vanessa Fudalla (87)** — 60k coins, **+50% em 7 dias** (+29% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Vanessa Diehm (86)** — 55k coins, **+41.9% em 7 dias** (+29.4% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Kevin Schade (88)** — 31k coins, **+38.9% em 7 dias** (+13.6% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kevin Schade (88)** — 31k coins, **+42% em 7 dias** (+14.7% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
