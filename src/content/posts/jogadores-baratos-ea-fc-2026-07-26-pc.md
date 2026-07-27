@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T22:31:20.000Z
+pubDatetime: 2026-07-27T01:31:20.000Z
 title: "Jogadores baratos EA FC: Alemaes em 26/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 9.330 coins.
+- **Preço médio das 15 opções:** 9.610 coins.
 - **Posição mais frequente:** ST, com 7 cartas.
-- **Faixa real:** 1.500 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.400 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -44,17 +44,17 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
 | Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 14.000 coins | 0% |
 | Selina Cerci | 90 | ST | GPFBL | 11.250 coins | 0% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 5.300 coins | +52.9% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 3.700 coins | +33.3% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 4.600 coins | +44.1% |
 | Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
 | Klara Bühl | 89 | LM | GPFBL | 11.250 coins | 0% |
-| Celia Šašić | 89 | ST | GPFBL | 12.750 coins | -3.8% |
-| Rudi Völler | 89 | ST | Bundesliga | 13.250 coins | +7.4% |
+| Rudi Völler | 89 | ST | Bundesliga | 12.000 coins | +6% |
+| Celia Šašić | 89 | ST | GPFBL | 12.250 coins | 0% |
+| Jamal Musiala | 88 | CAM | Bundesliga | 2.400 coins | +53.8% |
 | Mario Gomez | 88 | ST | Bundesliga | 11.000 coins | -8.3% |
-| Antonio Rüdiger | 86 | CB | LALIGA EA SPORTS | 2.500 coins | +8% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 11.250 coins | 0% |
-| Nico Schlotterbeck | 85 | CB | Bundesliga | 1.500 coins | -10.5% |
-| Sara Doorsoun | 84 | CB | GPFBL | 9.900 coins | +1% |
-| Selina Cerci | 83 | ST | GPFBL | 1.500 coins | 0% |
+| Loreen Bender | 86 | RM | GPFBL | 13.250 coins | -5.3% |
+| Alexandra Popp | 85 | ST | GPFBL | 2.700 coins | +42.1% |
 
 
 ## 📈 Destaques
@@ -67,14 +67,14 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Selina Cerci (90, ST)** da GPFBL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **5.300 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **3.700 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Steffi Jones (91, CB) por 11.500 coins é a referência de rating deste recorte.
 
-- **Meio:** Florian Wirtz (89, CAM) por 5.300 coins é a referência de rating deste recorte.
+- **Meio:** Joshua Kimmich (89, CDM) por 3.700 coins é a referência de rating deste recorte.
 
 - **Ataque:** Gerd Müller (93, ST) por 11.750 coins é a referência de rating deste recorte.
 
