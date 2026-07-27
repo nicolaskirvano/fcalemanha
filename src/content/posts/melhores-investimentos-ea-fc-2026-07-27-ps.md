@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T13:31:09.000Z
+pubDatetime: 2026-07-27T16:31:09.000Z
 title: "Investimentos EA FC: Alemaes em 27/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 27/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (27/07/2026) no EA FC?"
-    a: "Vanessa Fudalla (87, GPFBL) lidera, com +72.5% em 7 dias a 69k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Lewis Holtby (86, Eredivisie) lidera, com +75.3% em 7 dias a 38k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Vanessa Fudalla (87) acumula **+72.5% em 7 dias** a 69k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Lewis Holtby (86) acumula **+75.3% em 7 dias** a 38k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Alemaes em 27/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-27-ps.svg)
 
@@ -33,7 +33,7 @@ Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.8% em 24h** e **+25.3% em 7 dias**.
+- A mediana é de **+15.6% em 24h** e **+20.4% em 7 dias**.
 - **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Bundesliga** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Vanessa Fudalla | 87 | GPFBL | 69k coins | +15% | +72.5% | Esticada |
-| Sven Ulreich | 87 | Bundesliga | 30k coins | +30.7% | +57.1% | Esticada |
-| Nadine Keßler | 88 | GPFBL | 18.500 coins | +32.1% | +39.6% | Esticada |
-| Franziska Harsch | 88 | GPFBL | 22k coins | +14.3% | +35.4% | Momentum moderado |
-| Jamie Leweling | 86 | Bundesliga | 54k coins | +27.3% | +34.6% | Esticada |
-| Oliver Kahn | 91 | Icons | 100k coins | +31.2% | +32.9% | Esticada |
-| Leroy Sané | 84 | Trendyol Süper Lig | 53k coins | +17.8% | +27.7% | Momentum moderado |
-| Vanessa Diehm | 86 | GPFBL | 50k coins | +34.7% | +25.3% | Esticada |
-| Nico Schlotterbeck | 87 | Bundesliga | 45k coins | +21.1% | +21.1% | Esticada |
-| David Raum | 84 | Bundesliga | 60k coins | +9.1% | +20.6% | Momentum moderado |
-| Ragnar Ache | 84 | Bundesliga | 48k coins | +9.8% | +20% | Momentum moderado |
-| Deniz Undav | 84 | Bundesliga | 54k coins | +4.7% | +17.8% | Entrada a observar |
-| Sara Däbritz | 86 | Liga F | 50k coins | +1% | +10% | Entrada a observar |
-| Svenja Huth | 86 | GPFBL | 45k coins | +2.3% | +6.5% | Entrada a observar |
-| Paul Wanner | 84 | Eredivisie | 48k coins | +18.8% | +6.1% | Momentum moderado |
+| Lewis Holtby | 86 | Eredivisie | 38k coins | +11.4% | +75.3% | Esticada |
+| Kevin Schade | 84 | Premier League | 49k coins | +32% | +69.9% | Esticada |
+| Nico Schlotterbeck | 87 | Bundesliga | 54k coins | +25.7% | +37.5% | Esticada |
+| Jamie Leweling | 86 | Bundesliga | 54k coins | +15.6% | +33.3% | Momentum moderado |
+| Franziska Harsch | 88 | GPFBL | 22k coins | +13% | +31.8% | Momentum moderado |
+| Ragnar Ache | 84 | Bundesliga | 48k coins | +16.6% | +26.7% | Momentum moderado |
+| Vanessa Diehm | 86 | GPFBL | 46k coins | +9.7% | +21.5% | Momentum moderado |
+| Simone Laudehr | 88 | GPFBL | 16.000 coins | +1.6% | +20.4% | Entrada a observar |
+| Fatih Kaya | 84 | 3. Liga | 40k coins | +2.7% | +19.9% | Entrada a observar |
+| Oliver Kahn | 91 | Icons | 94k coins | +26% | +18.1% | Esticada |
+| Vanessa Fudalla | 88 | GPFBL | 42k coins | +40% | +16.7% | Esticada |
+| Rani Khedira | 84 | Bundesliga | 57k coins | +25.4% | +16.6% | Esticada |
+| Sara Däbritz | 86 | Liga F | 50k coins | +4.8% | +8.9% | Entrada a observar |
+| David Raum | 84 | Bundesliga | 52k coins | +8% | +8.5% | Momentum moderado |
+| Karim Adeyemi | 91 | Bundesliga | 242k coins | +39.1% | +5.2% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Vanessa Fudalla (87)** — 69k coins, **+72.5% em 7 dias** (+15% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lewis Holtby (86)** — 38k coins, **+75.3% em 7 dias** (+11.4% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sven Ulreich (87)** — 30k coins, **+57.1% em 7 dias** (+30.7% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kevin Schade (84)** — 49k coins, **+69.9% em 7 dias** (+32% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nadine Keßler (88)** — 18.500 coins, **+39.6% em 7 dias** (+32.1% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nico Schlotterbeck (87)** — 54k coins, **+37.5% em 7 dias** (+25.7% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Franziska Harsch (88)** — 22k coins, **+35.4% em 7 dias** (+14.3% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jamie Leweling (86)** — 54k coins, **+33.3% em 7 dias** (+15.6% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jamie Leweling (86)** — 54k coins, **+34.6% em 7 dias** (+27.3% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Franziska Harsch (88)** — 22k coins, **+31.8% em 7 dias** (+13% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (27/07/2026) no EA FC?**  
-Vanessa Fudalla (87, GPFBL) lidera, com +72.5% em 7 dias a 69k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Lewis Holtby (86, Eredivisie) lidera, com +75.3% em 7 dias a 38k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
