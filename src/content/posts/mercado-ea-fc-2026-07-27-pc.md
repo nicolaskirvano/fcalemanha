@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T19:31:17.000Z
+pubDatetime: 2026-07-27T22:31:17.000Z
 title: "Mercado EA FC em 27/07: Alemaes — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 27/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (27/07/2026)?"
-    a: "Lothar Matthäus (90, Icons), com +50% em 24h, a 146k coins no PC."
+    a: "Karim Adeyemi (85, Bundesliga), com +47.2% em 24h, a 80k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Timo Werner (87), -40.9% em 24h, a 24k coins."
+    a: "Marco Reus (89), -48% em 24h, a 245k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 39 cartas em alta contra 46 em queda (média -0.59%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 41 cartas em alta contra 45 em queda (média 0.13%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **27/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em dia **indefinido** — sem tendência dominante: das cartas relevantes (80+ acima de 5k coins), **39 subiram** e **46 caíram**, com variação média de **-0.59%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **27/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em dia **indefinido** — sem tendência dominante: das cartas relevantes (80+ acima de 5k coins), **41 subiram** e **45 caíram**, com variação média de **0.13%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Lothar Matthäus (90) **+50%** · 🔴 **Maior baixa:** Timo Werner (87) **-40.9%**
+> 🟢 **Maior alta:** Karim Adeyemi (85) **+47.2%** · 🔴 **Maior baixa:** Marco Reus (89) **-48%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 27/07: Alemaes — PC](/charts/mercado-ea-fc-2026-07-27-pc.svg)
 
@@ -35,24 +35,24 @@ Em **27/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em dia *
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 90.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 45.9% entre as cartas que se moveram; o universo observado reúne 125 cartas.
-- **Concentração:** Bundesliga aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 95.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 47.7% entre as cartas que se moveram; o universo observado reúne 125 cartas.
+- **Concentração:** Bundesliga aparece em 7 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lothar Matthäus | 90 | Icons | 146k coins | +50% | -40.2% |
-| Lewis Holtby | 86 | Eredivisie | 25k coins | +49.3% | +8.4% |
-| Karim Adeyemi | 85 | Bundesliga | 80k coins | +41.6% | +8.1% |
-| Danny da Costa | 84 | Bundesliga | 21k coins | +34.1% | +39.2% |
-| Jamal Musiala | 89 | Bundesliga | 400k coins | +32.9% | +16.6% |
-| Lisa Baum | 85 | GPFBL | 21k coins | +27.7% | +2.5% |
-| Yann Aurel Bisseck | 84 | Serie A TIM | 50k coins | +26.6% | +28.2% |
-| Bastian Schweinsteiger | 89 | Icons | 179k coins | +23.4% | +34.6% |
-| Larissa Mühlhaus | 85 | GPFBL | 44k coins | +21.1% | -2.7% |
-| Franz Beckenbauer | 93 | Icons | 800k coins | +14.4% | +3.9% |
+| Karim Adeyemi | 85 | Bundesliga | 80k coins | +47.2% | +7.4% |
+| Lennart Karl | 83 | Bundesliga | 150k coins | +41.2% | — |
+| Kai Havertz | 91 | Premier League | 365k coins | +40.4% | -18.9% |
+| Joelle Wedemeyer | 89 | GPFBL | 21k coins | +40% | +15.1% |
+| Lothar Matthäus | 90 | Icons | 149k coins | +30.3% | -32.6% |
+| Yann Aurel Bisseck | 84 | Serie A TIM | 50k coins | +26.8% | +27.6% |
+| Bastian Schweinsteiger | 89 | Icons | 180k coins | +23.4% | +35.6% |
+| Larissa Mühlhaus | 85 | GPFBL | 40k coins | +19.7% | -22% |
+| Sven Ulreich | 87 | Bundesliga | 46k coins | +16.9% | +125% |
+| Florian Wirtz | 89 | Premier League | 311k coins | +16.5% | +3.7% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **27/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em dia *
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Lothar Matthäus (90)** subiu **+50%** em 24h, a **146k coins** (faixa do dia: 97k–159k). Está -11% abaixo da média de 7 dias (descontada).
+- **Karim Adeyemi (85)** subiu **+47.2%** em 24h, a **80k coins** (faixa do dia: 51k–80k). Está +16% acima da média de 7 dias (aquecida).
 
-- **Lewis Holtby (86)** subiu **+49.3%** em 24h, a **25k coins** (faixa do dia: 13.250–36k). Está em linha com a média de 7 dias (-2%).
+- **Lennart Karl (83)** subiu **+41.2%** em 24h, a **150k coins** (faixa do dia: 98k–230k). Está +30% acima da média de 7 dias (aquecida).
 
-- **Karim Adeyemi (85)** subiu **+41.6%** em 24h, a **80k coins** (faixa do dia: 51k–80k). Está +16% acima da média de 7 dias (aquecida).
+- **Kai Havertz (91)** subiu **+40.4%** em 24h, a **365k coins** (faixa do dia: 126k–420k). Está em linha com a média de 7 dias (+5%).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Timo Werner | 87 | Bundesliga | 24k coins | -40.9% | -61.2% |
-| Maximilian Mittelstädt | 88 | Bundesliga | 30k coins | -40.7% | +24.6% |
-| Ann-Katrin Berger | 87 | NWSL | 41k coins | -34% | -13.2% |
-| Angelo Stiller | 91 | Bundesliga | 27k coins | -29.6% | -39.8% |
-| Florian Wirtz | 90 | Premier League | 121k coins | -28.6% | -39.6% |
-| Leroy Sané | 91 | Trendyol Süper Lig | 20k coins | -28.6% | -56.5% |
-| Lisa Karl | 84 | GPFBL | 25k coins | -23.3% | -13.2% |
-| Toni Kroos | 90 | Icons | 59k coins | -19.7% | -32.2% |
-| Lothar Matthäus | 91 | Icons | 586k coins | -18% | -65.1% |
-| Nicole Anyomi | 86 | GPFBL | 89k coins | -17.6% | -50.3% |
+| Marco Reus | 89 | MLS | 245k coins | -48% | -35.3% |
+| Aleksandar Pavlović | 89 | Bundesliga | 23k coins | -45.6% | -42.9% |
+| Nico Schlotterbeck | 87 | Bundesliga | 78k coins | -44.2% | -14% |
+| Simone Laudehr | 91 | GPFBL | 29k coins | -42.6% | -46.8% |
+| Ann-Katrin Berger | 87 | NWSL | 41k coins | -27% | -13.2% |
+| Timo Werner | 87 | Bundesliga | 28k coins | -25.5% | -56% |
+| Klara Bühl | 88 | GPFBL | 64k coins | -25.4% | +30% |
+| Lisa Karl | 84 | GPFBL | 25k coins | -23.8% | -12.4% |
+| Maximilian Mittelstädt | 88 | Bundesliga | 26k coins | -20% | +55.6% |
+| Celia Šašić | 92 | GPFBL | 22k coins | -18.3% | -64.5% |
 
 
 ### Análise das baixas
 
-- **Timo Werner (87)** caiu **-40.9%** em 24h, a **24k coins** (faixa do dia: 24k–40k). Está -54% abaixo da média de 7 dias (descontada).
+- **Marco Reus (89)** caiu **-48%** em 24h, a **245k coins** (faixa do dia: 106k–490k). Está -38% abaixo da média de 7 dias (descontada).
 
-- **Maximilian Mittelstädt (88)** caiu **-40.7%** em 24h, a **30k coins** (faixa do dia: 13.750–38k). Está +25% acima da média de 7 dias (aquecida).
+- **Aleksandar Pavlović (89)** caiu **-45.6%** em 24h, a **23k coins** (faixa do dia: 23k–49k). Está -44% abaixo da média de 7 dias (descontada).
 
-- **Ann-Katrin Berger (87)** caiu **-34%** em 24h, a **41k coins** (faixa do dia: 35k–65k). Está -20% abaixo da média de 7 dias (descontada).
+- **Nico Schlotterbeck (87)** caiu **-44.2%** em 24h, a **78k coins** (faixa do dia: 42k–85k). Está +20% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Lothar Matthäus já avançou 50% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Karim Adeyemi já avançou 47.2% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Timo Werner recuou -40.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Marco Reus recuou -48%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (27/07/2026)?**
-Lothar Matthäus (90, Icons), com +50% em 24h, a 146k coins no PC.
+Karim Adeyemi (85, Bundesliga), com +47.2% em 24h, a 80k coins no PC.
 
 **E a maior queda do dia?**
-Timo Werner (87), -40.9% em 24h, a 24k coins.
+Marco Reus (89), -48% em 24h, a 245k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 39 cartas em alta contra 46 em queda (média -0.59%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 41 cartas em alta contra 45 em queda (média 0.13%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
