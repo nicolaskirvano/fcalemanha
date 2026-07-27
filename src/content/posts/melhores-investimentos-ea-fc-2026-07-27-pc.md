@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:21:24.000Z
+pubDatetime: 2026-07-27T10:31:19.000Z
 title: "Investimentos EA FC: Alemaes em 27/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **27/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.3% em 24h** e **+28.8% em 7 dias**.
-- **4 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Bundesliga** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+15.2% em 24h** e **+46.2% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Bundesliga** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,32 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Simone Laudehr | 90 | GPFBL | 50k coins | +3.6% | +65.8% | Esticada |
+| Benedict Hollerbach | 87 | Bundesliga | 30k coins | +34.8% | +57.9% | Esticada |
 | Nadine Keßler | 90 | GPFBL | 54k coins | +15.2% | +52% | Momentum moderado |
 | Vanessa Fudalla | 87 | GPFBL | 58k coins | +20% | +50.9% | Esticada |
-| Rani Khedira | 84 | Bundesliga | 60k coins | +3.8% | +50% | Momentum moderado |
+| Maximilian Beier | 85 | Bundesliga | 20k coins | +37.9% | +49.2% | Esticada |
+| Rani Khedira | 84 | Bundesliga | 60k coins | +2.9% | +48.6% | Momentum moderado |
 | Uli Hoeneß | 86 | Bundesliga | 18.000 coins | +12.5% | +46.9% | Momentum moderado |
+| Nadine Keßler | 88 | GPFBL | 19.000 coins | +15.2% | +46.2% | Momentum moderado |
 | Leroy Sané | 84 | Trendyol Süper Lig | 49k coins | +2% | +37.9% | Momentum moderado |
 | Mario Götze | 88 | Bundesliga | 46k coins | +18.1% | +29.8% | Momentum moderado |
+| Philipp Lahm | 89 | Icons | 100k coins | +37.3% | +28.8% | Esticada |
 | Ragnar Ache | 84 | Bundesliga | 50k coins | +12.2% | +27.8% | Momentum moderado |
 | Bastian Schweinsteiger | 89 | Icons | 167k coins | +16.2% | +26.5% | Momentum moderado |
 | Kevin Schade | 84 | Premier League | 59k coins | +7.3% | +15.7% | Momentum moderado |
 | Jürgen Kohler | 89 | Bundesliga | 19.750 coins | +26.8% | +14.5% | Esticada |
-| Lena Oberdorf | 86 | GPFBL | 54k coins | +10.8% | +12.5% | Momentum moderado |
-| Jamie Leweling | 86 | Bundesliga | 50k coins | +11.1% | +10.5% | Momentum moderado |
-| Franz Beckenbauer | 92 | Icons | 102k coins | +36.7% | +8.6% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
 - **Simone Laudehr (90)** — 50k coins, **+65.8% em 7 dias** (+3.6% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
+- **Benedict Hollerbach (87)** — 30k coins, **+57.9% em 7 dias** (+34.8% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
 - **Nadine Keßler (90)** — 54k coins, **+52% em 7 dias** (+15.2% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Vanessa Fudalla (87)** — 58k coins, **+50.9% em 7 dias** (+20% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Vanessa Fudalla (87)** — 58k coins, **+50.9% em 7 dias** (+20% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rani Khedira (84)** — 60k coins, **+50% em 7 dias** (+3.8% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Uli Hoeneß (86)** — 18.000 coins, **+46.9% em 7 dias** (+12.5% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Maximilian Beier (85)** — 20k coins, **+49.2% em 7 dias** (+37.9% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

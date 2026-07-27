@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:21:14.000Z
+pubDatetime: 2026-07-27T10:31:09.000Z
 title: "Investimentos EA FC: Alemaes em 27/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 27/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (27/07/2026) no EA FC?"
-    a: "Marc-André ter Stegen (89, LALIGA EA SPORTS) lidera, com +84.1% em 7 dias a 110k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Marc-André ter Stegen (89, LALIGA EA SPORTS) lidera, com +77.8% em 7 dias a 109k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Marc-André ter Stegen (89) acumula **+84.1% em 7 dias** a 110k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Marc-André ter Stegen (89) acumula **+77.8% em 7 dias** a 109k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Alemaes em 27/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-27-ps.svg)
 
@@ -34,8 +34,8 @@ Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 ## O que os números desta lista mostram
 
 - A mediana é de **+16.3% em 24h** e **+30.7% em 7 dias**.
-- **6 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Bundesliga** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **7 de 13 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **GPFBL** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,13 +43,15 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Marc-André ter Stegen | 89 | LALIGA EA SPORTS | 110k coins | +9.4% | +84.1% | Esticada |
+| Marc-André ter Stegen | 89 | LALIGA EA SPORTS | 109k coins | +5.7% | +77.8% | Esticada |
+| Kevin Schade | 84 | Premier League | 50k coins | +32% | +71.1% | Esticada |
 | Pascal Groß | 87 | Premier League | 31k coins | +8.8% | +65.3% | Esticada |
 | Steffi Jones | 89 | Icons | 60k coins | +36.7% | +59.7% | Esticada |
 | Vanessa Fudalla | 87 | GPFBL | 64k coins | +5.8% | +58.8% | Momentum moderado |
 | Jamal Musiala | 89 | Bundesliga | 250k coins | +24.4% | +49.5% | Esticada |
 | David Raum | 84 | Bundesliga | 65k coins | +8.3% | +30.7% | Momentum moderado |
 | Deniz Undav | 84 | Bundesliga | 54k coins | +14.7% | +29% | Momentum moderado |
+| Nadine Keßler | 88 | GPFBL | 18.000 coins | +16.1% | +25% | Momentum moderado |
 | Lena Oberdorf | 86 | GPFBL | 50k coins | +25% | +20% | Esticada |
 | Celia Šašić | 89 | GPFBL | 15.250 coins | +16.3% | +11.8% | Momentum moderado |
 | Rani Khedira | 84 | Bundesliga | 58k coins | +30% | +11.4% | Esticada |
@@ -58,15 +60,15 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 ## 📈 Análise dos destaques
 
-- **Marc-André ter Stegen (89)** — 110k coins, **+84.1% em 7 dias** (+9.4% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marc-André ter Stegen (89)** — 109k coins, **+77.8% em 7 dias** (+5.7% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Kevin Schade (84)** — 50k coins, **+71.1% em 7 dias** (+32% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Pascal Groß (87)** — 31k coins, **+65.3% em 7 dias** (+8.8% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Steffi Jones (89)** — 60k coins, **+59.7% em 7 dias** (+36.7% em 24h). Preço +57% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Vanessa Fudalla (87)** — 64k coins, **+58.8% em 7 dias** (+5.8% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Jamal Musiala (89)** — 250k coins, **+49.5% em 7 dias** (+24.4% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -84,7 +86,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (27/07/2026) no EA FC?**  
-Marc-André ter Stegen (89, LALIGA EA SPORTS) lidera, com +84.1% em 7 dias a 110k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Marc-André ter Stegen (89, LALIGA EA SPORTS) lidera, com +77.8% em 7 dias a 109k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

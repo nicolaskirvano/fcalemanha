@@ -13,13 +13,13 @@
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Steffi Jones</text>
 <rect x="285" y="211" width="326" height="28" rx="7" fill="#22c55e"/>
 <text x="621" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.7%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rani Khedira</text>
-<rect x="285" y="269" width="266" height="28" rx="7" fill="#22c55e"/>
-<text x="561" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.0%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Phil Harres</text>
-<rect x="285" y="327" width="256" height="28" rx="7" fill="#22c55e"/>
-<text x="551" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.8%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Franziska Harsch</text>
-<rect x="285" y="385" width="236" height="28" rx="7" fill="#22c55e"/>
-<text x="531" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.6%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kevin Schade</text>
+<rect x="285" y="269" width="284" height="28" rx="7" fill="#22c55e"/>
+<text x="579" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+32.0%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rani Khedira</text>
+<rect x="285" y="327" width="266" height="28" rx="7" fill="#22c55e"/>
+<text x="561" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.0%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Phil Harres</text>
+<rect x="285" y="385" width="256" height="28" rx="7" fill="#22c55e"/>
+<text x="551" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.8%</text>
 </svg>
