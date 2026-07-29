@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T19:31:17.000Z
+pubDatetime: 2026-07-29T22:31:17.000Z
 title: "Mercado EA FC em 29/07: Alemaes — PC"
 draft: false
 featured: true
@@ -15,18 +15,18 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (29/07/2026)?"
     a: "Ann-Katrin Berger (87, NWSL), com +58.5% em 24h, a 65k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Alexandra Popp (89), -32% em 24h, a 42k coins."
+    a: "Gerd Müller (92), -46.4% em 24h, a 75k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 46 cartas em alta contra 47 em queda (média 10.15%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 53 cartas em alta contra 42 em queda (média 10.28%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado do **EA FC** abre **29/07/2026** no PC com clima **comprador** — a maioria das cartas subiu: **46 cartas subiram** e **47 caíram** (80+ acima de 5k coins), variação média de **10.15%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **29/07/2026** no PC com clima **comprador** — a maioria das cartas subiu: **53 cartas subiram** e **42 caíram** (80+ acima de 5k coins), variação média de **10.28%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Ann-Katrin Berger (87) **+58.5%** · 🔴 **Maior baixa:** Alexandra Popp (89) **-32%**
+> 🟢 **Maior alta:** Ann-Katrin Berger (87) **+58.5%** · 🔴 **Maior baixa:** Gerd Müller (92) **-46.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 29/07: Alemaes — PC](/charts/mercado-ea-fc-2026-07-29-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **29/07/2026** no PC com clima **comprador** — a m
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 90.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 49.5% entre as cartas que se moveram; o universo observado reúne 132 cartas.
-- **Concentração:** Bundesliga aparece em 7 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 104.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 55.8% entre as cartas que se moveram; o universo observado reúne 135 cartas.
+- **Concentração:** GPFBL aparece em 9 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ann-Katrin Berger | 87 | NWSL | 65k coins | +58.5% | +32.7% |
-| Angelo Stiller | 85 | Bundesliga | 20k coins | +54.7% | -1.2% |
+| Ann-Katrin Berger | 87 | NWSL | 65k coins | +58.5% | +37.6% |
+| Verena Wieder | 85 | GPFBL | 32k coins | +55.6% | +44.8% |
+| Angelo Stiller | 85 | Bundesliga | 20k coins | +54.7% | +5.1% |
+| Klara Bühl | 87 | GPFBL | 55k coins | +52.8% | +32.5% |
 | Phil Harres | 83 | Bundesliga 2 | 65k coins | +51.2% | +4.8% |
-| Simone Laudehr | 91 | GPFBL | 22k coins | +48.4% | -57.8% |
-| Nadine Keßler | 90 | GPFBL | 42k coins | +45.9% | -11.8% |
-| Toni Kroos | 90 | Icons | 110k coins | +42.3% | +20% |
-| Klara Bühl | 87 | GPFBL | 44k coins | +36.8% | +18.7% |
-| Luca Marseiler | 90 | Bundesliga 2 | 62k coins | +34.7% | +16.4% |
-| Rani Khedira | 84 | Bundesliga | 60k coins | +33.3% | +49.1% |
-| Nadine Keßler | 89 | GPFBL | 37k coins | +24.2% | +106.9% |
+| Toni Kroos | 90 | Icons | 108k coins | +42.3% | +20% |
+| Klara Bühl | 88 | GPFBL | 62k coins | +42.2% | +38.2% |
+| Lisanne Gräwe | 86 | GPFBL | 33k coins | +41.9% | +76% |
+| Lothar Matthäus | 90 | Icons | 201k coins | +37.6% | +12.6% |
+| Danny da Costa | 84 | Bundesliga | 38k coins | +36.4% | +54.6% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **29/07/2026** no PC com clima **comprador** — a m
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Ann-Katrin Berger (87)** subiu **+58.5%** em 24h, a **65k coins** (faixa do dia: 41k–65k). Está +29% acima da média de 7 dias (aquecida).
+- **Ann-Katrin Berger (87)** subiu **+58.5%** em 24h, a **65k coins** (faixa do dia: 41k–65k). Está +28% acima da média de 7 dias (aquecida).
+
+- **Verena Wieder (85)** subiu **+55.6%** em 24h, a **32k coins** (faixa do dia: 20k–32k). Está +56% acima da média de 7 dias (aquecida).
 
 - **Angelo Stiller (85)** subiu **+54.7%** em 24h, a **20k coins** (faixa do dia: 13.250–20k). Está +16% acima da média de 7 dias (aquecida).
-
-- **Phil Harres (83)** subiu **+51.2%** em 24h, a **65k coins** (faixa do dia: 43k–65k). Está +16% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexandra Popp | 89 | GPFBL | 42k coins | -32% | +10.4% |
-| Christian Günter | 88 | Bundesliga | 32k coins | -31.6% | -9.1% |
-| Joshua Kimmich | 90 | Bundesliga | 92k coins | -31.1% | +7.2% |
-| Florian Wirtz | 89 | Premier League | 295k coins | -29.9% | +13.8% |
-| Bastian Schweinsteiger | 89 | Icons | 128k coins | -28.9% | -6.6% |
-| Gerd Müller | 92 | Icons | 101k coins | -27.9% | -9% |
-| Manuel Neuer | 86 | Bundesliga | 58k coins | -26.1% | +33.7% |
-| Danny da Costa | 84 | Bundesliga | 38k coins | -20.9% | +8.8% |
-| Ragnar Ache | 84 | Bundesliga | 47k coins | -20.6% | -17.8% |
-| Nick Woltemade | 87 | Premier League | 80k coins | -18.2% | +31.4% |
+| Gerd Müller | 92 | Icons | 75k coins | -46.4% | -29.9% |
+| Alexandra Popp | 89 | GPFBL | 42k coins | -33.2% | +8.4% |
+| Christian Günter | 88 | Bundesliga | 32k coins | -31.6% | -11% |
+| Carolin Simon | 90 | GPFBL | 34k coins | -30.9% | -53.3% |
+| Vanessa Fudalla | 87 | GPFBL | 44k coins | -30.2% | -7.4% |
+| Giulia Gwinn | 89 | GPFBL | 38k coins | -30% | +35.1% |
+| Celia Šašić | 92 | GPFBL | 21k coins | -27% | -53.8% |
+| Oliver Kahn | 91 | Icons | 36k coins | -23.7% | -29.7% |
+| Toni Kroos | 90 | Icons | 60k coins | -20% | -31% |
+| Ragnar Ache | 84 | Bundesliga | 48k coins | -19.7% | -17% |
 
 
 ### Análise das baixas
 
-- **Alexandra Popp (89)** caiu **-32%** em 24h, a **42k coins** (faixa do dia: 42k–63k). Está -13% abaixo da média de 7 dias (descontada).
+- **Gerd Müller (92)** caiu **-46.4%** em 24h, a **75k coins** (faixa do dia: 70k–140k). Está -40% abaixo da média de 7 dias (descontada).
+
+- **Alexandra Popp (89)** caiu **-33.2%** em 24h, a **42k coins** (faixa do dia: 42k–63k). Está -14% abaixo da média de 7 dias (descontada).
 
 - **Christian Günter (88)** caiu **-31.6%** em 24h, a **32k coins** (faixa do dia: 32k–48k). Está em linha com a média de 7 dias (-5%).
-
-- **Joshua Kimmich (90)** caiu **-31.1%** em 24h, a **92k coins** (faixa do dia: 92k–140k). Está em linha com a média de 7 dias (+1%).
 
 
 ## Decisão prática para hoje
 
 - **Evite perseguir topo:** Ann-Katrin Berger já avançou 58.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Alexandra Popp recuou -32%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Gerd Müller recuou -46.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -122,10 +122,10 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 Ann-Katrin Berger (87, NWSL), com +58.5% em 24h, a 65k coins no PC.
 
 **E a maior queda do dia?**
-Alexandra Popp (89), -32% em 24h, a 42k coins.
+Gerd Müller (92), -46.4% em 24h, a 75k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 46 cartas em alta contra 47 em queda (média 10.15%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 53 cartas em alta contra 42 em queda (média 10.28%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
