@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-28T22:31:12.000Z
+pubDatetime: 2026-07-29T01:31:10.000Z
 title: "Jogadores baratos EA FC: Alemaes em 28/07 — Console (PS)"
 draft: false
 featured: false
