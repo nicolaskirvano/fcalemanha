@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T22:31:20.000Z
+pubDatetime: 2026-07-30T01:31:19.000Z
 title: "Jogadores baratos EA FC: Alemaes em 29/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.543 coins.
+- **Preço médio das 15 opções:** 10.497 coins.
 - **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 3.000 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.400 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,18 +43,18 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Gerd Müller | 93 | ST | Icons | 11.750 coins | 0% |
 | Florian Wirtz | 92 | CAM | Premier League | 11.500 coins | 0% |
 | Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
-| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 12.500 coins | +2.2% |
+| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 12.500 coins | +4.3% |
 | Selina Cerci | 90 | ST | GPFBL | 11.250 coins | 0% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 5.200 coins | +28.6% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 6.200 coins | +37.8% |
 | Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
 | Thomas Müller | 89 | RM | MLS | 11.250 coins | 0% |
 | Klara Bühl | 89 | LM | GPFBL | 11.250 coins | 0% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 14.000 coins | +3.7% |
-| Mario Gomez | 88 | ST | Bundesliga | 13.000 coins | 0% |
+| Celia Šašić | 89 | ST | GPFBL | 13.750 coins | +10.2% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 14.250 coins | +3.7% |
+| Antonio Rüdiger | 88 | CB | LALIGA EA SPORTS | 3.000 coins | +7.1% |
+| Florian Wirtz | 88 | CAM | Bundesliga | 5.300 coins | +33.3% |
+| Mario Gomez | 88 | ST | Bundesliga | 13.000 coins | -3.7% |
 | David Raum | 87 | LB | Bundesliga | 13.500 coins | -3.6% |
-| Antonio Rüdiger | 86 | CB | LALIGA EA SPORTS | 3.000 coins | +7.1% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11.000 coins | +2.3% |
+| Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 2.400 coins | 0% |
 
 
 ## 📈 Destaques
