@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T10:21:48.000Z
+pubDatetime: 2026-07-30T10:31:17.000Z
 title: "Mercado EA FC em 30/07: Alemaes — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Ann-Katrin Berger (88), -43.8% em 24h, a 36k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 48 cartas em alta contra 46 em queda (média 8.87%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 56 cartas em alta contra 44 em queda (média 10.54%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Resumo de **30/07/2026** no PC: mercado **aquecido** — as altas dominam o dia. **48 valorizações** contra **46 quedas** entre as cartas relevantes, com média de **8.87%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **30/07/2026** no PC: mercado **aquecido** — as altas dominam o dia. **56 valorizações** contra **44 quedas** entre as cartas relevantes, com média de **10.54%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Kristin Kögel (89) **+57.4%** · 🔴 **Maior baixa:** Ann-Katrin Berger (88) **-43.8%**
 
@@ -36,8 +36,8 @@ Resumo de **30/07/2026** no PC: mercado **aquecido** — as altas dominam o dia.
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 101.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 51.1% entre as cartas que se moveram; o universo observado reúne 134 cartas.
-- **Concentração:** GPFBL aparece em 8 dos 20 maiores movimentos listados.
+- **Participação das altas:** 56.0% entre as cartas que se moveram; o universo observado reúne 140 cartas.
+- **Concentração:** GPFBL aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
@@ -46,13 +46,13 @@ Resumo de **30/07/2026** no PC: mercado **aquecido** — as altas dominam o dia.
 | Kristin Kögel | 89 | GPFBL | 21k coins | +57.4% | +1.2% |
 | Julian Brandt | 87 | Bundesliga | 28k coins | +54.7% | -10.8% |
 | Karim Adeyemi | 86 | Bundesliga | 190k coins | +54% | -7.6% |
-| Phil Harres | 83 | Bundesliga 2 | 65k coins | +51.2% | +5.7% |
+| Klara Bühl | 87 | GPFBL | 54k coins | +51.4% | +17.2% |
+| Phil Harres | 83 | Bundesliga 2 | 65k coins | +51.2% | +6.6% |
 | Lisanne Gräwe | 86 | GPFBL | 34k coins | +46.2% | +72.2% |
 | Lothar Matthäus | 90 | Icons | 198k coins | +45% | +13.1% |
+| Ann-Katrin Berger | 87 | NWSL | 57k coins | +39% | +34.9% |
 | Danny da Costa | 84 | Bundesliga | 36k coins | +30% | +20.2% |
-| Klara Bühl | 88 | GPFBL | 52k coins | +24.9% | +24.1% |
-| Lena Oberdorf | 86 | GPFBL | 55k coins | +22.2% | +30.2% |
-| Rani Khedira | 84 | Bundesliga | 60k coins | +20% | -10% |
+| Toni Kroos | 90 | Icons | 100k coins | +28.2% | -16.7% |
 
 
 ### Análise das altas
@@ -73,15 +73,15 @@ Resumo de **30/07/2026** no PC: mercado **aquecido** — as altas dominam o dia.
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Ann-Katrin Berger | 88 | NWSL | 36k coins | -43.8% | +60.4% |
-| Giulia Gwinn | 89 | GPFBL | 32k coins | -43.6% | +0.8% |
+| Giulia Gwinn | 89 | GPFBL | 32k coins | -43.6% | +1.6% |
 | Cora Zicai | 88 | GPFBL | 94k coins | -41.8% | -31.4% |
 | Kai Havertz | 91 | Premier League | 195k coins | -40.4% | -33.7% |
+| Nick Woltemade | 87 | Premier League | 65k coins | -39.1% | -15.2% |
 | Alexandra Popp | 89 | GPFBL | 41k coins | -34.8% | +5.8% |
 | Steffi Jones | 89 | Icons | 26k coins | -33.8% | -16.5% |
-| Jamal Musiala | 89 | Bundesliga | 297k coins | -32.5% | -16.9% |
 | Christian Günter | 88 | Bundesliga | 32k coins | -31.6% | -11% |
-| Carolin Simon | 90 | GPFBL | 28k coins | -30.9% | -58.8% |
 | Bastian Schweinsteiger | 89 | Icons | 125k coins | -30.6% | -13.8% |
+| Florian Wirtz | 89 | Premier League | 247k coins | -30.2% | +26% |
 
 
 ### Análise das baixas
@@ -115,7 +115,7 @@ Kristin Kögel (89, GPFBL), com +57.4% em 24h, a 21k coins no PC.
 Ann-Katrin Berger (88), -43.8% em 24h, a 36k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 48 cartas em alta contra 46 em queda (média 8.87%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 56 cartas em alta contra 44 em queda (média 10.54%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

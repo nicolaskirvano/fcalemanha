@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T10:21:41.000Z
+pubDatetime: 2026-07-30T10:31:10.000Z
 title: "Jogadores baratos EA FC: Alemaes em 30/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,7 +30,7 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.793 coins.
+- **Preço médio das 15 opções:** 10.677 coins.
 - **Posição mais frequente:** ST, com 7 cartas.
 - **Faixa real:** 1.500 a 13.250 coins; nenhuma carta custa 15 mil.
 
@@ -43,18 +43,18 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Gerd Müller | 93 | ST | Icons | 11.750 coins | 0% |
 | Florian Wirtz | 92 | CAM | Premier League | 13.250 coins | 0% |
 | Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
-| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 12.250 coins | +6.5% |
+| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 11.500 coins | 0% |
 | Selina Cerci | 90 | ST | GPFBL | 11.250 coins | 0% |
 | Klara Bühl | 89 | LM | GPFBL | 11.250 coins | 0% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 11.250 coins | -10% |
 | Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 11.500 coins | -10% |
 | Celia Šašić | 89 | ST | GPFBL | 12.500 coins | 0% |
-| Mario Gomez | 88 | ST | Bundesliga | 12.500 coins | -5.7% |
-| Maximilian Mittelstädt | 88 | LB | Bundesliga | 13.000 coins | -6.7% |
+| Mario Gomez | 88 | ST | Bundesliga | 11.000 coins | -5.7% |
+| Maximilian Mittelstädt | 88 | LB | Bundesliga | 13.000 coins | -8.3% |
 | Oliver Bierhoff | 88 | ST | Serie A TIM | 13.250 coins | +10.4% |
 | Lea Schüller | 86 | ST | GPFBL | 1.500 coins | +7.1% |
-| Antonio Rüdiger | 86 | CB | LALIGA EA SPORTS | 3.900 coins | +51.7% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11.500 coins | -2.1% |
+| Antonio Rüdiger | 86 | CB | LALIGA EA SPORTS | 4.400 coins | +51.7% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 11.250 coins | -4.2% |
 
 
 ## 📈 Destaques
@@ -65,7 +65,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Steffi Jones (91, CB)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Antonio Rüdiger (91, CB)** da LALIGA EA SPORTS, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Antonio Rüdiger (91, CB)** da LALIGA EA SPORTS, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Selina Cerci (90, ST)** da GPFBL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
