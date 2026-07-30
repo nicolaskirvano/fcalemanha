@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T16:31:10.000Z
+pubDatetime: 2026-07-30T19:31:10.000Z
 title: "Jogadores baratos EA FC: Alemaes em 30/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.633 coins.
-- **Posição mais frequente:** ST, com 6 cartas.
-- **Faixa real:** 2.000 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 10.793 coins.
+- **Posição mais frequente:** ST, com 4 cartas.
+- **Faixa real:** 3.900 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,18 +43,18 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Gerd Müller | 93 | ST | Icons | 11.750 coins | 0% |
 | Florian Wirtz | 92 | CAM | Premier League | 11.500 coins | -13.2% |
 | Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
-| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 11.500 coins | -6.1% |
+| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 11.500 coins | -4.2% |
 | Selina Cerci | 90 | ST | GPFBL | 11.250 coins | 0% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 7.000 coins | +42.3% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 5.500 coins | +20% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 7.000 coins | +12.5% |
 | Klara Bühl | 89 | LM | GPFBL | 11.250 coins | 0% |
 | Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
-| Rudi Völler | 89 | ST | Bundesliga | 14.250 coins | 0% |
-| Jamal Musiala | 88 | CAM | Bundesliga | 2.000 coins | +45.5% |
-| Oliver Bierhoff | 88 | ST | Serie A TIM | 12.250 coins | -10.9% |
-| Mario Gomez | 88 | ST | Bundesliga | 14.250 coins | +14.3% |
-| Antonio Rüdiger | 86 | CB | LALIGA EA SPORTS | 3.500 coins | +46.7% |
-| Loreen Bender | 86 | RM | GPFBL | 11.750 coins | -2.1% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 14.500 coins | +21.3% |
+| Keven Schlotterbeck | 89 | CB | Bundesliga | 13.750 coins | +24% |
+| Kristin Kögel | 89 | LM | GPFBL | 13.750 coins | -1.9% |
+| Celia Šašić | 89 | ST | GPFBL | 14.750 coins | +11.3% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 11.750 coins | -2% |
+| Antonio Rüdiger | 86 | CB | LALIGA EA SPORTS | 3.900 coins | -2.4% |
+| Loreen Bender | 86 | RM | GPFBL | 11.500 coins | -2.1% |
 
 
 ## 📈 Destaques
