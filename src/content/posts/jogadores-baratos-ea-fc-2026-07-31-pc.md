@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T19:31:19.000Z
+pubDatetime: 2026-07-31T22:31:19.000Z
 title: "Jogadores baratos EA FC: Alemaes em 31/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 9.810 coins.
-- **Posição mais frequente:** ST, com 5 cartas.
-- **Faixa real:** 1.600 a 12.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 9.627 coins.
+- **Posição mais frequente:** ST, com 6 cartas.
+- **Faixa real:** 2.900 a 12.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -45,16 +45,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 11.500 coins | 0% |
 | Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
 | Selina Cerci | 90 | ST | GPFBL | 11.250 coins | 0% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 5.200 coins | -10.2% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 5.300 coins | -5.6% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 6.400 coins | +18.9% |
+| Celia Šašić | 89 | ST | GPFBL | 11.250 coins | 0% |
 | Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
 | Kristin Kögel | 89 | LM | GPFBL | 11.250 coins | -11.8% |
 | Thomas Müller | 89 | RM | MLS | 11.250 coins | 0% |
 | Klara Bühl | 89 | LM | GPFBL | 11.250 coins | 0% |
-| Celia Šašić | 89 | ST | GPFBL | 11.750 coins | -2% |
-| Mario Gomez | 88 | ST | Bundesliga | 12.750 coins | +13.5% |
-| Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 1.600 coins | +13.3% |
-| Klara Bühl | 86 | LM | GPFBL | 2.100 coins | +33.3% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11.250 coins | 0% |
+| Mario Gomez | 88 | ST | Bundesliga | 12.750 coins | -3.8% |
+| Alexandra Popp | 85 | ST | GPFBL | 3.300 coins | +6.5% |
+| Nicole Anyomi | 83 | ST | GPFBL | 2.900 coins | +26.1% |
 
 
 ## 📈 Destaques
@@ -67,7 +67,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Steffi Jones (91, CB)** da Icons, a apenas **11.500 coins**
 
-- **Selina Cerci (90, ST)** da GPFBL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Selina Cerci (90, ST)** da GPFBL, a apenas **11.250 coins**
 
 
 ## Como distribuir a banca
