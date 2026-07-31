@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T10:21:44.000Z
+pubDatetime: 2026-07-31T10:31:20.000Z
 title: "Jogadores baratos EA FC: Alemaes em 31/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.290 coins.
-- **Posição mais frequente:** CB, com 5 cartas.
-- **Faixa real:** 2.600 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 10.487 coins.
+- **Posição mais frequente:** ST, com 5 cartas.
+- **Faixa real:** 1.600 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,19 +42,19 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Gerd Müller | 93 | ST | Icons | 11.750 coins | 0% |
 | Florian Wirtz | 92 | CAM | Premier League | 11.500 coins | 0% |
-| Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
 | Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 11.500 coins | 0% |
+| Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
 | Selina Cerci | 90 | ST | GPFBL | 11.250 coins | 0% |
 | Joshua Kimmich | 89 | CDM | Bundesliga | 5.000 coins | -12.3% |
 | Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
 | Thomas Müller | 89 | RM | MLS | 11.250 coins | 0% |
 | Klara Bühl | 89 | LM | GPFBL | 11.250 coins | 0% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12.500 coins | +20% |
 | Mario Gomez | 88 | ST | Bundesliga | 14.750 coins | -5.8% |
-| Nico Schlotterbeck | 87 | CB | Bundesliga | 14.250 coins | +29.5% |
-| Antonio Rüdiger | 86 | CB | LALIGA EA SPORTS | 3.000 coins | 0% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 11.000 coins | 0% |
-| Nico Schlotterbeck | 85 | CB | Bundesliga | 2.600 coins | +23.1% |
 | Lisa Baum | 85 | RM | GPFBL | 12.500 coins | -9.1% |
+| Sara Doorsoun | 84 | CB | GPFBL | 8.700 coins | +2.4% |
+| Selina Cerci | 83 | ST | GPFBL | 1.600 coins | +6.7% |
 
 
 ## 📈 Destaques
@@ -63,16 +63,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Florian Wirtz (92, CAM)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Steffi Jones (91, CB)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Antonio Rüdiger (91, CB)** da LALIGA EA SPORTS, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Steffi Jones (91, CB)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Selina Cerci (90, ST)** da GPFBL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Steffi Jones (91, CB) por 11.500 coins é a referência de rating deste recorte.
+- **Defesa:** Antonio Rüdiger (91, CB) por 11.500 coins é a referência de rating deste recorte.
 
 - **Meio:** Florian Wirtz (92, CAM) por 11.500 coins é a referência de rating deste recorte.
 
