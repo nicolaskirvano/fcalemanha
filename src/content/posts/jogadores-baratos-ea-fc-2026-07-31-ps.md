@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T16:31:10.000Z
+pubDatetime: 2026-07-31T19:31:10.000Z
 title: "Jogadores baratos EA FC: Alemaes em 31/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.263 coins.
-- **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 5.300 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 10.910 coins.
+- **Posição mais frequente:** ST, com 7 cartas.
+- **Faixa real:** 1.800 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,18 +43,18 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Gerd Müller | 93 | ST | Icons | 11.750 coins | 0% |
 | Florian Wirtz | 92 | CAM | Premier League | 11.500 coins | 0% |
 | Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
-| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 11.500 coins | 0% |
+| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 12.500 coins | 0% |
 | Selina Cerci | 90 | ST | GPFBL | 11.250 coins | 0% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 5.300 coins | -6.7% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 6.400 coins | -8.6% |
-| Klara Bühl | 89 | LM | GPFBL | 11.250 coins | 0% |
 | Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
+| Klara Bühl | 89 | LM | GPFBL | 11.250 coins | 0% |
 | Thomas Müller | 89 | RM | MLS | 13.000 coins | 0% |
-| Joelle Wedemeyer | 89 | RB | GPFBL | 13.500 coins | -11.5% |
-| Keven Schlotterbeck | 89 | CB | Bundesliga | 13.750 coins | +14.3% |
-| Celia Šašić | 89 | ST | GPFBL | 14.750 coins | -5% |
-| Oliver Bierhoff | 88 | ST | Serie A TIM | 11.000 coins | -10.2% |
-| Nadine Keßler | 88 | CM | GPFBL | 11.250 coins | -3.1% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 11.000 coins | +3.6% |
+| Mario Gomez | 88 | ST | Bundesliga | 14.250 coins | -5% |
+| Klara Bühl | 86 | LM | GPFBL | 1.800 coins | -6.7% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 14.250 coins | 0% |
+| Alexandra Popp | 85 | ST | GPFBL | 2.600 coins | +4% |
+| Larissa Mühlhaus | 85 | ST | GPFBL | 14.000 coins | -9.7% |
+| Danny da Costa | 84 | RB | Bundesliga | 11.750 coins | -6% |
 
 
 ## 📈 Destaques
@@ -63,9 +63,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Florian Wirtz (92, CAM)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Steffi Jones (91, CB)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Steffi Jones (91, CB)** da Icons, a apenas **11.500 coins**
 
-- **Antonio Rüdiger (91, CB)** da LALIGA EA SPORTS, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Antonio Rüdiger (91, CB)** da LALIGA EA SPORTS, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Selina Cerci (90, ST)** da GPFBL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
@@ -113,7 +113,6 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Investimentos EA FC: Alemaes em 31/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-31-ps/)
 - [Mercado EA FC em 31/07: Alemaes — Console (PS)](/posts/mercado-ea-fc-2026-07-31-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
