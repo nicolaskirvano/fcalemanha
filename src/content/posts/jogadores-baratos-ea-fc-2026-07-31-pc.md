@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T13:31:19.000Z
+pubDatetime: 2026-07-31T16:31:19.000Z
 title: "Jogadores baratos EA FC: Alemaes em 31/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 9.920 coins.
+- **Preço médio das 15 opções:** 10.530 coins.
 - **Posição mais frequente:** ST, com 5 cartas.
-- **Faixa real:** 1.500 a 13.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 3.300 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -45,21 +45,21 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
 | Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 11.500 coins | 0% |
 | Selina Cerci | 90 | ST | GPFBL | 11.250 coins | 0% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 5.300 coins | -8.5% |
-| Celia Šašić | 89 | ST | GPFBL | 11.250 coins | -8.2% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 11.250 coins | -11.8% |
-| Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 5.000 coins | -8.6% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 5.400 coins | -1.7% |
 | Thomas Müller | 89 | RM | MLS | 11.250 coins | 0% |
+| Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
 | Klara Bühl | 89 | LM | GPFBL | 11.250 coins | 0% |
-| Mario Gomez | 88 | ST | Bundesliga | 13.500 coins | +13.5% |
-| Marc-André ter Stegen | 86 | GK | LALIGA EA SPORTS | 1.500 coins | -6.2% |
-| Antonio Rüdiger | 86 | CB | LALIGA EA SPORTS | 3.500 coins | +23.3% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11.250 coins | -2.2% |
+| Celia Šašić | 89 | ST | GPFBL | 12.000 coins | -2% |
+| Kristin Kögel | 89 | LM | GPFBL | 12.500 coins | -8.5% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 13.750 coins | -3.5% |
+| Mario Gomez | 88 | ST | Bundesliga | 14.750 coins | +3.8% |
+| Lea Schüller | 86 | ST | GPFBL | 3.300 coins | -11.1% |
 
 
 ## 📈 Destaques
 
-- **Gerd Müller (93, ST)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Gerd Müller (93, ST)** da Icons, a apenas **11.750 coins**
 
 - **Florian Wirtz (92, CAM)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 

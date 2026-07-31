@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T13:31:10.000Z
+pubDatetime: 2026-07-31T16:31:10.000Z
 title: "Jogadores baratos EA FC: Alemaes em 31/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.593 coins.
+- **Preço médio das 15 opções:** 11.263 coins.
 - **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 6.200 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 5.300 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -45,16 +45,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
 | Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 11.500 coins | 0% |
 | Selina Cerci | 90 | ST | GPFBL | 11.250 coins | 0% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 6.200 coins | +5.1% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 7.200 coins | +9.9% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 5.300 coins | -6.7% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 6.400 coins | -8.6% |
 | Klara Bühl | 89 | LM | GPFBL | 11.250 coins | 0% |
 | Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
 | Thomas Müller | 89 | RM | MLS | 13.000 coins | 0% |
-| Keven Schlotterbeck | 89 | CB | Bundesliga | 13.250 coins | -1.8% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 14.750 coins | -3.5% |
-| Oliver Bierhoff | 88 | ST | Serie A TIM | 11.000 coins | -12% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 14.000 coins | -5.3% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 14.500 coins | -2.9% |
+| Joelle Wedemeyer | 89 | RB | GPFBL | 13.500 coins | -11.5% |
+| Keven Schlotterbeck | 89 | CB | Bundesliga | 13.750 coins | +14.3% |
+| Celia Šašić | 89 | ST | GPFBL | 14.750 coins | -5% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 11.000 coins | -10.2% |
+| Nadine Keßler | 88 | CM | GPFBL | 11.250 coins | -3.1% |
 
 
 ## 📈 Destaques
