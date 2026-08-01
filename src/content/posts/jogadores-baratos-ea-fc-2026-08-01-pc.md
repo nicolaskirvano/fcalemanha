@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T10:21:17.000Z
+pubDatetime: 2026-08-01T10:31:20.000Z
 title: "Jogadores baratos EA FC: Alemaes em 01/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.677 coins.
+- **Preço médio das 15 opções:** 11.100 coins.
 - **Posição mais frequente:** ST, com 6 cartas.
-- **Faixa real:** 4.900 a 13.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 5.000 a 13.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -54,7 +54,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Kristin Kögel | 89 | LM | GPFBL | 13.750 coins | +9.3% |
 | Rudi Völler | 89 | ST | Bundesliga | 13.750 coins | -14.3% |
 | Mario Gomez | 88 | ST | Bundesliga | 12.750 coins | -5.6% |
-| Lea Schüller | 86 | ST | GPFBL | 4.900 coins | +9.4% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 11.250 coins | 0% |
 
 
 ## 📈 Destaques
