@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T22:31:08.000Z
+pubDatetime: 2026-08-01T01:31:08.000Z
 title: "Investimentos EA FC: Alemaes em 31/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 31/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/07/2026) no EA FC?"
-    a: "Giulia Gwinn (89, GPFBL) lidera, com +37.2% em 7 dias a 27k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Julian Brandt (87, Bundesliga) lidera, com +84.8% em 7 dias a 42k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **31/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Giulia Gwinn (89) acumula **+37.2% em 7 dias** a 27k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Julian Brandt (87) acumula **+84.8% em 7 dias** a 42k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Alemaes em 31/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-31-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **31/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.9% em 24h** e **+12.6% em 7 dias**.
-- **2 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Bundesliga** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.4% em 24h** e **+39.9% em 7 dias**.
+- **3 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Bundesliga** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,27 +43,28 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Giulia Gwinn | 89 | GPFBL | 27k coins | +11.5% | +37.2% | Momentum moderado |
-| Leroy Sané | 84 | Trendyol Süper Lig | 52k coins | +3% | +30% | Momentum moderado |
-| Celia Šašić | 89 | GPFBL | 16.000 coins | +14.3% | +23.1% | Momentum moderado |
-| Jamie Leweling | 86 | Bundesliga | 55k coins | +3.8% | +14.6% | Entrada a observar |
-| Angelo Stiller | 85 | Bundesliga | 22k coins | +31.2% | +10.5% | Esticada |
-| Lothar Matthäus | 90 | Icons | 132k coins | +17.9% | +10% | Momentum moderado |
-| Florian Wirtz | 89 | Premier League | 98k coins | +39.9% | +7% | Esticada |
-| Karim Adeyemi | 85 | Bundesliga | 72k coins | +2.9% | +5.1% | Entrada a observar |
+| Julian Brandt | 87 | Bundesliga | 42k coins | +1.8% | +84.8% | Esticada |
+| Verena Wieder | 85 | GPFBL | 25k coins | +12.4% | +56.2% | Momentum moderado |
+| Sven Ulreich | 87 | Bundesliga | 34k coins | +27.8% | +42.9% | Esticada |
+| Klara Bühl | 87 | GPFBL | 56k coins | +1.8% | +40% | Momentum moderado |
+| Kai Havertz | 91 | Premier League | 172k coins | +7.8% | +39.9% | Momentum moderado |
+| Toni Kroos | 90 | Icons | 100k coins | +9.4% | +25% | Momentum moderado |
+| Marek Janssen | 84 | 3. Liga | 60k coins | +10.2% | +20.8% | Momentum moderado |
+| Yann Aurel Bisseck | 84 | Serie A TIM | 44k coins | +3.9% | +16.2% | Entrada a observar |
+| Toni Kroos | 90 | Icons | 93k coins | +29.4% | +12.1% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Giulia Gwinn (89)** — 27k coins, **+37.2% em 7 dias** (+11.5% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Julian Brandt (87)** — 42k coins, **+84.8% em 7 dias** (+1.8% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Leroy Sané (84)** — 52k coins, **+30% em 7 dias** (+3% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Verena Wieder (85)** — 25k coins, **+56.2% em 7 dias** (+12.4% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Celia Šašić (89)** — 16.000 coins, **+23.1% em 7 dias** (+14.3% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sven Ulreich (87)** — 34k coins, **+42.9% em 7 dias** (+27.8% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jamie Leweling (86)** — 55k coins, **+14.6% em 7 dias** (+3.8% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Klara Bühl (87)** — 56k coins, **+40% em 7 dias** (+1.8% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Angelo Stiller (85)** — 22k coins, **+10.5% em 7 dias** (+31.2% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kai Havertz (91)** — 172k coins, **+39.9% em 7 dias** (+7.8% em 24h). Preço -16% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -81,7 +82,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/07/2026) no EA FC?**  
-Giulia Gwinn (89, GPFBL) lidera, com +37.2% em 7 dias a 27k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Julian Brandt (87, Bundesliga) lidera, com +84.8% em 7 dias a 42k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
