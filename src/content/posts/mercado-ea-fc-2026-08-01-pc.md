@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T13:31:17.000Z
+pubDatetime: 2026-08-01T16:31:17.000Z
 title: "Mercado EA FC em 01/08: Alemaes — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 01/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/08/2026)?"
-    a: "Carolin Simon (90, GPFBL), com +49.7% em 24h, a 62k coins no PC."
+    a: "Benedict Hollerbach (87, Bundesliga), com +51.3% em 24h, a 28k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Deniz Undav (91), -38.7% em 24h, a 98k coins."
+    a: "Franz Beckenbauer (92), -41.9% em 24h, a 149k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 48 cartas em alta contra 51 em queda (média 0.33%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 43 cartas em alta contra 44 em queda (média 0.78%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **de lado** — altas e quedas se equilibram: das cartas relevantes (80+ acima de 5k coins), **48 subiram** e **51 caíram**, com variação média de **0.33%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **de lado** — altas e quedas se equilibram: das cartas relevantes (80+ acima de 5k coins), **43 subiram** e **44 caíram**, com variação média de **0.78%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Carolin Simon (90) **+49.7%** · 🔴 **Maior baixa:** Deniz Undav (91) **-38.7%**
+> 🟢 **Maior alta:** Benedict Hollerbach (87) **+51.3%** · 🔴 **Maior baixa:** Franz Beckenbauer (92) **-41.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 01/08: Alemaes — PC](/charts/mercado-ea-fc-2026-08-01-pc.svg)
 
@@ -35,24 +35,24 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **de lad
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 88.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.5% entre as cartas que se moveram; o universo observado reúne 136 cartas.
+- **Amplitude do dia:** 93.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 49.4% entre as cartas que se moveram; o universo observado reúne 127 cartas.
 - **Concentração:** Bundesliga aparece em 8 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Carolin Simon | 90 | GPFBL | 62k coins | +49.7% | +160.7% |
-| Selina Cerci | 87 | GPFBL | 45k coins | +46.3% | +38.5% |
-| Rani Khedira | 84 | Bundesliga | 56k coins | +43.2% | +3.7% |
-| Nadiem Amiri | 88 | Bundesliga | 34k coins | +35% | -7.5% |
-| Manuel Neuer | 86 | Bundesliga | 83k coins | +33.9% | +183.8% |
-| Ann-Katrin Berger | 87 | NWSL | 54k coins | +33.7% | -5.6% |
-| Timo Werner | 87 | Bundesliga | 49k coins | +32.9% | -1% |
-| Cora Zicai | 88 | GPFBL | 184k coins | +30.1% | +293.8% |
-| Giulia Gwinn | 89 | GPFBL | 37k coins | +26.4% | +49.5% |
-| Angelo Stiller | 91 | Bundesliga | 29k coins | +26% | -39.5% |
+| Benedict Hollerbach | 87 | Bundesliga | 28k coins | +51.3% | +25% |
+| Karim Adeyemi | 86 | Bundesliga | 190k coins | +48.1% | -1% |
+| Danny da Costa | 84 | Bundesliga | 24k coins | +44.1% | +44.1% |
+| Jürgen Kohler | 89 | Bundesliga | 21k coins | +40% | +57.1% |
+| Nadiem Amiri | 88 | Bundesliga | 34k coins | +35% | -4.9% |
+| Luca Marseiler | 90 | Bundesliga 2 | 39k coins | +31.9% | +3.3% |
+| Giulia Gwinn | 89 | GPFBL | 35k coins | +27.3% | +44.3% |
+| Cora Zicai | 88 | GPFBL | 175k coins | +26.8% | +291.1% |
+| Mario Götze | 88 | Bundesliga | 50k coins | +24.4% | +1.5% |
+| Kai Havertz | 91 | Premier League | 372k coins | +24% | +3.3% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **de lad
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Carolin Simon (90)** subiu **+49.7%** em 24h, a **62k coins** (faixa do dia: 18.500–65k). Está +76% acima da média de 7 dias (aquecida).
+- **Benedict Hollerbach (87)** subiu **+51.3%** em 24h, a **28k coins** (faixa do dia: 11.500–30k). Está +14% acima da média de 7 dias (aquecida).
 
-- **Selina Cerci (87)** subiu **+46.3%** em 24h, a **45k coins** (faixa do dia: 11.000–45k). Está +64% acima da média de 7 dias (aquecida).
+- **Karim Adeyemi (86)** subiu **+48.1%** em 24h, a **190k coins** (faixa do dia: 100k–206k). Está +28% acima da média de 7 dias (aquecida).
 
-- **Rani Khedira (84)** subiu **+43.2%** em 24h, a **56k coins** (faixa do dia: 36k–60k). Está +10% acima da média de 7 dias (aquecida).
+- **Danny da Costa (84)** subiu **+44.1%** em 24h, a **24k coins** (faixa do dia: 12.000–30k). Está -8% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Deniz Undav | 91 | Bundesliga | 98k coins | -38.7% | +0.5% |
-| Kevin Schade | 88 | Premier League | 35k coins | -38% | -11.4% |
-| Simone Laudehr | 90 | GPFBL | 20k coins | -35.5% | -61% |
-| Bastian Schweinsteiger | 88 | Icons | 96k coins | -34.7% | +39% |
-| Yann Aurel Bisseck | 84 | Serie A TIM | 38k coins | -30.9% | +5.6% |
-| Klara Bühl | 87 | GPFBL | 46k coins | -27.3% | +1.6% |
-| Bastian Schweinsteiger | 89 | Icons | 146k coins | -18.9% | +4.3% |
-| Ragnar Ache | 84 | Bundesliga | 42k coins | -18.8% | -18% |
-| Leroy Sané | 91 | Trendyol Süper Lig | 29k coins | -16.2% | -20.1% |
-| Mario Götze | 88 | Bundesliga | 40k coins | -12.5% | -30% |
+| Franz Beckenbauer | 92 | Icons | 149k coins | -41.9% | +0.7% |
+| Deniz Undav | 91 | Bundesliga | 100k coins | -41.5% | +96.1% |
+| Bastian Schweinsteiger | 88 | Icons | 88k coins | -35.6% | +29.8% |
+| Kevin Schade | 88 | Premier League | 34k coins | -33% | -4.3% |
+| Yann Aurel Bisseck | 84 | Serie A TIM | 35k coins | -30.9% | +5.6% |
+| Ragnar Ache | 84 | Bundesliga | 47k coins | -29.8% | -12.6% |
+| Klara Bühl | 87 | GPFBL | 46k coins | -28.8% | -2.6% |
+| Oliver Kahn | 91 | Icons | 115k coins | -28.1% | +2.7% |
+| Nadine Keßler | 90 | GPFBL | 36k coins | -28% | -41.9% |
+| Lothar Matthäus | 90 | Icons | 88k coins | -24.4% | -36.1% |
 
 
 ### Análise das baixas
 
-- **Deniz Undav (91)** caiu **-38.7%** em 24h, a **98k coins** (faixa do dia: 85k–180k). Está -11% abaixo da média de 7 dias (descontada).
+- **Franz Beckenbauer (92)** caiu **-41.9%** em 24h, a **149k coins** (faixa do dia: 120k–266k). Está -13% abaixo da média de 7 dias (descontada).
 
-- **Kevin Schade (88)** caiu **-38%** em 24h, a **35k coins** (faixa do dia: 30k–50k). Está -16% abaixo da média de 7 dias (descontada).
+- **Deniz Undav (91)** caiu **-41.5%** em 24h, a **100k coins** (faixa do dia: 85k–180k). Está -9% abaixo da média de 7 dias (descontada).
 
-- **Simone Laudehr (90)** caiu **-35.5%** em 24h, a **20k coins** (faixa do dia: 12.750–29k). Está -53% abaixo da média de 7 dias (descontada).
+- **Bastian Schweinsteiger (88)** caiu **-35.6%** em 24h, a **88k coins** (faixa do dia: 71k–128k). Está -31% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Carolin Simon já avançou 49.7% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Benedict Hollerbach já avançou 51.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Deniz Undav recuou -38.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Franz Beckenbauer recuou -41.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/08/2026)?**
-Carolin Simon (90, GPFBL), com +49.7% em 24h, a 62k coins no PC.
+Benedict Hollerbach (87, Bundesliga), com +51.3% em 24h, a 28k coins no PC.
 
 **E a maior queda do dia?**
-Deniz Undav (91), -38.7% em 24h, a 98k coins.
+Franz Beckenbauer (92), -41.9% em 24h, a 149k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está de lado — altas e quedas se equilibram, com 48 cartas em alta contra 51 em queda (média 0.33%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 43 cartas em alta contra 44 em queda (média 0.78%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
