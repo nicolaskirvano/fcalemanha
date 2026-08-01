@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T16:31:19.000Z
+pubDatetime: 2026-08-01T19:31:19.000Z
 title: "Jogadores baratos EA FC: Alemaes em 01/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.667 coins.
+- **Preço médio das 15 opções:** 10.687 coins.
 - **Posição mais frequente:** ST, com 5 cartas.
-- **Faixa real:** 5.600 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 5.600 a 12.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,18 +43,18 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Gerd Müller | 93 | ST | Icons | 11.750 coins | 0% |
 | Florian Wirtz | 92 | CAM | Premier League | 11.500 coins | 0% |
 | Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
-| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 12.250 coins | +4.3% |
+| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 12.250 coins | +6.5% |
 | Selina Cerci | 90 | ST | GPFBL | 11.250 coins | 0% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 5.600 coins | +7.1% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 6.500 coins | +26.4% |
+| Nick Woltemade | 90 | ST | Premier League | 11.250 coins | 0% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 5.600 coins | +7.8% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 5.700 coins | -6.5% |
 | Klara Bühl | 89 | LM | GPFBL | 11.250 coins | 0% |
 | Thomas Müller | 89 | RM | MLS | 11.250 coins | 0% |
+| Kristin Kögel | 89 | LM | GPFBL | 11.250 coins | 0% |
+| Alexandra Popp | 89 | ST | GPFBL | 11.250 coins | 0% |
 | Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
-| Kristin Kögel | 89 | LM | GPFBL | 12.000 coins | +4.3% |
-| Celia Šašić | 89 | ST | GPFBL | 12.000 coins | 0% |
-| Mario Gomez | 88 | ST | Bundesliga | 14.250 coins | +5.6% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11.250 coins | 0% |
-| Sara Doorsoun | 84 | CB | GPFBL | 6.400 coins | +12.5% |
+| Celia Šašić | 89 | ST | GPFBL | 11.750 coins | 0% |
+| Nadine Keßler | 88 | CM | GPFBL | 11.500 coins | -1.5% |
 
 
 ## 📈 Destaques
