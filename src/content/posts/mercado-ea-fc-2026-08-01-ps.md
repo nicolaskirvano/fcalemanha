@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T22:31:07.000Z
+pubDatetime: 2026-08-02T01:31:08.000Z
 title: "Mercado EA FC em 01/08: Alemaes — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 01/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/08/2026)?"
-    a: "Lisa Baum (85, GPFBL), com +60% em 24h, a 22k coins no Console (PS)."
+    a: "Matthias Ginter (88, Bundesliga), com +58.8% em 24h, a 54k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Manuel Neuer (86), -33.3% em 24h, a 65k coins."
+    a: "Luca Marseiler (90), -46.7% em 24h, a 24k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 49 cartas em alta contra 34 em queda (média 7.52%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 44 cartas em alta contra 44 em queda (média 9.04%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em clima **comprador** — a maioria das cartas subiu: das cartas relevantes (80+ acima de 5k coins), **49 subiram** e **34 caíram**, com variação média de **7.52%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em clima **comprador** — a maioria das cartas subiu: das cartas relevantes (80+ acima de 5k coins), **44 subiram** e **44 caíram**, com variação média de **9.04%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Lisa Baum (85) **+60%** · 🔴 **Maior baixa:** Manuel Neuer (86) **-33.3%**
+> 🟢 **Maior alta:** Matthias Ginter (88) **+58.8%** · 🔴 **Maior baixa:** Luca Marseiler (90) **-46.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 01/08: Alemaes — Console (PS)](/charts/mercado-ea-fc-2026-08-01-ps.svg)
 
@@ -35,24 +35,24 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 93.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 59.0% entre as cartas que se moveram; o universo observado reúne 116 cartas.
-- **Concentração:** GPFBL aparece em 7 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 105.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 50.0% entre as cartas que se moveram; o universo observado reúne 122 cartas.
+- **Concentração:** Bundesliga aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lisa Baum | 85 | GPFBL | 22k coins | +60% | +39.7% |
-| Uli Hoeneß | 86 | Bundesliga | 26k coins | +55.7% | +61% |
-| Marc-André ter Stegen | 89 | LALIGA EA SPORTS | 162k coins | +52.2% | +66.7% |
-| Pascal Groß | 87 | Premier League | 29k coins | +44.7% | -28.1% |
-| Idrissa Touré | 83 | Serie A TIM | 92k coins | +37.5% | +73.1% |
-| Paul Wanner | 84 | Eredivisie | 55k coins | +31.1% | +30.4% |
-| Franz Beckenbauer | 92 | Icons | 162k coins | +29.6% | +40.9% |
-| Simone Laudehr | 90 | GPFBL | 38k coins | +27.7% | -21.6% |
-| Sven Ulreich | 87 | Bundesliga | 42k coins | +26.1% | +70.7% |
-| Nadine Keßler | 89 | GPFBL | 22k coins | +25% | -21.7% |
+| Matthias Ginter | 88 | Bundesliga | 54k coins | +58.8% | +13.7% |
+| Simone Laudehr | 90 | GPFBL | 41k coins | +52.8% | -14.9% |
+| Franz Beckenbauer | 92 | Icons | 169k coins | +36.2% | +55.3% |
+| Steffi Jones | 89 | Icons | 38k coins | +26.2% | -12.5% |
+| Christian Günter | 88 | Bundesliga | 35k coins | +25.2% | -6.9% |
+| Sven Ulreich | 87 | Bundesliga | 40k coins | +19.4% | +66.7% |
+| Malick Thiaw | 86 | Premier League | 60k coins | +16.5% | +14.3% |
+| Kai Havertz | 91 | Premier League | 200k coins | +16.3% | +42.9% |
+| Paul Wanner | 84 | Eredivisie | 55k coins | +14.6% | +37.5% |
+| Nadine Keßler | 90 | GPFBL | 52k coins | +13.7% | +55.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Lisa Baum (85)** subiu **+60%** em 24h, a **22k coins** (faixa do dia: 13.750–29k). Está +9% acima da média de 7 dias (aquecida).
+- **Matthias Ginter (88)** subiu **+58.8%** em 24h, a **54k coins** (faixa do dia: 24k–64k). Está +53% acima da média de 7 dias (aquecida).
 
-- **Uli Hoeneß (86)** subiu **+55.7%** em 24h, a **26k coins** (faixa do dia: 13.500–27k). Está +60% acima da média de 7 dias (aquecida).
+- **Simone Laudehr (90)** subiu **+52.8%** em 24h, a **41k coins** (faixa do dia: 14.500–45k). Está +15% acima da média de 7 dias (aquecida).
 
-- **Marc-André ter Stegen (89)** subiu **+52.2%** em 24h, a **162k coins** (faixa do dia: 62k–180k). Está +29% acima da média de 7 dias (aquecida).
+- **Franz Beckenbauer (92)** subiu **+36.2%** em 24h, a **169k coins** (faixa do dia: 110k–177k). Está +12% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Manuel Neuer | 86 | Bundesliga | 65k coins | -33.3% | -3.4% |
-| Cora Zicai | 88 | GPFBL | 30k coins | -32.2% | -69.5% |
-| Giulia Gwinn | 89 | GPFBL | 28k coins | -25.2% | -17.5% |
-| Carolin Simon | 90 | GPFBL | 30k coins | -21.7% | +24% |
-| Phil Harres | 83 | Bundesliga 2 | 63k coins | -18.2% | -4.5% |
-| Mario Götze | 88 | Bundesliga | 33k coins | -18.1% | -27.2% |
-| Berkan Taz | 80 | Indian Super League | 48k coins | -13.7% | -13.7% |
-| Lewis Holtby | 86 | Eredivisie | 45k coins | -12.7% | +42.2% |
-| Lena Oberdorf | 86 | GPFBL | 50k coins | -12.7% | -13.5% |
-| Aleksandar Pavlović | 89 | Bundesliga | 29k coins | -12.1% | +23.4% |
+| Luca Marseiler | 90 | Bundesliga 2 | 24k coins | -46.7% | -29.2% |
+| Cora Zicai | 88 | GPFBL | 24k coins | -41.1% | -74.7% |
+| Lothar Matthäus | 91 | Icons | 717k coins | -31.4% | -14.5% |
+| Karim Adeyemi | 86 | Bundesliga | 82k coins | -31.2% | -28.9% |
+| Leroy Sané | 91 | Trendyol Süper Lig | 29k coins | -25% | +2.1% |
+| Phil Harres | 83 | Bundesliga 2 | 63k coins | -20.8% | -4.5% |
+| Lewis Holtby | 86 | Eredivisie | 45k coins | -18.2% | +51.3% |
+| Vanessa Fudalla | 88 | GPFBL | 21k coins | -16% | -42.9% |
+| Aleksandar Pavlović | 89 | Bundesliga | 28k coins | -15.9% | +13.3% |
+| David Raum | 84 | Bundesliga | 55k coins | -15.4% | -8.3% |
 
 
 ### Análise das baixas
 
-- **Manuel Neuer (86)** caiu **-33.3%** em 24h, a **65k coins** (faixa do dia: 35k–74k). Está +12% acima da média de 7 dias (aquecida).
+- **Luca Marseiler (90)** caiu **-46.7%** em 24h, a **24k coins** (faixa do dia: 17.000–73k). Está -23% abaixo da média de 7 dias (descontada).
 
-- **Cora Zicai (88)** caiu **-32.2%** em 24h, a **30k coins** (faixa do dia: 28k–56k). Está -59% abaixo da média de 7 dias (descontada).
+- **Cora Zicai (88)** caiu **-41.1%** em 24h, a **24k coins** (faixa do dia: 24k–56k). Está -66% abaixo da média de 7 dias (descontada).
 
-- **Giulia Gwinn (89)** caiu **-25.2%** em 24h, a **28k coins** (faixa do dia: 15.000–50k). Está em linha com a média de 7 dias (+4%).
+- **Lothar Matthäus (91)** caiu **-31.4%** em 24h, a **717k coins** (faixa do dia: 681k–1.20M). Está em linha com a média de 7 dias (+4%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Lisa Baum já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Matthias Ginter já avançou 58.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Manuel Neuer recuou -33.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Luca Marseiler recuou -46.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/08/2026)?**
-Lisa Baum (85, GPFBL), com +60% em 24h, a 22k coins no Console (PS).
+Matthias Ginter (88, Bundesliga), com +58.8% em 24h, a 54k coins no Console (PS).
 
 **E a maior queda do dia?**
-Manuel Neuer (86), -33.3% em 24h, a 65k coins.
+Luca Marseiler (90), -46.7% em 24h, a 24k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 49 cartas em alta contra 34 em queda (média 7.52%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 44 cartas em alta contra 44 em queda (média 9.04%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

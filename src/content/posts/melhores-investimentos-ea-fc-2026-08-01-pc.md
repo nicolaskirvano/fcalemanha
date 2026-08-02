@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T22:31:18.000Z
+pubDatetime: 2026-08-02T01:31:19.000Z
 title: "Investimentos EA FC: Alemaes em 01/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Angelo Stiller (85, Bundesliga) lidera, com +80.6% em 7 dias a 30k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "David Raum (84, Bundesliga) lidera, com +52.7% em 7 dias a 64k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Angelo Stiller (85) acumula **+80.6% em 7 dias** a 30k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** David Raum (84) acumula **+52.7% em 7 dias** a 64k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Alemaes em 01/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-01-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.1% em 24h** e **+32.3% em 7 dias**.
-- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **GPFBL** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+18.2% em 24h** e **+29.0% em 7 dias**.
+- **5 de 13 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Bundesliga** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,32 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Angelo Stiller | 85 | Bundesliga | 30k coins | +8.3% | +80.6% | Esticada |
-| Verena Wieder | 85 | GPFBL | 25k coins | +10.6% | +76.3% | Esticada |
-| David Raum | 84 | Bundesliga | 65k coins | +12.1% | +52% | Momentum moderado |
-| Marc-André ter Stegen | 89 | LALIGA EA SPORTS | 75k coins | +17.2% | +50% | Momentum moderado |
-| Toni Kroos | 90 | Icons | 98k coins | +1.6% | +35.4% | Momentum moderado |
-| Bastian Schweinsteiger | 88 | Icons | 94k coins | +18% | +34.8% | Momentum moderado |
-| Vanessa Fudalla | 87 | GPFBL | 66k coins | +2.3% | +33% | Momentum moderado |
-| Klara Bühl | 88 | GPFBL | 64k coins | +20.6% | +32.3% | Esticada |
-| Birgit Prinz | 93 | Icons | 94k coins | +16.9% | +29.9% | Momentum moderado |
-| Thomas Müller | 86 | MLS | 110k coins | +28.7% | +22.2% | Esticada |
-| Paul Wanner | 84 | Eredivisie | 46k coins | +6.9% | +17.7% | Momentum moderado |
-| Klara Bühl | 87 | GPFBL | 54k coins | +9% | +14.7% | Momentum moderado |
+| David Raum | 84 | Bundesliga | 64k coins | +10.3% | +52.7% | Momentum moderado |
+| Toni Kroos | 90 | Icons | 119k coins | +2.9% | +50% | Momentum moderado |
+| Ann-Katrin Berger | 88 | NWSL | 26k coins | +11.7% | +38.2% | Momentum moderado |
+| David Raum | 87 | Bundesliga | 28k coins | +30.7% | +35.3% | Esticada |
+| Birgit Prinz | 93 | Icons | 106k coins | +20.1% | +32.6% | Esticada |
+| Klara Bühl | 88 | GPFBL | 50k coins | +8.5% | +30.7% | Momentum moderado |
+| Klara Bühl | 87 | GPFBL | 64k coins | +29% | +29% | Esticada |
+| Toni Kroos | 90 | Icons | 99k coins | +2.6% | +27.4% | Momentum moderado |
+| Mario Götze | 88 | Bundesliga | 49k coins | +21.1% | +25.8% | Esticada |
+| Nadiem Amiri | 88 | Bundesliga | 35k coins | +2.9% | +12.9% | Entrada a observar |
 | Lena Oberdorf | 86 | GPFBL | 55k coins | +37.5% | +12.8% | Esticada |
-| Jamie Leweling | 86 | Bundesliga | 46k coins | +2% | +11.1% | Entrada a observar |
-| Sara Däbritz | 86 | Liga F | 48k coins | +19.5% | +9.2% | Momentum moderado |
+| Sara Däbritz | 86 | Liga F | 48k coins | +18.8% | +9.2% | Momentum moderado |
+| Lukas Klostermann | 88 | Bundesliga | 130k coins | +18.2% | +7.4% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Angelo Stiller (85)** — 30k coins, **+80.6% em 7 dias** (+8.3% em 24h). Preço +50% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **David Raum (84)** — 64k coins, **+52.7% em 7 dias** (+10.3% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Verena Wieder (85)** — 25k coins, **+76.3% em 7 dias** (+10.6% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Toni Kroos (90)** — 119k coins, **+50% em 7 dias** (+2.9% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **David Raum (84)** — 65k coins, **+52% em 7 dias** (+12.1% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ann-Katrin Berger (88)** — 26k coins, **+38.2% em 7 dias** (+11.7% em 24h). Preço -41% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marc-André ter Stegen (89)** — 75k coins, **+50% em 7 dias** (+17.2% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **David Raum (87)** — 28k coins, **+35.3% em 7 dias** (+30.7% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Toni Kroos (90)** — 98k coins, **+35.4% em 7 dias** (+1.6% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Birgit Prinz (93)** — 106k coins, **+32.6% em 7 dias** (+20.1% em 24h). Preço +78% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +86,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Angelo Stiller (85, Bundesliga) lidera, com +80.6% em 7 dias a 30k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+David Raum (84, Bundesliga) lidera, com +52.7% em 7 dias a 64k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
