@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:31:09.000Z
+pubDatetime: 2026-08-02T13:31:09.000Z
 title: "Investimentos EA FC: Alemaes em 02/08 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+18.6% em 24h** e **+41.7% em 7 dias**.
-- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Bundesliga** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.2% em 24h** e **+31.9% em 7 dias**.
+- **4 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Bundesliga** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Uli Hoeneß | 86 | Bundesliga | 26k coins | +22.1% | +78% | Esticada |
-| Lewis Holtby | 86 | Eredivisie | 50k coins | +14.4% | +77.6% | Esticada |
-| Manuel Neuer | 86 | Bundesliga | 66k coins | +24.5% | +74.8% | Esticada |
-| Sven Ulreich | 87 | Bundesliga | 40k coins | +33.3% | +73.9% | Esticada |
-| Toni Kroos | 90 | Icons | 90k coins | +29.1% | +64% | Esticada |
-| Nico Schlotterbeck | 87 | Bundesliga | 24k coins | +19.5% | +55.9% | Momentum moderado |
-| Bastian Schweinsteiger | 89 | Icons | 129k coins | +1.5% | +47.1% | Momentum moderado |
-| Marc-André ter Stegen | 89 | LALIGA EA SPORTS | 180k coins | +1.7% | +41.7% | Momentum moderado |
-| Matthias Ginter | 88 | Bundesliga | 46k coins | +35.7% | +38.6% | Esticada |
-| Nico Schlotterbeck | 87 | Bundesliga | 70k coins | +18.6% | +34.6% | Momentum moderado |
-| Klara Bühl | 87 | GPFBL | 52k coins | +18.5% | +32.9% | Momentum moderado |
-| Joshua Kimmich | 90 | Bundesliga | 57k coins | +3.6% | +26.7% | Momentum moderado |
-| Paul Wanner | 84 | Eredivisie | 50k coins | +5.2% | +26.2% | Momentum moderado |
-| Lothar Matthäus | 90 | Icons | 132k coins | +1.5% | +25.7% | Momentum moderado |
-| Uli Hoeneß | 88 | Bundesliga | 15.000 coins | +31.2% | +20% | Esticada |
+| Uli Hoeneß | 86 | Bundesliga | 26k coins | +14.1% | +78% | Esticada |
+| Celia Šašić | 92 | GPFBL | 22k coins | +14.1% | +53.4% | Momentum moderado |
+| Marc-André ter Stegen | 89 | LALIGA EA SPORTS | 180k coins | +5.9% | +50% | Momentum moderado |
+| Joshua Kimmich | 90 | Bundesliga | 65k coins | +36.8% | +43.6% | Esticada |
+| Matthias Ginter | 88 | Bundesliga | 50k coins | +39.9% | +42.9% | Esticada |
+| Klara Bühl | 87 | GPFBL | 58k coins | +14.7% | +33% | Momentum moderado |
+| Aleksandar Pavlović | 89 | Bundesliga | 36k coins | +29.4% | +32% | Esticada |
+| Lothar Matthäus | 90 | Icons | 135k coins | +6.2% | +31.7% | Momentum moderado |
+| Lewis Holtby | 86 | Eredivisie | 43k coins | +2.3% | +28.5% | Momentum moderado |
+| Jürgen Kohler | 89 | Bundesliga | 17.000 coins | +3% | +23.6% | Entrada a observar |
+| Fatih Kaya | 84 | 3. Liga | 51k coins | +13.1% | +20% | Momentum moderado |
+| Lisanne Gräwe | 86 | GPFBL | 23k coins | +2% | +17.4% | Entrada a observar |
+| Oliver Kahn | 91 | Icons | 95k coins | +11.4% | +11.4% | Momentum moderado |
+| Yann Aurel Bisseck | 84 | Serie A TIM | 44k coins | +9.2% | +9.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Uli Hoeneß (86)** — 26k coins, **+78% em 7 dias** (+22.1% em 24h). Preço +53% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Uli Hoeneß (86)** — 26k coins, **+78% em 7 dias** (+14.1% em 24h). Preço +51% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lewis Holtby (86)** — 50k coins, **+77.6% em 7 dias** (+14.4% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Celia Šašić (92)** — 22k coins, **+53.4% em 7 dias** (+14.1% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Manuel Neuer (86)** — 66k coins, **+74.8% em 7 dias** (+24.5% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marc-André ter Stegen (89)** — 180k coins, **+50% em 7 dias** (+5.9% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sven Ulreich (87)** — 40k coins, **+73.9% em 7 dias** (+33.3% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Joshua Kimmich (90)** — 65k coins, **+43.6% em 7 dias** (+36.8% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Toni Kroos (90)** — 90k coins, **+64% em 7 dias** (+29.1% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Matthias Ginter (88)** — 50k coins, **+42.9% em 7 dias** (+39.9% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

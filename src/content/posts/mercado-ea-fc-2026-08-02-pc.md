@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:31:16.000Z
+pubDatetime: 2026-08-02T13:31:17.000Z
 title: "Mercado EA FC em 02/08: Alemaes — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 02/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (02/08/2026)?"
-    a: "Lennart Karl (83, Bundesliga), com +50% em 24h, a 120k coins no PC."
+    a: "Lennart Karl (83, Bundesliga), com +47.2% em 24h, a 117k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Nick Woltemade (87), -44.9% em 24h, a 40k coins."
+    a: "Karim Adeyemi (86), -36.6% em 24h, a 188k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 35 cartas em alta contra 37 em queda (média 2.8%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 35 cartas em alta contra 47 em queda (média 0.19%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **02/08/2026** (PC): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **35 em alta** e **37 em queda**, média de **2.8%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **02/08/2026** (PC): dia **indefinido** — sem tendência dominante. Entre as cartas relevantes (80+ e acima de 5k coins), foram **35 em alta** e **47 em queda**, média de **0.19%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Lennart Karl (83) **+50%** · 🔴 **Maior baixa:** Nick Woltemade (87) **-44.9%**
+> 🟢 **Maior alta:** Lennart Karl (83) **+47.2%** · 🔴 **Maior baixa:** Karim Adeyemi (86) **-36.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 02/08: Alemaes — PC](/charts/mercado-ea-fc-2026-08-02-pc.svg)
 
@@ -35,24 +35,24 @@ Panorama de **02/08/2026** (PC): mercado **aquecido** — as altas dominam o dia
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 94.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.6% entre as cartas que se moveram; o universo observado reúne 126 cartas.
-- **Concentração:** Bundesliga aparece em 11 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 83.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 42.7% entre as cartas que se moveram; o universo observado reúne 131 cartas.
+- **Concentração:** Bundesliga aparece em 10 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lennart Karl | 83 | Bundesliga | 120k coins | +50% | -7.7% |
-| Deniz Undav | 91 | Bundesliga | 162k coins | +44.3% | +59.6% |
-| Ragnar Ache | 84 | Bundesliga | 60k coins | +40% | +32.2% |
+| Lennart Karl | 83 | Bundesliga | 117k coins | +47.2% | -10% |
 | Christian Günter | 88 | Bundesliga | 45k coins | +38.5% | +127.8% |
-| Can Bozdoğan | 87 | Eredivisie | 28k coins | +23.3% | -10.5% |
-| Jürgen Kohler | 90 | Bundesliga | 60k coins | +18.6% | +6.1% |
-| Jonathan Tah | 88 | Bundesliga | 62k coins | +18.2% | +217.1% |
-| Oliver Kahn | 91 | Icons | 82k coins | +17.1% | +74.5% |
-| Luca Marseiler | 90 | Bundesliga 2 | 48k coins | +13.9% | +105.2% |
-| Larissa Mühlhaus | 85 | GPFBL | 55k coins | +12.8% | +14.6% |
+| Lukas Klostermann | 88 | Bundesliga | 176k coins | +35.4% | +45.5% |
+| Toni Kroos | 90 | Icons | 120k coins | +34.8% | +58.9% |
+| Ragnar Ache | 84 | Bundesliga | 52k coins | +24.6% | +15.6% |
+| Angelo Stiller | 85 | Bundesliga | 30k coins | +24.5% | +117.9% |
+| Nadine Keßler | 90 | GPFBL | 46k coins | +21.7% | -6.6% |
+| Ann-Katrin Berger | 88 | NWSL | 42k coins | +17.2% | -12.8% |
+| Jamal Musiala | 89 | Bundesliga | 400k coins | +17% | +14.3% |
+| Luca Marseiler | 90 | Bundesliga 2 | 45k coins | +12.1% | +107.9% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **02/08/2026** (PC): mercado **aquecido** — as altas dominam o dia
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Lennart Karl (83)** subiu **+50%** em 24h, a **120k coins** (faixa do dia: 50k–154k). Está em linha com a média de 7 dias (-7%).
+- **Lennart Karl (83)** subiu **+47.2%** em 24h, a **117k coins** (faixa do dia: 65k–154k). Está -9% abaixo da média de 7 dias (descontada).
 
-- **Deniz Undav (91)** subiu **+44.3%** em 24h, a **162k coins** (faixa do dia: 90k–180k). Está +41% acima da média de 7 dias (aquecida).
+- **Christian Günter (88)** subiu **+38.5%** em 24h, a **45k coins** (faixa do dia: 32k–48k). Está +23% acima da média de 7 dias (aquecida).
 
-- **Ragnar Ache (84)** subiu **+40%** em 24h, a **60k coins** (faixa do dia: 41k–60k). Está +18% acima da média de 7 dias (aquecida).
+- **Lukas Klostermann (88)** subiu **+35.4%** em 24h, a **176k coins** (faixa do dia: 130k–200k). Está +36% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nick Woltemade | 87 | Premier League | 40k coins | -44.9% | +188.2% |
-| Florian Wirtz | 90 | Premier League | 122k coins | -39% | -10.9% |
-| Vanessa Fudalla | 88 | GPFBL | 35k coins | -38.1% | -50% |
-| Toni Kroos | 90 | Icons | 115k coins | -36.3% | +61.1% |
-| Pascal Groß | 87 | Premier League | 22k coins | -31.5% | -29.6% |
-| Uli Hoeneß | 88 | Bundesliga | 29k coins | -27.9% | +23.2% |
+| Karim Adeyemi | 86 | Bundesliga | 188k coins | -36.6% | -1.6% |
+| Nadiem Amiri | 88 | Bundesliga | 22k coins | -33.3% | -26.2% |
+| Leroy Sané | 91 | Trendyol Süper Lig | 20k coins | -33.3% | -52.6% |
+| Pascal Groß | 87 | Premier League | 25k coins | -31.5% | -29.6% |
+| Vanessa Fudalla | 88 | GPFBL | 35k coins | -31.4% | -46.6% |
+| Uli Hoeneß | 88 | Bundesliga | 28k coins | -27.9% | +23.2% |
 | Aleksandar Pavlović | 89 | Bundesliga | 44k coins | -27.5% | -22.3% |
-| Karim Adeyemi | 86 | Bundesliga | 123k coins | -23.1% | -3.1% |
-| Manuel Neuer | 86 | Bundesliga | 58k coins | -21.6% | +16% |
-| Julian Brandt | 87 | Bundesliga | 30k coins | -14.3% | -29.4% |
+| Kai Havertz | 91 | Premier League | 275k coins | -26.1% | -11.3% |
+| Bastian Schweinsteiger | 89 | Icons | 180k coins | -22.6% | -23.6% |
+| Ann-Katrin Berger | 87 | NWSL | 48k coins | -21.1% | -19.2% |
 
 
 ### Análise das baixas
 
-- **Nick Woltemade (87)** caiu **-44.9%** em 24h, a **40k coins** (faixa do dia: 35k–110k). Está -51% abaixo da média de 7 dias (descontada).
+- **Karim Adeyemi (86)** caiu **-36.6%** em 24h, a **188k coins** (faixa do dia: 73k–206k). Está +28% acima da média de 7 dias (aquecida).
 
-- **Florian Wirtz (90)** caiu **-39%** em 24h, a **122k coins** (faixa do dia: 76k–200k). Está -20% abaixo da média de 7 dias (descontada).
+- **Nadiem Amiri (88)** caiu **-33.3%** em 24h, a **22k coins** (faixa do dia: 15.750–40k). Está -21% abaixo da média de 7 dias (descontada).
 
-- **Vanessa Fudalla (88)** caiu **-38.1%** em 24h, a **35k coins** (faixa do dia: 35k–129k). Está -22% abaixo da média de 7 dias (descontada).
+- **Leroy Sané (91)** caiu **-33.3%** em 24h, a **20k coins** (faixa do dia: 20k–75k). Está -49% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Lennart Karl já avançou 50% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Lennart Karl já avançou 47.2% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Nick Woltemade recuou -44.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Karim Adeyemi recuou -36.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (02/08/2026)?**
-Lennart Karl (83, Bundesliga), com +50% em 24h, a 120k coins no PC.
+Lennart Karl (83, Bundesliga), com +47.2% em 24h, a 117k coins no PC.
 
 **E a maior queda do dia?**
-Nick Woltemade (87), -44.9% em 24h, a 40k coins.
+Karim Adeyemi (86), -36.6% em 24h, a 188k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 35 cartas em alta contra 37 em queda (média 2.8%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 35 cartas em alta contra 47 em queda (média 0.19%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
