@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T16:31:18.000Z
+pubDatetime: 2026-08-02T19:31:18.000Z
 title: "Investimentos EA FC: Alemaes em 02/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Toni Kroos (90, Icons) lidera, com +63.3% em 7 dias a 120k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Toni Kroos (90, Icons) lidera, com +63.3% em 7 dias a 119k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Toni Kroos (90) acumula **+63.3% em 7 dias** a 120k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Toni Kroos (90) acumula **+63.3% em 7 dias** a 119k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Alemaes em 02/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-02-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+19.6% em 24h** e **+20.6% em 7 dias**.
-- **5 de 10 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Bundesliga** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+15.8% em 24h** e **+19.3% em 7 dias**.
+- **5 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Bundesliga** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,29 +43,30 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Toni Kroos | 90 | Icons | 120k coins | +34.8% | +63.3% | Esticada |
-| Klara Bühl | 88 | GPFBL | 64k coins | +27% | +44.3% | Esticada |
-| Lukas Klostermann | 88 | Bundesliga | 114k coins | +21.5% | +30.6% | Esticada |
-| Bastian Schweinsteiger | 89 | Icons | 180k coins | +23.3% | +24.1% | Esticada |
-| Fatih Kaya | 84 | 3. Liga | 45k coins | +9.1% | +20.7% | Momentum moderado |
-| Karim Adeyemi | 85 | Bundesliga | 74k coins | +17.8% | +20.6% | Momentum moderado |
-| Klara Bühl | 87 | GPFBL | 48k coins | +3.2% | +19.4% | Entrada a observar |
+| Toni Kroos | 90 | Icons | 119k coins | +36.4% | +63.3% | Esticada |
+| Oliver Bierhoff | 88 | Serie A TIM | 16.500 coins | +1.5% | +52.3% | Momentum moderado |
+| Julian Brandt | 87 | Bundesliga | 41k coins | +20.6% | +45.3% | Esticada |
+| Sara Däbritz | 86 | Liga F | 55k coins | +15.8% | +26.4% | Momentum moderado |
+| Danny da Costa | 84 | Bundesliga | 24k coins | +25% | +22% | Esticada |
 | David Raum | 84 | Bundesliga | 65k coins | +10.2% | +19.3% | Momentum moderado |
-| Philipp Lahm | 89 | Icons | 88k coins | +7.3% | +15.7% | Momentum moderado |
-| Rani Khedira | 84 | Bundesliga | 55k coins | +22.7% | +14.4% | Esticada |
+| Philipp Lahm | 89 | Icons | 88k coins | +9.9% | +15.7% | Momentum moderado |
+| Deniz Undav | 84 | Bundesliga | 50k coins | +9.3% | +15.6% | Momentum moderado |
+| Ragnar Ache | 84 | Bundesliga | 47k coins | +10.6% | +15.6% | Momentum moderado |
+| Karim Adeyemi | 85 | Bundesliga | 68k coins | +28.4% | +14.8% | Esticada |
+| Rani Khedira | 84 | Bundesliga | 52k coins | +24.6% | +14.4% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Toni Kroos (90)** — 120k coins, **+63.3% em 7 dias** (+34.8% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Toni Kroos (90)** — 119k coins, **+63.3% em 7 dias** (+36.4% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Klara Bühl (88)** — 64k coins, **+44.3% em 7 dias** (+27% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Oliver Bierhoff (88)** — 16.500 coins, **+52.3% em 7 dias** (+1.5% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lukas Klostermann (88)** — 114k coins, **+30.6% em 7 dias** (+21.5% em 24h). Preço -13% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Julian Brandt (87)** — 41k coins, **+45.3% em 7 dias** (+20.6% em 24h). Preço +51% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Bastian Schweinsteiger (89)** — 180k coins, **+24.1% em 7 dias** (+23.3% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sara Däbritz (86)** — 55k coins, **+26.4% em 7 dias** (+15.8% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Fatih Kaya (84)** — 45k coins, **+20.7% em 7 dias** (+9.1% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Danny da Costa (84)** — 24k coins, **+22% em 7 dias** (+25% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -83,7 +84,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Toni Kroos (90, Icons) lidera, com +63.3% em 7 dias a 120k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Toni Kroos (90, Icons) lidera, com +63.3% em 7 dias a 119k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

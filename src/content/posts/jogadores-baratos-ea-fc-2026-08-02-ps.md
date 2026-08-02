@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T16:31:10.000Z
+pubDatetime: 2026-08-02T19:31:10.000Z
 title: "Jogadores baratos EA FC: Alemaes em 02/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.690 coins.
+- **Preço médio das 15 opções:** 12.100 coins.
 - **Posição mais frequente:** ST, com 7 cartas.
-- **Faixa real:** 5.600 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.250 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,18 +43,18 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Gerd Müller | 93 | ST | Icons | 11.750 coins | 0% |
 | Florian Wirtz | 92 | CAM | Premier League | 11.500 coins | 0% |
 | Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
-| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 12.000 coins | +2.1% |
+| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 12.000 coins | +4.3% |
 | Selina Cerci | 90 | ST | GPFBL | 11.250 coins | 0% |
 | Nick Woltemade | 90 | ST | Premier League | 14.750 coins | 0% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 5.600 coins | +3.6% |
 | Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
 | Alexandra Popp | 89 | ST | GPFBL | 11.250 coins | 0% |
+| Nadine Keßler | 89 | CM | GPFBL | 11.250 coins | -5.3% |
 | Klara Bühl | 89 | LM | GPFBL | 11.250 coins | 0% |
-| Celia Šašić | 89 | ST | GPFBL | 12.500 coins | 0% |
+| Celia Šašić | 89 | ST | GPFBL | 11.500 coins | -8% |
+| Joelle Wedemeyer | 89 | RB | GPFBL | 12.750 coins | -8.9% |
 | Thomas Müller | 89 | RM | MLS | 13.000 coins | 0% |
-| Joelle Wedemeyer | 89 | RB | GPFBL | 13.250 coins | +24.4% |
-| Oliver Bierhoff | 88 | ST | Serie A TIM | 11.000 coins | -10.2% |
-| Mario Gomez | 88 | ST | Bundesliga | 13.500 coins | +13% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 12.750 coins | +10.2% |
+| Mario Gomez | 88 | ST | Bundesliga | 13.750 coins | +1.9% |
 
 
 ## 📈 Destaques
