@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:20:16.000Z
+pubDatetime: 2026-08-02T10:31:18.000Z
 title: "Investimentos EA FC: Alemaes em 02/08 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.1% em 24h** e **+16.5% em 7 dias**.
-- **6 de 13 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Bundesliga** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.8% em 24h** e **+14.6% em 7 dias**.
+- **5 de 13 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Bundesliga** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,11 +45,11 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | --- | --- | --- | --- | --- | --- | --- |
 | Franz Beckenbauer | 92 | Icons | 226k coins | +8.5% | +76.6% | Esticada |
 | Oliver Kahn | 91 | Icons | 82k coins | +17.1% | +74.5% | Esticada |
-| Deniz Undav | 91 | Bundesliga | 162k coins | +30.7% | +59.6% | Esticada |
-| Kevin Schade | 88 | Premier League | 26k coins | +19.5% | +25.2% | Momentum moderado |
-| Bastian Schweinsteiger | 89 | Icons | 113k coins | +23.3% | +21.6% | Esticada |
+| Oliver Bierhoff | 88 | Serie A TIM | 15.250 coins | +24.1% | +52.3% | Esticada |
+| David Raum | 84 | Bundesliga | 65k coins | +7.6% | +52.1% | Momentum moderado |
+| Ragnar Ache | 84 | Bundesliga | 60k coins | +40% | +32.2% | Esticada |
 | Rudi Völler | 89 | Bundesliga | 15.750 coins | +14.5% | +16.7% | Momentum moderado |
-| Yann Aurel Bisseck | 84 | Serie A TIM | 38k coins | +21.1% | +16.5% | Esticada |
+| Larissa Mühlhaus | 85 | GPFBL | 55k coins | +12.8% | +14.6% | Momentum moderado |
 | Rani Khedira | 84 | Bundesliga | 60k coins | +7.2% | +14.4% | Momentum moderado |
 | Lena Oberdorf | 86 | GPFBL | 55k coins | +12.8% | +12.8% | Momentum moderado |
 | Jamie Leweling | 86 | Bundesliga | 50k coins | +2% | +12.4% | Entrada a observar |
@@ -60,15 +60,15 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 ## 📈 Análise dos destaques
 
-- **Franz Beckenbauer (92)** — 226k coins, **+76.6% em 7 dias** (+8.5% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Franz Beckenbauer (92)** — 226k coins, **+76.6% em 7 dias** (+8.5% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Oliver Kahn (91)** — 82k coins, **+74.5% em 7 dias** (+17.1% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Deniz Undav (91)** — 162k coins, **+59.6% em 7 dias** (+30.7% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Oliver Bierhoff (88)** — 15.250 coins, **+52.3% em 7 dias** (+24.1% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Kevin Schade (88)** — 26k coins, **+25.2% em 7 dias** (+19.5% em 24h). Preço -36% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **David Raum (84)** — 65k coins, **+52.1% em 7 dias** (+7.6% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Bastian Schweinsteiger (89)** — 113k coins, **+21.6% em 7 dias** (+23.3% em 24h). Preço -29% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ragnar Ache (84)** — 60k coins, **+32.2% em 7 dias** (+40% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
