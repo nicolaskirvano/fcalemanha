@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T13:31:10.000Z
+pubDatetime: 2026-08-03T16:31:10.000Z
 title: "Jogadores baratos EA FC: Alemaes em 03/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.907 coins.
+- **Preço médio das 15 opções:** 10.940 coins.
 - **Posição mais frequente:** ST, com 6 cartas.
-- **Faixa real:** 4.800 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 5.500 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -45,16 +45,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
 | Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 11.500 coins | +2.1% |
 | Selina Cerci | 90 | ST | GPFBL | 11.250 coins | 0% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 4.800 coins | +14% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 5.800 coins | -3.3% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 5.500 coins | +14.3% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 6.600 coins | +23.2% |
 | Klara Bühl | 89 | LM | GPFBL | 11.250 coins | 0% |
+| Thomas Müller | 89 | RM | MLS | 11.250 coins | -13.5% |
 | Alexandra Popp | 89 | ST | GPFBL | 11.250 coins | 0% |
 | Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
-| Thomas Müller | 89 | RM | MLS | 11.250 coins | -13.5% |
-| Celia Šašić | 89 | ST | GPFBL | 12.000 coins | -4% |
-| Keven Schlotterbeck | 89 | CB | Bundesliga | 14.250 coins | 0% |
-| Oliver Bierhoff | 88 | ST | Serie A TIM | 12.000 coins | +7.4% |
-| Mario Gomez | 88 | ST | Bundesliga | 12.250 coins | -3.9% |
+| Celia Šašić | 89 | ST | GPFBL | 11.500 coins | -4% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 14.000 coins | +9.8% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 11.000 coins | -11.8% |
+| Mario Gomez | 88 | ST | Bundesliga | 13.000 coins | 0% |
 
 
 ## 📈 Destaques
