@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:21:07.000Z
+pubDatetime: 2026-08-03T10:31:19.000Z
 title: "Investimentos EA FC: Alemaes em 03/08 — PC"
 draft: false
 featured: true
@@ -33,7 +33,7 @@ Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.4% em 24h** e **+46.7% em 7 dias**.
+- A mediana é de **+13.9% em 24h** e **+46.7% em 7 dias**.
 - **4 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -43,26 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Gerd Müller | 92 | Icons | 213k coins | +4.8% | +83.9% | Esticada |
+| Gerd Müller | 92 | Icons | 213k coins | +6.9% | +83.9% | Esticada |
 | Angelo Stiller | 85 | Bundesliga | 32k coins | +9.2% | +78.1% | Esticada |
-| Uli Hoeneß | 88 | Bundesliga | 29k coins | +17.8% | +52.6% | Momentum moderado |
 | Leroy Sané | 91 | Trendyol Süper Lig | 30k coins | +33.3% | +50% | Esticada |
+| Uli Hoeneß | 88 | Bundesliga | 29k coins | +13.9% | +47.4% | Momentum moderado |
 | Christian Günter | 84 | Bundesliga | 34k coins | +3.8% | +46.7% | Momentum moderado |
 | Birgit Prinz | 93 | Icons | 87k coins | +21.5% | +26.6% | Esticada |
 | Yann Aurel Bisseck | 84 | Serie A TIM | 55k coins | +19.6% | +22.2% | Momentum moderado |
 | Oliver Kahn | 91 | Icons | 100k coins | +8% | +22% | Momentum moderado |
-| Klara Bühl | 88 | GPFBL | 58k coins | +15.4% | +9.1% | Momentum moderado |
+| Klara Bühl | 88 | GPFBL | 58k coins | +16% | +5.5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Gerd Müller (92)** — 213k coins, **+83.9% em 7 dias** (+4.8% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gerd Müller (92)** — 213k coins, **+83.9% em 7 dias** (+6.9% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Angelo Stiller (85)** — 32k coins, **+78.1% em 7 dias** (+9.2% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Uli Hoeneß (88)** — 29k coins, **+52.6% em 7 dias** (+17.8% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
 - **Leroy Sané (91)** — 30k coins, **+50% em 7 dias** (+33.3% em 24h). Preço -28% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Uli Hoeneß (88)** — 29k coins, **+47.4% em 7 dias** (+13.9% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Christian Günter (84)** — 34k coins, **+46.7% em 7 dias** (+3.8% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
