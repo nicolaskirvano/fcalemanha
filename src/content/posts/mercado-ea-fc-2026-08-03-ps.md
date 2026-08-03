@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:31:08.000Z
+pubDatetime: 2026-08-03T13:31:08.000Z
 title: "Mercado EA FC em 03/08: Alemaes — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 03/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (03/08/2026)?"
-    a: "Ann-Katrin Berger (87, NWSL), com +55.6% em 24h, a 64k coins no Console (PS)."
+    a: "Bastian Schweinsteiger (88, Icons), com +44.1% em 24h, a 90k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Thomas Müller (86), -49.3% em 24h, a 36k coins."
+    a: "Lothar Matthäus (91), -37.8% em 24h, a 750k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 48 cartas em alta contra 42 em queda (média 3.24%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 42 cartas em alta contra 42 em queda (média 2.44%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **03/08/2026** no Console (PS) com mercado **em alta** — predominam as valorizações: **48 cartas subiram** e **42 caíram** (80+ acima de 5k coins), variação média de **3.24%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **03/08/2026** no Console (PS) com mercado **em alta** — predominam as valorizações: **42 cartas subiram** e **42 caíram** (80+ acima de 5k coins), variação média de **2.44%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Ann-Katrin Berger (87) **+55.6%** · 🔴 **Maior baixa:** Thomas Müller (86) **-49.3%**
+> 🟢 **Maior alta:** Bastian Schweinsteiger (88) **+44.1%** · 🔴 **Maior baixa:** Lothar Matthäus (91) **-37.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 03/08: Alemaes — Console (PS)](/charts/mercado-ea-fc-2026-08-03-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **03/08/2026** no Console (PS) com mercado **em alta
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 104.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 53.3% entre as cartas que se moveram; o universo observado reúne 124 cartas.
-- **Concentração:** Icons aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 81.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 50.0% entre as cartas que se moveram; o universo observado reúne 115 cartas.
+- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ann-Katrin Berger | 87 | NWSL | 64k coins | +55.6% | +35.9% |
-| Nadiem Amiri | 88 | Bundesliga | 35k coins | +50.9% | +23.1% |
-| Bastian Schweinsteiger | 89 | Icons | 207k coins | +48.9% | +65.6% |
-| Vanessa Fudalla | 87 | GPFBL | 86k coins | +43.7% | +25.7% |
-| Phil Harres | 83 | Bundesliga 2 | 85k coins | +38.2% | +34.9% |
-| Felix Nmecha | 86 | Bundesliga | 240k coins | +37.9% | +41.2% |
-| Toni Kroos | 90 | Icons | 115k coins | +35.6% | +112.4% |
-| Nick Woltemade | 87 | Premier League | 60k coins | +33.3% | -4.8% |
-| Nadine Keßler | 89 | GPFBL | 34k coins | +30.5% | +50.5% |
-| Bastian Schweinsteiger | 88 | Icons | 106k coins | +30.1% | +59.4% |
+| Bastian Schweinsteiger | 88 | Icons | 90k coins | +44.1% | +47.4% |
+| Joshua Kimmich | 90 | Bundesliga | 75k coins | +44% | +7.5% |
+| Bastian Schweinsteiger | 89 | Icons | 182k coins | +32.4% | +55.4% |
+| Nadine Keßler | 89 | GPFBL | 34k coins | +30.1% | +47.3% |
+| Simone Laudehr | 91 | GPFBL | 23k coins | +27.8% | -8% |
+| Ann-Katrin Berger | 87 | NWSL | 54k coins | +26.4% | +22% |
+| Malick Thiaw | 86 | Premier League | 60k coins | +20% | +25% |
+| Lukas Klostermann | 88 | Bundesliga | 198k coins | +18.1% | +21.2% |
+| Jamal Musiala | 89 | Bundesliga | 287k coins | +17% | +25.1% |
+| Nicklas Shipnoski | 80 | 3. Liga | 48k coins | +13.1% | 0% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **03/08/2026** no Console (PS) com mercado **em alta
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Ann-Katrin Berger (87)** subiu **+55.6%** em 24h, a **64k coins** (faixa do dia: 41k–75k). Está +18% acima da média de 7 dias (aquecida).
+- **Bastian Schweinsteiger (88)** subiu **+44.1%** em 24h, a **90k coins** (faixa do dia: 66k–110k). Está +15% acima da média de 7 dias (aquecida).
 
-- **Nadiem Amiri (88)** subiu **+50.9%** em 24h, a **35k coins** (faixa do dia: 20k–45k). Está +48% acima da média de 7 dias (aquecida).
+- **Joshua Kimmich (90)** subiu **+44%** em 24h, a **75k coins** (faixa do dia: 45k–75k). Está +38% acima da média de 7 dias (aquecida).
 
-- **Bastian Schweinsteiger (89)** subiu **+48.9%** em 24h, a **207k coins** (faixa do dia: 106k–207k). Está +82% acima da média de 7 dias (aquecida).
+- **Bastian Schweinsteiger (89)** subiu **+32.4%** em 24h, a **182k coins** (faixa do dia: 133k–207k). Está +59% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Thomas Müller | 86 | MLS | 36k coins | -49.3% | +22.3% |
-| Lukas Klostermann | 88 | Bundesliga | 159k coins | -48.2% | +4.6% |
-| Lothar Matthäus | 91 | Icons | 750k coins | -42.9% | +24.5% |
-| Manuel Neuer | 86 | Bundesliga | 39k coins | -41.7% | +12.4% |
-| Lewis Holtby | 86 | Eredivisie | 38k coins | -23.8% | +11.3% |
-| Sven Ulreich | 87 | Bundesliga | 32k coins | -20.6% | +6.7% |
-| Lisanne Gräwe | 86 | GPFBL | 20k coins | -19.2% | 0% |
-| Marina Hegering | 87 | GPFBL | 32k coins | -16.2% | -15.1% |
-| Philipp Lahm | 89 | Icons | 78k coins | -16% | +17% |
-| Oliver Kahn | 91 | Icons | 81k coins | -15.8% | -16.7% |
+| Lothar Matthäus | 91 | Icons | 750k coins | -37.8% | +35.6% |
+| Leroy Sané | 91 | Trendyol Süper Lig | 28k coins | -37.4% | +17% |
+| Phil Harres | 83 | Bundesliga 2 | 45k coins | -26.6% | -24.8% |
+| Manuel Neuer | 86 | Bundesliga | 39k coins | -24.6% | -3.8% |
+| Philipp Lahm | 89 | Icons | 68k coins | -22.5% | +2.2% |
+| Ann-Katrin Berger | 88 | NWSL | 34k coins | -17.9% | +84% |
+| Marc-André ter Stegen | 89 | LALIGA EA SPORTS | 158k coins | -16.1% | +54.9% |
+| Timo Werner | 87 | Bundesliga | 49k coins | -15.8% | +9.8% |
+| Oliver Kahn | 91 | Icons | 78k coins | -15.4% | -15.9% |
+| Lewis Holtby | 86 | Eredivisie | 39k coins | -14% | -4.5% |
 
 
 ### Análise das baixas
 
-- **Thomas Müller (86)** caiu **-49.3%** em 24h, a **36k coins** (faixa do dia: 36k–80k). Está -20% abaixo da média de 7 dias (descontada).
+- **Lothar Matthäus (91)** caiu **-37.8%** em 24h, a **750k coins** (faixa do dia: 599k–1.20M). Está em linha com a média de 7 dias (+2%).
 
-- **Lukas Klostermann (88)** caiu **-48.2%** em 24h, a **159k coins** (faixa do dia: 137k–308k). Está -20% abaixo da média de 7 dias (descontada).
+- **Leroy Sané (91)** caiu **-37.4%** em 24h, a **28k coins** (faixa do dia: 21k–46k). Está -15% abaixo da média de 7 dias (descontada).
 
-- **Lothar Matthäus (91)** caiu **-42.9%** em 24h, a **750k coins** (faixa do dia: 599k–1.20M). Está em linha com a média de 7 dias (+3%).
+- **Phil Harres (83)** caiu **-26.6%** em 24h, a **45k coins** (faixa do dia: 44k–85k). Está -37% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Ann-Katrin Berger já avançou 55.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Bastian Schweinsteiger já avançou 44.1% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Thomas Müller recuou -49.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Lothar Matthäus recuou -37.8%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (03/08/2026)?**
-Ann-Katrin Berger (87, NWSL), com +55.6% em 24h, a 64k coins no Console (PS).
+Bastian Schweinsteiger (88, Icons), com +44.1% em 24h, a 90k coins no Console (PS).
 
 **E a maior queda do dia?**
-Thomas Müller (86), -49.3% em 24h, a 36k coins.
+Lothar Matthäus (91), -37.8% em 24h, a 750k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 48 cartas em alta contra 42 em queda (média 3.24%).
+Hoje o mercado está em alta — predominam as valorizações, com 42 cartas em alta contra 42 em queda (média 2.44%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
