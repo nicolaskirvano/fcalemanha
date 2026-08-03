@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T16:31:17.000Z
+pubDatetime: 2026-08-03T19:31:17.000Z
 title: "Mercado EA FC em 03/08: Alemaes — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 03/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (03/08/2026)?"
-    a: "Vanessa Diehm (86, GPFBL), com +36.9% em 24h, a 48k coins no PC."
+    a: "Maximilian Mittelstädt (88, Bundesliga), com +15.5% em 24h, a 29k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Larissa Mühlhaus (87), -46.6% em 24h, a 22k coins."
+    a: "Lukas Klostermann (88), -25% em 24h, a 135k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 42 cartas em alta contra 47 em queda (média 3.54%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 15 cartas em alta contra 25 em queda (média -5.92%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **03/08/2026** no PC com mercado **em alta** — predominam as valorizações: **42 cartas subiram** e **47 caíram** (80+ acima de 5k coins), variação média de **3.54%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **03/08/2026** no PC com mercado **em baixa** — predominam as quedas: **15 cartas subiram** e **25 caíram** (80+ acima de 5k coins), variação média de **-5.92%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Vanessa Diehm (86) **+36.9%** · 🔴 **Maior baixa:** Larissa Mühlhaus (87) **-46.6%**
+> 🟢 **Maior alta:** Maximilian Mittelstädt (88) **+15.5%** · 🔴 **Maior baixa:** Lukas Klostermann (88) **-25%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 03/08: Alemaes — PC](/charts/mercado-ea-fc-2026-08-03-pc.svg)
 
@@ -35,24 +35,21 @@ O mercado do **EA FC** abre **03/08/2026** no PC com mercado **em alta** — pre
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 83.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 47.2% entre as cartas que se moveram; o universo observado reúne 132 cartas.
-- **Concentração:** Bundesliga aparece em 10 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 40.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 37.5% entre as cartas que se moveram; o universo observado reúne 51 cartas.
+- **Concentração:** Bundesliga aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vanessa Diehm | 86 | GPFBL | 48k coins | +36.9% | +5.5% |
-| Yann Aurel Bisseck | 84 | Serie A TIM | 55k coins | +30.5% | +10.1% |
-| Deniz Undav | 91 | Bundesliga | 123k coins | +29.5% | +15% |
-| Mario Götze | 88 | Bundesliga | 44k coins | +29.4% | -3.8% |
-| Angelo Stiller | 91 | Bundesliga | 49k coins | +28.1% | +96% |
-| Benedict Hollerbach | 87 | Bundesliga | 28k coins | +27.6% | -7.5% |
-| Larissa Mühlhaus | 85 | GPFBL | 49k coins | +22% | +14.9% |
-| Danny da Costa | 84 | Bundesliga | 29k coins | +16% | +6.4% |
-| Franz Beckenbauer | 92 | Icons | 126k coins | +14.9% | -18.1% |
-| Marc-André ter Stegen | 89 | LALIGA EA SPORTS | 86k coins | +14.7% | +15.4% |
+| Maximilian Mittelstädt | 88 | Bundesliga | 29k coins | +15.5% | +11.7% |
+| Philipp Lahm | 89 | Icons | 98k coins | +10.7% | +10.7% |
+| Franz Beckenbauer | 92 | Icons | 108k coins | +10.4% | -26.9% |
+| Danny da Costa | 84 | Bundesliga | 25k coins | +7.3% | -5.5% |
+| Nadine Keßler | 89 | GPFBL | 40k coins | +6.6% | +34.2% |
+| Christian Günter | 88 | Bundesliga | 45k coins | +6.5% | +38.5% |
+| Franziska Harsch | 88 | GPFBL | 27k coins | +3.8% | +31.7% |
 
 
 ### Análise das altas
@@ -61,43 +58,38 @@ O mercado do **EA FC** abre **03/08/2026** no PC com mercado **em alta** — pre
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Vanessa Diehm (86)** subiu **+36.9%** em 24h, a **48k coins** (faixa do dia: 35k–48k). Está +8% acima da média de 7 dias (aquecida).
+- **Maximilian Mittelstädt (88)** subiu **+15.5%** em 24h, a **29k coins** (faixa do dia: 22k–45k). Está +21% acima da média de 7 dias (aquecida).
 
-- **Yann Aurel Bisseck (84)** subiu **+30.5%** em 24h, a **55k coins** (faixa do dia: 40k–55k). Está +14% acima da média de 7 dias (aquecida).
+- **Philipp Lahm (89)** subiu **+10.7%** em 24h, a **98k coins** (faixa do dia: 68k–98k). Está +13% acima da média de 7 dias (aquecida).
 
-- **Deniz Undav (91)** subiu **+29.5%** em 24h, a **123k coins** (faixa do dia: 92k–180k). Está +9% acima da média de 7 dias (aquecida).
+- **Franz Beckenbauer (92)** subiu **+10.4%** em 24h, a **108k coins** (faixa do dia: 96k–149k). Está -36% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Larissa Mühlhaus | 87 | GPFBL | 22k coins | -46.6% | +113.6% |
-| Keven Schlotterbeck | 89 | Bundesliga | 30k coins | -43% | -16.4% |
-| Matthias Ginter | 88 | Bundesliga | 60k coins | -36.9% | +57.2% |
-| Carolin Simon | 90 | GPFBL | 42k coins | -33.3% | +68.6% |
-| Kristin Kögel | 89 | GPFBL | 20k coins | -31.9% | +37.3% |
-| Simone Laudehr | 91 | GPFBL | 43k coins | -26.2% | +24.6% |
-| Klara Bühl | 88 | GPFBL | 45k coins | -26% | -10.5% |
-| Manuel Neuer | 86 | Bundesliga | 34k coins | -25% | -13.2% |
-| Aleksandar Pavlović | 89 | Bundesliga | 41k coins | -21.5% | +41.2% |
-| Ragnar Ache | 84 | Bundesliga | 47k coins | -21% | +17.5% |
+| Lukas Klostermann | 88 | Bundesliga | 135k coins | -25% | +11.6% |
+| Florian Wirtz | 89 | Premier League | 170k coins | -17.9% | -45.3% |
+| Leroy Sané | 84 | Trendyol Süper Lig | 50k coins | -14% | -14% |
+| Lisanne Gräwe | 86 | GPFBL | 30k coins | -4.8% | +135.3% |
+| Kevin Schade | 88 | Premier League | 32k coins | -4.3% | +47.4% |
 
 
 ### Análise das baixas
 
-- **Larissa Mühlhaus (87)** caiu **-46.6%** em 24h, a **22k coins** (faixa do dia: 13.250–40k). Está -40% abaixo da média de 7 dias (descontada).
+- **Lukas Klostermann (88)** caiu **-25%** em 24h, a **135k coins** (faixa do dia: 135k–200k). Está em linha com a média de 7 dias (+0%).
 
-- **Keven Schlotterbeck (89)** caiu **-43%** em 24h, a **30k coins** (faixa do dia: 13.750–32k). Está +49% acima da média de 7 dias (aquecida).
+- **Florian Wirtz (89)** caiu **-17.9%** em 24h, a **170k coins** (faixa do dia: 145k–219k). Está -35% abaixo da média de 7 dias (descontada).
 
-- **Matthias Ginter (88)** caiu **-36.9%** em 24h, a **60k coins** (faixa do dia: 60k–110k). Está +11% acima da média de 7 dias (aquecida).
+- **Leroy Sané (84)** caiu **-14%** em 24h, a **50k coins** (faixa do dia: 40k–50k). Está em linha com a média de 7 dias (+0%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Vanessa Diehm já avançou 36.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Maximilian Mittelstädt já avançou 15.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Larissa Mühlhaus recuou -46.6%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Lukas Klostermann recuou -25%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +111,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (03/08/2026)?**
-Vanessa Diehm (86, GPFBL), com +36.9% em 24h, a 48k coins no PC.
+Maximilian Mittelstädt (88, Bundesliga), com +15.5% em 24h, a 29k coins no PC.
 
 **E a maior queda do dia?**
-Larissa Mühlhaus (87), -46.6% em 24h, a 22k coins.
+Lukas Klostermann (88), -25% em 24h, a 135k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 42 cartas em alta contra 47 em queda (média 3.54%).
+Hoje o mercado está em baixa — predominam as quedas, com 15 cartas em alta contra 25 em queda (média -5.92%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
