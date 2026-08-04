@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T16:31:09.000Z
+pubDatetime: 2026-08-04T19:31:07.000Z
 title: "Mercado EA FC em 04/08: Alemaes — Console (PS)"
 draft: false
 featured: true
