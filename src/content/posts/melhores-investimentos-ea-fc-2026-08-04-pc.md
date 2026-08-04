@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T10:31:18.000Z
+pubDatetime: 2026-08-04T13:31:18.000Z
 title: "Investimentos EA FC: Alemaes em 04/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 04/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (04/08/2026) no EA FC?"
-    a: "Oliver Kahn (91, Icons) lidera, com +49% em 7 dias a 117k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Verena Wieder (85, GPFBL) lidera, com +60.5% em 7 dias a 32k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **04/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Oliver Kahn (91) acumula **+49% em 7 dias** a 117k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Verena Wieder (85) acumula **+60.5% em 7 dias** a 32k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Alemaes em 04/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-04-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **04/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.3% em 24h** e **+34.6% em 7 dias**.
-- **1 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+5.6% em 24h** e **+41.7% em 7 dias**.
+- **3 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **GPFBL** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,24 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Oliver Kahn | 91 | Icons | 117k coins | +8.3% | +49% | Momentum moderado |
-| Nadine Keßler | 89 | GPFBL | 40k coins | +1.2% | +35% | Momentum moderado |
-| Maximilian Mittelstädt | 88 | Bundesliga | 36k coins | +7.5% | +34.6% | Momentum moderado |
-| Nadine Keßler | 90 | GPFBL | 44k coins | +14.1% | +33.8% | Momentum moderado |
-| Philipp Lahm | 89 | Icons | 90k coins | +28.4% | +24% | Esticada |
+| Verena Wieder | 85 | GPFBL | 32k coins | +1.6% | +60.5% | Esticada |
+| Oliver Kahn | 91 | Icons | 106k coins | +33.7% | +49% | Esticada |
+| Nadine Keßler | 89 | GPFBL | 42k coins | +5.6% | +41.7% | Momentum moderado |
+| Philipp Lahm | 89 | Icons | 96k coins | +40% | +30.3% | Esticada |
+| Vanessa Diehm | 86 | GPFBL | 50k coins | +3.6% | +13% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Oliver Kahn (91)** — 117k coins, **+49% em 7 dias** (+8.3% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Verena Wieder (85)** — 32k coins, **+60.5% em 7 dias** (+1.6% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nadine Keßler (89)** — 40k coins, **+35% em 7 dias** (+1.2% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Oliver Kahn (91)** — 106k coins, **+49% em 7 dias** (+33.7% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Maximilian Mittelstädt (88)** — 36k coins, **+34.6% em 7 dias** (+7.5% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nadine Keßler (89)** — 42k coins, **+41.7% em 7 dias** (+5.6% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nadine Keßler (90)** — 44k coins, **+33.8% em 7 dias** (+14.1% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Philipp Lahm (89)** — 96k coins, **+30.3% em 7 dias** (+40% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Philipp Lahm (89)** — 90k coins, **+24% em 7 dias** (+28.4% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Vanessa Diehm (86)** — 50k coins, **+13% em 7 dias** (+3.6% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +78,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (04/08/2026) no EA FC?**  
-Oliver Kahn (91, Icons) lidera, com +49% em 7 dias a 117k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Verena Wieder (85, GPFBL) lidera, com +60.5% em 7 dias a 32k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

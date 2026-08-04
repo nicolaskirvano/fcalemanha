@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T10:31:10.000Z
+pubDatetime: 2026-08-04T13:31:10.000Z
 title: "Jogadores baratos EA FC: Alemaes em 04/08 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 04/08/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (04/08/2026)?"
-    a: "Franz Beckenbauer (93, Icons) aparece como melhor custo-benefício, a 12.250 coins no Console (PS)."
+    a: "Florian Wirtz (92, Premier League) aparece como melhor custo-benefício, a 11.500 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **04/08/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Franz Beckenbauer (93) por apenas 12.250 coins.
+> 💰 **Melhor pechincha:** Florian Wirtz (92) por apenas 11.500 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Alemaes em 04/08 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-08-04-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 13 opções:** 10.642 coins.
-- **Posição mais frequente:** ST, com 5 cartas.
-- **Faixa real:** 2.100 a 12.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 12 opções:** 9.671 coins.
+- **Posição mais frequente:** ST, com 6 cartas.
+- **Faixa real:** 2.400 a 12.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,39 +40,38 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Franz Beckenbauer | 93 | CB | Icons | 12.250 coins | 0% |
-| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 11.500 coins | +2% |
-| Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
+| Florian Wirtz | 92 | CAM | Premier League | 11.500 coins | 0% |
+| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 12.500 coins | -4.1% |
 | Selina Cerci | 90 | ST | GPFBL | 11.250 coins | 0% |
-| Celia Šašić | 89 | ST | GPFBL | 11.250 coins | -2.2% |
-| Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
+| Nick Woltemade | 90 | ST | Premier League | 11.750 coins | 0% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 4.000 coins | -6.1% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 5.900 coins | 0% |
+| Celia Šašić | 89 | ST | GPFBL | 11.250 coins | -6.2% |
 | Alexandra Popp | 89 | ST | GPFBL | 11.250 coins | 0% |
-| Thomas Müller | 89 | RM | MLS | 11.250 coins | -13.5% |
-| Klara Bühl | 89 | LM | GPFBL | 11.250 coins | 0% |
-| Mario Gomez | 88 | ST | Bundesliga | 11.000 coins | -6.4% |
-| Kevin Schade | 88 | LM | Premier League | 11.250 coins | +19.8% |
-| Antonio Rüdiger | 86 | CB | LALIGA EA SPORTS | 2.100 coins | -5.3% |
+| Thomas Müller | 89 | RM | MLS | 11.250 coins | 0% |
+| Jamal Musiala | 88 | CAM | Bundesliga | 2.400 coins | -8.3% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 11.750 coins | +2% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 11.250 coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Franz Beckenbauer (93, CB)** da Icons, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Florian Wirtz (92, CAM)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Antonio Rüdiger (91, CB)** da LALIGA EA SPORTS, a apenas **11.500 coins**
-
-- **Steffi Jones (91, CB)** da Icons, a apenas **11.500 coins**
+- **Antonio Rüdiger (91, CB)** da LALIGA EA SPORTS, a apenas **12.500 coins**
 
 - **Selina Cerci (90, ST)** da GPFBL, a apenas **11.250 coins**
 
-- **Celia Šašić (89, ST)** da GPFBL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Nick Woltemade (90, ST)** da Premier League, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **4.000 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Franz Beckenbauer (93, CB) por 12.250 coins é a referência de rating deste recorte.
+- **Defesa:** Antonio Rüdiger (91, CB) por 12.500 coins é a referência de rating deste recorte.
 
-- **Meio:** Thomas Müller (89, RM) por 11.250 coins é a referência de rating deste recorte.
+- **Meio:** Florian Wirtz (92, CAM) por 11.500 coins é a referência de rating deste recorte.
 
 - **Ataque:** Selina Cerci (90, ST) por 11.250 coins é a referência de rating deste recorte.
 
@@ -93,7 +92,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (04/08/2026)?**  
-Franz Beckenbauer (93, Icons) aparece como melhor custo-benefício, a 12.250 coins no Console (PS).
+Florian Wirtz (92, Premier League) aparece como melhor custo-benefício, a 11.500 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

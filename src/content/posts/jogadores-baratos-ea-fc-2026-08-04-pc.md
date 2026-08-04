@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T10:31:19.000Z
+pubDatetime: 2026-08-04T13:31:19.000Z
 title: "Jogadores baratos EA FC: Alemaes em 04/08 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 04/08/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (04/08/2026)?"
-    a: "Steffi Jones (91, Icons) aparece como melhor custo-benefício, a 11.500 coins no PC."
+    a: "Florian Wirtz (92, Premier League) aparece como melhor custo-benefício, a 11.500 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **04/08/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Steffi Jones (91) por apenas 11.500 coins.
+> 💰 **Melhor pechincha:** Florian Wirtz (92) por apenas 11.500 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Alemaes em 04/08 — PC](/charts/jogadores-baratos-ea-fc-2026-08-04-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.330 coins.
-- **Posição mais frequente:** ST, com 6 cartas.
-- **Faixa real:** 2.700 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 8 opções:** 8.925 coins.
+- **Posição mais frequente:** CAM, com 3 cartas.
+- **Faixa real:** 3.200 a 11.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,43 +40,34 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
-| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 12.000 coins | +2.2% |
-| Selina Cerci | 90 | ST | GPFBL | 11.250 coins | 0% |
+| Florian Wirtz | 92 | CAM | Premier League | 11.500 coins | 0% |
 | Nick Woltemade | 90 | ST | Premier League | 11.250 coins | 0% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 5.500 coins | -3.5% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 5.500 coins | 0% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 5.300 coins | +3.6% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 6.400 coins | +4.9% |
 | Celia Šašić | 89 | ST | GPFBL | 11.250 coins | 0% |
-| Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
 | Alexandra Popp | 89 | ST | GPFBL | 11.250 coins | 0% |
 | Thomas Müller | 89 | RM | MLS | 11.250 coins | 0% |
-| Klara Bühl | 89 | LM | GPFBL | 11.250 coins | 0% |
-| Rudi Völler | 89 | ST | Bundesliga | 14.000 coins | 0% |
-| Joelle Wedemeyer | 89 | RB | GPFBL | 14.000 coins | -11.8% |
-| Jamal Musiala | 88 | CAM | Bundesliga | 2.700 coins | -12.9% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11.000 coins | -4.3% |
+| Jamal Musiala | 88 | CAM | Bundesliga | 3.200 coins | -6.7% |
 
 
 ## 📈 Destaques
 
-- **Steffi Jones (91, CB)** da Icons, a apenas **11.500 coins**
-
-- **Antonio Rüdiger (91, CB)** da LALIGA EA SPORTS, a apenas **12.000 coins**
-
-- **Selina Cerci (90, ST)** da GPFBL, a apenas **11.250 coins**
+- **Florian Wirtz (92, CAM)** da Premier League, a apenas **11.500 coins**
 
 - **Nick Woltemade (90, ST)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **5.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **5.300 coins** — já **valorizando**, sinal de procura crescente.
+
+- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **6.400 coins** — já **valorizando**, sinal de procura crescente.
+
+- **Celia Šašić (89, ST)** da GPFBL, a apenas **11.250 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Steffi Jones (91, CB) por 11.500 coins é a referência de rating deste recorte.
+- **Meio:** Florian Wirtz (92, CAM) por 11.500 coins é a referência de rating deste recorte.
 
-- **Meio:** Joshua Kimmich (89, CDM) por 5.500 coins é a referência de rating deste recorte.
-
-- **Ataque:** Selina Cerci (90, ST) por 11.250 coins é a referência de rating deste recorte.
+- **Ataque:** Nick Woltemade (90, ST) por 11.250 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -95,7 +86,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (04/08/2026)?**  
-Steffi Jones (91, Icons) aparece como melhor custo-benefício, a 11.500 coins no PC.
+Florian Wirtz (92, Premier League) aparece como melhor custo-benefício, a 11.500 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
