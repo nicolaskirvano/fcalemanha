@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T22:31:09.000Z
+pubDatetime: 2026-08-05T01:31:10.000Z
 title: "Investimentos EA FC: Alemaes em 04/08 — Console (PS)"
 draft: false
 featured: true
