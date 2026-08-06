@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-06T19:31:18.000Z
+pubDatetime: 2026-08-06T22:31:19.000Z
 title: "Investimentos EA FC: Alemaes em 06/08 — PC"
 draft: false
 featured: true
