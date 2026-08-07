@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-07T13:31:21.000Z
+pubDatetime: 2026-08-07T16:31:19.000Z
 title: "Jogadores baratos EA FC: Alemaes em 07/08 — PC"
 draft: false
 featured: false
