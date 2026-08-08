@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-08T10:22:07.000Z
+pubDatetime: 2026-08-08T10:31:16.000Z
 title: "Mercado EA FC em 08/08: Alemaes — PC"
 draft: false
 featured: true
